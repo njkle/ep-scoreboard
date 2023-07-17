@@ -3,29 +3,45 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>EP Scoreboard</title>
+    <title>EP Score</title>
     <link rel="stylesheet" href="styles.css"/>
 </head>
 <body>
 
-    <div class="header">
+    <header class="site-header">
         <div class="container">
-            <div class="logo">EP Scores</div>
-            <ul class="menu">
-                <li><a class="menu-link" href="#">Methodology</a></li>
-                <li><a class="menu-link" href="#">Contact</a></li>
-            </ul>
+            <div class="header-contents">
+                <h1 class="logo">
+                    EP Score
+                </h1>
+                <nav class="main-navigation" aria-label="Main Navigation">
+                    <ul class="menu">
+                        <li><a href="#">Methodology</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
         </div>
-    </div>
+    </header>
 
-    <div class="footer">
-        <div class="container centered">
-            <ul class="menu">
-                <li>© NJKLE 2023</li>
-                <li><a class="menu-link underlined" href="#">GitHub</a></li>
-            </ul>
+    <main class="main">
+        <div class="container">
+            <p class="p-inline">Welcome to <h2 class="h2-inline">EP Score</h2>, the platform where all of your MEPs are ranked according to their votes.</p>
+            <p>Are you ready ?</p>
+            <button>See the gradings!</button>
         </div>
-    </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-contents">
+                <ul class="menu">
+                    <li>Copyright NJKLE 2023</li>
+                    <li><a href="#">GitHub</a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
 
 </body>
 </html>
