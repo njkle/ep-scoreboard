@@ -45,6 +45,9 @@ function generateCard(mep, containerID){
     const grade = document.createElement('h3');
     grade.className = 'mep-grade-title';
     grade.textContent = mep["final_grade"].toFixed(2);
+
+    const normalizedGrade = grade.textContent/20;
+
     score.appendChild(grade);
     const totalScore = document.createElement('p');
     totalScore.className = 'mep-grade-title';
@@ -69,6 +72,22 @@ function sortMEPsByGrade(data, ascending = true) {
     return [...data].sort((a, b) => (ascending ? a["final_grade"] - b["final_grade"] : b["final_grade"] - a["final_grade"]));
 }
 
+function getMEPs(data, count = 6, ascending = true) {
+    const includedGroups = new Set();
+    const sortedData = sortMEPsByGrade(data, ascending);
+    const selectedMEPs = [];
+    for (let mep of sortedData) {
+        if (selectedMEPs.length >= count) {
+            break;
+        }
+        if (!includedGroups.has(mep.political_group)) {
+            selectedMEPs.push(mep);
+            includedGroups.add(mep.political_group);
+        }
+    }
+    return selectedMEPs;
+}
+
 /*
 Fetches the individual grades, sorts the table
 ascending and descending, slices it to keep the
@@ -79,9 +98,9 @@ first 3 MEPs, generates cards for the 3 best and
 fetch('../data/individual_grades.json')
 .then(response => response.json())
 .then(data => {
-    const top3MEPs = sortMEPsByGrade(data, false).slice(0, 3);
+    const top3MEPs = getMEPs(data, 6, false); // Best MEPs (false for descending sorting)
     top3MEPs.forEach(mep => generateCard(mep, "#leader-gallery"));
-    const worst3MEPs = sortMEPsByGrade(data, true).slice(0, 3);
+    const worst3MEPs = getMEPs(data, 6, true); // Worst MEPs (true for ascending sorting)
     worst3MEPs.forEach(mep => generateCard(mep, "#loser-gallery"));
 })
 .catch(error => console.log('Error:', error));

@@ -123,7 +123,7 @@ a {
     align-items: center;
     flex-direction: column;
     padding: 2rem;
-    flex: 1 0 20%;
+    flex: 1 0 30%;
     border-style: solid;
     border-width: 1px;
     border-color: #ddd;
@@ -151,6 +151,10 @@ a {
 .mep-grade-title,
 .mep-grade {
     display:inline;
+}
+
+.mep-name {
+    text-align: center;
 }
 
 .no-top-margin {
