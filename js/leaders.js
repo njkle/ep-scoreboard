@@ -44,7 +44,7 @@ function generateCard(mep, containerID){
     score.className = 'score';
     const grade = document.createElement('h3');
     grade.className = 'mep-grade-title';
-    grade.textContent = mep["Final Grade"];
+    grade.textContent = mep["final_grade"].toFixed(2);
     score.appendChild(grade);
     const totalScore = document.createElement('p');
     totalScore.className = 'mep-grade-title';
@@ -66,7 +66,7 @@ Ouput:
 */
 
 function sortMEPsByGrade(data, ascending = true) {
-    return [...data].sort((a, b) => (ascending ? a["Final Grade"] - b["Final Grade"] : b["Final Grade"] - a["Final Grade"]));
+    return [...data].sort((a, b) => (ascending ? a["final_grade"] - b["final_grade"] : b["final_grade"] - a["final_grade"]));
 }
 
 /*

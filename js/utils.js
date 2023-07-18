@@ -8,15 +8,18 @@ function createTable(data, elementId){
         const row = document.createElement("tr");
 
         //Control the order of the table colums
-        const properties = ["full_name", "country", "political_group", "national_political_group", "Final Grade"];
+        const properties = ["full_name", "country", "political_group", "national_political_group", "final_grade"];
         
         //For each key, create a cell with the value of the "key" column of this item, and append it to the row
         properties.forEach(key => {
             const cell = document.createElement("td");
-            cell.textContent = item[key];
+            if(key === "final_grade"){
+                cell.textContent = item[key].toFixed(2);
+            } else {
+                cell.textContent = item[key];
+            }
             row.appendChild(cell);
         });
-
         //Append the row to the body of the table
         tbody.appendChild(row);
     });
