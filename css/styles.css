@@ -6,6 +6,7 @@
     --bad-grade-color: red;
     --medium-grade-color: orange;
     --green-grade-color: green;
+    --light-gray: #ddd;
 }
 
 .mep-image {
@@ -15,6 +16,15 @@
     object-fit: cover;
     background-color: #ddd; /* This is a light grey, use any color you prefer */
     border-radius: 50%; /* This makes the image round */
+}
+
+.group-logo,
+.country-logo {
+    height: 2rem;
+}
+
+.country-logo {
+    border: 2px solid var(--light-gray);
 }
 
 .good-border {
@@ -104,22 +114,6 @@ body {
     grid-auto-rows: auto;
 }
 
-.grade {
-    color: red;
-}
-
-/*
-
-* > .container {
-    background-color: var(--body-contents-color);
-}
-
-header, footer {
-    background-color:var(--header-footer-color);
-}
-
-*/
-
 footer {
     margin-top:  auto;
 }
@@ -163,11 +157,11 @@ main {
 }
 
 .site-header {
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid var(--light-gray);
 }
 
 .site-footer {
-    border-top: 1px solid #ddd;
+    border-top: 1px solid var(--light-gray);
 }
 
 @media (max-width: 1200px) {
@@ -196,12 +190,17 @@ main {
     flex: 1 0 30%;
     border-style: solid;
     border-width: 1px;
-    border-color: #ddd;
+    border-color: var(--light-gray);
 }
 
 .mep-info {
+    display:flex;
+    gap: 1rem;
     margin:0;
     padding: 0;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center
 }
 
 .mep-info {

@@ -1,3 +1,14 @@
+const partyLogoMapping = {
+    "Greens/EFA": "GREENS",
+    "EPP": "EPP",
+    "ECR": "ECR",
+    "S&D": "S&D",
+    "ID": "ID",
+    "GUE/NGL": "LEFT",
+    "Renew": "RENEW",
+    "NI": "NI",
+  };
+
 function createTable(data, elementId){
     
     const tbody = document.getElementById(elementId);
@@ -64,7 +75,18 @@ function generateCard(mep, containerClass){
     it to the values for this mep, append to the card */
     const infoList = document.createElement('ul');
     infoList.className = 'mep-info';
+
+    const groupLogo = document.createElement("img");
+    groupLogo.src = `./images/group/${partyLogoMapping[mep.political_group]}.svg`;
+    groupLogo.className = "group-logo";
+    infoList.appendChild(groupLogo);
+
+    const countryLogo = document.createElement("img");
+    countryLogo.src = `./images/country/${[mep.code]}.svg`;
+    countryLogo.className = "country-logo";
+    infoList.appendChild(countryLogo);
     
+    /*
     const group = document.createElement('li');
     group.textContent = mep.political_group;
     infoList.appendChild(group);
@@ -72,6 +94,7 @@ function generateCard(mep, containerClass){
     const country = document.createElement('li');
     country.textContent = mep.country;
     infoList.appendChild(country);
+    */
 
     card.appendChild(infoList);
 
