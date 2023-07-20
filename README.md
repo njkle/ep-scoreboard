@@ -17,12 +17,8 @@ ep-scoreboard
 │  └─ styles.css
 ├─ data
 │  └─ individual_grades.json
-├─ html
-│  ├─ index.html
-│  ├─ leaderboard.html
-│  └─ tests.html
+├─ index.html
 └─ js
-   ├─ leaders.js
    ├─ main.js
    └─ utils.js
 
