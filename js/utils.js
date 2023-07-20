@@ -23,5 +23,86 @@ function createTable(data, elementId){
         //Append the row to the body of the table
         tbody.appendChild(row);
     });
+    
+}
 
+function defineColor(mep) {
+    const grade = mep["final_grade"];
+    if(grade <= 7) {
+        return "bad-mep";
+    } else if (grade <= 14) {
+        return "medium-mep";
+    }
+    return "good-mep";
+}
+
+function generateCard(mep, containerClass){
+    //Select the right container and create a new card
+    const container = document.querySelector(containerClass);
+
+    //Create a new div and give it the "card" class
+    const card = document.createElement('div');
+    card.className = "card";
+
+    /*Create the h3 element, assign it to the name
+    of the mep, append h3 to the card */
+    const name = document.createElement('h3');
+    name.className = 'mep-name';
+    name.textContent = mep.full_name;
+    card.appendChild(name);
+
+    /*Create the list element (group and country), assign 
+    it to the values for this mep, append to the card */
+    const infoList = document.createElement('ul');
+    infoList.className = 'mep-info';
+    
+    const group = document.createElement('li');
+    group.textContent = mep.political_group;
+    infoList.appendChild(group);
+
+    const country = document.createElement('li');
+    country.textContent = mep.country;
+    infoList.appendChild(country);
+
+    card.appendChild(infoList);
+
+    //Same for the final grade of the MEP
+    const scoreDisplayer = document.createElement("div");
+    scoreDisplayer.className = "score";
+
+    const grade = document.createElement("span");
+    const colorClass = defineColor(mep);
+    grade.textContent = mep["final_grade"].toFixed(2);
+    grade.className = `h4 bold ${colorClass}`
+
+    scoreDisplayer.appendChild(grade);
+
+    const outOf = document.createElement("span");
+    outOf.textContent = "/20";
+    scoreDisplayer.appendChild(outOf);
+
+    card.appendChild(scoreDisplayer);
+
+    container.appendChild(card);
+}
+
+
+function getGoodOrBadMEPs(data, count = 6, ascending = true) {
+    const includedGroups = new Set();
+    const sortedData = sortMEPsByGrade(data, ascending);
+    const selectedMEPs = [];
+    for (let mep of sortedData) {
+        if (selectedMEPs.length >= count) {
+            break;
+        }
+        if (!includedGroups.has(mep.political_group)) {
+            selectedMEPs.push(mep);
+            includedGroups.add(mep.political_group);
+        }
+    }
+    return selectedMEPs;
+}
+
+function sortMEPsByGrade(data, ascending = true) {
+    return [...data].sort((a, b) => (ascending ? a["final_grade"] - b["final_grade"] : b["final_grade"] - a["final_grade"]));
 }
