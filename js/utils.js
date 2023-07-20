@@ -29,14 +29,17 @@ function createTable(data, elementId){
 function defineColor(mep) {
     const grade = mep["final_grade"];
     if(grade <= 7) {
-        return "bad-mep";
+        return "bad";
     } else if (grade <= 14) {
-        return "medium-mep";
+        return "medium";
     }
-    return "good-mep";
+    return "good";
 }
 
 function generateCard(mep, containerClass){
+
+    const colorClass = defineColor(mep);
+
     //Select the right container and create a new card
     const container = document.querySelector(containerClass);
 
@@ -44,10 +47,16 @@ function generateCard(mep, containerClass){
     const card = document.createElement('div');
     card.className = "card";
 
+    const picture = document.createElement("img");
+    picture.src = `https://www.europarl.europa.eu/mepphoto/${mep.long_id}.jpg`;
+    picture.loading = "lazy";
+    picture.className = `mep-image ${colorClass}-border`;
+    card.appendChild(picture);
+
     /*Create the h3 element, assign it to the name
     of the mep, append h3 to the card */
     const name = document.createElement('h3');
-    name.className = 'mep-name';
+    name.className = 'h4 mep-name';
     name.textContent = mep.full_name;
     card.appendChild(name);
 
@@ -71,9 +80,8 @@ function generateCard(mep, containerClass){
     scoreDisplayer.className = "score";
 
     const grade = document.createElement("span");
-    const colorClass = defineColor(mep);
     grade.textContent = mep["final_grade"].toFixed(2);
-    grade.className = `h4 bold ${colorClass}`
+    grade.className = `h4 extra-bold ${colorClass}-mep`
 
     scoreDisplayer.appendChild(grade);
 

@@ -1,13 +1,32 @@
 :root {
-    font-family: Arial, sans-serif;
+    font-family: 'Inter', sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
     --content-width: 100%;
-    --header-footer-color: #CBCBCB;
-    --body-color: #EBEBEB;
-    --body-contents-color: #40FF814D;
-    --card-color: #69C9E780;
     --bad-grade-color: red;
-    --medium-grade-color: yellow;
+    --medium-grade-color: orange;
     --green-grade-color: green;
+}
+
+.mep-image {
+    width: 10rem;
+    height: 10rem;
+    border: 5px solid;
+    object-fit: cover;
+    background-color: #ddd; /* This is a light grey, use any color you prefer */
+    border-radius: 50%; /* This makes the image round */
+}
+
+.good-border {
+    border-color: var(--green-grade-color);
+}
+
+.medium-border {
+    border-color: var(--medium-grade-color);
+}
+
+.bad-border {
+    border-color: var(--bad-grade-color);
 }
 
 .good-mep {
@@ -23,12 +42,17 @@
 }
 
 .bold {
-    font-weight: 700;
+    font-weight: 800;
+}
+
+.extra-bold {
+    font-weight: 900;
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6 {
     margin: 0;
     padding: 0;
+    line-height: 1.1;
 }
 
 .h1 {
@@ -47,7 +71,8 @@
     font-size: 1.44rem;
 }
 
-.h5 {
+.h5, 
+.text-big {
     font-size: 1.2rem;
 }
 
@@ -115,14 +140,14 @@ main {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1rem 0;
+    padding: 1.5rem 0;
 }
 
 .footer-contents {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 1rem 0;
+    padding: 1.5rem 0;
 }
 
 .menu {
@@ -131,11 +156,6 @@ main {
     list-style-type: none;
     margin: 0;
     padding: 0;
-}
-
-.logo {
-    font-size: 2rem;
-    font-weight: 700;
 }
 
 .underlined {
@@ -179,7 +199,6 @@ main {
     border-color: #ddd;
 }
 
-.mep-name,
 .mep-info {
     margin:0;
     padding: 0;

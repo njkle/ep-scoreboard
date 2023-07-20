@@ -1,0 +1,5521 @@
+[ {
+  "mep_id" : 6799,
+  "full_name" : "Abir Al-sahlani",
+  "country" : "Sweden",
+  "political_group" : "Renew",
+  "national_political_group" : "Centerpartiet",
+  "final_grade" : 5.810355963466758,
+  "long_id" : 197400
+}, {
+  "mep_id" : 5112,
+  "full_name" : "Adam Bielan",
+  "country" : "Poland",
+  "political_group" : "ECR",
+  "national_political_group" : "Partia Republikańska",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 23788
+}, {
+  "mep_id" : 6910,
+  "full_name" : "Adam Jarubas",
+  "country" : "Poland",
+  "political_group" : "EPP",
+  "national_political_group" : "Polskie Stronnictwo Ludowe",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197517
+}, {
+  "mep_id" : 7047,
+  "full_name" : "Adrian-dragoş Benea",
+  "country" : "Romania",
+  "political_group" : "S&D",
+  "national_political_group" : "Partidul Social Democrat",
+  "final_grade" : 9.610539460981975,
+  "long_id" : 197658
+}, {
+  "mep_id" : 7117,
+  "full_name" : "Adriana Maldonadolópez",
+  "country" : "Spain",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "final_grade" : 10.597079492452083,
+  "long_id" : 197735
+}, {
+  "mep_id" : 7268,
+  "full_name" : "Adrián Vázquezlázara",
+  "country" : "Spain",
+  "political_group" : "Renew",
+  "national_political_group" : "Ciudadanos – Partido de la Ciudadanía",
+  "final_grade" : 5.681143675401539,
+  "long_id" : 204400
+}, {
+  "mep_id" : 6624,
+  "full_name" : "Agnes Jongerius",
+  "country" : "Netherlands",
+  "political_group" : "S&D",
+  "national_political_group" : "Partij van de Arbeid",
+  "final_grade" : 16.021832994622752,
+  "long_id" : 125021
+}, {
+  "mep_id" : 6928,
+  "full_name" : "Agnès Evren",
+  "country" : "France",
+  "political_group" : "EPP",
+  "national_political_group" : "Les Républicains",
+  "final_grade" : 7.124340101924877,
+  "long_id" : 197535
+}, {
+  "mep_id" : 5702,
+  "full_name" : "Aldo Patriciello",
+  "country" : "Italy",
+  "political_group" : "EPP",
+  "national_political_group" : "Forza Italia",
+  "final_grade" : 7.0368978122364885,
+  "long_id" : 36392
+}, {
+  "mep_id" : 7001,
+  "full_name" : "Alessandra Basso",
+  "country" : "Italy",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 197610
+}, {
+  "mep_id" : 6433,
+  "full_name" : "Alessandra Moretti",
+  "country" : "Italy",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "final_grade" : 13.06001329679063,
+  "long_id" : 124799
+}, {
+  "mep_id" : 6979,
+  "full_name" : "Alessandro Panza",
+  "country" : "Italy",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 99283
+}, {
+  "mep_id" : 6802,
+  "full_name" : "Alex Agiussaliba",
+  "country" : "Malta",
+  "political_group" : "S&D",
+  "national_political_group" : "Partit Laburista",
+  "final_grade" : 11.575199191445616,
+  "long_id" : 197403
+}, {
+  "mep_id" : 7219,
+  "full_name" : "Alexander Alexandrovyordanov",
+  "country" : "Bulgaria",
+  "political_group" : "EPP",
+  "national_political_group" : "Union of Democratic Forces",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197836
+}, {
+  "mep_id" : 7037,
+  "full_name" : "Alexander Bernhuber",
+  "country" : "Austria",
+  "political_group" : "EPP",
+  "national_political_group" : "Österreichische Volkspartei",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197648
+}, {
+  "mep_id" : 6930,
+  "full_name" : "Alexandr Vondra",
+  "country" : "Czechia",
+  "political_group" : "ECR",
+  "national_political_group" : "Občanská demokratická strana",
+  "final_grade" : 4.763536570941118,
+  "long_id" : 197537
+}, {
+  "mep_id" : 6853,
+  "full_name" : "Alexandra Geese",
+  "country" : "Germany",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 183916
+}, {
+  "mep_id" : 6415,
+  "full_name" : "Alfred Sant",
+  "country" : "Malta",
+  "political_group" : "S&D",
+  "national_political_group" : "Partit Laburista",
+  "final_grade" : 11.575199191445616,
+  "long_id" : 124781
+}, {
+  "mep_id" : 6795,
+  "full_name" : "Alice Kuhnke",
+  "country" : "Sweden",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Miljöpartiet de gröna",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197395
+}, {
+  "mep_id" : 7122,
+  "full_name" : "Alicia Homsginel",
+  "country" : "Spain",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "final_grade" : 11.650760565225719,
+  "long_id" : 122978
+}, {
+  "mep_id" : 7285,
+  "full_name" : "Alin Mituța",
+  "country" : "Romania",
+  "political_group" : "Renew",
+  "national_political_group" : "Reînnoim Proiectul European al României",
+  "final_grade" : 11.357433058106311,
+  "long_id" : 212855
+}, {
+  "mep_id" : 7263,
+  "full_name" : "Alviina Alametsä",
+  "country" : "Finland",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Vihreä liitto",
+  "final_grade" : 17.96165698847956,
+  "long_id" : 204335
+}, {
+  "mep_id" : 6345,
+  "full_name" : "Andor Deli",
+  "country" : "Hungary",
+  "political_group" : "NI",
+  "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+  "final_grade" : 5.810355963466758,
+  "long_id" : 124714
+}, {
+  "mep_id" : 6343,
+  "full_name" : "Andrea Bocskor",
+  "country" : "Hungary",
+  "political_group" : "NI",
+  "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+  "final_grade" : 5.810355963466758,
+  "long_id" : 124712
+}, {
+  "mep_id" : 7182,
+  "full_name" : "Andrea Caroppo",
+  "country" : "Italy",
+  "political_group" : "EPP",
+  "national_political_group" : "Forza Italia",
+  "final_grade" : 3.380821890357348,
+  "long_id" : 197797
+}, {
+  "mep_id" : 6051,
+  "full_name" : "Andrea Cozzolino",
+  "country" : "Italy",
+  "political_group" : "NI",
+  "national_political_group" : "Partito Democratico",
+  "final_grade" : 10.597079492452083,
+  "long_id" : 96880
+}, {
+  "mep_id" : 6840,
+  "full_name" : "Andreas Glueck",
+  "country" : "Germany",
+  "political_group" : "Renew",
+  "national_political_group" : "Freie Demokratische Partei",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 197443
+}, {
+  "mep_id" : 7059,
+  "full_name" : "Andreas Schieder",
+  "country" : "Austria",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Österreichs",
+  "final_grade" : 15.460520863542595,
+  "long_id" : 197670
+}, {
+  "mep_id" : 5345,
+  "full_name" : "Andreas Schwab",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 28223
+}, {
+  "mep_id" : 6196,
+  "full_name" : "Andrey Kovatchev",
+  "country" : "Bulgaria",
+  "political_group" : "EPP",
+  "national_political_group" : "Citizens for European Development of Bulgaria",
+  "final_grade" : 7.124340101924877,
+  "long_id" : 97968
+}, {
+  "mep_id" : 6709,
+  "full_name" : "Andrey Novakov",
+  "country" : "Bulgaria",
+  "political_group" : "EPP",
+  "national_political_group" : "Citizens for European Development of Bulgaria",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 107212
+}, {
+  "mep_id" : 7231,
+  "full_name" : "Andrey Slabakov",
+  "country" : "Bulgaria",
+  "political_group" : "ECR",
+  "national_political_group" : "VMRO",
+  "final_grade" : 1.3004502573469168,
+  "long_id" : 197849
+}, {
+  "mep_id" : 7167,
+  "full_name" : "Andris Ameriks",
+  "country" : "Latvia",
+  "political_group" : "S&D",
+  "national_political_group" : "Gods kalpot Rīgai",
+  "final_grade" : 10.241507833660808,
+  "long_id" : 197783
+}, {
+  "mep_id" : 7226,
+  "full_name" : "Andrius Kubilius",
+  "country" : "Lithuania",
+  "political_group" : "EPP",
+  "national_political_group" : "Tėvynės sąjunga-Lietuvos krikščionys demokratai",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197843
+}, {
+  "mep_id" : 6327,
+  "full_name" : "Andrus Ansip",
+  "country" : "Estonia",
+  "political_group" : "Renew",
+  "national_political_group" : "Eesti Reformierakond",
+  "final_grade" : 3.833896231017255,
+  "long_id" : 124696
+}, {
+  "mep_id" : 6907,
+  "full_name" : "Andrzej Halicki",
+  "country" : "Poland",
+  "political_group" : "EPP",
+  "national_political_group" : "Platforma Obywatelska",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197514
+}, {
+  "mep_id" : 5138,
+  "full_name" : "András Gyürk",
+  "country" : "Hungary",
+  "political_group" : "NI",
+  "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+  "final_grade" : 5.810355963466758,
+  "long_id" : 23816
+}, {
+  "mep_id" : 7078,
+  "full_name" : "André Rougé",
+  "country" : "France",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "final_grade" : 1.6483476187681803,
+  "long_id" : 197690
+}, {
+  "mep_id" : 6934,
+  "full_name" : "Andżelikaanna Możdżanowska",
+  "country" : "Poland",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "final_grade" : 1.3004502573469168,
+  "long_id" : 197541
+}, {
+  "mep_id" : 6511,
+  "full_name" : "Angel Dzhambazki",
+  "country" : "Bulgaria",
+  "political_group" : "ECR",
+  "national_political_group" : "VMRO",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 124873
+}, {
+  "mep_id" : 4712,
+  "full_name" : "Angelika Niebler",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich-Soziale Union in Bayern e.V.",
+  "final_grade" : 5.810355963466758,
+  "long_id" : 4289
+}, {
+  "mep_id" : 7041,
+  "full_name" : "Angelika Winzig",
+  "country" : "Austria",
+  "political_group" : "EPP",
+  "national_political_group" : "Österreichische Volkspartei",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197652
+}, {
+  "mep_id" : 6731,
+  "full_name" : "Angelo Ciocca",
+  "country" : "Italy",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 183793
+}, {
+  "mep_id" : 6628,
+  "full_name" : "Anja Hazekamp",
+  "country" : "Netherlands",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Partij voor de Dieren",
+  "final_grade" : 18.369403819397657,
+  "long_id" : 125023
+}, {
+  "mep_id" : 7172,
+  "full_name" : "Anna Bonfrisco",
+  "country" : "Italy",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "final_grade" : 3.0019706564849797,
+  "long_id" : 197788
+}, {
+  "mep_id" : 6847,
+  "full_name" : "Anna Cavazzini",
+  "country" : "Germany",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "final_grade" : 19.96051467201658,
+  "long_id" : 86793
+}, {
+  "mep_id" : 6850,
+  "full_name" : "Anna Deparnay-grunenberg",
+  "country" : "Germany",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197453
+}, {
+  "mep_id" : 5472,
+  "full_name" : "Anna Fotyga",
+  "country" : "Poland",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 28353
+}, {
+  "mep_id" : 6962,
+  "full_name" : "Anna Zalewska",
+  "country" : "Poland",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 197572
+}, {
+  "mep_id" : 6987,
+  "full_name" : "Annajúlia Donáth",
+  "country" : "Hungary",
+  "political_group" : "Renew",
+  "national_political_group" : "Momentum",
+  "final_grade" : 17.222086777998733,
+  "long_id" : 197595
+}, {
+  "mep_id" : 7191,
+  "full_name" : "Annalisa Tardino",
+  "country" : "Italy",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 197806
+}, {
+  "mep_id" : 6370,
+  "full_name" : "Anne Sander",
+  "country" : "France",
+  "political_group" : "EPP",
+  "national_political_group" : "Les Républicains",
+  "final_grade" : 7.124340101924877,
+  "long_id" : 24594
+}, {
+  "mep_id" : 6920,
+  "full_name" : "Anne-sophie Pelletier",
+  "country" : "France",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "La France Insoumise",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197527
+}, {
+  "mep_id" : 6636,
+  "full_name" : "Annie Schreijer-pierik",
+  "country" : "Netherlands",
+  "political_group" : "EPP",
+  "national_political_group" : "Christen Democratisch Appèl",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 125030
+}, {
+  "mep_id" : 7076,
+  "full_name" : "Annika Bruna",
+  "country" : "France",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "final_grade" : 3.4183230517871994,
+  "long_id" : 182995
+}, {
+  "mep_id" : 7258,
+  "full_name" : "Antoni Comínioliveres",
+  "country" : "Spain",
+  "political_group" : "NI",
+  "national_political_group" : "Junts per Catalunya - Lliures per Europa",
+  "final_grade" : 16.87151178171352,
+  "long_id" : 202352
+}, {
+  "mep_id" : 5517,
+  "full_name" : "Antonio López-istúrizwhite",
+  "country" : "Spain",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Popular",
+  "final_grade" : 5.810355963466758,
+  "long_id" : 28399
+}, {
+  "mep_id" : 4482,
+  "full_name" : "Antonio Tajani",
+  "country" : "Italy",
+  "political_group" : "EPP",
+  "national_political_group" : "Forza Italia",
+  "final_grade" : 7.0368978122364885,
+  "long_id" : 2187
+}, {
+  "mep_id" : 7171,
+  "full_name" : "Antoniomaria Rinaldi",
+  "country" : "Italy",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 197787
+}, {
+  "mep_id" : 4964,
+  "full_name" : "Antonius Manders",
+  "country" : "Netherlands",
+  "political_group" : "EPP",
+  "national_political_group" : "Christen Democratisch Appèl",
+  "final_grade" : 1.592717924920069,
+  "long_id" : 4560
+}, {
+  "mep_id" : 6805,
+  "full_name" : "Arba Kokalari",
+  "country" : "Sweden",
+  "political_group" : "EPP",
+  "national_political_group" : "Moderaterna",
+  "final_grade" : 6.026841997273981,
+  "long_id" : 197406
+}, {
+  "mep_id" : 5921,
+  "full_name" : "Arnaud Danjean",
+  "country" : "France",
+  "political_group" : "EPP",
+  "national_political_group" : "Les Républicains",
+  "final_grade" : 7.124340101924877,
+  "long_id" : 96747
+}, {
+  "mep_id" : 6951,
+  "full_name" : "Asger Christensen",
+  "country" : "Denmark",
+  "political_group" : "Renew",
+  "national_political_group" : "Venstre, Danmarks Liberale Parti",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 197558
+}, {
+  "mep_id" : 6755,
+  "full_name" : "Asim Ademov",
+  "country" : "Bulgaria",
+  "political_group" : "EPP",
+  "national_political_group" : "Citizens for European Development of Bulgaria",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 189525
+}, {
+  "mep_id" : 6866,
+  "full_name" : "Assita Kanko",
+  "country" : "Belgium",
+  "political_group" : "ECR",
+  "national_political_group" : "Nieuw-Vlaamse Alliantie",
+  "final_grade" : 8.744659929114283,
+  "long_id" : 197469
+}, {
+  "mep_id" : 7230,
+  "full_name" : "Atidzhe Alieva-veli",
+  "country" : "Bulgaria",
+  "political_group" : "Renew",
+  "national_political_group" : "Movement for Rights and Freedoms",
+  "final_grade" : 4.411223388049891,
+  "long_id" : 197848
+}, {
+  "mep_id" : 6977,
+  "full_name" : "Attila Ara-kovács",
+  "country" : "Hungary",
+  "political_group" : "S&D",
+  "national_political_group" : "Demokratikus Koalíció",
+  "final_grade" : 16.576623465904397,
+  "long_id" : 197587
+}, {
+  "mep_id" : 7085,
+  "full_name" : "Aurore Lalucq",
+  "country" : "France",
+  "political_group" : "S&D",
+  "national_political_group" : "Place publique",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197697
+}, {
+  "mep_id" : 7068,
+  "full_name" : "Aurélia Beigneux",
+  "country" : "France",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 197680
+}, {
+  "mep_id" : 7218,
+  "full_name" : "Aušra Maldeikienė",
+  "country" : "Lithuania",
+  "political_group" : "EPP",
+  "national_political_group" : "Tėvynės sąjunga-Lietuvos krikščionys demokratai",
+  "final_grade" : 8.489528982383316,
+  "long_id" : 197835
+}, {
+  "mep_id" : 5934,
+  "full_name" : "Axel Voss",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 96761
+}, {
+  "mep_id" : 6318,
+  "full_name" : "Balázs Hidvéghi",
+  "country" : "Hungary",
+  "political_group" : "NI",
+  "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+  "final_grade" : 6.543627796501435,
+  "long_id" : 124586
+}, {
+  "mep_id" : 7056,
+  "full_name" : "Barbara Thaler",
+  "country" : "Austria",
+  "political_group" : "EPP",
+  "national_political_group" : "Österreichische Volkspartei",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197667
+}, {
+  "mep_id" : 7260,
+  "full_name" : "Barry Andrews",
+  "country" : "Ireland",
+  "political_group" : "Renew",
+  "national_political_group" : "Fianna Fáil Party",
+  "final_grade" : 6.995127813859657,
+  "long_id" : 204332
+}, {
+  "mep_id" : 7164,
+  "full_name" : "Bart Groothuis",
+  "country" : "Netherlands",
+  "political_group" : "Renew",
+  "national_political_group" : "Volkspartij voor Vrijheid en Democratie",
+  "final_grade" : 1.8593495778831515,
+  "long_id" : 197780
+}, {
+  "mep_id" : 6885,
+  "full_name" : "Bartosz Arłukowicz",
+  "country" : "Poland",
+  "political_group" : "EPP",
+  "national_political_group" : "Platforma Obywatelska",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197492
+}, {
+  "mep_id" : 5899,
+  "full_name" : "Bas Eickhout",
+  "country" : "Netherlands",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "GroenLinks",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 96725
+}, {
+  "mep_id" : 6912,
+  "full_name" : "Beata Kempa",
+  "country" : "Poland",
+  "political_group" : "ECR",
+  "national_political_group" : "Solidarna Polska Zbigniewa Ziobro",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 197519
+}, {
+  "mep_id" : 6931,
+  "full_name" : "Beata Mazurek",
+  "country" : "Poland",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "final_grade" : 1.3004502573469168,
+  "long_id" : 197538
+}, {
+  "mep_id" : 6946,
+  "full_name" : "Beata Szydło",
+  "country" : "Poland",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 197553
+}, {
+  "mep_id" : 6905,
+  "full_name" : "Benoît Biteau",
+  "country" : "France",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Europe Écologie",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197512
+}, {
+  "mep_id" : 6855,
+  "full_name" : "Benoît Lutgen",
+  "country" : "Belgium",
+  "political_group" : "EPP",
+  "national_political_group" : "Les Engagés",
+  "final_grade" : 11.693334783705094,
+  "long_id" : 197458
+}, {
+  "mep_id" : 6936,
+  "full_name" : "Bernard Guetta",
+  "country" : "France",
+  "political_group" : "Renew",
+  "national_political_group" : "Liste Renaissance",
+  "final_grade" : 10.774771139586974,
+  "long_id" : 197543
+}, {
+  "mep_id" : 3823,
+  "full_name" : "Bernd Lange",
+  "country" : "Germany",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "final_grade" : 15.460520863542595,
+  "long_id" : 1909
+}, {
+  "mep_id" : 6882,
+  "full_name" : "Bernhard Zimniok",
+  "country" : "Germany",
+  "political_group" : "ID",
+  "national_political_group" : "Alternative für Deutschland",
+  "final_grade" : 6.32880083921394,
+  "long_id" : 197489
+}, {
+  "mep_id" : 7157,
+  "full_name" : "Bert-jan Ruissen",
+  "country" : "Netherlands",
+  "political_group" : "ECR",
+  "national_political_group" : "Staatkundig Gereformeerde Partij",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 197773
+}, {
+  "mep_id" : 7066,
+  "full_name" : "Bettina Vollath",
+  "country" : "Austria",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Österreichs",
+  "final_grade" : 14.887634760119296,
+  "long_id" : 197678
+}, {
+  "mep_id" : 6264,
+  "full_name" : "Biljana Borzan",
+  "country" : "Croatia",
+  "political_group" : "S&D",
+  "national_political_group" : "Socijaldemokratska partija Hrvatske",
+  "final_grade" : 14.260267080166612,
+  "long_id" : 112748
+}, {
+  "mep_id" : 7203,
+  "full_name" : "Billy Kelleher",
+  "country" : "Ireland",
+  "political_group" : "Renew",
+  "national_political_group" : "Fianna Fáil Party",
+  "final_grade" : 6.119138388220911,
+  "long_id" : 197818
+}, {
+  "mep_id" : 6093,
+  "full_name" : "Birgit Sippel",
+  "country" : "Germany",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "final_grade" : 15.460520863542595,
+  "long_id" : 96932
+}, {
+  "mep_id" : 6938,
+  "full_name" : "Bogdan Rzońca",
+  "country" : "Poland",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 197545
+}, {
+  "mep_id" : 5094,
+  "full_name" : "Bogusław Liberadzki",
+  "country" : "Poland",
+  "political_group" : "S&D",
+  "national_political_group" : "Nowa Lewica",
+  "final_grade" : 12.727333878946371,
+  "long_id" : 23768
+}, {
+  "mep_id" : 6505,
+  "full_name" : "Brando Benifei",
+  "country" : "Italy",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "final_grade" : 11.650760565225719,
+  "long_id" : 124867
+}, {
+  "mep_id" : 4987,
+  "full_name" : "Brice Hortefeux",
+  "country" : "France",
+  "political_group" : "EPP",
+  "national_political_group" : "Les Républicains",
+  "final_grade" : 7.124340101924877,
+  "long_id" : 5565
+}, {
+  "mep_id" : 6694,
+  "full_name" : "Bronis Ropė",
+  "country" : "Lithuania",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Lietuvos valstiečių ir žaliųjų sąjunga",
+  "final_grade" : 18.84527678789931,
+  "long_id" : 125214
+}, {
+  "mep_id" : 7257,
+  "full_name" : "Carles Puigdemonticasamajó",
+  "country" : "Spain",
+  "political_group" : "NI",
+  "national_political_group" : "Junts per Catalunya - Lliures per Europa",
+  "final_grade" : 15.879573270916408,
+  "long_id" : 202351
+}, {
+  "mep_id" : 7008,
+  "full_name" : "Carlo Calenda",
+  "country" : "Italy",
+  "political_group" : "Renew",
+  "national_political_group" : "Azione",
+  "final_grade" : 10.597079492452083,
+  "long_id" : 197617
+}, {
+  "mep_id" : 5982,
+  "full_name" : "Carlo Fidanza",
+  "country" : "Italy",
+  "political_group" : "ECR",
+  "national_political_group" : "Fratelli d'Italia",
+  "final_grade" : 3.0019706564849797,
+  "long_id" : 96810
+}, {
+  "mep_id" : 6373,
+  "full_name" : "Carlos Zorrinho",
+  "country" : "Portugal",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista",
+  "final_grade" : 12.355386931008177,
+  "long_id" : 124739
+}, {
+  "mep_id" : 7040,
+  "full_name" : "Carmen Avram",
+  "country" : "Romania",
+  "political_group" : "S&D",
+  "national_political_group" : "Partidul Social Democrat",
+  "final_grade" : 10.774771139586974,
+  "long_id" : 197651
+}, {
+  "mep_id" : 6760,
+  "full_name" : "Caroline Nagtegaal",
+  "country" : "Netherlands",
+  "political_group" : "Renew",
+  "national_political_group" : "Volkspartij voor Vrijheid en Democratie",
+  "final_grade" : 1.8593495778831515,
+  "long_id" : 190519
+}, {
+  "mep_id" : 6900,
+  "full_name" : "Caroline Roose",
+  "country" : "France",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Europe Écologie",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197506
+}, {
+  "mep_id" : 6499,
+  "full_name" : "Caterina Chinnici",
+  "country" : "Italy",
+  "political_group" : "EPP",
+  "national_political_group" : "Forza Italia",
+  "final_grade" : 10.597079492452083,
+  "long_id" : 124861
+}, {
+  "mep_id" : 6899,
+  "full_name" : "Catherine Chabaud",
+  "country" : "France",
+  "political_group" : "Renew",
+  "national_political_group" : "Mouvement Démocrate",
+  "final_grade" : 11.650760565225719,
+  "long_id" : 197505
+}, {
+  "mep_id" : 7019,
+  "full_name" : "Catherine Griset",
+  "country" : "France",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 94649
+}, {
+  "mep_id" : 1793,
+  "full_name" : "Charles Goerens",
+  "country" : "Luxembourg",
+  "political_group" : "Renew",
+  "national_political_group" : "Parti démocratique",
+  "final_grade" : 6.823764754003367,
+  "long_id" : 840
+}, {
+  "mep_id" : 6808,
+  "full_name" : "Charlie Weimers",
+  "country" : "Sweden",
+  "political_group" : "ECR",
+  "national_political_group" : "Sverigedemokraterna",
+  "final_grade" : 4.032391728918639,
+  "long_id" : 123562
+}, {
+  "mep_id" : 7179,
+  "full_name" : "Chiara Gemma",
+  "country" : "Italy",
+  "political_group" : "ECR",
+  "national_political_group" : "FRATELLI D' ITALIA",
+  "final_grade" : 11.058948167416505,
+  "long_id" : 197794
+}, {
+  "mep_id" : 7279,
+  "full_name" : "Chris Macmanus",
+  "country" : "Ireland",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Sinn Féin",
+  "final_grade" : 15.34002408699395,
+  "long_id" : 205452
+}, {
+  "mep_id" : 5713,
+  "full_name" : "Christel Schaldemose",
+  "country" : "Denmark",
+  "political_group" : "S&D",
+  "national_political_group" : "Socialdemokratiet",
+  "final_grade" : 13.06001329679063,
+  "long_id" : 37312
+}, {
+  "mep_id" : 6870,
+  "full_name" : "Christian Doleschal",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich-Soziale Union in Bayern e.V.",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197473
+}, {
+  "mep_id" : 5348,
+  "full_name" : "Christian Ehler",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 28226
+}, {
+  "mep_id" : 7266,
+  "full_name" : "Christian Sagartz",
+  "country" : "Austria",
+  "political_group" : "EPP",
+  "national_political_group" : "Österreichische Volkspartei",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 204368
+}, {
+  "mep_id" : 6872,
+  "full_name" : "Christine Anderson",
+  "country" : "Germany",
+  "political_group" : "ID",
+  "national_political_group" : "Alternative für Deutschland",
+  "final_grade" : 6.32880083921394,
+  "long_id" : 197475
+}, {
+  "mep_id" : 6821,
+  "full_name" : "Christine Schneider",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197422
+}, {
+  "mep_id" : 6950,
+  "full_name" : "Christophe Grudler",
+  "country" : "France",
+  "political_group" : "Renew",
+  "national_political_group" : "Mouvement Démocrate",
+  "final_grade" : 10.774771139586974,
+  "long_id" : 197557
+}, {
+  "mep_id" : 6777,
+  "full_name" : "Christophe Hansen",
+  "country" : "Luxembourg",
+  "political_group" : "EPP",
+  "national_political_group" : "Parti chrétien social luxembourgeois",
+  "final_grade" : 7.124340101924877,
+  "long_id" : 193419
+}, {
+  "mep_id" : 6892,
+  "full_name" : "Chrysoula Zacharopoulou",
+  "country" : "France",
+  "political_group" : "Renew",
+  "national_political_group" : "La République en marche",
+  "final_grade" : 10.597079492452083,
+  "long_id" : 197499
+}, {
+  "mep_id" : 7043,
+  "full_name" : "Ciarán Cuffe",
+  "country" : "Ireland",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Green Party",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197654
+}, {
+  "mep_id" : 6852,
+  "full_name" : "Cindy Franssen",
+  "country" : "Belgium",
+  "political_group" : "EPP",
+  "national_political_group" : "Christen-Democratisch & Vlaams",
+  "final_grade" : 6.679445757215961,
+  "long_id" : 197455
+}, {
+  "mep_id" : 6651,
+  "full_name" : "Clara Aguilera",
+  "country" : "Spain",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "final_grade" : 9.898781713948228,
+  "long_id" : 125045
+}, {
+  "mep_id" : 7276,
+  "full_name" : "Clara Ponsatíobiols",
+  "country" : "Spain",
+  "political_group" : "NI",
+  "national_political_group" : "Junts per Catalunya - Lliures per Europa",
+  "final_grade" : 17.222086777998733,
+  "long_id" : 204443
+}, {
+  "mep_id" : 7113,
+  "full_name" : "Clare Daly",
+  "country" : "Ireland",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Independents for change",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197731
+}, {
+  "mep_id" : 7274,
+  "full_name" : "Claude Gruffat",
+  "country" : "France",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Europe Écologie",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 204420
+}, {
+  "mep_id" : 7022,
+  "full_name" : "Claudia Gamon",
+  "country" : "Austria",
+  "political_group" : "Renew",
+  "national_political_group" : "NEOS – Das Neue Österreich",
+  "final_grade" : 14.051268131977682,
+  "long_id" : 197632
+}, {
+  "mep_id" : 7042,
+  "full_name" : "Claudiu Manda",
+  "country" : "Romania",
+  "political_group" : "S&D",
+  "national_political_group" : "Partidul Social Democrat",
+  "final_grade" : 11.369821581983969,
+  "long_id" : 197653
+}, {
+  "mep_id" : 7053,
+  "full_name" : "Clotilde Armand",
+  "country" : "Romania",
+  "political_group" : "Renew",
+  "national_political_group" : "Uniunea Salvați România",
+  "final_grade" : 9.41925428342685,
+  "long_id" : 197664
+}, {
+  "mep_id" : 6366,
+  "full_name" : "Cláudia Monteirodeaguiar",
+  "country" : "Portugal",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Social Democrata",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 124734
+}, {
+  "mep_id" : 7284,
+  "full_name" : "Colm Markey",
+  "country" : "Ireland",
+  "political_group" : "EPP",
+  "national_political_group" : "Fine Gael Party",
+  "final_grade" : 10.106973148158804,
+  "long_id" : 209896
+}, {
+  "mep_id" : 3761,
+  "full_name" : "Constanze Krehl",
+  "country" : "Germany",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "final_grade" : 14.887634760119296,
+  "long_id" : 1854
+}, {
+  "mep_id" : 5661,
+  "full_name" : "Corina Crețu",
+  "country" : "Romania",
+  "political_group" : "S&D",
+  "national_political_group" : "PRO Romania",
+  "final_grade" : 11.650760565225719,
+  "long_id" : 33997
+}, {
+  "mep_id" : 6024,
+  "full_name" : "Cornelia Ernst",
+  "country" : "Germany",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "DIE LINKE.",
+  "final_grade" : 17.351872875320222,
+  "long_id" : 96852
+}, {
+  "mep_id" : 6322,
+  "full_name" : "Costas Mavrides",
+  "country" : "Cyprus",
+  "political_group" : "S&D",
+  "national_political_group" : "Democratic Party",
+  "final_grade" : 13.06001329679063,
+  "long_id" : 124691
+}, {
+  "mep_id" : 7050,
+  "full_name" : "Cristian Ghinea",
+  "country" : "Romania",
+  "political_group" : "Renew",
+  "national_political_group" : "USR-PLUS",
+  "final_grade" : 9.41925428342685,
+  "long_id" : 197661
+}, {
+  "mep_id" : 7044,
+  "full_name" : "Cristian Terheş",
+  "country" : "Romania",
+  "political_group" : "ECR",
+  "national_political_group" : "Partidul Național Țărănesc Creștin Democrat",
+  "final_grade" : 4.753949507762471,
+  "long_id" : 197655
+}, {
+  "mep_id" : 5729,
+  "full_name" : "Cristian-silviu Buşoi",
+  "country" : "Romania",
+  "political_group" : "EPP",
+  "national_political_group" : "Partidul Naţional Liberal",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 38420
+}, {
+  "mep_id" : 7107,
+  "full_name" : "Cristina Maestremartíndealmagro",
+  "country" : "Spain",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "final_grade" : 10.774771139586974,
+  "long_id" : 197719
+}, {
+  "mep_id" : 6351,
+  "full_name" : "Csaba Molnár",
+  "country" : "Hungary",
+  "political_group" : "S&D",
+  "national_political_group" : "Demokratikus Koalíció",
+  "final_grade" : 16.14459045413924,
+  "long_id" : 124722
+}, {
+  "mep_id" : 7282,
+  "full_name" : "Cyrus Engerer",
+  "country" : "Malta",
+  "political_group" : "S&D",
+  "national_political_group" : "Partit Laburista",
+  "final_grade" : 7.9737410611904584,
+  "long_id" : 209091
+}, {
+  "mep_id" : 7109,
+  "full_name" : "César Luena",
+  "country" : "Spain",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "final_grade" : 13.06001329679063,
+  "long_id" : 197721
+}, {
+  "mep_id" : 7173,
+  "full_name" : "Dace Melbārde",
+  "country" : "Latvia",
+  "political_group" : "EPP",
+  "national_political_group" : "Partija \"VIENOTĪBA\"",
+  "final_grade" : 1.592717924920069,
+  "long_id" : 130256
+}, {
+  "mep_id" : 7021,
+  "full_name" : "Dacian Cioloş",
+  "country" : "Romania",
+  "political_group" : "Renew",
+  "national_political_group" : "Reînnoim Proiectul European al României",
+  "final_grade" : 10.07014477380452,
+  "long_id" : 197631
+}, {
+  "mep_id" : 6837,
+  "full_name" : "Damian Boeselager",
+  "country" : "Germany",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Volt",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197439
+}, {
+  "mep_id" : 6964,
+  "full_name" : "Damien Carême",
+  "country" : "France",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Europe Écologie",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197574
+}, {
+  "mep_id" : 6418,
+  "full_name" : "Dan Nica",
+  "country" : "Romania",
+  "political_group" : "S&D",
+  "national_political_group" : "Partidul Social Democrat",
+  "final_grade" : 10.774771139586974,
+  "long_id" : 124784
+}, {
+  "mep_id" : 7036,
+  "full_name" : "Dan-ştefan Motreanu",
+  "country" : "Romania",
+  "political_group" : "EPP",
+  "national_political_group" : "Partidul Naţional Liberal",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197647
+}, {
+  "mep_id" : 6617,
+  "full_name" : "Daniel Buda",
+  "country" : "Romania",
+  "political_group" : "EPP",
+  "national_political_group" : "Partidul Naţional Liberal",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 125012
+}, {
+  "mep_id" : 5341,
+  "full_name" : "Daniel Caspary",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 28219
+}, {
+  "mep_id" : 6851,
+  "full_name" : "Daniel Freund",
+  "country" : "Germany",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 106936
+}, {
+  "mep_id" : 7177,
+  "full_name" : "Daniela Rondinelli",
+  "country" : "Italy",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "final_grade" : 13.30012647351369,
+  "long_id" : 197792
+}, {
+  "mep_id" : 6771,
+  "full_name" : "Danilooscar Lancini",
+  "country" : "Italy",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "final_grade" : 2.621383550433688,
+  "long_id" : 192635
+}, {
+  "mep_id" : 5952,
+  "full_name" : "Danutamaria Hübner",
+  "country" : "Poland",
+  "political_group" : "EPP",
+  "national_political_group" : "Platforma Obywatelska",
+  "final_grade" : 10.211101046787245,
+  "long_id" : 96779
+}, {
+  "mep_id" : 5252,
+  "full_name" : "David Casa",
+  "country" : "Malta",
+  "political_group" : "EPP",
+  "national_political_group" : "Partit Nazzjonalista",
+  "final_grade" : 8.489528982383316,
+  "long_id" : 28122
+}, {
+  "mep_id" : 6897,
+  "full_name" : "David Cormand",
+  "country" : "France",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Europe Écologie",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197503
+}, {
+  "mep_id" : 6793,
+  "full_name" : "David Lega",
+  "country" : "Sweden",
+  "political_group" : "EPP",
+  "national_political_group" : "Kristdemokraterna",
+  "final_grade" : 8.062696235144049,
+  "long_id" : 197393
+}, {
+  "mep_id" : 6440,
+  "full_name" : "David Mcallister",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 124806
+}, {
+  "mep_id" : 6600,
+  "full_name" : "Deirdre Clune",
+  "country" : "Ireland",
+  "political_group" : "EPP",
+  "national_political_group" : "Fine Gael Party",
+  "final_grade" : 8.489528982383316,
+  "long_id" : 124988
+}, {
+  "mep_id" : 6838,
+  "full_name" : "Delara Burkhardt",
+  "country" : "Germany",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "final_grade" : 16.341303820770666,
+  "long_id" : 197440
+}, {
+  "mep_id" : 6323,
+  "full_name" : "Demetris Papadakis",
+  "country" : "Cyprus",
+  "political_group" : "S&D",
+  "national_political_group" : "Movement for Social Democracy EDEK",
+  "final_grade" : 14.82157921124677,
+  "long_id" : 124692
+}, {
+  "mep_id" : 6750,
+  "full_name" : "Dennis Radtke",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 188945
+}, {
+  "mep_id" : 6167,
+  "full_name" : "Derkjan Eppink",
+  "country" : "Netherlands",
+  "political_group" : "ECR",
+  "national_political_group" : "JA21",
+  "final_grade" : 1.6814048781256605,
+  "long_id" : 97133
+}, {
+  "mep_id" : 7217,
+  "full_name" : "Diana Ribaiginer",
+  "country" : "Spain",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Esquerra Republicana de Catalunya",
+  "final_grade" : 17.222086777998733,
+  "long_id" : 197832
+}, {
+  "mep_id" : 6459,
+  "full_name" : "Dietmar Köster",
+  "country" : "Germany",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "final_grade" : 16.149454533429918,
+  "long_id" : 124822
+}, {
+  "mep_id" : 7189,
+  "full_name" : "Dino Giarrusso",
+  "country" : "Italy",
+  "political_group" : "NI",
+  "national_political_group" : "Independent",
+  "final_grade" : 14.131256288515065,
+  "long_id" : 197804
+}, {
+  "mep_id" : 6339,
+  "full_name" : "Dita Charanzová",
+  "country" : "Czechia",
+  "political_group" : "Renew",
+  "national_political_group" : "ANO 2011",
+  "final_grade" : 3.706597022267435,
+  "long_id" : 124708
+}, {
+  "mep_id" : 7099,
+  "full_name" : "Dolors Montserrat",
+  "country" : "Spain",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Popular",
+  "final_grade" : 5.810355963466758,
+  "long_id" : 197711
+}, {
+  "mep_id" : 7265,
+  "full_name" : "Dominik Tarczyński",
+  "country" : "Poland",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 204346
+}, {
+  "mep_id" : 6405,
+  "full_name" : "Dominique Bilde",
+  "country" : "France",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 124771
+}, {
+  "mep_id" : 6056,
+  "full_name" : "Dominique Riquet",
+  "country" : "France",
+  "political_group" : "Renew",
+  "national_political_group" : "Mouvement Radical Social-Libéral",
+  "final_grade" : 10.774771139586974,
+  "long_id" : 96885
+}, {
+  "mep_id" : 7128,
+  "full_name" : "Domènec Ruizdevesa",
+  "country" : "Spain",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "final_grade" : 10.774771139586974,
+  "long_id" : 127096
+}, {
+  "mep_id" : 7278,
+  "full_name" : "Dorien Rookmaker",
+  "country" : "Netherlands",
+  "political_group" : "ECR",
+  "national_political_group" : "Meer Directe Democratie",
+  "final_grade" : 3.344696776197561,
+  "long_id" : 204733
+}, {
+  "mep_id" : 7052,
+  "full_name" : "Dragoş Pîslaru",
+  "country" : "Romania",
+  "political_group" : "Renew",
+  "national_political_group" : "Reînnoim Proiectul European al României",
+  "final_grade" : 10.774771139586974,
+  "long_id" : 197663
+}, {
+  "mep_id" : 7054,
+  "full_name" : "Dragoş Tudorache",
+  "country" : "Romania",
+  "political_group" : "Renew",
+  "national_political_group" : "Reînnoim Proiectul European al României",
+  "final_grade" : 10.774771139586974,
+  "long_id" : 197665
+}, {
+  "mep_id" : 6965,
+  "full_name" : "Edina Tóth",
+  "country" : "Hungary",
+  "political_group" : "NI",
+  "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+  "final_grade" : 5.810355963466758,
+  "long_id" : 27714
+}, {
+  "mep_id" : 7185,
+  "full_name" : "Eero Heinäluoma",
+  "country" : "Finland",
+  "political_group" : "S&D",
+  "national_political_group" : "Suomen Sosialidemokraattinen Puolue/Finlands Socialdemokratiska Parti",
+  "final_grade" : 8.618317823760233,
+  "long_id" : 197800
+}, {
+  "mep_id" : 6130,
+  "full_name" : "Eider Gardiazabalrubial",
+  "country" : "Spain",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "final_grade" : 11.650760565225719,
+  "long_id" : 96991
+}, {
+  "mep_id" : 7002,
+  "full_name" : "Elena Lizzi",
+  "country" : "Italy",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 197611
+}, {
+  "mep_id" : 7225,
+  "full_name" : "Elena Yoncheva",
+  "country" : "Bulgaria",
+  "political_group" : "S&D",
+  "national_political_group" : "Bulgarian Socialist Party",
+  "final_grade" : 12.425117453391652,
+  "long_id" : 197842
+}, {
+  "mep_id" : 6413,
+  "full_name" : "Eleonora Evi",
+  "country" : "Italy",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Europa Verde",
+  "final_grade" : 19.956505436673037,
+  "long_id" : 124779
+}, {
+  "mep_id" : 7009,
+  "full_name" : "Elisabetta Gualmini",
+  "country" : "Italy",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "final_grade" : 11.650760565225719,
+  "long_id" : 197618
+}, {
+  "mep_id" : 6766,
+  "full_name" : "Elsi Katainen",
+  "country" : "Finland",
+  "political_group" : "Renew",
+  "national_political_group" : "Suomen Keskusta",
+  "final_grade" : 1.8593495778831515,
+  "long_id" : 191693
+}, {
+  "mep_id" : 6925,
+  "full_name" : "Elżbieta Kruk",
+  "country" : "Poland",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 197532
+}, {
+  "mep_id" : 6937,
+  "full_name" : "Elżbieta Rafalska",
+  "country" : "Poland",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 197544
+}, {
+  "mep_id" : 5964,
+  "full_name" : "Elżbietakatarzyna Łukacijewska",
+  "country" : "Poland",
+  "political_group" : "EPP",
+  "national_political_group" : "Platforma Obywatelska",
+  "final_grade" : 7.950916792706276,
+  "long_id" : 96791
+}, {
+  "mep_id" : 6488,
+  "full_name" : "Emil Radev",
+  "country" : "Bulgaria",
+  "political_group" : "EPP",
+  "national_political_group" : "Citizens for European Development of Bulgaria",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 124850
+}, {
+  "mep_id" : 7287,
+  "full_name" : "Emma Wiesner",
+  "country" : "Sweden",
+  "political_group" : "Renew",
+  "national_political_group" : "Centerpartiet",
+  "final_grade" : 6.2824995256315415,
+  "long_id" : 214839
+}, {
+  "mep_id" : 6354,
+  "full_name" : "Emmanuel Maurel",
+  "country" : "France",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Gauche républicaine et socialiste",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 24505
+}, {
+  "mep_id" : 6828,
+  "full_name" : "Engin Eroglu",
+  "country" : "Germany",
+  "political_group" : "Renew",
+  "national_political_group" : "Freie Wähler",
+  "final_grade" : 3.973228675230518,
+  "long_id" : 197430
+}, {
+  "mep_id" : 6002,
+  "full_name" : "Enikő Győri",
+  "country" : "Hungary",
+  "political_group" : "NI",
+  "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+  "final_grade" : 5.810355963466758,
+  "long_id" : 96830
+}, {
+  "mep_id" : 6279,
+  "full_name" : "Eric Andrieu",
+  "country" : "France",
+  "political_group" : "S&D",
+  "national_political_group" : "Parti socialiste",
+  "final_grade" : 16.077960973075832,
+  "long_id" : 113892
+}, {
+  "mep_id" : 6796,
+  "full_name" : "Erik Bergkvist",
+  "country" : "Sweden",
+  "political_group" : "S&D",
+  "national_political_group" : "Arbetarepartiet- Socialdemokraterna",
+  "final_grade" : 12.946282941708493,
+  "long_id" : 197396
+}, {
+  "mep_id" : 6859,
+  "full_name" : "Erik Marquardt",
+  "country" : "Germany",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197462
+}, {
+  "mep_id" : 6591,
+  "full_name" : "Ernest Urtasun",
+  "country" : "Spain",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Catalunya en Comú",
+  "final_grade" : 19.085389964622365,
+  "long_id" : 124972
+}, {
+  "mep_id" : 7286,
+  "full_name" : "Ernő Schaller-baross",
+  "country" : "Hungary",
+  "political_group" : "NI",
+  "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+  "final_grade" : 6.2824995256315415,
+  "long_id" : 213330
+}, {
+  "mep_id" : 6632,
+  "full_name" : "Esteban Gonzálezpons",
+  "country" : "Spain",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Popular",
+  "final_grade" : 6.543627796501435,
+  "long_id" : 125027
+}, {
+  "mep_id" : 5727,
+  "full_name" : "Esther Delange",
+  "country" : "Netherlands",
+  "political_group" : "EPP",
+  "national_political_group" : "Christen Democratisch Appèl",
+  "final_grade" : 1.592717924920069,
+  "long_id" : 38398
+}, {
+  "mep_id" : 7248,
+  "full_name" : "Estrella Duráferrandis",
+  "country" : "Spain",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "final_grade" : 11.650760565225719,
+  "long_id" : 198329
+}, {
+  "mep_id" : 7151,
+  "full_name" : "Eugen Jurzyca",
+  "country" : "Slovakia",
+  "political_group" : "ECR",
+  "national_political_group" : "Sloboda a Solidarita",
+  "final_grade" : 7.986901353293397,
+  "long_id" : 197767
+}, {
+  "mep_id" : 7061,
+  "full_name" : "Eugen Tomac",
+  "country" : "Romania",
+  "political_group" : "EPP",
+  "national_political_group" : "Partidul Mișcarea Populară",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197672
+}, {
+  "mep_id" : 7169,
+  "full_name" : "Eugenia Rodríguezpalop",
+  "country" : "Spain",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "PODEMOS",
+  "final_grade" : 16.151619091944237,
+  "long_id" : 197785
+}, {
+  "mep_id" : 6483,
+  "full_name" : "Eva Maydell",
+  "country" : "Bulgaria",
+  "political_group" : "EPP",
+  "national_political_group" : "Citizens for European Development of Bulgaria",
+  "final_grade" : 5.777023128710093,
+  "long_id" : 98341
+}, {
+  "mep_id" : 6136,
+  "full_name" : "Evelyn Regner",
+  "country" : "Austria",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Österreichs",
+  "final_grade" : 15.460520863542595,
+  "long_id" : 96998
+}, {
+  "mep_id" : 3827,
+  "full_name" : "Evelyne Gebhardt",
+  "country" : "Germany",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "final_grade" : 14.887634760119296,
+  "long_id" : 1913
+}, {
+  "mep_id" : 6792,
+  "full_name" : "Evin Incir",
+  "country" : "Sweden",
+  "political_group" : "S&D",
+  "national_political_group" : "Arbetarepartiet- Socialdemokraterna",
+  "final_grade" : 13.384277654527867,
+  "long_id" : 197392
+}, {
+  "mep_id" : 5892,
+  "full_name" : "Evžen Tošenovský",
+  "country" : "Czechia",
+  "political_group" : "ECR",
+  "national_political_group" : "Občanská demokratická strana",
+  "final_grade" : 3.0019706564849797,
+  "long_id" : 96713
+}, {
+  "mep_id" : 6918,
+  "full_name" : "Ewa Kopacz",
+  "country" : "Poland",
+  "political_group" : "EPP",
+  "national_political_group" : "Platforma Obywatelska",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197525
+}, {
+  "mep_id" : 5021,
+  "full_name" : "Fabienne Keller",
+  "country" : "France",
+  "political_group" : "Renew",
+  "national_political_group" : "Agir - La Droite constructive",
+  "final_grade" : 11.650760565225719,
+  "long_id" : 22858
+}, {
+  "mep_id" : 6446,
+  "full_name" : "Fabiomassimo Castaldo",
+  "country" : "Italy",
+  "political_group" : "NI",
+  "national_political_group" : "Movimento 5 Stelle",
+  "final_grade" : 13.30012647351369,
+  "long_id" : 124812
+}, {
+  "mep_id" : 6869,
+  "full_name" : "Filip Deman",
+  "country" : "Belgium",
+  "political_group" : "ID",
+  "national_political_group" : "Vlaams Belang",
+  "final_grade" : 5.948731868022321,
+  "long_id" : 197472
+}, {
+  "mep_id" : 6613,
+  "full_name" : "Franc Bogovič",
+  "country" : "Slovenia",
+  "political_group" : "EPP",
+  "national_political_group" : "Slovenska ljudska stranka",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 125004
+}, {
+  "mep_id" : 6751,
+  "full_name" : "France Jamet",
+  "country" : "France",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 189065
+}, {
+  "mep_id" : 7108,
+  "full_name" : "Frances Fitzgerald",
+  "country" : "Ireland",
+  "political_group" : "EPP",
+  "national_political_group" : "Fine Gael Party",
+  "final_grade" : 9.365518408022064,
+  "long_id" : 197720
+}, {
+  "mep_id" : 7207,
+  "full_name" : "Francesca Donato",
+  "country" : "Italy",
+  "political_group" : "NI",
+  "national_political_group" : "Democrazia Cristiana",
+  "final_grade" : 2.621383550433688,
+  "long_id" : 197822
+}, {
+  "mep_id" : 7034,
+  "full_name" : "Francisco Guerreiro",
+  "country" : "Portugal",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Independente",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197645
+}, {
+  "mep_id" : 5518,
+  "full_name" : "Franciscojosé Millánmon",
+  "country" : "Spain",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Popular",
+  "final_grade" : 5.810355963466758,
+  "long_id" : 28400
+}, {
+  "mep_id" : 7186,
+  "full_name" : "Franco Roberti",
+  "country" : "Italy",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "final_grade" : 11.650760565225719,
+  "long_id" : 197801
+}, {
+  "mep_id" : 5924,
+  "full_name" : "François Alfonsi",
+  "country" : "France",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Régions et Peuples Solidaires",
+  "final_grade" : 17.222086777998733,
+  "long_id" : 96750
+}, {
+  "mep_id" : 6927,
+  "full_name" : "François-xavier Bellamy",
+  "country" : "France",
+  "political_group" : "EPP",
+  "national_political_group" : "Les Républicains",
+  "final_grade" : 7.124340101924877,
+  "long_id" : 197534
+}, {
+  "mep_id" : 6601,
+  "full_name" : "Fredrick Federley",
+  "country" : "Sweden",
+  "political_group" : "Renew",
+  "national_political_group" : "Centerpartiet",
+  "final_grade" : 4.773288550841648,
+  "long_id" : 124989
+}, {
+  "mep_id" : 4676,
+  "full_name" : "Frédérique Ries",
+  "country" : "Belgium",
+  "political_group" : "Renew",
+  "national_political_group" : "Mouvement Réformateur",
+  "final_grade" : 8.40438054542457,
+  "long_id" : 4253
+}, {
+  "mep_id" : 6465,
+  "full_name" : "Fulvio Martusciello",
+  "country" : "Italy",
+  "political_group" : "EPP",
+  "national_political_group" : "Forza Italia",
+  "final_grade" : 7.657603407851043,
+  "long_id" : 124828
+}, {
+  "mep_id" : 6096,
+  "full_name" : "Gabriel Mato",
+  "country" : "Spain",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Popular",
+  "final_grade" : 5.810355963466758,
+  "long_id" : 96936
+}, {
+  "mep_id" : 6833,
+  "full_name" : "Gabriele Bischoff",
+  "country" : "Germany",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "final_grade" : 16.341303820770666,
+  "long_id" : 197435
+}, {
+  "mep_id" : 6864,
+  "full_name" : "Geert Bourgeois",
+  "country" : "Belgium",
+  "political_group" : "ECR",
+  "national_political_group" : "Nieuw-Vlaamse Alliantie",
+  "final_grade" : 8.744659929114283,
+  "long_id" : 197467
+}, {
+  "mep_id" : 6762,
+  "full_name" : "Geoffroy Didier",
+  "country" : "France",
+  "political_group" : "EPP",
+  "national_political_group" : "Les Républicains",
+  "final_grade" : 7.124340101924877,
+  "long_id" : 190774
+}, {
+  "mep_id" : 6627,
+  "full_name" : "Georg Mayer",
+  "country" : "Austria",
+  "political_group" : "ID",
+  "national_political_group" : "Freiheitliche Partei Österreichs",
+  "final_grade" : 2.9162891265568343,
+  "long_id" : 38511
+}, {
+  "mep_id" : 6593,
+  "full_name" : "Gerolf Annemans",
+  "country" : "Belgium",
+  "political_group" : "ID",
+  "national_political_group" : "Vlaams Belang",
+  "final_grade" : 5.948731868022321,
+  "long_id" : 124973
+}, {
+  "mep_id" : 7038,
+  "full_name" : "Gheorghe Falcă",
+  "country" : "Romania",
+  "political_group" : "EPP",
+  "national_political_group" : "Partidul Naţional Liberal",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197649
+}, {
+  "mep_id" : 7255,
+  "full_name" : "Gheorghe-vlad Nistor",
+  "country" : "Romania",
+  "political_group" : "EPP",
+  "national_political_group" : "Partidul Naţional Liberal",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 202112
+}, {
+  "mep_id" : 6999,
+  "full_name" : "Gianantonio Dare",
+  "country" : "Italy",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 197608
+}, {
+  "mep_id" : 6972,
+  "full_name" : "Gianna Gancia",
+  "country" : "Italy",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "final_grade" : 2.8875518746222943,
+  "long_id" : 197582
+}, {
+  "mep_id" : 7071,
+  "full_name" : "Gilbert Collard",
+  "country" : "France",
+  "political_group" : "NI",
+  "national_political_group" : "Reconquête!",
+  "final_grade" : 2.8875518746222943,
+  "long_id" : 197683
+}, {
+  "mep_id" : 6967,
+  "full_name" : "Gilles Boyer",
+  "country" : "France",
+  "political_group" : "Renew",
+  "national_political_group" : "Horizons",
+  "final_grade" : 10.774771139586974,
+  "long_id" : 197577
+}, {
+  "mep_id" : 6372,
+  "full_name" : "Gilles Lebreton",
+  "country" : "France",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 124738
+}, {
+  "mep_id" : 6815,
+  "full_name" : "Giorgos Georgiou",
+  "country" : "Cyprus",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Progressive Party of Working People - Left - New Forces",
+  "final_grade" : 18.552126658696203,
+  "long_id" : 197416
+}, {
+  "mep_id" : 6982,
+  "full_name" : "Giuliano Pisapia",
+  "country" : "Italy",
+  "political_group" : "S&D",
+  "national_political_group" : "Independent",
+  "final_grade" : 11.650760565225719,
+  "long_id" : 197590
+}, {
+  "mep_id" : 6770,
+  "full_name" : "Giuseppe Ferrandino",
+  "country" : "Italy",
+  "political_group" : "Renew",
+  "national_political_group" : "Azione - Italia Viva",
+  "final_grade" : 9.409582259128534,
+  "long_id" : 192634
+}, {
+  "mep_id" : 7209,
+  "full_name" : "Giuseppe Milazzo",
+  "country" : "Italy",
+  "political_group" : "ECR",
+  "national_political_group" : "Fratelli d'Italia",
+  "final_grade" : 7.657603407851043,
+  "long_id" : 197824
+}, {
+  "mep_id" : 7240,
+  "full_name" : "Grace O'sullivan",
+  "country" : "Ireland",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Green Party",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197889
+}, {
+  "mep_id" : 6952,
+  "full_name" : "Grzegorz Tobiszowski",
+  "country" : "Poland",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 197559
+}, {
+  "mep_id" : 6881,
+  "full_name" : "Guido Reil",
+  "country" : "Germany",
+  "political_group" : "ID",
+  "national_political_group" : "Alternative für Deutschland",
+  "final_grade" : 6.32880083921394,
+  "long_id" : 197488
+}, {
+  "mep_id" : 6874,
+  "full_name" : "Gunnar Beck",
+  "country" : "Germany",
+  "political_group" : "ID",
+  "national_political_group" : "Alternative für Deutschland",
+  "final_grade" : 6.32880083921394,
+  "long_id" : 132191
+}, {
+  "mep_id" : 6159,
+  "full_name" : "Guy Verhofstadt",
+  "country" : "Belgium",
+  "political_group" : "Renew",
+  "national_political_group" : "Open Vlaamse Liberalen en Democraten",
+  "final_grade" : 6.995127813859657,
+  "long_id" : 97058
+}, {
+  "mep_id" : 6924,
+  "full_name" : "Gwendoline Delbos-corfield",
+  "country" : "France",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Europe Écologie",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197531
+}, {
+  "mep_id" : 6346,
+  "full_name" : "György Hölvényi",
+  "country" : "Hungary",
+  "political_group" : "EPP",
+  "national_political_group" : "Kereszténydemokrata Néppárt",
+  "final_grade" : 5.810355963466758,
+  "long_id" : 124715
+}, {
+  "mep_id" : 7065,
+  "full_name" : "Günther Sidl",
+  "country" : "Austria",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Österreichs",
+  "final_grade" : 15.460520863542595,
+  "long_id" : 197677
+}, {
+  "mep_id" : 6861,
+  "full_name" : "Hannah Neumann",
+  "country" : "Germany",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197464
+}, {
+  "mep_id" : 7070,
+  "full_name" : "Hannes Heide",
+  "country" : "Austria",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Österreichs",
+  "final_grade" : 15.460520863542595,
+  "long_id" : 197682
+}, {
+  "mep_id" : 6610,
+  "full_name" : "Harald Vilimsky",
+  "country" : "Austria",
+  "political_group" : "ID",
+  "national_political_group" : "Freiheitliche Partei Österreichs",
+  "final_grade" : 2.9162891265568343,
+  "long_id" : 125001
+}, {
+  "mep_id" : 4535,
+  "full_name" : "Heidi Hautala",
+  "country" : "Finland",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Vihreä liitto",
+  "final_grade" : 19.96051467201658,
+  "long_id" : 2054
+}, {
+  "mep_id" : 6834,
+  "full_name" : "Helmut Geuking",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Familien-Partei Deutschlands",
+  "final_grade" : 2.1053174669148818,
+  "long_id" : 197436
+}, {
+  "mep_id" : 5837,
+  "full_name" : "Helmut Scholz",
+  "country" : "Germany",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "DIE LINKE.",
+  "final_grade" : 14.91305810130933,
+  "long_id" : 96646
+}, {
+  "mep_id" : 6791,
+  "full_name" : "Heléne Fritzon",
+  "country" : "Sweden",
+  "political_group" : "S&D",
+  "national_political_group" : "Arbetarepartiet- Socialdemokraterna",
+  "final_grade" : 13.384277654527867,
+  "long_id" : 197391
+}, {
+  "mep_id" : 6356,
+  "full_name" : "Henna Virkkunen",
+  "country" : "Finland",
+  "political_group" : "EPP",
+  "national_political_group" : "Kansallinen Kokoomus",
+  "final_grade" : 7.497940394055792,
+  "long_id" : 124726
+}, {
+  "mep_id" : 6854,
+  "full_name" : "Henrike Hahn",
+  "country" : "Germany",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197457
+}, {
+  "mep_id" : 5960,
+  "full_name" : "Herbert Dorfmann",
+  "country" : "Italy",
+  "political_group" : "EPP",
+  "national_political_group" : "Südtiroler Volkspartei",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 96787
+}, {
+  "mep_id" : 7216,
+  "full_name" : "Hermann Tertsch",
+  "country" : "Spain",
+  "political_group" : "ECR",
+  "national_political_group" : "VOX",
+  "final_grade" : 2.3549769954766777,
+  "long_id" : 197831
+}, {
+  "mep_id" : 7016,
+  "full_name" : "Hervé Juvin",
+  "country" : "France",
+  "political_group" : "NI",
+  "national_political_group" : "Rassemblement national",
+  "final_grade" : 4.8051542497627935,
+  "long_id" : 197626
+}, {
+  "mep_id" : 6710,
+  "full_name" : "Hilde Vautmans",
+  "country" : "Belgium",
+  "political_group" : "Renew",
+  "national_political_group" : "Open Vlaamse Liberalen en Democraten",
+  "final_grade" : 3.8779600821237254,
+  "long_id" : 130100
+}, {
+  "mep_id" : 6807,
+  "full_name" : "Hildegard Bentele",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197408
+}, {
+  "mep_id" : 6954,
+  "full_name" : "Hynek Blaško",
+  "country" : "Czechia",
+  "political_group" : "ID",
+  "national_political_group" : "Svoboda a přímá demokracie",
+  "final_grade" : 9.892138013661983,
+  "long_id" : 197564
+}, {
+  "mep_id" : 6990,
+  "full_name" : "Hélène Laporte",
+  "country" : "France",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "final_grade" : 2.8875518746222943,
+  "long_id" : 197597
+}, {
+  "mep_id" : 7105,
+  "full_name" : "Ibán Garcíadelblanco",
+  "country" : "Spain",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "final_grade" : 13.239882467537205,
+  "long_id" : 197717
+}, {
+  "mep_id" : 7212,
+  "full_name" : "Idoia Villanuevaruiz",
+  "country" : "Spain",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "PODEMOS",
+  "final_grade" : 16.151619091944237,
+  "long_id" : 197827
+}, {
+  "mep_id" : 6494,
+  "full_name" : "Ignazio Corrao",
+  "country" : "Italy",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Independent",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 124856
+}, {
+  "mep_id" : 7271,
+  "full_name" : "Ilana Cicurel",
+  "country" : "France",
+  "political_group" : "Renew",
+  "national_political_group" : "Liste Renaissance",
+  "final_grade" : 11.650760565225719,
+  "long_id" : 204416
+}, {
+  "mep_id" : 6504,
+  "full_name" : "Ilhan Kyuchyuk",
+  "country" : "Bulgaria",
+  "political_group" : "Renew",
+  "national_political_group" : "Movement for Rights and Freedoms",
+  "final_grade" : 4.411223388049891,
+  "long_id" : 124866
+}, {
+  "mep_id" : 5600,
+  "full_name" : "Inese Vaidere",
+  "country" : "Latvia",
+  "political_group" : "EPP",
+  "national_political_group" : "Partija \"VIENOTĪBA\"",
+  "final_grade" : 8.489528982383316,
+  "long_id" : 28617
+}, {
+  "mep_id" : 6649,
+  "full_name" : "Inma Rodríguez-piñero",
+  "country" : "Spain",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "final_grade" : 10.774771139586974,
+  "long_id" : 125043
+}, {
+  "mep_id" : 7025,
+  "full_name" : "Ioan-rareş Bogdan",
+  "country" : "Romania",
+  "political_group" : "EPP",
+  "national_political_group" : "Partidul Naţional Liberal",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197636
+}, {
+  "mep_id" : 5417,
+  "full_name" : "Iratxe Garcíapérez",
+  "country" : "Spain",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "final_grade" : 13.06001329679063,
+  "long_id" : 28298
+}, {
+  "mep_id" : 6844,
+  "full_name" : "Irena Joveva",
+  "country" : "Slovenia",
+  "political_group" : "Renew",
+  "national_political_group" : "Gibanje Svoboda",
+  "final_grade" : 8.40438054542457,
+  "long_id" : 197447
+}, {
+  "mep_id" : 6983,
+  "full_name" : "Irene Tinagli",
+  "country" : "Italy",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "final_grade" : 11.650760565225719,
+  "long_id" : 197591
+}, {
+  "mep_id" : 6940,
+  "full_name" : "Irène Tolleret",
+  "country" : "France",
+  "political_group" : "Renew",
+  "national_political_group" : "Liste Renaissance",
+  "final_grade" : 10.774771139586974,
+  "long_id" : 197547
+}, {
+  "mep_id" : 7067,
+  "full_name" : "Isabel Benjumeabenjumea",
+  "country" : "Spain",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Popular",
+  "final_grade" : 5.810355963466758,
+  "long_id" : 197679
+}, {
+  "mep_id" : 7252,
+  "full_name" : "Isabel Carvalhais",
+  "country" : "Portugal",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista",
+  "final_grade" : 11.479397505369429,
+  "long_id" : 199996
+}, {
+  "mep_id" : 7125,
+  "full_name" : "Isabel Garcíamuñoz",
+  "country" : "Spain",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "final_grade" : 10.774771139586974,
+  "long_id" : 197742
+}, {
+  "mep_id" : 7039,
+  "full_name" : "Isabel Santos",
+  "country" : "Portugal",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista",
+  "final_grade" : 13.045146101694563,
+  "long_id" : 197650
+}, {
+  "mep_id" : 6820,
+  "full_name" : "Isabel Wiseler-lima",
+  "country" : "Luxembourg",
+  "political_group" : "EPP",
+  "national_political_group" : "Parti chrétien social luxembourgeois",
+  "final_grade" : 7.124340101924877,
+  "long_id" : 197421
+}, {
+  "mep_id" : 6468,
+  "full_name" : "Isabella Adinolfi",
+  "country" : "Italy",
+  "political_group" : "EPP",
+  "national_political_group" : "Forza Italia",
+  "final_grade" : 9.066856139415954,
+  "long_id" : 124831
+}, {
+  "mep_id" : 6970,
+  "full_name" : "Isabella Tovaglieri",
+  "country" : "Italy",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 197580
+}, {
+  "mep_id" : 6690,
+  "full_name" : "Iskra Mihaylova",
+  "country" : "Bulgaria",
+  "political_group" : "Renew",
+  "national_political_group" : "Movement for Rights and Freedoms",
+  "final_grade" : 4.411223388049891,
+  "long_id" : 125128
+}, {
+  "mep_id" : 6014,
+  "full_name" : "Ismail Ertug",
+  "country" : "Germany",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "final_grade" : 14.887634760119296,
+  "long_id" : 96842
+}, {
+  "mep_id" : 6336,
+  "full_name" : "István Ujhelyi",
+  "country" : "Hungary",
+  "political_group" : "S&D",
+  "national_political_group" : "Esély Közösség",
+  "final_grade" : 12.184181109727461,
+  "long_id" : 124705
+}, {
+  "mep_id" : 5782,
+  "full_name" : "Iuliu Winkler",
+  "country" : "Romania",
+  "political_group" : "EPP",
+  "national_political_group" : "Uniunea Democrată Maghiară din România",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 39725
+}, {
+  "mep_id" : 6949,
+  "full_name" : "Ivan David",
+  "country" : "Czechia",
+  "political_group" : "ID",
+  "national_political_group" : "Svoboda a přímá demokracie",
+  "final_grade" : 5.547322806853209,
+  "long_id" : 197556
+}, {
+  "mep_id" : 6547,
+  "full_name" : "Ivan Štefanec",
+  "country" : "Slovakia",
+  "political_group" : "EPP",
+  "national_political_group" : "Kresťanskodemokratické hnutie",
+  "final_grade" : 8.000329527563622,
+  "long_id" : 124929
+}, {
+  "mep_id" : 7242,
+  "full_name" : "Ivanvilibor Sinčić",
+  "country" : "Croatia",
+  "political_group" : "NI",
+  "national_political_group" : "KLJUČ Hrvatske",
+  "final_grade" : 14.318856324598466,
+  "long_id" : 197935
+}, {
+  "mep_id" : 7014,
+  "full_name" : "Ivars Ijabs",
+  "country" : "Latvia",
+  "political_group" : "Renew",
+  "national_political_group" : "Attīstībai/Par!",
+  "final_grade" : 8.40438054542457,
+  "long_id" : 197624
+}, {
+  "mep_id" : 7229,
+  "full_name" : "Ivo Hristov",
+  "country" : "Bulgaria",
+  "political_group" : "S&D",
+  "national_political_group" : "Bulgarian Socialist Party",
+  "final_grade" : 12.425117453391652,
+  "long_id" : 197846
+}, {
+  "mep_id" : 6913,
+  "full_name" : "Izabela-helena Kloc",
+  "country" : "Poland",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 197520
+}, {
+  "mep_id" : 6089,
+  "full_name" : "Izaskun Bilbaobarandica",
+  "country" : "Spain",
+  "political_group" : "Renew",
+  "national_political_group" : "Partido Nacionalista Vasco",
+  "final_grade" : 2.9136930549450146,
+  "long_id" : 96922
+}, {
+  "mep_id" : 6886,
+  "full_name" : "Jaak Madison",
+  "country" : "Estonia",
+  "political_group" : "ID",
+  "national_political_group" : "Eesti Konservatiivne Rahvaerakond",
+  "final_grade" : 4.975707543580643,
+  "long_id" : 197493
+}, {
+  "mep_id" : 5416,
+  "full_name" : "Jacek Saryusz-wolski",
+  "country" : "Poland",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "final_grade" : 1.3004502573469168,
+  "long_id" : 28297
+}, {
+  "mep_id" : 6515,
+  "full_name" : "Jadwiga Wiśniewska",
+  "country" : "Poland",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 124877
+}, {
+  "mep_id" : 6730,
+  "full_name" : "Jakopg. Dalunde",
+  "country" : "Sweden",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Miljöpartiet de gröna",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 183338
+}, {
+  "mep_id" : 6622,
+  "full_name" : "Jan Huitema",
+  "country" : "Netherlands",
+  "political_group" : "Renew",
+  "national_political_group" : "Volkspartij voor Vrijheid en Democratie",
+  "final_grade" : 2.1129581832377915,
+  "long_id" : 58789
+}, {
+  "mep_id" : 5407,
+  "full_name" : "Jan Olbrycht",
+  "country" : "Poland",
+  "political_group" : "EPP",
+  "national_political_group" : "Platforma Obywatelska",
+  "final_grade" : 7.448604459662112,
+  "long_id" : 28288
+}, {
+  "mep_id" : 5052,
+  "full_name" : "Jan Zahradil",
+  "country" : "Czechia",
+  "political_group" : "ECR",
+  "national_political_group" : "Občanská demokratická strana",
+  "final_grade" : 3.380821890357348,
+  "long_id" : 23712
+}, {
+  "mep_id" : 6830,
+  "full_name" : "Jan-christoph Oetjen",
+  "country" : "Germany",
+  "political_group" : "Renew",
+  "national_political_group" : "Freie Demokratische Partei",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 197432
+}, {
+  "mep_id" : 6935,
+  "full_name" : "Janina Ochojska",
+  "country" : "Poland",
+  "political_group" : "EPP",
+  "national_political_group" : "Independent",
+  "final_grade" : 13.98473850270882,
+  "long_id" : 197542
+}, {
+  "mep_id" : 5105,
+  "full_name" : "Janusz Lewandowski",
+  "country" : "Poland",
+  "political_group" : "EPP",
+  "national_political_group" : "Platforma Obywatelska",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 23781
+}, {
+  "mep_id" : 6903,
+  "full_name" : "Jarosław Duda",
+  "country" : "Poland",
+  "political_group" : "EPP",
+  "national_political_group" : "Platforma Obywatelska",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197510
+}, {
+  "mep_id" : 5944,
+  "full_name" : "Jarosław Kalinowski",
+  "country" : "Poland",
+  "political_group" : "EPP",
+  "national_political_group" : "Polskie Stronnictwo Ludowe",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 96771
+}, {
+  "mep_id" : 6648,
+  "full_name" : "Javi López",
+  "country" : "Spain",
+  "political_group" : "S&D",
+  "national_political_group" : "Partit dels Socialistes de Catalunya",
+  "final_grade" : 14.841352210951651,
+  "long_id" : 125042
+}, {
+  "mep_id" : 5466,
+  "full_name" : "Javier Morenosánchez",
+  "country" : "Spain",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "final_grade" : 11.650760565225719,
+  "long_id" : 28347
+}, {
+  "mep_id" : 6614,
+  "full_name" : "Javier Nart",
+  "country" : "Spain",
+  "political_group" : "Renew",
+  "national_political_group" : "Independiente",
+  "final_grade" : 6.941003570572941,
+  "long_id" : 125005
+}, {
+  "mep_id" : 6997,
+  "full_name" : "Javier Zarzalejos",
+  "country" : "Spain",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Popular",
+  "final_grade" : 5.810355963466758,
+  "long_id" : 197606
+}, {
+  "mep_id" : 6404,
+  "full_name" : "Jean-françois Jalkh",
+  "country" : "France",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "final_grade" : 1.629772696033976,
+  "long_id" : 124770
+}, {
+  "mep_id" : 7275,
+  "full_name" : "Jean-lin Lacapelle",
+  "country" : "France",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 204421
+}, {
+  "mep_id" : 7018,
+  "full_name" : "Jean-paul Garraud",
+  "country" : "France",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 197628
+}, {
+  "mep_id" : 6005,
+  "full_name" : "Jens Geier",
+  "country" : "Germany",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "final_grade" : 15.460520863542595,
+  "long_id" : 96833
+}, {
+  "mep_id" : 6441,
+  "full_name" : "Jens Gieseke",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 124807
+}, {
+  "mep_id" : 6592,
+  "full_name" : "Jeroen Lenaers",
+  "country" : "Netherlands",
+  "political_group" : "EPP",
+  "national_political_group" : "Christen Democratisch Appèl",
+  "final_grade" : 1.3004502573469168,
+  "long_id" : 95074
+}, {
+  "mep_id" : 5388,
+  "full_name" : "Jerzy Buzek",
+  "country" : "Poland",
+  "political_group" : "EPP",
+  "national_political_group" : "Platforma Obywatelska",
+  "final_grade" : 5.777023128710093,
+  "long_id" : 28269
+}, {
+  "mep_id" : 6803,
+  "full_name" : "Jessica Polfjärd",
+  "country" : "Sweden",
+  "political_group" : "EPP",
+  "national_political_group" : "Moderaterna",
+  "final_grade" : 6.926458565828563,
+  "long_id" : 197404
+}, {
+  "mep_id" : 6798,
+  "full_name" : "Jessica Stegrud",
+  "country" : "Sweden",
+  "political_group" : "ECR",
+  "national_political_group" : "Sverigedemokraterna",
+  "final_grade" : 4.541282972961085,
+  "long_id" : 197399
+}, {
+  "mep_id" : 6700,
+  "full_name" : "Jiří Pospíšil",
+  "country" : "Czechia",
+  "political_group" : "EPP",
+  "national_political_group" : "TOP 09 a Starostové",
+  "final_grade" : 13.273950575126293,
+  "long_id" : 125706
+}, {
+  "mep_id" : 6879,
+  "full_name" : "Joachim Kuhs",
+  "country" : "Germany",
+  "political_group" : "ID",
+  "national_political_group" : "Alternative für Deutschland",
+  "final_grade" : 7.192026546467786,
+  "long_id" : 197482
+}, {
+  "mep_id" : 6475,
+  "full_name" : "Joachim Schuster",
+  "country" : "Germany",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "final_grade" : 15.460520863542595,
+  "long_id" : 124837
+}, {
+  "mep_id" : 6895,
+  "full_name" : "Joachimstanisław Brudziński",
+  "country" : "Poland",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 197501
+}, {
+  "mep_id" : 6923,
+  "full_name" : "Joanna Kopcińska",
+  "country" : "Poland",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 197530
+}, {
+  "mep_id" : 6806,
+  "full_name" : "Johan Danielsson",
+  "country" : "Sweden",
+  "political_group" : "S&D",
+  "national_political_group" : "Arbetarepartiet- Socialdemokraterna",
+  "final_grade" : 12.549367903453271,
+  "long_id" : 38542
+}, {
+  "mep_id" : 6683,
+  "full_name" : "Johan Vanovertveldt",
+  "country" : "Belgium",
+  "political_group" : "ECR",
+  "national_political_group" : "Nieuw-Vlaamse Alliantie",
+  "final_grade" : 8.744659929114283,
+  "long_id" : 125106
+}, {
+  "mep_id" : 6652,
+  "full_name" : "Jonás Fernández",
+  "country" : "Spain",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "final_grade" : 10.774771139586974,
+  "long_id" : 125046
+}, {
+  "mep_id" : 6988,
+  "full_name" : "Jordan Bardella",
+  "country" : "France",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 131580
+}, {
+  "mep_id" : 6973,
+  "full_name" : "Jordi Cañas",
+  "country" : "Spain",
+  "political_group" : "Renew",
+  "national_political_group" : "Ciudadanos – Partido de la Ciudadanía",
+  "final_grade" : 7.949238127623304,
+  "long_id" : 126644
+}, {
+  "mep_id" : 6738,
+  "full_name" : "Jordi Solé",
+  "country" : "Spain",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Esquerra Republicana de Catalunya",
+  "final_grade" : 14.260267080166612,
+  "long_id" : 185974
+}, {
+  "mep_id" : 7214,
+  "full_name" : "Jorge Buxadévillalba",
+  "country" : "Spain",
+  "political_group" : "ECR",
+  "national_political_group" : "VOX",
+  "final_grade" : 2.3549769954766777,
+  "long_id" : 197829
+}, {
+  "mep_id" : 6794,
+  "full_name" : "Josianne Cutajar",
+  "country" : "Malta",
+  "political_group" : "S&D",
+  "national_political_group" : "Partit Laburista",
+  "final_grade" : 11.575199191445616,
+  "long_id" : 197394
+}, {
+  "mep_id" : 7133,
+  "full_name" : "José Gusmão",
+  "country" : "Portugal",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Bloco de Esquerda",
+  "final_grade" : 18.552126658696203,
+  "long_id" : 88715
+}, {
+  "mep_id" : 6068,
+  "full_name" : "Josémanuel Fernandes",
+  "country" : "Portugal",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Social Democrata",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 96899
+}, {
+  "mep_id" : 3980,
+  "full_name" : "Josémanuel García-margalloymarfil",
+  "country" : "Spain",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Popular",
+  "final_grade" : 5.810355963466758,
+  "long_id" : 1992
+}, {
+  "mep_id" : 7163,
+  "full_name" : "Joséramón Bauzádíaz",
+  "country" : "Spain",
+  "political_group" : "Renew",
+  "national_political_group" : "Ciudadanos – Partido de la Ciudadanía",
+  "final_grade" : 3.0019706564849797,
+  "long_id" : 197779
+}, {
+  "mep_id" : 5886,
+  "full_name" : "João Ferreira",
+  "country" : "Portugal",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Partido Comunista Português",
+  "final_grade" : 15.32067976983314,
+  "long_id" : 96706
+}, {
+  "mep_id" : 6399,
+  "full_name" : "Joëlle Mélin",
+  "country" : "France",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "final_grade" : 2.8875518746222943,
+  "long_id" : 124765
+}, {
+  "mep_id" : 5984,
+  "full_name" : "Juanfernando Lópezaguilar",
+  "country" : "Spain",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "final_grade" : 11.650760565225719,
+  "long_id" : 96812
+}, {
+  "mep_id" : 7012,
+  "full_name" : "Juanignacio Zoidoálvarez",
+  "country" : "Spain",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Popular",
+  "final_grade" : 5.810355963466758,
+  "long_id" : 197621
+}, {
+  "mep_id" : 7074,
+  "full_name" : "Julie Lechanteux",
+  "country" : "France",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "final_grade" : 2.8875518746222943,
+  "long_id" : 197686
+}, {
+  "mep_id" : 7221,
+  "full_name" : "Juozas Olekas",
+  "country" : "Lithuania",
+  "political_group" : "S&D",
+  "national_political_group" : "Lietuvos socialdemokratų partija",
+  "final_grade" : 13.06001329679063,
+  "long_id" : 197838
+}, {
+  "mep_id" : 6863,
+  "full_name" : "Jutta Paulus",
+  "country" : "Germany",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197466
+}, {
+  "mep_id" : 6603,
+  "full_name" : "Jytte Guteland",
+  "country" : "Sweden",
+  "political_group" : "S&D",
+  "national_political_group" : "Arbetarepartiet- Socialdemokraterna",
+  "final_grade" : 12.549367903453271,
+  "long_id" : 124991
+}, {
+  "mep_id" : 6898,
+  "full_name" : "Jérémy Decerle",
+  "country" : "France",
+  "political_group" : "Renew",
+  "national_political_group" : "Liste L'Europe Ensemble",
+  "final_grade" : 7.528391119785822,
+  "long_id" : 197504
+}, {
+  "mep_id" : 7006,
+  "full_name" : "Jérôme Rivière",
+  "country" : "France",
+  "political_group" : "NI",
+  "national_political_group" : "Indépendant",
+  "final_grade" : 2.8875518746222943,
+  "long_id" : 197615
+}, {
+  "mep_id" : 5143,
+  "full_name" : "József Szájer",
+  "country" : "Hungary",
+  "political_group" : "EPP",
+  "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+  "final_grade" : 4.773288550841648,
+  "long_id" : 23821
+}, {
+  "mep_id" : 6759,
+  "full_name" : "Jörg Meuthen",
+  "country" : "Germany",
+  "political_group" : "NI",
+  "national_political_group" : "Deutsche Zentrumspartei",
+  "final_grade" : 6.32880083921394,
+  "long_id" : 190518
+}, {
+  "mep_id" : 6804,
+  "full_name" : "Jörgen Warborn",
+  "country" : "Sweden",
+  "political_group" : "EPP",
+  "national_political_group" : "Moderaterna",
+  "final_grade" : 6.926458565828563,
+  "long_id" : 197405
+}, {
+  "mep_id" : 6957,
+  "full_name" : "Karen Melchior",
+  "country" : "Denmark",
+  "political_group" : "Renew",
+  "national_political_group" : "Independent",
+  "final_grade" : 13.522798357640843,
+  "long_id" : 197567
+}, {
+  "mep_id" : 6040,
+  "full_name" : "Karima Delli",
+  "country" : "France",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Europe Écologie",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 96868
+}, {
+  "mep_id" : 6800,
+  "full_name" : "Karin Karlsbro",
+  "country" : "Sweden",
+  "political_group" : "Renew",
+  "national_political_group" : "Liberalerna",
+  "final_grade" : 13.06001329679063,
+  "long_id" : 197401
+}, {
+  "mep_id" : 6812,
+  "full_name" : "Karlo Ressler",
+  "country" : "Croatia",
+  "political_group" : "EPP",
+  "national_political_group" : "Hrvatska demokratska zajednica",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197413
+}, {
+  "mep_id" : 6525,
+  "full_name" : "Karol Karski",
+  "country" : "Poland",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 124887
+}, {
+  "mep_id" : 6978,
+  "full_name" : "Katalin Cseh",
+  "country" : "Hungary",
+  "political_group" : "Renew",
+  "national_political_group" : "Momentum",
+  "final_grade" : 16.87151178171352,
+  "long_id" : 197588
+}, {
+  "mep_id" : 6831,
+  "full_name" : "Katarina Barley",
+  "country" : "Germany",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "final_grade" : 15.460520863542595,
+  "long_id" : 197433
+}, {
+  "mep_id" : 5039,
+  "full_name" : "Kateřina Konečná",
+  "country" : "Czechia",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Komunistická strana Čech a Moravy",
+  "final_grade" : 10.915442275833696,
+  "long_id" : 23699
+}, {
+  "mep_id" : 4990,
+  "full_name" : "Kathleen Vanbrempt",
+  "country" : "Belgium",
+  "political_group" : "S&D",
+  "national_political_group" : "Vooruit",
+  "final_grade" : 17.222086777998733,
+  "long_id" : 5729
+}, {
+  "mep_id" : 6625,
+  "full_name" : "Kati Piri",
+  "country" : "Netherlands",
+  "political_group" : "S&D",
+  "national_political_group" : "Partij van de Arbeid",
+  "final_grade" : 16.960881398795753,
+  "long_id" : 37229
+}, {
+  "mep_id" : 6858,
+  "full_name" : "Katrin Langensiepen",
+  "country" : "Germany",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "final_grade" : 19.956111677782335,
+  "long_id" : 197461
+}, {
+  "mep_id" : 7237,
+  "full_name" : "Kim Vansparrentak",
+  "country" : "Netherlands",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "GroenLinks",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197870
+}, {
+  "mep_id" : 5280,
+  "full_name" : "Kinga Gál",
+  "country" : "Hungary",
+  "political_group" : "NI",
+  "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+  "final_grade" : 5.810355963466758,
+  "long_id" : 28150
+}, {
+  "mep_id" : 6963,
+  "full_name" : "Kiramarie Peter-hansen",
+  "country" : "Denmark",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Socialistisk Folkeparti",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197573
+}, {
+  "mep_id" : 6849,
+  "full_name" : "Klemen Grošelj",
+  "country" : "Slovenia",
+  "political_group" : "Renew",
+  "national_political_group" : "Gibanje Svoboda",
+  "final_grade" : 9.151581129686399,
+  "long_id" : 197452
+}, {
+  "mep_id" : 6969,
+  "full_name" : "Klára Dobrev",
+  "country" : "Hungary",
+  "political_group" : "S&D",
+  "national_political_group" : "Demokratikus Koalíció",
+  "final_grade" : 16.14459045413924,
+  "long_id" : 197579
+}, {
+  "mep_id" : 6522,
+  "full_name" : "Kosma Złotowski",
+  "country" : "Poland",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 124884
+}, {
+  "mep_id" : 6819,
+  "full_name" : "Kris Peeters",
+  "country" : "Belgium",
+  "political_group" : "EPP",
+  "national_political_group" : "Christen-Democratisch & Vlaams",
+  "final_grade" : 4.773288550841648,
+  "long_id" : 197420
+}, {
+  "mep_id" : 6534,
+  "full_name" : "Krzysztof Hetman",
+  "country" : "Poland",
+  "political_group" : "EPP",
+  "national_political_group" : "Polskie Stronnictwo Ludowe",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 124895
+}, {
+  "mep_id" : 6911,
+  "full_name" : "Krzysztof Jurgiel",
+  "country" : "Poland",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 197518
+}, {
+  "mep_id" : 7249,
+  "full_name" : "Lara Wolters",
+  "country" : "Netherlands",
+  "political_group" : "S&D",
+  "national_political_group" : "Partij van de Arbeid",
+  "final_grade" : 16.021832994622752,
+  "long_id" : 5392
+}, {
+  "mep_id" : 6875,
+  "full_name" : "Larspatrick Berg",
+  "country" : "Germany",
+  "political_group" : "ECR",
+  "national_political_group" : "Bündnis Deutschland",
+  "final_grade" : 5.650692949671509,
+  "long_id" : 197478
+}, {
+  "mep_id" : 6470,
+  "full_name" : "Laura Ferrara",
+  "country" : "Italy",
+  "political_group" : "NI",
+  "national_political_group" : "Movimento 5 Stelle",
+  "final_grade" : 14.50038025688967,
+  "long_id" : 124833
+}, {
+  "mep_id" : 6986,
+  "full_name" : "Laura Huhtasaari",
+  "country" : "Finland",
+  "political_group" : "NI",
+  "national_political_group" : "Perussuomalaiset",
+  "final_grade" : 2.6521770825428344,
+  "long_id" : 197594
+}, {
+  "mep_id" : 6980,
+  "full_name" : "Laurence Farreng",
+  "country" : "France",
+  "political_group" : "Renew",
+  "national_political_group" : "Mouvement Démocrate",
+  "final_grade" : 10.774771139586974,
+  "long_id" : 197589
+}, {
+  "mep_id" : 5236,
+  "full_name" : "Lefteris Christoforou",
+  "country" : "Cyprus",
+  "political_group" : "EPP",
+  "national_political_group" : "Democratic Rally",
+  "final_grade" : 7.0368978122364885,
+  "long_id" : 26837
+}, {
+  "mep_id" : 6922,
+  "full_name" : "Leila Chaibi",
+  "country" : "France",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "La France Insoumise",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197529
+}, {
+  "mep_id" : 6810,
+  "full_name" : "Lena Düpont",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 99945
+}, {
+  "mep_id" : 7161,
+  "full_name" : "Leopoldo Lópezgil",
+  "country" : "Spain",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Popular",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197777
+}, {
+  "mep_id" : 6933,
+  "full_name" : "Leszek Miller",
+  "country" : "Poland",
+  "political_group" : "S&D",
+  "national_political_group" : "Independent",
+  "final_grade" : 13.06001329679063,
+  "long_id" : 197540
+}, {
+  "mep_id" : 7236,
+  "full_name" : "Liesje Schreinemacher",
+  "country" : "Netherlands",
+  "political_group" : "Renew",
+  "national_political_group" : "Volkspartij voor Vrijheid en Democratie",
+  "final_grade" : 2.0940010659846053,
+  "long_id" : 197869
+}, {
+  "mep_id" : 7090,
+  "full_name" : "Lina Gálvezmuñoz",
+  "country" : "Spain",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "final_grade" : 10.597079492452083,
+  "long_id" : 197702
+}, {
+  "mep_id" : 7259,
+  "full_name" : "Linea Søgaard-lidell",
+  "country" : "Denmark",
+  "political_group" : "Renew",
+  "national_political_group" : "Venstre, Danmarks Liberale Parti",
+  "final_grade" : 2.8875518746222943,
+  "long_id" : 204331
+}, {
+  "mep_id" : 7224,
+  "full_name" : "Liudas Mažylis",
+  "country" : "Lithuania",
+  "political_group" : "EPP",
+  "national_political_group" : "Tėvynės sąjunga-Lietuvos krikščionys demokratai",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197841
+}, {
+  "mep_id" : 5413,
+  "full_name" : "Ljudmila Novak",
+  "country" : "Slovenia",
+  "political_group" : "EPP",
+  "national_political_group" : "Nova Slovenija – Krščanski demokrati",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 28294
+}, {
+  "mep_id" : 7062,
+  "full_name" : "Loránt Vincze",
+  "country" : "Romania",
+  "political_group" : "EPP",
+  "national_political_group" : "Uniunea Democrată Maghiară din România",
+  "final_grade" : 7.657603407851043,
+  "long_id" : 98582
+}, {
+  "mep_id" : 6813,
+  "full_name" : "Loucas Fourlas",
+  "country" : "Cyprus",
+  "political_group" : "EPP",
+  "national_political_group" : "Democratic Rally",
+  "final_grade" : 8.023437843706597,
+  "long_id" : 197414
+}, {
+  "mep_id" : 7183,
+  "full_name" : "Lucia Vuolo",
+  "country" : "Italy",
+  "political_group" : "EPP",
+  "national_political_group" : "Forza Italia",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 197798
+}, {
+  "mep_id" : 7150,
+  "full_name" : "Lucia Ďurišnicholsonová",
+  "country" : "Slovakia",
+  "political_group" : "Renew",
+  "national_political_group" : "Independent",
+  "final_grade" : 12.322544574264858,
+  "long_id" : 197766
+}, {
+  "mep_id" : 6332,
+  "full_name" : "Luděk Niedermayer",
+  "country" : "Czechia",
+  "political_group" : "EPP",
+  "national_political_group" : "TOP 09 a Starostové",
+  "final_grade" : 13.491246293695701,
+  "long_id" : 124701
+}, {
+  "mep_id" : 6947,
+  "full_name" : "Luis Garicano",
+  "country" : "Spain",
+  "political_group" : "Renew",
+  "national_political_group" : "Ciudadanos – Partido de la Ciudadanía",
+  "final_grade" : 5.353901953297563,
+  "long_id" : 197554
+}, {
+  "mep_id" : 7175,
+  "full_name" : "Luisa Regimenti",
+  "country" : "Italy",
+  "political_group" : "EPP",
+  "national_political_group" : "Forza Italia",
+  "final_grade" : 2.8875518746222943,
+  "long_id" : 197790
+}, {
+  "mep_id" : 6761,
+  "full_name" : "Lukas Mandl",
+  "country" : "Austria",
+  "political_group" : "EPP",
+  "national_political_group" : "Österreichische Volkspartei",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 190713
+}, {
+  "mep_id" : 6597,
+  "full_name" : "Lukeming Flanagan",
+  "country" : "Ireland",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Independent",
+  "final_grade" : 16.151619091944237,
+  "long_id" : 124985
+}, {
+  "mep_id" : 7241,
+  "full_name" : "László Trócsányi",
+  "country" : "Hungary",
+  "political_group" : "NI",
+  "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+  "final_grade" : 5.810355963466758,
+  "long_id" : 197894
+}, {
+  "mep_id" : 7120,
+  "full_name" : "Lídia Pereira",
+  "country" : "Portugal",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Social Democrata",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197738
+}, {
+  "mep_id" : 5271,
+  "full_name" : "Lívia Járóka",
+  "country" : "Hungary",
+  "political_group" : "NI",
+  "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+  "final_grade" : 5.810355963466758,
+  "long_id" : 28141
+}, {
+  "mep_id" : 6883,
+  "full_name" : "Magdalena Adamowicz",
+  "country" : "Poland",
+  "political_group" : "EPP",
+  "national_political_group" : "Independent",
+  "final_grade" : 7.124340101924877,
+  "long_id" : 197490
+}, {
+  "mep_id" : 6644,
+  "full_name" : "Maite Pagazaurtundúa",
+  "country" : "Spain",
+  "political_group" : "Renew",
+  "national_political_group" : "Delegación Ciudadanos Europeos",
+  "final_grade" : 6.995127813859657,
+  "long_id" : 125038
+}, {
+  "mep_id" : 7165,
+  "full_name" : "Malik Azmani",
+  "country" : "Netherlands",
+  "political_group" : "Renew",
+  "national_political_group" : "Volkspartij voor Vrijheid en Democratie",
+  "final_grade" : 1.8593495778831515,
+  "long_id" : 197781
+}, {
+  "mep_id" : 6604,
+  "full_name" : "Malin Björk",
+  "country" : "Sweden",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Vänsterpartiet",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 124992
+}, {
+  "mep_id" : 5351,
+  "full_name" : "Manfred Weber",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich-Soziale Union in Bayern e.V.",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 28229
+}, {
+  "mep_id" : 6926,
+  "full_name" : "Manon Aubry",
+  "country" : "France",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "La France Insoumise",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197533
+}, {
+  "mep_id" : 7213,
+  "full_name" : "Manu Pineda",
+  "country" : "Spain",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Izquierda Unida",
+  "final_grade" : 16.928936648795624,
+  "long_id" : 197828
+}, {
+  "mep_id" : 6914,
+  "full_name" : "Manuel Bompard",
+  "country" : "France",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "La France Insoumise",
+  "final_grade" : 19.956505436673037,
+  "long_id" : 197521
+}, {
+  "mep_id" : 7114,
+  "full_name" : "Manuel Pizarro",
+  "country" : "Portugal",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista",
+  "final_grade" : 12.184181109727461,
+  "long_id" : 197732
+}, {
+  "mep_id" : 7280,
+  "full_name" : "Manuela Ripa",
+  "country" : "Germany",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Ökologisch-Demokratische Partei",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 206158
+}, {
+  "mep_id" : 6179,
+  "full_name" : "Mara Bizzotto",
+  "country" : "Italy",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "final_grade" : 2.8875518746222943,
+  "long_id" : 97198
+}, {
+  "mep_id" : 7254,
+  "full_name" : "Marc Angel",
+  "country" : "Luxembourg",
+  "political_group" : "S&D",
+  "national_political_group" : "Parti ouvrier socialiste luxembourgeois",
+  "final_grade" : 13.9407962540187,
+  "long_id" : 202073
+}, {
+  "mep_id" : 6873,
+  "full_name" : "Marc Botenga",
+  "country" : "Belgium",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Parti du Travail de Belgique",
+  "final_grade" : 17.847500292913747,
+  "long_id" : 187917
+}, {
+  "mep_id" : 5624,
+  "full_name" : "Marc Tarabella",
+  "country" : "Belgium",
+  "political_group" : "NI",
+  "national_political_group" : "Independent",
+  "final_grade" : 18.552126658696203,
+  "long_id" : 29579
+}, {
+  "mep_id" : 6630,
+  "full_name" : "Marcel Degraaff",
+  "country" : "Netherlands",
+  "political_group" : "NI",
+  "national_political_group" : "Forum voor Democratie",
+  "final_grade" : 5.57786671766139,
+  "long_id" : 125025
+}, {
+  "mep_id" : 6939,
+  "full_name" : "Marcel Kolaja",
+  "country" : "Czechia",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "PIRÁTI",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197546
+}, {
+  "mep_id" : 6981,
+  "full_name" : "Marco Campomenosi",
+  "country" : "Italy",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 35016
+}, {
+  "mep_id" : 7005,
+  "full_name" : "Marco Dreosto",
+  "country" : "Italy",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "final_grade" : 2.8875518746222943,
+  "long_id" : 197614
+}, {
+  "mep_id" : 6414,
+  "full_name" : "Marco Zanni",
+  "country" : "Italy",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 124780
+}, {
+  "mep_id" : 6695,
+  "full_name" : "Marco Zullo",
+  "country" : "Italy",
+  "political_group" : "Renew",
+  "national_political_group" : "Independent",
+  "final_grade" : 13.06001329679063,
+  "long_id" : 125237
+}, {
+  "mep_id" : 7269,
+  "full_name" : "Marcos Rossempere",
+  "country" : "Spain",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "final_grade" : 11.650760565225719,
+  "long_id" : 204413
+}, {
+  "mep_id" : 6889,
+  "full_name" : "Marek Belka",
+  "country" : "Poland",
+  "political_group" : "S&D",
+  "national_political_group" : "Nowa Lewica",
+  "final_grade" : 13.06001329679063,
+  "long_id" : 197496
+}, {
+  "mep_id" : 6888,
+  "full_name" : "Marekpaweł Balt",
+  "country" : "Poland",
+  "political_group" : "S&D",
+  "national_political_group" : "Nowa Lewica",
+  "final_grade" : 13.06001329679063,
+  "long_id" : 197495
+}, {
+  "mep_id" : 7027,
+  "full_name" : "Margarida Marques",
+  "country" : "Portugal",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista",
+  "final_grade" : 13.06001329679063,
+  "long_id" : 197638
+}, {
+  "mep_id" : 7270,
+  "full_name" : "Margarita Delapisacarrión",
+  "country" : "Spain",
+  "political_group" : "ECR",
+  "national_political_group" : "VOX",
+  "final_grade" : 2.3549769954766777,
+  "long_id" : 204414
+}, {
+  "mep_id" : 5291,
+  "full_name" : "Margrete Auken",
+  "country" : "Denmark",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Socialistisk Folkeparti",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 28161
+}, {
+  "mep_id" : 6553,
+  "full_name" : "Maria Arena",
+  "country" : "Belgium",
+  "political_group" : "S&D",
+  "national_political_group" : "Parti Socialiste",
+  "final_grade" : 18.552126658696203,
+  "long_id" : 124936
+}, {
+  "mep_id" : 6419,
+  "full_name" : "Maria Grapini",
+  "country" : "Romania",
+  "political_group" : "S&D",
+  "national_political_group" : "Partidul Umanist Social Liberal",
+  "final_grade" : 10.774771139586974,
+  "long_id" : 124785
+}, {
+  "mep_id" : 6473,
+  "full_name" : "Maria Noichl",
+  "country" : "Germany",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "final_grade" : 15.460520863542595,
+  "long_id" : 124836
+}, {
+  "mep_id" : 7233,
+  "full_name" : "Maria Walsh",
+  "country" : "Ireland",
+  "political_group" : "EPP",
+  "national_political_group" : "Fine Gael Party",
+  "final_grade" : 9.365518408022064,
+  "long_id" : 197863
+}, {
+  "mep_id" : 7024,
+  "full_name" : "Maria-manuel Leitão-marques",
+  "country" : "Portugal",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista",
+  "final_grade" : 13.045146101694563,
+  "long_id" : 197635
+}, {
+  "mep_id" : 6039,
+  "full_name" : "Mariadagraça Carvalho",
+  "country" : "Portugal",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Social Democrata",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 96867
+}, {
+  "mep_id" : 5646,
+  "full_name" : "Marian-jean Marinescu",
+  "country" : "Romania",
+  "political_group" : "EPP",
+  "national_political_group" : "Partidul Naţional Liberal",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 33982
+}, {
+  "mep_id" : 7251,
+  "full_name" : "Marianne Vind",
+  "country" : "Denmark",
+  "political_group" : "S&D",
+  "national_political_group" : "Socialdemokratiet",
+  "final_grade" : 13.845902923223427,
+  "long_id" : 199941
+}, {
+  "mep_id" : 6894,
+  "full_name" : "Marie Toussaint",
+  "country" : "France",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Europe Écologie",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 97236
+}, {
+  "mep_id" : 6896,
+  "full_name" : "Marie-pierre Vedrenne",
+  "country" : "France",
+  "political_group" : "Renew",
+  "national_political_group" : "Mouvement Démocrate",
+  "final_grade" : 10.774771139586974,
+  "long_id" : 197502
+}, {
+  "mep_id" : 6884,
+  "full_name" : "Marina Kaljurand",
+  "country" : "Estonia",
+  "political_group" : "S&D",
+  "national_political_group" : "Sotsiaaldemokraatlik Erakond",
+  "final_grade" : 12.184181109727461,
+  "long_id" : 197491
+}, {
+  "mep_id" : 7180,
+  "full_name" : "Mario Furore",
+  "country" : "Italy",
+  "political_group" : "NI",
+  "national_political_group" : "Movimento 5 Stelle",
+  "final_grade" : 13.30012647351369,
+  "long_id" : 197795
+}, {
+  "mep_id" : 6827,
+  "full_name" : "Marion Walsmann",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197429
+}, {
+  "mep_id" : 5992,
+  "full_name" : "Marisa Matias",
+  "country" : "Portugal",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Bloco de Esquerda",
+  "final_grade" : 18.552126658696203,
+  "long_id" : 96820
+}, {
+  "mep_id" : 6876,
+  "full_name" : "Markus Buchheit",
+  "country" : "Germany",
+  "political_group" : "ID",
+  "national_political_group" : "Alternative für Deutschland",
+  "final_grade" : 6.32880083921394,
+  "long_id" : 128483
+}, {
+  "mep_id" : 3833,
+  "full_name" : "Markus Ferber",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich-Soziale Union in Bayern e.V.",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 1917
+}, {
+  "mep_id" : 5346,
+  "full_name" : "Markus Pieper",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 28224
+}, {
+  "mep_id" : 6942,
+  "full_name" : "Markéta Gregorová",
+  "country" : "Czechia",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "PIRÁTI",
+  "final_grade" : 19.956630485779588,
+  "long_id" : 197549
+}, {
+  "mep_id" : 6825,
+  "full_name" : "Marlene Mortler",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich-Soziale Union in Bayern e.V.",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197427
+}, {
+  "mep_id" : 6832,
+  "full_name" : "Martin Buschmann",
+  "country" : "Germany",
+  "political_group" : "NI",
+  "national_political_group" : "Independent",
+  "final_grade" : 19.95504394608279,
+  "long_id" : 197434
+}, {
+  "mep_id" : 6919,
+  "full_name" : "Martin Hlaváček",
+  "country" : "Czechia",
+  "political_group" : "Renew",
+  "national_political_group" : "ANO 2011",
+  "final_grade" : 3.706597022267435,
+  "long_id" : 197526
+}, {
+  "mep_id" : 7154,
+  "full_name" : "Martin Hojsík",
+  "country" : "Slovakia",
+  "political_group" : "Renew",
+  "national_political_group" : "Progresívne Slovensko",
+  "final_grade" : 18.03368178294902,
+  "long_id" : 197770
+}, {
+  "mep_id" : 5926,
+  "full_name" : "Martin Häusling",
+  "country" : "Germany",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 96752
+}, {
+  "mep_id" : 6758,
+  "full_name" : "Martin Schirdewan",
+  "country" : "Germany",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "DIE LINKE.",
+  "final_grade" : 14.91305810130933,
+  "long_id" : 190517
+}, {
+  "mep_id" : 6471,
+  "full_name" : "Martin Sonneborn",
+  "country" : "Germany",
+  "political_group" : "NI",
+  "national_political_group" : "Die PARTEI",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 124834
+}, {
+  "mep_id" : 6340,
+  "full_name" : "Martina Dlabajová",
+  "country" : "Czechia",
+  "political_group" : "Renew",
+  "national_political_group" : "ANO 2011",
+  "final_grade" : 3.706597022267435,
+  "long_id" : 124709
+}, {
+  "mep_id" : 6310,
+  "full_name" : "Martina Michels",
+  "country" : "Germany",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "DIE LINKE.",
+  "final_grade" : 15.34002408699395,
+  "long_id" : 120478
+}, {
+  "mep_id" : 4767,
+  "full_name" : "Maríasoraya Rodríguezramos",
+  "country" : "Spain",
+  "political_group" : "Renew",
+  "national_political_group" : "Ciudadanos – Partido de la Ciudadanía",
+  "final_grade" : 9.550707871037751,
+  "long_id" : 4344
+}, {
+  "mep_id" : 6698,
+  "full_name" : "Massimiliano Salini",
+  "country" : "Italy",
+  "political_group" : "EPP",
+  "national_political_group" : "Forza Italia",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 125670
+}, {
+  "mep_id" : 7176,
+  "full_name" : "Massimiliano Smeriglio",
+  "country" : "Italy",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "final_grade" : 14.260267080166612,
+  "long_id" : 197791
+}, {
+  "mep_id" : 7181,
+  "full_name" : "Massimo Casanova",
+  "country" : "Italy",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "final_grade" : 2.8875518746222943,
+  "long_id" : 197796
+}, {
+  "mep_id" : 7079,
+  "full_name" : "Mathilde Androuët",
+  "country" : "France",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 197691
+}, {
+  "mep_id" : 7211,
+  "full_name" : "Matteo Adinolfi",
+  "country" : "Italy",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 197826
+}, {
+  "mep_id" : 6953,
+  "full_name" : "Mauri Pekkarinen",
+  "country" : "Finland",
+  "political_group" : "Renew",
+  "national_political_group" : "Suomen Keskusta",
+  "final_grade" : 1.8593495778831515,
+  "long_id" : 197563
+}, {
+  "mep_id" : 7020,
+  "full_name" : "Maxette Pirbakas",
+  "country" : "France",
+  "political_group" : "NI",
+  "national_political_group" : "Indépendant",
+  "final_grade" : 3.2937259356483475,
+  "long_id" : 197629
+}, {
+  "mep_id" : 6878,
+  "full_name" : "Maximilian Krah",
+  "country" : "Germany",
+  "political_group" : "ID",
+  "national_political_group" : "Alternative für Deutschland",
+  "final_grade" : 7.521222460078381,
+  "long_id" : 197481
+}, {
+  "mep_id" : 7244,
+  "full_name" : "Mazaly Aguilar",
+  "country" : "Spain",
+  "political_group" : "ECR",
+  "national_political_group" : "VOX",
+  "final_grade" : 2.407705100683048,
+  "long_id" : 198096
+}, {
+  "mep_id" : 6367,
+  "full_name" : "Miapetra Kumpula-natri",
+  "country" : "Finland",
+  "political_group" : "S&D",
+  "national_political_group" : "Suomen Sosialidemokraattinen Puolue/Finlands Socialdemokratiska Parti",
+  "final_grade" : 10.741450829687857,
+  "long_id" : 124735
+}, {
+  "mep_id" : 6846,
+  "full_name" : "Michael Bloss",
+  "country" : "Germany",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197449
+}, {
+  "mep_id" : 4659,
+  "full_name" : "Michael Gahler",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 2341
+}, {
+  "mep_id" : 6341,
+  "full_name" : "Michaela Šojdrová",
+  "country" : "Czechia",
+  "political_group" : "EPP",
+  "national_political_group" : "Křesťanská a demokratická unie - Československá strana lidová",
+  "final_grade" : 7.124340101924877,
+  "long_id" : 124710
+}, {
+  "mep_id" : 7153,
+  "full_name" : "Michal Wiezik",
+  "country" : "Slovakia",
+  "political_group" : "Renew",
+  "national_political_group" : "Progresívne Slovensko",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197769
+}, {
+  "mep_id" : 7152,
+  "full_name" : "Michal Šimečka",
+  "country" : "Slovakia",
+  "political_group" : "Renew",
+  "national_political_group" : "Progresívne Slovensko",
+  "final_grade" : 13.97570675819758,
+  "long_id" : 103746
+}, {
+  "mep_id" : 7289,
+  "full_name" : "Michiel Hoogeveen",
+  "country" : "Netherlands",
+  "political_group" : "ECR",
+  "national_political_group" : "JA21",
+  "final_grade" : 7.7785572836729004,
+  "long_id" : 218349
+}, {
+  "mep_id" : 5917,
+  "full_name" : "Michèle Rivasi",
+  "country" : "France",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Europe Écologie",
+  "final_grade" : 19.956505436673037,
+  "long_id" : 96743
+}, {
+  "mep_id" : 7202,
+  "full_name" : "Mick Wallace",
+  "country" : "Ireland",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Independents for change",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197817
+}, {
+  "mep_id" : 6715,
+  "full_name" : "Miguel Urbáncrespo",
+  "country" : "Spain",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "ANTICAPITALISTAS",
+  "final_grade" : 18.552126658696203,
+  "long_id" : 131507
+}, {
+  "mep_id" : 7247,
+  "full_name" : "Mihai Tudose",
+  "country" : "Romania",
+  "political_group" : "S&D",
+  "national_political_group" : "Partidul Social Democrat",
+  "final_grade" : 9.610539460981975,
+  "long_id" : 198183
+}, {
+  "mep_id" : 6932,
+  "full_name" : "Mikuláš Peksa",
+  "country" : "Czechia",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "PIRÁTI",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197539
+}, {
+  "mep_id" : 6843,
+  "full_name" : "Milan Brglez",
+  "country" : "Slovenia",
+  "political_group" : "S&D",
+  "national_political_group" : "Socialni demokrati",
+  "final_grade" : 16.341303820770666,
+  "long_id" : 197446
+}, {
+  "mep_id" : 7147,
+  "full_name" : "Milan Uhrík",
+  "country" : "Slovakia",
+  "political_group" : "NI",
+  "national_political_group" : "Hnutie Republika",
+  "final_grade" : 8.196338136893338,
+  "long_id" : 197763
+}, {
+  "mep_id" : 6094,
+  "full_name" : "Milan Zver",
+  "country" : "Slovenia",
+  "political_group" : "EPP",
+  "national_political_group" : "Slovenska demokratska stranka",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 96933
+}, {
+  "mep_id" : 7035,
+  "full_name" : "Mircea-gheorghe Hava",
+  "country" : "Romania",
+  "political_group" : "EPP",
+  "national_political_group" : "Partidul Naţional Liberal",
+  "final_grade" : 3.9681233942168004,
+  "long_id" : 197646
+}, {
+  "mep_id" : 7264,
+  "full_name" : "Miriam Lexmann",
+  "country" : "Slovakia",
+  "political_group" : "EPP",
+  "national_political_group" : "Kresťanskodemokratické hnutie",
+  "final_grade" : 7.124340101924877,
+  "long_id" : 204336
+}, {
+  "mep_id" : 7148,
+  "full_name" : "Miroslav Radačovský",
+  "country" : "Slovakia",
+  "political_group" : "NI",
+  "national_political_group" : "Slovak PATRIOT",
+  "final_grade" : 6.184489348567069,
+  "long_id" : 197764
+}, {
+  "mep_id" : 7145,
+  "full_name" : "Miroslav Číž",
+  "country" : "Slovakia",
+  "political_group" : "S&D",
+  "national_political_group" : "SMER-Sociálna demokracia",
+  "final_grade" : 11.390630301089772,
+  "long_id" : 197761
+}, {
+  "mep_id" : 6836,
+  "full_name" : "Mislav Kolakušić",
+  "country" : "Croatia",
+  "political_group" : "NI",
+  "national_political_group" : "-",
+  "final_grade" : 9.631671509287262,
+  "long_id" : 197438
+}, {
+  "mep_id" : 7166,
+  "full_name" : "Mohammed Chahim",
+  "country" : "Netherlands",
+  "political_group" : "S&D",
+  "national_political_group" : "Partij van de Arbeid",
+  "final_grade" : 14.82157921124677,
+  "long_id" : 197782
+}, {
+  "mep_id" : 6817,
+  "full_name" : "Monica Semedo",
+  "country" : "Luxembourg",
+  "political_group" : "Renew",
+  "national_political_group" : "Indépendent",
+  "final_grade" : 6.147452761935252,
+  "long_id" : 197418
+}, {
+  "mep_id" : 5173,
+  "full_name" : "Monika Beňová",
+  "country" : "Slovakia",
+  "political_group" : "S&D",
+  "national_political_group" : "SMER-Sociálna demokracia",
+  "final_grade" : 13.06001329679063,
+  "long_id" : 23868
+}, {
+  "mep_id" : 5953,
+  "full_name" : "Monika Hohlmeier",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich-Soziale Union in Bayern e.V.",
+  "final_grade" : 5.940450253609122,
+  "long_id" : 96780
+}, {
+  "mep_id" : 6551,
+  "full_name" : "Monika Vana",
+  "country" : "Austria",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Die Grünen - Die Grüne Alternative",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 124934
+}, {
+  "mep_id" : 6842,
+  "full_name" : "Moritz Körner",
+  "country" : "Germany",
+  "political_group" : "Renew",
+  "national_political_group" : "Freie Demokratische Partei",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 197445
+}, {
+  "mep_id" : 5889,
+  "full_name" : "Morten Løkkegaard",
+  "country" : "Denmark",
+  "political_group" : "Renew",
+  "national_political_group" : "Venstre, Danmarks Liberale Parti",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 96709
+}, {
+  "mep_id" : 6510,
+  "full_name" : "Morten Petersen",
+  "country" : "Denmark",
+  "political_group" : "Renew",
+  "national_political_group" : "Det Radikale Venstre",
+  "final_grade" : 10.241507833660808,
+  "long_id" : 124872
+}, {
+  "mep_id" : 6893,
+  "full_name" : "Mounir Satouri",
+  "country" : "France",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Europe Écologie",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197500
+}, {
+  "mep_id" : 7243,
+  "full_name" : "Márton Gyöngyösi",
+  "country" : "Hungary",
+  "political_group" : "NI",
+  "national_political_group" : "Jobbik – Konzervatívok",
+  "final_grade" : 14.203590915050162,
+  "long_id" : 198063
+}, {
+  "mep_id" : 7111,
+  "full_name" : "Mónicasilvana González",
+  "country" : "Spain",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "final_grade" : 11.92155643001057,
+  "long_id" : 197728
+}, {
+  "mep_id" : 7110,
+  "full_name" : "Nacho Sánchezamor",
+  "country" : "Spain",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "final_grade" : 11.650760565225719,
+  "long_id" : 197722
+}, {
+  "mep_id" : 6368,
+  "full_name" : "Nadine Morano",
+  "country" : "France",
+  "political_group" : "EPP",
+  "national_political_group" : "Les Républicains",
+  "final_grade" : 7.124340101924877,
+  "long_id" : 72779
+}, {
+  "mep_id" : 6929,
+  "full_name" : "Nathalie Colin-oesterlé",
+  "country" : "France",
+  "political_group" : "EPP",
+  "national_political_group" : "Les centristes",
+  "final_grade" : 7.124340101924877,
+  "long_id" : 197536
+}, {
+  "mep_id" : 6887,
+  "full_name" : "Nathalie Loiseau",
+  "country" : "France",
+  "political_group" : "Renew",
+  "national_political_group" : "Liste Renaissance",
+  "final_grade" : 10.774771139586974,
+  "long_id" : 197494
+}, {
+  "mep_id" : 6811,
+  "full_name" : "Niclas Herbst",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197412
+}, {
+  "mep_id" : 6822,
+  "full_name" : "Nico Semsrott",
+  "country" : "Germany",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Independent",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197423
+}, {
+  "mep_id" : 6835,
+  "full_name" : "Nicola Beer",
+  "country" : "Germany",
+  "political_group" : "Renew",
+  "national_political_group" : "Freie Demokratische Partei",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 197437
+}, {
+  "mep_id" : 6458,
+  "full_name" : "Nicola Danti",
+  "country" : "Italy",
+  "political_group" : "Renew",
+  "national_political_group" : "Azione - Italia Viva",
+  "final_grade" : 6.163202239327382,
+  "long_id" : 124821
+}, {
+  "mep_id" : 7205,
+  "full_name" : "Nicola Procaccini",
+  "country" : "Italy",
+  "political_group" : "ECR",
+  "national_political_group" : "Fratelli d'Italia",
+  "final_grade" : 3.0019706564849797,
+  "long_id" : 197820
+}, {
+  "mep_id" : 7055,
+  "full_name" : "Nicolae Ştefănuță",
+  "country" : "Romania",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Independent",
+  "final_grade" : 10.774771139586974,
+  "long_id" : 58766
+}, {
+  "mep_id" : 6394,
+  "full_name" : "Nicolas Bay",
+  "country" : "France",
+  "political_group" : "NI",
+  "national_political_group" : "Reconquête!",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 124760
+}, {
+  "mep_id" : 6877,
+  "full_name" : "Nicolaus Fest",
+  "country" : "Germany",
+  "political_group" : "ID",
+  "national_political_group" : "Alternative für Deutschland",
+  "final_grade" : 6.32880083921394,
+  "long_id" : 197480
+}, {
+  "mep_id" : 7106,
+  "full_name" : "Nicolás Gonzálezcasares",
+  "country" : "Spain",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista Obrero Español",
+  "final_grade" : 13.06001329679063,
+  "long_id" : 197718
+}, {
+  "mep_id" : 6955,
+  "full_name" : "Niels Fuglsang",
+  "country" : "Denmark",
+  "political_group" : "S&D",
+  "national_political_group" : "Socialdemokratiet",
+  "final_grade" : 13.06001329679063,
+  "long_id" : 101585
+}, {
+  "mep_id" : 6862,
+  "full_name" : "Niklas Nienass",
+  "country" : "Germany",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "final_grade" : 19.96051467201658,
+  "long_id" : 197465
+}, {
+  "mep_id" : 6961,
+  "full_name" : "Nikolaj Villumsen",
+  "country" : "Denmark",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Enhedslisten",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197571
+}, {
+  "mep_id" : 6281,
+  "full_name" : "Nils Torvalds",
+  "country" : "Finland",
+  "political_group" : "Renew",
+  "national_political_group" : "Svenska folkpartiet",
+  "final_grade" : 7.3469079037814895,
+  "long_id" : 114268
+}, {
+  "mep_id" : 7195,
+  "full_name" : "Nils Ušakovs",
+  "country" : "Latvia",
+  "political_group" : "S&D",
+  "national_political_group" : "\"Saskaņa\" sociāldemokrātiskā partija",
+  "final_grade" : 10.241507833660808,
+  "long_id" : 197810
+}, {
+  "mep_id" : 6814,
+  "full_name" : "Niyazi Kizilyürek",
+  "country" : "Cyprus",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Progressive Party of Working People - Left - New Forces",
+  "final_grade" : 18.552126658696203,
+  "long_id" : 197415
+}, {
+  "mep_id" : 7272,
+  "full_name" : "Nora Mebarek",
+  "country" : "France",
+  "political_group" : "S&D",
+  "national_political_group" : "Parti socialiste",
+  "final_grade" : 16.51746041221628,
+  "long_id" : 204418
+}, {
+  "mep_id" : 6442,
+  "full_name" : "Norbert Lins",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "final_grade" : 7.657603407851043,
+  "long_id" : 124808
+}, {
+  "mep_id" : 6016,
+  "full_name" : "Norbert Neuser",
+  "country" : "Germany",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "final_grade" : 14.887634760119296,
+  "long_id" : 96844
+}, {
+  "mep_id" : 6121,
+  "full_name" : "Nuno Melo",
+  "country" : "Portugal",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido do Centro Democrático Social-Partido Popular",
+  "final_grade" : 7.100603270219401,
+  "long_id" : 96978
+}, {
+  "mep_id" : 6860,
+  "full_name" : "Olivier Chastel",
+  "country" : "Belgium",
+  "political_group" : "Renew",
+  "national_political_group" : "Mouvement Réformateur",
+  "final_grade" : 8.40438054542457,
+  "long_id" : 197463
+}, {
+  "mep_id" : 6921,
+  "full_name" : "Ondřej Knotek",
+  "country" : "Czechia",
+  "political_group" : "Renew",
+  "national_political_group" : "ANO 2011",
+  "final_grade" : 3.706597022267435,
+  "long_id" : 197528
+}, {
+  "mep_id" : 6917,
+  "full_name" : "Ondřej Kovařík",
+  "country" : "Czechia",
+  "political_group" : "Renew",
+  "national_political_group" : "ANO 2011",
+  "final_grade" : 3.706597022267435,
+  "long_id" : 118949
+}, {
+  "mep_id" : 4669,
+  "full_name" : "Othmar Karas",
+  "country" : "Austria",
+  "political_group" : "EPP",
+  "national_political_group" : "Österreichische Volkspartei",
+  "final_grade" : 7.124340101924877,
+  "long_id" : 4246
+}, {
+  "mep_id" : 5980,
+  "full_name" : "Pablo Ariasecheverría",
+  "country" : "Spain",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Popular",
+  "final_grade" : 5.810355963466758,
+  "long_id" : 96808
+}, {
+  "mep_id" : 7000,
+  "full_name" : "Paolo Borchia",
+  "country" : "Italy",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 101039
+}, {
+  "mep_id" : 6062,
+  "full_name" : "Paolo Decastro",
+  "country" : "Italy",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "final_grade" : 10.597079492452083,
+  "long_id" : 96891
+}, {
+  "mep_id" : 6594,
+  "full_name" : "Pascal Arimont",
+  "country" : "Belgium",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Soziale Partei",
+  "final_grade" : 9.649695435851593,
+  "long_id" : 24922
+}, {
+  "mep_id" : 5891,
+  "full_name" : "Pascal Canfin",
+  "country" : "France",
+  "political_group" : "Renew",
+  "national_political_group" : "Liste Renaissance",
+  "final_grade" : 11.650760565225719,
+  "long_id" : 96711
+}, {
+  "mep_id" : 6324,
+  "full_name" : "Pascal Durand",
+  "country" : "France",
+  "political_group" : "S&D",
+  "national_political_group" : "Liste Renaissance",
+  "final_grade" : 15.740142855364892,
+  "long_id" : 124693
+}, {
+  "mep_id" : 6829,
+  "full_name" : "Patrick Breyer",
+  "country" : "Germany",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Piratenpartei Deutschland",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197431
+}, {
+  "mep_id" : 5459,
+  "full_name" : "Patrizia Toia",
+  "country" : "Italy",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "final_grade" : 11.650760565225719,
+  "long_id" : 28340
+}, {
+  "mep_id" : 6909,
+  "full_name" : "Patryk Jaki",
+  "country" : "Poland",
+  "political_group" : "ECR",
+  "national_political_group" : "Solidarna Polska Zbigniewa Ziobro",
+  "final_grade" : 1.3722868484362525,
+  "long_id" : 197516
+}, {
+  "mep_id" : 6623,
+  "full_name" : "Paul Tang",
+  "country" : "Netherlands",
+  "political_group" : "S&D",
+  "national_political_group" : "Partij van de Arbeid",
+  "final_grade" : 16.021832994622752,
+  "long_id" : 125020
+}, {
+  "mep_id" : 6072,
+  "full_name" : "Paulo Rangel",
+  "country" : "Portugal",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Social Democrata",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 96903
+}, {
+  "mep_id" : 7023,
+  "full_name" : "Pedro Marques",
+  "country" : "Portugal",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista",
+  "final_grade" : 12.184023871151885,
+  "long_id" : 197634
+}, {
+  "mep_id" : 6381,
+  "full_name" : "Pedro Silvapereira",
+  "country" : "Portugal",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista",
+  "final_grade" : 11.479397505369429,
+  "long_id" : 124747
+}, {
+  "mep_id" : 7072,
+  "full_name" : "Pernando Barrenaarza",
+  "country" : "Spain",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "EH BILDU",
+  "final_grade" : 15.665950169005823,
+  "long_id" : 197684
+}, {
+  "mep_id" : 6908,
+  "full_name" : "Pernille Weiss",
+  "country" : "Denmark",
+  "political_group" : "EPP",
+  "national_political_group" : "Det Konservative Folkeparti",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197515
+}, {
+  "mep_id" : 7227,
+  "full_name" : "Petar Vitanov",
+  "country" : "Bulgaria",
+  "political_group" : "S&D",
+  "national_political_group" : "Bulgarian Socialist Party",
+  "final_grade" : 13.273950575126293,
+  "long_id" : 197844
+}, {
+  "mep_id" : 5945,
+  "full_name" : "Peter Jahr",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 96772
+}, {
+  "mep_id" : 6960,
+  "full_name" : "Peter Kofod",
+  "country" : "Denmark",
+  "political_group" : "ID",
+  "national_political_group" : "Dansk Folkeparti",
+  "final_grade" : 7.337178605139125,
+  "long_id" : 197570
+}, {
+  "mep_id" : 3855,
+  "full_name" : "Peter Liese",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 1927
+}, {
+  "mep_id" : 6608,
+  "full_name" : "Peter Lundgren",
+  "country" : "Sweden",
+  "political_group" : "ECR",
+  "national_political_group" : "Sverigedemokraterna",
+  "final_grade" : 4.032391728918639,
+  "long_id" : 124996
+}, {
+  "mep_id" : 7149,
+  "full_name" : "Peter Pollák",
+  "country" : "Slovakia",
+  "political_group" : "EPP",
+  "national_political_group" : "Obyčajní ľudia a nezávislé osobnosti",
+  "final_grade" : 9.623519537464198,
+  "long_id" : 197765
+}, {
+  "mep_id" : 5981,
+  "full_name" : "Peter Vandalen",
+  "country" : "Netherlands",
+  "political_group" : "EPP",
+  "national_political_group" : "ChristenUnie",
+  "final_grade" : 5.553844466651718,
+  "long_id" : 96809
+}, {
+  "mep_id" : 6009,
+  "full_name" : "Petra Kammerevert",
+  "country" : "Germany",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "final_grade" : 15.460520863542595,
+  "long_id" : 96837
+}, {
+  "mep_id" : 6400,
+  "full_name" : "Petras Auštrevičius",
+  "country" : "Lithuania",
+  "political_group" : "Renew",
+  "national_political_group" : "Lietuvos Respublikos liberalų sąjūdis",
+  "final_grade" : 9.499100780988302,
+  "long_id" : 124766
+}, {
+  "mep_id" : 6259,
+  "full_name" : "Petri Sarvamaa",
+  "country" : "Finland",
+  "political_group" : "EPP",
+  "national_political_group" : "Kansallinen Kokoomus",
+  "final_grade" : 7.571921877922897,
+  "long_id" : 112611
+}, {
+  "mep_id" : 5838,
+  "full_name" : "Philippe Lamberts",
+  "country" : "Belgium",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Ecologistes Confédérés pour l'Organisation de Luttes Originales",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 96648
+}, {
+  "mep_id" : 7075,
+  "full_name" : "Philippe Olivier",
+  "country" : "France",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 197687
+}, {
+  "mep_id" : 6984,
+  "full_name" : "Pierfrancesco Majorino",
+  "country" : "Italy",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "final_grade" : 12.184181109727461,
+  "long_id" : 197592
+}, {
+  "mep_id" : 6482,
+  "full_name" : "Piernicola Pedicini",
+  "country" : "Italy",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Independent",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 124844
+}, {
+  "mep_id" : 6975,
+  "full_name" : "Pierre Karleskind",
+  "country" : "France",
+  "political_group" : "Renew",
+  "national_political_group" : "La République en marche",
+  "final_grade" : 10.774771139586974,
+  "long_id" : 197585
+}, {
+  "mep_id" : 7086,
+  "full_name" : "Pierre Larrouturou",
+  "country" : "France",
+  "political_group" : "S&D",
+  "national_political_group" : "Nouvelle Donne",
+  "final_grade" : 17.222086777998733,
+  "long_id" : 197698
+}, {
+  "mep_id" : 6856,
+  "full_name" : "Pierrette Herzberger-fofana",
+  "country" : "Germany",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197459
+}, {
+  "mep_id" : 7193,
+  "full_name" : "Pietro Bartolo",
+  "country" : "Italy",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "final_grade" : 13.06001329679063,
+  "long_id" : 197808
+}, {
+  "mep_id" : 6998,
+  "full_name" : "Pietro Fiocchi",
+  "country" : "Italy",
+  "political_group" : "ECR",
+  "national_political_group" : "Fratelli d'Italia",
+  "final_grade" : 3.0019706564849797,
+  "long_id" : 197607
+}, {
+  "mep_id" : 5508,
+  "full_name" : "Pilar Delcastillovera",
+  "country" : "Spain",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Popular",
+  "final_grade" : 5.810355963466758,
+  "long_id" : 28390
+}, {
+  "mep_id" : 6484,
+  "full_name" : "Pina Picierno",
+  "country" : "Italy",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "final_grade" : 11.650760565225719,
+  "long_id" : 124846
+}, {
+  "mep_id" : 6839,
+  "full_name" : "Predragfred Matić",
+  "country" : "Croatia",
+  "political_group" : "S&D",
+  "national_political_group" : "Socijaldemokratska partija Hrvatske",
+  "final_grade" : 13.845902923223427,
+  "long_id" : 197441
+}, {
+  "mep_id" : 6797,
+  "full_name" : "Pär Holmgren",
+  "country" : "Sweden",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Miljöpartiet de gröna",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197398
+}, {
+  "mep_id" : 7222,
+  "full_name" : "Radan Kanev",
+  "country" : "Bulgaria",
+  "political_group" : "EPP",
+  "national_political_group" : "Democrats for Strong Bulgaria",
+  "final_grade" : 12.633002894404932,
+  "long_id" : 197839
+}, {
+  "mep_id" : 6915,
+  "full_name" : "Radka Maxová",
+  "country" : "Czechia",
+  "political_group" : "S&D",
+  "national_political_group" : "Independent",
+  "final_grade" : 5.458575873544926,
+  "long_id" : 197522
+}, {
+  "mep_id" : 6941,
+  "full_name" : "Radosław Sikorski",
+  "country" : "Poland",
+  "political_group" : "EPP",
+  "national_political_group" : "Platforma Obywatelska",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197548
+}, {
+  "mep_id" : 4880,
+  "full_name" : "Raffaele Fitto",
+  "country" : "Italy",
+  "political_group" : "ECR",
+  "national_political_group" : "Fratelli d'Italia",
+  "final_grade" : 3.380821890357348,
+  "long_id" : 4465
+}, {
+  "mep_id" : 7210,
+  "full_name" : "Raffaele Stancanelli",
+  "country" : "Italy",
+  "political_group" : "ECR",
+  "national_political_group" : "Fratelli d'Italia",
+  "final_grade" : 3.0019706564849797,
+  "long_id" : 197825
+}, {
+  "mep_id" : 4643,
+  "full_name" : "Rainer Wieland",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 2323
+}, {
+  "mep_id" : 6823,
+  "full_name" : "Ralf Seekatz",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197425
+}, {
+  "mep_id" : 7058,
+  "full_name" : "Ramona Strugariu",
+  "country" : "Romania",
+  "political_group" : "Renew",
+  "national_political_group" : "Reînnoim Proiectul European al României",
+  "final_grade" : 10.774771139586974,
+  "long_id" : 134605
+}, {
+  "mep_id" : 7082,
+  "full_name" : "Raphaël Glucksmann",
+  "country" : "France",
+  "political_group" : "S&D",
+  "national_political_group" : "Place publique",
+  "final_grade" : 18.338189380360536,
+  "long_id" : 197694
+}, {
+  "mep_id" : 7223,
+  "full_name" : "Rasa Juknevičienė",
+  "country" : "Lithuania",
+  "political_group" : "EPP",
+  "national_political_group" : "Tėvynės sąjunga-Lietuvos krikščionys demokratai",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197840
+}, {
+  "mep_id" : 6845,
+  "full_name" : "Rasmus Andresen",
+  "country" : "Germany",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197448
+}, {
+  "mep_id" : 5913,
+  "full_name" : "Reinhard Bütikofer",
+  "country" : "Germany",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "final_grade" : 19.95652740232102,
+  "long_id" : 96739
+}, {
+  "mep_id" : 7277,
+  "full_name" : "Riho Terras",
+  "country" : "Estonia",
+  "political_group" : "EPP",
+  "national_political_group" : "Isamaa",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 204449
+}, {
+  "mep_id" : 7160,
+  "full_name" : "Rob Rooken",
+  "country" : "Netherlands",
+  "political_group" : "ECR",
+  "national_political_group" : "JA21",
+  "final_grade" : 4.436013736080729,
+  "long_id" : 197776
+}, {
+  "mep_id" : 6891,
+  "full_name" : "Robert Biedroń",
+  "country" : "Poland",
+  "political_group" : "S&D",
+  "national_political_group" : "Nowa Lewica",
+  "final_grade" : 16.341303820770666,
+  "long_id" : 197498
+}, {
+  "mep_id" : 7146,
+  "full_name" : "Robert Hajšel",
+  "country" : "Slovakia",
+  "political_group" : "S&D",
+  "national_political_group" : "Independent",
+  "final_grade" : 13.06001329679063,
+  "long_id" : 34578
+}, {
+  "mep_id" : 7097,
+  "full_name" : "Robert Roos",
+  "country" : "Netherlands",
+  "political_group" : "ECR",
+  "national_political_group" : "JA21",
+  "final_grade" : 4.436013736080729,
+  "long_id" : 197709
+}, {
+  "mep_id" : 6297,
+  "full_name" : "Roberta Metsola",
+  "country" : "Malta",
+  "political_group" : "EPP",
+  "national_political_group" : "Partit Nazzjonalista",
+  "final_grade" : 7.0368978122364885,
+  "long_id" : 118859
+}, {
+  "mep_id" : 5598,
+  "full_name" : "Roberts Zīle",
+  "country" : "Latvia",
+  "political_group" : "ECR",
+  "national_political_group" : "Nacionālā apvienība \"Visu Latvijai!\"-\"Tēvzemei un Brīvībai/LNNK\"",
+  "final_grade" : 1.592717924920069,
+  "long_id" : 28615
+}, {
+  "mep_id" : 7246,
+  "full_name" : "Roman Haider",
+  "country" : "Austria",
+  "political_group" : "ID",
+  "national_political_group" : "Freiheitliche Partei Österreichs",
+  "final_grade" : 2.9162891265568343,
+  "long_id" : 198176
+}, {
+  "mep_id" : 6263,
+  "full_name" : "Romana Jerković",
+  "country" : "Croatia",
+  "political_group" : "S&D",
+  "national_political_group" : "Socijaldemokratska partija Hrvatske",
+  "final_grade" : 13.06001329679063,
+  "long_id" : 112747
+}, {
+  "mep_id" : 6681,
+  "full_name" : "Romana Tomc",
+  "country" : "Slovenia",
+  "political_group" : "EPP",
+  "national_political_group" : "Slovenska demokratska stranka",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 125104
+}, {
+  "mep_id" : 6775,
+  "full_name" : "Romeo Franz",
+  "country" : "Germany",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "final_grade" : 19.956505436673037,
+  "long_id" : 193273
+}, {
+  "mep_id" : 6472,
+  "full_name" : "Rosa D'amato",
+  "country" : "Italy",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Independent",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 124835
+}, {
+  "mep_id" : 5983,
+  "full_name" : "Rosa Estaràsferragut",
+  "country" : "Spain",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Popular",
+  "final_grade" : 5.810355963466758,
+  "long_id" : 96811
+}, {
+  "mep_id" : 7007,
+  "full_name" : "Rosanna Conte",
+  "country" : "Italy",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 197616
+}, {
+  "mep_id" : 5731,
+  "full_name" : "Rovana Plumb",
+  "country" : "Romania",
+  "political_group" : "S&D",
+  "national_political_group" : "Partidul Social Democrat",
+  "final_grade" : 10.774771139586974,
+  "long_id" : 38595
+}, {
+  "mep_id" : 6300,
+  "full_name" : "Ruža Tomašić",
+  "country" : "Croatia",
+  "political_group" : "ECR",
+  "national_political_group" : "Hrvatska konzervativna stranka",
+  "final_grade" : 1.7998352677425262,
+  "long_id" : 119431
+}, {
+  "mep_id" : 5490,
+  "full_name" : "Ryszard Czarnecki",
+  "country" : "Poland",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 28372
+}, {
+  "mep_id" : 5969,
+  "full_name" : "Ryszardantoni Legutko",
+  "country" : "Poland",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 96796
+}, {
+  "mep_id" : 5949,
+  "full_name" : "Róża Thunundhohenstein",
+  "country" : "Poland",
+  "political_group" : "Renew",
+  "national_political_group" : "Polska 2050",
+  "final_grade" : 18.84527678789931,
+  "long_id" : 96776
+}, {
+  "mep_id" : 5930,
+  "full_name" : "Sabine Verheyen",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 96756
+}, {
+  "mep_id" : 7010,
+  "full_name" : "Sabrina Pignedoli",
+  "country" : "Italy",
+  "political_group" : "NI",
+  "national_political_group" : "Movimento 5 Stelle",
+  "final_grade" : 13.30012647351369,
+  "long_id" : 197619
+}, {
+  "mep_id" : 6904,
+  "full_name" : "Salima Yenbou",
+  "country" : "France",
+  "political_group" : "Renew",
+  "national_political_group" : "Renaissance",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197511
+}, {
+  "mep_id" : 7261,
+  "full_name" : "Salvatore Demeo",
+  "country" : "Italy",
+  "political_group" : "EPP",
+  "national_political_group" : "Forza Italia",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 204333
+}, {
+  "mep_id" : 7235,
+  "full_name" : "Samira Rafaela",
+  "country" : "Netherlands",
+  "political_group" : "Renew",
+  "national_political_group" : "Democraten 66",
+  "final_grade" : 14.82157921124677,
+  "long_id" : 197868
+}, {
+  "mep_id" : 6095,
+  "full_name" : "Sandra Kalniete",
+  "country" : "Latvia",
+  "political_group" : "EPP",
+  "national_political_group" : "Partija \"VIENOTĪBA\"",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 96934
+}, {
+  "mep_id" : 7138,
+  "full_name" : "Sandra Pereira",
+  "country" : "Portugal",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Partido Comunista Português",
+  "final_grade" : 18.065580830499524,
+  "long_id" : 197754
+}, {
+  "mep_id" : 7273,
+  "full_name" : "Sandro Gozi",
+  "country" : "France",
+  "political_group" : "Renew",
+  "national_political_group" : "Liste Renaissance",
+  "final_grade" : 11.650760565225719,
+  "long_id" : 204419
+}, {
+  "mep_id" : 7030,
+  "full_name" : "Sara Cerdas",
+  "country" : "Portugal",
+  "political_group" : "S&D",
+  "national_political_group" : "Partido Socialista",
+  "final_grade" : 13.06001329679063,
+  "long_id" : 197641
+}, {
+  "mep_id" : 7281,
+  "full_name" : "Sara Matthieu",
+  "country" : "Belgium",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Groen",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 208722
+}, {
+  "mep_id" : 6790,
+  "full_name" : "Sara Skyttedal",
+  "country" : "Sweden",
+  "political_group" : "EPP",
+  "national_political_group" : "Kristdemokraterna",
+  "final_grade" : 4.968383145225851,
+  "long_id" : 197390
+}, {
+  "mep_id" : 7064,
+  "full_name" : "Sarah Wiener",
+  "country" : "Austria",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Die Grünen - Die Grüne Alternative",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197675
+}, {
+  "mep_id" : 6867,
+  "full_name" : "Saskia Bricmont",
+  "country" : "Belgium",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Ecologistes Confédérés pour l'Organisation de Luttes Originales",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197470
+}, {
+  "mep_id" : 6490,
+  "full_name" : "Sergei Stanishev",
+  "country" : "Bulgaria",
+  "political_group" : "S&D",
+  "national_political_group" : "Bulgarian Socialist Party",
+  "final_grade" : 13.273950575126293,
+  "long_id" : 124852
+}, {
+  "mep_id" : 6857,
+  "full_name" : "Sergey Lagodinsky",
+  "country" : "Germany",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197460
+}, {
+  "mep_id" : 4978,
+  "full_name" : "Sergio Berlato",
+  "country" : "Italy",
+  "political_group" : "ECR",
+  "national_political_group" : "Fratelli d'Italia",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 4746
+}, {
+  "mep_id" : 5855,
+  "full_name" : "Seán Kelly",
+  "country" : "Ireland",
+  "political_group" : "EPP",
+  "national_political_group" : "Fine Gael Party",
+  "final_grade" : 8.489528982383316,
+  "long_id" : 96668
+}, {
+  "mep_id" : 6436,
+  "full_name" : "Siegfried Mureşan",
+  "country" : "Romania",
+  "political_group" : "EPP",
+  "national_political_group" : "Partidul Naţional Liberal",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 124802
+}, {
+  "mep_id" : 7190,
+  "full_name" : "Silvia Modig",
+  "country" : "Finland",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Vasemmistoliitto",
+  "final_grade" : 18.76112560688513,
+  "long_id" : 197805
+}, {
+  "mep_id" : 6968,
+  "full_name" : "Silvia Sardone",
+  "country" : "Italy",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 197578
+}, {
+  "mep_id" : 4806,
+  "full_name" : "Silvio Berlusconi",
+  "country" : "Italy",
+  "political_group" : "EPP",
+  "national_political_group" : "Forza Italia",
+  "final_grade" : 7.0368978122364885,
+  "long_id" : 4391
+}, {
+  "mep_id" : 7174,
+  "full_name" : "Simona Baldassarre",
+  "country" : "Italy",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "final_grade" : 2.8875518746222943,
+  "long_id" : 197789
+}, {
+  "mep_id" : 6449,
+  "full_name" : "Simona Bonafè",
+  "country" : "Italy",
+  "political_group" : "S&D",
+  "national_political_group" : "Partito Democratico",
+  "final_grade" : 12.184181109727461,
+  "long_id" : 124814
+}, {
+  "mep_id" : 7045,
+  "full_name" : "Simone Schmiedtbauer",
+  "country" : "Austria",
+  "political_group" : "EPP",
+  "national_political_group" : "Österreichische Volkspartei",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197656
+}, {
+  "mep_id" : 7069,
+  "full_name" : "Sira Rego",
+  "country" : "Spain",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "Izquierda Unida",
+  "final_grade" : 16.928936648795624,
+  "long_id" : 197681
+}, {
+  "mep_id" : 5788,
+  "full_name" : "Sirpa Pietikäinen",
+  "country" : "Finland",
+  "political_group" : "EPP",
+  "national_political_group" : "Kansallinen Kokoomus",
+  "final_grade" : 17.325287724756862,
+  "long_id" : 40599
+}, {
+  "mep_id" : 5908,
+  "full_name" : "Ska Keller",
+  "country" : "Germany",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 96734
+}, {
+  "mep_id" : 5385,
+  "full_name" : "Sophia In'tveld",
+  "country" : "Netherlands",
+  "political_group" : "Renew",
+  "national_political_group" : "Independent",
+  "final_grade" : 11.12229079088888,
+  "long_id" : 28266
+}, {
+  "mep_id" : 6335,
+  "full_name" : "Stanislav Polčák",
+  "country" : "Czechia",
+  "political_group" : "EPP",
+  "national_political_group" : "Starostové a nezávisli",
+  "final_grade" : 17.645023004523328,
+  "long_id" : 124704
+}, {
+  "mep_id" : 7220,
+  "full_name" : "Stasys Jakeliūnas",
+  "country" : "Lithuania",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Independent",
+  "final_grade" : 19.950252381430555,
+  "long_id" : 197837
+}, {
+  "mep_id" : 6809,
+  "full_name" : "Stefan Berger",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "final_grade" : 7.657603407851043,
+  "long_id" : 197410
+}, {
+  "mep_id" : 6976,
+  "full_name" : "Stefania Zambelli",
+  "country" : "Italy",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 197586
+}, {
+  "mep_id" : 6944,
+  "full_name" : "Stéphane Bijoux",
+  "country" : "France",
+  "political_group" : "Renew",
+  "national_political_group" : "La République en marche",
+  "final_grade" : 10.774771139586974,
+  "long_id" : 197551
+}, {
+  "mep_id" : 6902,
+  "full_name" : "Stéphane Séjourné",
+  "country" : "France",
+  "political_group" : "Renew",
+  "national_political_group" : "La République en marche",
+  "final_grade" : 11.650760565225719,
+  "long_id" : 197508
+}, {
+  "mep_id" : 6971,
+  "full_name" : "Stéphanie Yon-courtin",
+  "country" : "France",
+  "political_group" : "Renew",
+  "national_political_group" : "Liste Renaissance",
+  "final_grade" : 10.774771139586974,
+  "long_id" : 197581
+}, {
+  "mep_id" : 7253,
+  "full_name" : "Sunčana Glavak",
+  "country" : "Croatia",
+  "political_group" : "EPP",
+  "national_political_group" : "Hrvatska demokratska zajednica",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 202036
+}, {
+  "mep_id" : 7168,
+  "full_name" : "Susana Solíspérez",
+  "country" : "Spain",
+  "political_group" : "Renew",
+  "national_political_group" : "Ciudadanos – Partido de la Ciudadanía",
+  "final_grade" : 6.995127813859657,
+  "long_id" : 197784
+}, {
+  "mep_id" : 7170,
+  "full_name" : "Susanna Ceccardi",
+  "country" : "Italy",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 197786
+}, {
+  "mep_id" : 5904,
+  "full_name" : "Sven Giegold",
+  "country" : "Germany",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "final_grade" : 19.956505436673037,
+  "long_id" : 96730
+}, {
+  "mep_id" : 6890,
+  "full_name" : "Sven Mikser",
+  "country" : "Estonia",
+  "political_group" : "S&D",
+  "national_political_group" : "Sotsiaaldemokraatlik Erakond",
+  "final_grade" : 13.06001329679063,
+  "long_id" : 197497
+}, {
+  "mep_id" : 6443,
+  "full_name" : "Sven Schulze",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "final_grade" : 8.136766346301153,
+  "long_id" : 124809
+}, {
+  "mep_id" : 6824,
+  "full_name" : "Sven Simon",
+  "country" : "Germany",
+  "political_group" : "EPP",
+  "national_political_group" : "Christlich Demokratische Union Deutschlands",
+  "final_grade" : 3.9681233942168004,
+  "long_id" : 197426
+}, {
+  "mep_id" : 6841,
+  "full_name" : "Svenja Hahn",
+  "country" : "Germany",
+  "political_group" : "Renew",
+  "national_political_group" : "Freie Demokratische Partei",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 197444
+}, {
+  "mep_id" : 6880,
+  "full_name" : "Sylvia Limmer",
+  "country" : "Germany",
+  "political_group" : "ID",
+  "national_political_group" : "Alternative für Deutschland",
+  "final_grade" : 6.32880083921394,
+  "long_id" : 197483
+}, {
+  "mep_id" : 6966,
+  "full_name" : "Sylvie Brunet",
+  "country" : "France",
+  "political_group" : "Renew",
+  "national_political_group" : "Mouvement Démocrate",
+  "final_grade" : 11.650760565225719,
+  "long_id" : 197576
+}, {
+  "mep_id" : 6107,
+  "full_name" : "Sylvie Guillaume",
+  "country" : "France",
+  "political_group" : "S&D",
+  "national_political_group" : "Parti socialiste",
+  "final_grade" : 16.51746041221628,
+  "long_id" : 96952
+}, {
+  "mep_id" : 6943,
+  "full_name" : "Sylwia Spurek",
+  "country" : "Poland",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Independent",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197550
+}, {
+  "mep_id" : 6974,
+  "full_name" : "Sándor Rónai",
+  "country" : "Hungary",
+  "political_group" : "S&D",
+  "national_political_group" : "Demokratikus Koalíció",
+  "final_grade" : 16.14459045413924,
+  "long_id" : 197584
+}, {
+  "mep_id" : 6948,
+  "full_name" : "Søren Gade",
+  "country" : "Denmark",
+  "political_group" : "Renew",
+  "national_political_group" : "Venstre, Danmarks Liberale Parti",
+  "final_grade" : 2.8875518746222943,
+  "long_id" : 197555
+}, {
+  "mep_id" : 5998,
+  "full_name" : "Tamás Deutsch",
+  "country" : "Hungary",
+  "political_group" : "NI",
+  "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+  "final_grade" : 5.810355963466758,
+  "long_id" : 96826
+}, {
+  "mep_id" : 6080,
+  "full_name" : "Tanja Fajon",
+  "country" : "Slovenia",
+  "political_group" : "S&D",
+  "national_political_group" : "Socialni demokrati",
+  "final_grade" : 16.87151178171352,
+  "long_id" : 96911
+}, {
+  "mep_id" : 5602,
+  "full_name" : "Tatjana Ždanoka",
+  "country" : "Latvia",
+  "political_group" : "NI",
+  "national_political_group" : "Latvijas Krievu savienība",
+  "final_grade" : 18.84527678789931,
+  "long_id" : 28619
+}, {
+  "mep_id" : 6529,
+  "full_name" : "Terry Reintke",
+  "country" : "Germany",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 103381
+}, {
+  "mep_id" : 6989,
+  "full_name" : "Teuvo Hakkarainen",
+  "country" : "Finland",
+  "political_group" : "ECR",
+  "national_political_group" : "Perussuomalaiset",
+  "final_grade" : 2.3549769954766777,
+  "long_id" : 197596
+}, {
+  "mep_id" : 7013,
+  "full_name" : "Thierry Mariani",
+  "country" : "France",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 197623
+}, {
+  "mep_id" : 7288,
+  "full_name" : "Thijs Reuten",
+  "country" : "Netherlands",
+  "political_group" : "S&D",
+  "national_political_group" : "Partij van de Arbeid",
+  "final_grade" : 14.847500879546587,
+  "long_id" : 218347
+}, {
+  "mep_id" : 6757,
+  "full_name" : "Thomas Waitz",
+  "country" : "Austria",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Die Grünen - Die Grüne Alternative",
+  "final_grade" : 18.552126658696203,
+  "long_id" : 190464
+}, {
+  "mep_id" : 6735,
+  "full_name" : "Tiemo Wölken",
+  "country" : "Germany",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "final_grade" : 16.341303820770666,
+  "long_id" : 185619
+}, {
+  "mep_id" : 6776,
+  "full_name" : "Tilly Metz",
+  "country" : "Luxembourg",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Déi Gréng - Les Verts",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 193292
+}, {
+  "mep_id" : 7156,
+  "full_name" : "Tineke Strik",
+  "country" : "Netherlands",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "GroenLinks",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197772
+}, {
+  "mep_id" : 6411,
+  "full_name" : "Tiziana Beghin",
+  "country" : "Italy",
+  "political_group" : "NI",
+  "national_political_group" : "Movimento 5 Stelle",
+  "final_grade" : 13.30012647351369,
+  "long_id" : 124777
+}, {
+  "mep_id" : 7162,
+  "full_name" : "Tom Berendsen",
+  "country" : "Netherlands",
+  "political_group" : "EPP",
+  "national_political_group" : "Christen Democratisch Appèl",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 197778
+}, {
+  "mep_id" : 7234,
+  "full_name" : "Tom Vandendriessche",
+  "country" : "Belgium",
+  "political_group" : "ID",
+  "national_political_group" : "Vlaams Belang",
+  "final_grade" : 5.948731868022321,
+  "long_id" : 185771
+}, {
+  "mep_id" : 6706,
+  "full_name" : "Tom Vandenkendelaere",
+  "country" : "Belgium",
+  "political_group" : "EPP",
+  "national_political_group" : "Christen-Democratisch & Vlaams",
+  "final_grade" : 6.907729480605295,
+  "long_id" : 129164
+}, {
+  "mep_id" : 6801,
+  "full_name" : "Tomas Tobé",
+  "country" : "Sweden",
+  "political_group" : "EPP",
+  "national_political_group" : "Moderaterna",
+  "final_grade" : 6.926458565828563,
+  "long_id" : 197402
+}, {
+  "mep_id" : 6906,
+  "full_name" : "Tomasz Frankowski",
+  "country" : "Poland",
+  "political_group" : "EPP",
+  "national_political_group" : "Platforma Obywatelska",
+  "final_grade" : 7.0368978122364885,
+  "long_id" : 197513
+}, {
+  "mep_id" : 5974,
+  "full_name" : "Tomaszpiotr Poręba",
+  "country" : "Poland",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 96801
+}, {
+  "mep_id" : 6816,
+  "full_name" : "Tomislav Sokol",
+  "country" : "Croatia",
+  "political_group" : "EPP",
+  "national_political_group" : "Hrvatska demokratska zajednica",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197417
+}, {
+  "mep_id" : 6344,
+  "full_name" : "Tomáš Zdechovský",
+  "country" : "Czechia",
+  "political_group" : "EPP",
+  "national_political_group" : "Křesťanská a demokratická unie - Československá strana lidová",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 124713
+}, {
+  "mep_id" : 6261,
+  "full_name" : "Tonino Picula",
+  "country" : "Croatia",
+  "political_group" : "S&D",
+  "national_political_group" : "Socijaldemokratska partija Hrvatske",
+  "final_grade" : 13.06001329679063,
+  "long_id" : 112744
+}, {
+  "mep_id" : 7060,
+  "full_name" : "Traian Băsescu",
+  "country" : "Romania",
+  "political_group" : "EPP",
+  "national_political_group" : "Partidul Mișcarea Populară",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197671
+}, {
+  "mep_id" : 7228,
+  "full_name" : "Tsvetelina Penkova",
+  "country" : "Bulgaria",
+  "political_group" : "S&D",
+  "national_political_group" : "Bulgarian Socialist Party",
+  "final_grade" : 13.273950575126293,
+  "long_id" : 197845
+}, {
+  "mep_id" : 7046,
+  "full_name" : "Tudor Ciuhodaru",
+  "country" : "Romania",
+  "political_group" : "S&D",
+  "national_political_group" : "Partidul Social Democrat",
+  "final_grade" : 9.610539460981975,
+  "long_id" : 197657
+}, {
+  "mep_id" : 4690,
+  "full_name" : "Udo Bullmann",
+  "country" : "Germany",
+  "political_group" : "S&D",
+  "national_political_group" : "Sozialdemokratische Partei Deutschlands",
+  "final_grade" : 16.341303820770666,
+  "long_id" : 4267
+}, {
+  "mep_id" : 6500,
+  "full_name" : "Ulrike Müller",
+  "country" : "Germany",
+  "political_group" : "Renew",
+  "national_political_group" : "Freie Wähler",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 124862
+}, {
+  "mep_id" : 6705,
+  "full_name" : "Urmas Paet",
+  "country" : "Estonia",
+  "political_group" : "Renew",
+  "national_political_group" : "Eesti Reformierakond",
+  "final_grade" : 3.833896231017255,
+  "long_id" : 129073
+}, {
+  "mep_id" : 7184,
+  "full_name" : "Valentino Grant",
+  "country" : "Italy",
+  "political_group" : "ID",
+  "national_political_group" : "Lega",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 197799
+}, {
+  "mep_id" : 6818,
+  "full_name" : "Valter Flego",
+  "country" : "Croatia",
+  "political_group" : "Renew",
+  "national_political_group" : "Istarski demokratski sabor - Dieta democratica istriana",
+  "final_grade" : 6.163202239327382,
+  "long_id" : 197419
+}, {
+  "mep_id" : 6959,
+  "full_name" : "Valérie Hayer",
+  "country" : "France",
+  "political_group" : "Renew",
+  "national_political_group" : "Renaissance",
+  "final_grade" : 10.774771139586974,
+  "long_id" : 135511
+}, {
+  "mep_id" : 7026,
+  "full_name" : "Vasile Blaga",
+  "country" : "Romania",
+  "political_group" : "EPP",
+  "national_political_group" : "Partidul Naţional Liberal",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 197637
+}, {
+  "mep_id" : 7140,
+  "full_name" : "Vera Tax",
+  "country" : "Netherlands",
+  "political_group" : "S&D",
+  "national_political_group" : "Partij van de Arbeid",
+  "final_grade" : 16.021832994622752,
+  "long_id" : 197756
+}, {
+  "mep_id" : 6945,
+  "full_name" : "Veronika Vrecionová",
+  "country" : "Czechia",
+  "political_group" : "ECR",
+  "national_political_group" : "Občanská demokratická strana",
+  "final_grade" : 3.0019706564849797,
+  "long_id" : 197552
+}, {
+  "mep_id" : 6691,
+  "full_name" : "Victor Negrescu",
+  "country" : "Romania",
+  "political_group" : "S&D",
+  "national_political_group" : "Partidul Social Democrat",
+  "final_grade" : 11.650760565225719,
+  "long_id" : 88882
+}, {
+  "mep_id" : 5879,
+  "full_name" : "Viktor Uspaskich",
+  "country" : "Lithuania",
+  "political_group" : "NI",
+  "national_political_group" : "Darbo partija",
+  "final_grade" : 9.365518408022064,
+  "long_id" : 96698
+}, {
+  "mep_id" : 5867,
+  "full_name" : "Vilija Blinkevičiūtė",
+  "country" : "Lithuania",
+  "political_group" : "S&D",
+  "national_political_group" : "Lietuvos socialdemokratų partija",
+  "final_grade" : 12.184181109727461,
+  "long_id" : 96681
+}, {
+  "mep_id" : 7187,
+  "full_name" : "Ville Niinistö",
+  "country" : "Finland",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Vihreä liitto",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 197802
+}, {
+  "mep_id" : 7262,
+  "full_name" : "Vincenzo Sofo",
+  "country" : "Italy",
+  "political_group" : "ECR",
+  "national_political_group" : "Fratelli d'Italia",
+  "final_grade" : 3.0019706564849797,
+  "long_id" : 204334
+}, {
+  "mep_id" : 6848,
+  "full_name" : "Viola Voncramon-taubadel",
+  "country" : "Germany",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Bündnis 90/Die Grünen",
+  "final_grade" : 19.948949752499164,
+  "long_id" : 197451
+}, {
+  "mep_id" : 7017,
+  "full_name" : "Virginie Joron",
+  "country" : "France",
+  "political_group" : "ID",
+  "national_political_group" : "Rassemblement national",
+  "final_grade" : 2.563975943665607,
+  "long_id" : 197627
+}, {
+  "mep_id" : 7283,
+  "full_name" : "Vlad Gheorghe",
+  "country" : "Romania",
+  "political_group" : "Renew",
+  "national_political_group" : "Uniunea Salvați România",
+  "final_grade" : 11.357433058106311,
+  "long_id" : 209140
+}, {
+  "mep_id" : 7057,
+  "full_name" : "Vlad-marius Botoş",
+  "country" : "Romania",
+  "political_group" : "Renew",
+  "national_political_group" : "Uniunea Salvați România",
+  "final_grade" : 10.774771139586974,
+  "long_id" : 197668
+}, {
+  "mep_id" : 7155,
+  "full_name" : "Vladimír Bilčík",
+  "country" : "Slovakia",
+  "political_group" : "EPP",
+  "national_political_group" : "Slovakia – Demokrati",
+  "final_grade" : 15.563986263919277,
+  "long_id" : 197771
+}, {
+  "mep_id" : 6985,
+  "full_name" : "Véronique Trillet-lenoir",
+  "country" : "France",
+  "political_group" : "Renew",
+  "national_political_group" : "Liste Renaissance",
+  "final_grade" : 9.610539460981975,
+  "long_id" : 197593
+}, {
+  "mep_id" : 5878,
+  "full_name" : "Waldemar Tomaszewski",
+  "country" : "Lithuania",
+  "political_group" : "ECR",
+  "national_political_group" : "Lietuvos lenkų rinkimų akcija – Krikščioniškų šeimų sąjunga",
+  "final_grade" : 1.592717924920069,
+  "long_id" : 96697
+}, {
+  "mep_id" : 6956,
+  "full_name" : "Witoldjan Waszczykowski",
+  "country" : "Poland",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "final_grade" : 1.154723212100696,
+  "long_id" : 197566
+}, {
+  "mep_id" : 6901,
+  "full_name" : "Włodzimierz Cimoszewicz",
+  "country" : "Poland",
+  "political_group" : "S&D",
+  "national_political_group" : "Sojusz Lewicy Demokratycznej - Unia Pracy",
+  "final_grade" : 13.06001329679063,
+  "long_id" : 197507
+}, {
+  "mep_id" : 6331,
+  "full_name" : "Yana Toom",
+  "country" : "Estonia",
+  "political_group" : "Renew",
+  "national_political_group" : "Eesti Keskerakond",
+  "final_grade" : 3.0019706564849797,
+  "long_id" : 124700
+}, {
+  "mep_id" : 5914,
+  "full_name" : "Yannick Jadot",
+  "country" : "France",
+  "political_group" : "Greens/EFA",
+  "national_political_group" : "Europe Écologie",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 96740
+}, {
+  "mep_id" : 6250,
+  "full_name" : "Younous Omarjee",
+  "country" : "France",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "La France Insoumise",
+  "final_grade" : 19.961379390261115,
+  "long_id" : 30482
+}, {
+  "mep_id" : 5507,
+  "full_name" : "Zbigniew Kuźmiuk",
+  "country" : "Poland",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "final_grade" : 1.3004502573469168,
+  "long_id" : 28389
+}, {
+  "mep_id" : 6530,
+  "full_name" : "Zdzisław Krasnodębski",
+  "country" : "Poland",
+  "political_group" : "ECR",
+  "national_political_group" : "Prawo i Sprawiedliwość",
+  "final_grade" : 1.3004502573469168,
+  "long_id" : 124891
+}, {
+  "mep_id" : 6001,
+  "full_name" : "Ádám Kósa",
+  "country" : "Hungary",
+  "political_group" : "NI",
+  "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+  "final_grade" : 5.810355963466758,
+  "long_id" : 96829
+}, {
+  "mep_id" : 7129,
+  "full_name" : "Álvaro Amaro",
+  "country" : "Portugal",
+  "political_group" : "EPP",
+  "national_political_group" : "Partido Social Democrata",
+  "final_grade" : 7.0368978122364885,
+  "long_id" : 197746
+}, {
+  "mep_id" : 6865,
+  "full_name" : "Özlem Demirel",
+  "country" : "Germany",
+  "political_group" : "GUE/NGL",
+  "national_political_group" : "DIE LINKE.",
+  "final_grade" : 18.354641934367887,
+  "long_id" : 197468
+}, {
+  "mep_id" : 6916,
+  "full_name" : "Łukasz Kohut",
+  "country" : "Poland",
+  "political_group" : "S&D",
+  "national_political_group" : "Nowa Lewica",
+  "final_grade" : 17.96449383067124,
+  "long_id" : 197523
+}, {
+  "mep_id" : 6734,
+  "full_name" : "Željana Zovko",
+  "country" : "Croatia",
+  "political_group" : "EPP",
+  "national_political_group" : "Hrvatska demokratska zajednica",
+  "final_grade" : 6.2483506762861305,
+  "long_id" : 185341
+} ]
