@@ -1,6 +1,6 @@
 [ {
   "mep_id" : 6799,
-  "full_name" : "Abir Al-sahlani Se",
+  "full_name" : "Abir Al-sahlani",
   "country" : "Sweden",
   "political_group" : "Renew",
   "national_political_group" : "Centerpartiet",
@@ -9,7 +9,7 @@
   "code" : "se"
 }, {
   "mep_id" : 5112,
-  "full_name" : "Adam Bielan Pl",
+  "full_name" : "Adam Bielan",
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Partia Republikańska",
@@ -18,7 +18,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6910,
-  "full_name" : "Adam Jarubas Pl",
+  "full_name" : "Adam Jarubas",
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Polskie Stronnictwo Ludowe",
@@ -27,7 +27,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 7047,
-  "full_name" : "Adrian-dragoş Benea Ro",
+  "full_name" : "Adrian-dragoş Benea",
   "country" : "Romania",
   "political_group" : "S&D",
   "national_political_group" : "Partidul Social Democrat",
@@ -36,7 +36,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 7117,
-  "full_name" : "Adriana Maldonadolópez Es",
+  "full_name" : "Adriana Maldonadolópez",
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
@@ -45,7 +45,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7268,
-  "full_name" : "Adrián Vázquezlázara Es",
+  "full_name" : "Adrián Vázquezlázara",
   "country" : "Spain",
   "political_group" : "Renew",
   "national_political_group" : "Ciudadanos – Partido de la Ciudadanía",
@@ -54,7 +54,7 @@
   "code" : "es"
 }, {
   "mep_id" : 6624,
-  "full_name" : "Agnes Jongerius Nl",
+  "full_name" : "Agnes Jongerius",
   "country" : "Netherlands",
   "political_group" : "S&D",
   "national_political_group" : "Partij van de Arbeid",
@@ -63,7 +63,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 6928,
-  "full_name" : "Agnès Evren Fr",
+  "full_name" : "Agnès Evren",
   "country" : "France",
   "political_group" : "EPP",
   "national_political_group" : "Les Républicains",
@@ -72,7 +72,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 5702,
-  "full_name" : "Aldo Patriciello It",
+  "full_name" : "Aldo Patriciello",
   "country" : "Italy",
   "political_group" : "EPP",
   "national_political_group" : "Forza Italia",
@@ -81,7 +81,7 @@
   "code" : "it"
 }, {
   "mep_id" : 7001,
-  "full_name" : "Alessandra Basso It",
+  "full_name" : "Alessandra Basso",
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
@@ -90,7 +90,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6433,
-  "full_name" : "Alessandra Moretti It",
+  "full_name" : "Alessandra Moretti",
   "country" : "Italy",
   "political_group" : "S&D",
   "national_political_group" : "Partito Democratico",
@@ -99,7 +99,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6979,
-  "full_name" : "Alessandro Panza It",
+  "full_name" : "Alessandro Panza",
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
@@ -108,7 +108,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6802,
-  "full_name" : "Alex Agiussaliba Mt",
+  "full_name" : "Alex Agiussaliba",
   "country" : "Malta",
   "political_group" : "S&D",
   "national_political_group" : "Partit Laburista",
@@ -117,7 +117,7 @@
   "code" : "mt"
 }, {
   "mep_id" : 7219,
-  "full_name" : "Alexander Alexandrovyordanov Bg",
+  "full_name" : "Alexander Alexandrovyordanov",
   "country" : "Bulgaria",
   "political_group" : "EPP",
   "national_political_group" : "Union of Democratic Forces",
@@ -126,7 +126,7 @@
   "code" : "bg"
 }, {
   "mep_id" : 7037,
-  "full_name" : "Alexander Bernhuber At",
+  "full_name" : "Alexander Bernhuber",
   "country" : "Austria",
   "political_group" : "EPP",
   "national_political_group" : "Österreichische Volkspartei",
@@ -135,7 +135,7 @@
   "code" : "at"
 }, {
   "mep_id" : 6930,
-  "full_name" : "Alexandr Vondra Cz",
+  "full_name" : "Alexandr Vondra",
   "country" : "Czechia",
   "political_group" : "ECR",
   "national_political_group" : "Občanská demokratická strana",
@@ -144,7 +144,7 @@
   "code" : "cz"
 }, {
   "mep_id" : 6853,
-  "full_name" : "Alexandra Geese De",
+  "full_name" : "Alexandra Geese",
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
@@ -153,7 +153,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6415,
-  "full_name" : "Alfred Sant Mt",
+  "full_name" : "Alfred Sant",
   "country" : "Malta",
   "political_group" : "S&D",
   "national_political_group" : "Partit Laburista",
@@ -162,7 +162,7 @@
   "code" : "mt"
 }, {
   "mep_id" : 6795,
-  "full_name" : "Alice Kuhnke Se",
+  "full_name" : "Alice Kuhnke",
   "country" : "Sweden",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Miljöpartiet de gröna",
@@ -171,7 +171,7 @@
   "code" : "se"
 }, {
   "mep_id" : 7122,
-  "full_name" : "Alicia Homsginel Es",
+  "full_name" : "Alicia Homsginel",
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
@@ -180,7 +180,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7285,
-  "full_name" : "Alin Mituța Ro",
+  "full_name" : "Alin Mituța",
   "country" : "Romania",
   "political_group" : "Renew",
   "national_political_group" : "Reînnoim Proiectul European al României",
@@ -189,7 +189,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 7263,
-  "full_name" : "Alviina Alametsä Fi",
+  "full_name" : "Alviina Alametsä",
   "country" : "Finland",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Vihreä liitto",
@@ -198,7 +198,7 @@
   "code" : "fi"
 }, {
   "mep_id" : 6345,
-  "full_name" : "Andor Deli Hu",
+  "full_name" : "Andor Deli",
   "country" : "Hungary",
   "political_group" : "NI",
   "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
@@ -207,7 +207,7 @@
   "code" : "hu"
 }, {
   "mep_id" : 6343,
-  "full_name" : "Andrea Bocskor Hu",
+  "full_name" : "Andrea Bocskor",
   "country" : "Hungary",
   "political_group" : "NI",
   "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
@@ -216,7 +216,7 @@
   "code" : "hu"
 }, {
   "mep_id" : 7182,
-  "full_name" : "Andrea Caroppo It",
+  "full_name" : "Andrea Caroppo",
   "country" : "Italy",
   "political_group" : "EPP",
   "national_political_group" : "Forza Italia",
@@ -225,7 +225,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6051,
-  "full_name" : "Andrea Cozzolino It",
+  "full_name" : "Andrea Cozzolino",
   "country" : "Italy",
   "political_group" : "NI",
   "national_political_group" : "Partito Democratico",
@@ -234,7 +234,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6840,
-  "full_name" : "Andreas Glueck De",
+  "full_name" : "Andreas Glueck",
   "country" : "Germany",
   "political_group" : "Renew",
   "national_political_group" : "Freie Demokratische Partei",
@@ -243,7 +243,7 @@
   "code" : "de"
 }, {
   "mep_id" : 7059,
-  "full_name" : "Andreas Schieder At",
+  "full_name" : "Andreas Schieder",
   "country" : "Austria",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Österreichs",
@@ -252,7 +252,7 @@
   "code" : "at"
 }, {
   "mep_id" : 5345,
-  "full_name" : "Andreas Schwab De",
+  "full_name" : "Andreas Schwab",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
@@ -261,7 +261,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6196,
-  "full_name" : "Andrey Kovatchev Bg",
+  "full_name" : "Andrey Kovatchev",
   "country" : "Bulgaria",
   "political_group" : "EPP",
   "national_political_group" : "Citizens for European Development of Bulgaria",
@@ -270,7 +270,7 @@
   "code" : "bg"
 }, {
   "mep_id" : 6709,
-  "full_name" : "Andrey Novakov Bg",
+  "full_name" : "Andrey Novakov",
   "country" : "Bulgaria",
   "political_group" : "EPP",
   "national_political_group" : "Citizens for European Development of Bulgaria",
@@ -279,7 +279,7 @@
   "code" : "bg"
 }, {
   "mep_id" : 7231,
-  "full_name" : "Andrey Slabakov Bg",
+  "full_name" : "Andrey Slabakov",
   "country" : "Bulgaria",
   "political_group" : "ECR",
   "national_political_group" : "VMRO",
@@ -288,7 +288,7 @@
   "code" : "bg"
 }, {
   "mep_id" : 7167,
-  "full_name" : "Andris Ameriks Lv",
+  "full_name" : "Andris Ameriks",
   "country" : "Latvia",
   "political_group" : "S&D",
   "national_political_group" : "Gods kalpot Rīgai",
@@ -297,7 +297,7 @@
   "code" : "lv"
 }, {
   "mep_id" : 7226,
-  "full_name" : "Andrius Kubilius Lt",
+  "full_name" : "Andrius Kubilius",
   "country" : "Lithuania",
   "political_group" : "EPP",
   "national_political_group" : "Tėvynės sąjunga-Lietuvos krikščionys demokratai",
@@ -306,7 +306,7 @@
   "code" : "lt"
 }, {
   "mep_id" : 6327,
-  "full_name" : "Andrus Ansip Ee",
+  "full_name" : "Andrus Ansip",
   "country" : "Estonia",
   "political_group" : "Renew",
   "national_political_group" : "Eesti Reformierakond",
@@ -315,7 +315,7 @@
   "code" : "ee"
 }, {
   "mep_id" : 6907,
-  "full_name" : "Andrzej Halicki Pl",
+  "full_name" : "Andrzej Halicki",
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Platforma Obywatelska",
@@ -324,7 +324,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 5138,
-  "full_name" : "András Gyürk Hu",
+  "full_name" : "András Gyürk",
   "country" : "Hungary",
   "political_group" : "NI",
   "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
@@ -333,7 +333,7 @@
   "code" : "hu"
 }, {
   "mep_id" : 7078,
-  "full_name" : "André Rougé Fr",
+  "full_name" : "André Rougé",
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
@@ -342,7 +342,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6934,
-  "full_name" : "Andżelikaanna Możdżanowska Pl",
+  "full_name" : "Andżelikaanna Możdżanowska",
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
@@ -351,7 +351,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6511,
-  "full_name" : "Angel Dzhambazki Bg",
+  "full_name" : "Angel Dzhambazki",
   "country" : "Bulgaria",
   "political_group" : "ECR",
   "national_political_group" : "VMRO",
@@ -360,7 +360,7 @@
   "code" : "bg"
 }, {
   "mep_id" : 4712,
-  "full_name" : "Angelika Niebler De",
+  "full_name" : "Angelika Niebler",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich-Soziale Union in Bayern e.V.",
@@ -369,7 +369,7 @@
   "code" : "de"
 }, {
   "mep_id" : 7041,
-  "full_name" : "Angelika Winzig At",
+  "full_name" : "Angelika Winzig",
   "country" : "Austria",
   "political_group" : "EPP",
   "national_political_group" : "Österreichische Volkspartei",
@@ -378,7 +378,7 @@
   "code" : "at"
 }, {
   "mep_id" : 6731,
-  "full_name" : "Angelo Ciocca It",
+  "full_name" : "Angelo Ciocca",
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
@@ -387,7 +387,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6628,
-  "full_name" : "Anja Hazekamp Nl",
+  "full_name" : "Anja Hazekamp",
   "country" : "Netherlands",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Partij voor de Dieren",
@@ -396,7 +396,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 7172,
-  "full_name" : "Anna Bonfrisco It",
+  "full_name" : "Anna Bonfrisco",
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
@@ -405,7 +405,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6847,
-  "full_name" : "Anna Cavazzini De",
+  "full_name" : "Anna Cavazzini",
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
@@ -414,7 +414,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6850,
-  "full_name" : "Anna Deparnay-grunenberg De",
+  "full_name" : "Anna Deparnay-grunenberg",
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
@@ -423,7 +423,7 @@
   "code" : "de"
 }, {
   "mep_id" : 5472,
-  "full_name" : "Anna Fotyga Pl",
+  "full_name" : "Anna Fotyga",
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
@@ -432,7 +432,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6962,
-  "full_name" : "Anna Zalewska Pl",
+  "full_name" : "Anna Zalewska",
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
@@ -441,7 +441,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6987,
-  "full_name" : "Annajúlia Donáth Hu",
+  "full_name" : "Annajúlia Donáth",
   "country" : "Hungary",
   "political_group" : "Renew",
   "national_political_group" : "Momentum",
@@ -450,7 +450,7 @@
   "code" : "hu"
 }, {
   "mep_id" : 7191,
-  "full_name" : "Annalisa Tardino It",
+  "full_name" : "Annalisa Tardino",
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
@@ -459,7 +459,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6370,
-  "full_name" : "Anne Sander Fr",
+  "full_name" : "Anne Sander",
   "country" : "France",
   "political_group" : "EPP",
   "national_political_group" : "Les Républicains",
@@ -468,7 +468,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6920,
-  "full_name" : "Anne-sophie Pelletier Fr",
+  "full_name" : "Anne-sophie Pelletier",
   "country" : "France",
   "political_group" : "GUE/NGL",
   "national_political_group" : "La France Insoumise",
@@ -477,7 +477,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6636,
-  "full_name" : "Annie Schreijer-pierik Nl",
+  "full_name" : "Annie Schreijer-pierik",
   "country" : "Netherlands",
   "political_group" : "EPP",
   "national_political_group" : "Christen Democratisch Appèl",
@@ -486,7 +486,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 7076,
-  "full_name" : "Annika Bruna Fr",
+  "full_name" : "Annika Bruna",
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
@@ -495,7 +495,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 7258,
-  "full_name" : "Antoni Comínioliveres Es",
+  "full_name" : "Antoni Comínioliveres",
   "country" : "Spain",
   "political_group" : "NI",
   "national_political_group" : "Junts per Catalunya - Lliures per Europa",
@@ -504,7 +504,7 @@
   "code" : "es"
 }, {
   "mep_id" : 5517,
-  "full_name" : "Antonio López-istúrizwhite Es",
+  "full_name" : "Antonio López-istúrizwhite",
   "country" : "Spain",
   "political_group" : "EPP",
   "national_political_group" : "Partido Popular",
@@ -513,7 +513,7 @@
   "code" : "es"
 }, {
   "mep_id" : 4482,
-  "full_name" : "Antonio Tajani It",
+  "full_name" : "Antonio Tajani",
   "country" : "Italy",
   "political_group" : "EPP",
   "national_political_group" : "Forza Italia",
@@ -522,7 +522,7 @@
   "code" : "it"
 }, {
   "mep_id" : 7171,
-  "full_name" : "Antoniomaria Rinaldi It",
+  "full_name" : "Antoniomaria Rinaldi",
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
@@ -531,7 +531,7 @@
   "code" : "it"
 }, {
   "mep_id" : 4964,
-  "full_name" : "Antonius Manders Nl",
+  "full_name" : "Antonius Manders",
   "country" : "Netherlands",
   "political_group" : "EPP",
   "national_political_group" : "Christen Democratisch Appèl",
@@ -540,7 +540,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 6805,
-  "full_name" : "Arba Kokalari Se",
+  "full_name" : "Arba Kokalari",
   "country" : "Sweden",
   "political_group" : "EPP",
   "national_political_group" : "Moderaterna",
@@ -549,7 +549,7 @@
   "code" : "se"
 }, {
   "mep_id" : 5921,
-  "full_name" : "Arnaud Danjean Fr",
+  "full_name" : "Arnaud Danjean",
   "country" : "France",
   "political_group" : "EPP",
   "national_political_group" : "Les Républicains",
@@ -558,7 +558,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6951,
-  "full_name" : "Asger Christensen Dk",
+  "full_name" : "Asger Christensen",
   "country" : "Denmark",
   "political_group" : "Renew",
   "national_political_group" : "Venstre, Danmarks Liberale Parti",
@@ -567,7 +567,7 @@
   "code" : "dk"
 }, {
   "mep_id" : 6755,
-  "full_name" : "Asim Ademov Bg",
+  "full_name" : "Asim Ademov",
   "country" : "Bulgaria",
   "political_group" : "EPP",
   "national_political_group" : "Citizens for European Development of Bulgaria",
@@ -576,7 +576,7 @@
   "code" : "bg"
 }, {
   "mep_id" : 6866,
-  "full_name" : "Assita Kanko Be",
+  "full_name" : "Assita Kanko",
   "country" : "Belgium",
   "political_group" : "ECR",
   "national_political_group" : "Nieuw-Vlaamse Alliantie",
@@ -585,7 +585,7 @@
   "code" : "be"
 }, {
   "mep_id" : 7230,
-  "full_name" : "Atidzhe Alieva-veli Bg",
+  "full_name" : "Atidzhe Alieva-veli",
   "country" : "Bulgaria",
   "political_group" : "Renew",
   "national_political_group" : "Movement for Rights and Freedoms",
@@ -594,7 +594,7 @@
   "code" : "bg"
 }, {
   "mep_id" : 6977,
-  "full_name" : "Attila Ara-kovács Hu",
+  "full_name" : "Attila Ara-kovács",
   "country" : "Hungary",
   "political_group" : "S&D",
   "national_political_group" : "Demokratikus Koalíció",
@@ -603,7 +603,7 @@
   "code" : "hu"
 }, {
   "mep_id" : 7085,
-  "full_name" : "Aurore Lalucq Fr",
+  "full_name" : "Aurore Lalucq",
   "country" : "France",
   "political_group" : "S&D",
   "national_political_group" : "Place publique",
@@ -612,7 +612,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 7068,
-  "full_name" : "Aurélia Beigneux Fr",
+  "full_name" : "Aurélia Beigneux",
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
@@ -621,7 +621,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 7218,
-  "full_name" : "Aušra Maldeikienė Lt",
+  "full_name" : "Aušra Maldeikienė",
   "country" : "Lithuania",
   "political_group" : "EPP",
   "national_political_group" : "Tėvynės sąjunga-Lietuvos krikščionys demokratai",
@@ -630,7 +630,7 @@
   "code" : "lt"
 }, {
   "mep_id" : 5934,
-  "full_name" : "Axel Voss De",
+  "full_name" : "Axel Voss",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
@@ -639,7 +639,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6318,
-  "full_name" : "Balázs Hidvéghi Hu",
+  "full_name" : "Balázs Hidvéghi",
   "country" : "Hungary",
   "political_group" : "NI",
   "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
@@ -648,7 +648,7 @@
   "code" : "hu"
 }, {
   "mep_id" : 7056,
-  "full_name" : "Barbara Thaler At",
+  "full_name" : "Barbara Thaler",
   "country" : "Austria",
   "political_group" : "EPP",
   "national_political_group" : "Österreichische Volkspartei",
@@ -657,7 +657,7 @@
   "code" : "at"
 }, {
   "mep_id" : 7260,
-  "full_name" : "Barry Andrews Ie",
+  "full_name" : "Barry Andrews",
   "country" : "Ireland",
   "political_group" : "Renew",
   "national_political_group" : "Fianna Fáil Party",
@@ -666,7 +666,7 @@
   "code" : "ie"
 }, {
   "mep_id" : 7164,
-  "full_name" : "Bart Groothuis Nl",
+  "full_name" : "Bart Groothuis",
   "country" : "Netherlands",
   "political_group" : "Renew",
   "national_political_group" : "Volkspartij voor Vrijheid en Democratie",
@@ -675,7 +675,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 6885,
-  "full_name" : "Bartosz Arłukowicz Pl",
+  "full_name" : "Bartosz Arłukowicz",
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Platforma Obywatelska",
@@ -684,7 +684,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 5899,
-  "full_name" : "Bas Eickhout Nl",
+  "full_name" : "Bas Eickhout",
   "country" : "Netherlands",
   "political_group" : "Greens/EFA",
   "national_political_group" : "GroenLinks",
@@ -693,7 +693,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 6912,
-  "full_name" : "Beata Kempa Pl",
+  "full_name" : "Beata Kempa",
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Solidarna Polska Zbigniewa Ziobro",
@@ -702,7 +702,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6931,
-  "full_name" : "Beata Mazurek Pl",
+  "full_name" : "Beata Mazurek",
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
@@ -711,7 +711,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6946,
-  "full_name" : "Beata Szydło Pl",
+  "full_name" : "Beata Szydło",
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
@@ -720,7 +720,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6905,
-  "full_name" : "Benoît Biteau Fr",
+  "full_name" : "Benoît Biteau",
   "country" : "France",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Europe Écologie",
@@ -729,7 +729,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6855,
-  "full_name" : "Benoît Lutgen Be",
+  "full_name" : "Benoît Lutgen",
   "country" : "Belgium",
   "political_group" : "EPP",
   "national_political_group" : "Les Engagés",
@@ -738,7 +738,7 @@
   "code" : "be"
 }, {
   "mep_id" : 6936,
-  "full_name" : "Bernard Guetta Fr",
+  "full_name" : "Bernard Guetta",
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Liste Renaissance",
@@ -747,7 +747,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 3823,
-  "full_name" : "Bernd Lange De",
+  "full_name" : "Bernd Lange",
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
@@ -756,7 +756,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6882,
-  "full_name" : "Bernhard Zimniok De",
+  "full_name" : "Bernhard Zimniok",
   "country" : "Germany",
   "political_group" : "ID",
   "national_political_group" : "Alternative für Deutschland",
@@ -765,7 +765,7 @@
   "code" : "de"
 }, {
   "mep_id" : 7157,
-  "full_name" : "Bert-jan Ruissen Nl",
+  "full_name" : "Bert-jan Ruissen",
   "country" : "Netherlands",
   "political_group" : "ECR",
   "national_political_group" : "Staatkundig Gereformeerde Partij",
@@ -774,7 +774,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 7066,
-  "full_name" : "Bettina Vollath At",
+  "full_name" : "Bettina Vollath",
   "country" : "Austria",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Österreichs",
@@ -783,7 +783,7 @@
   "code" : "at"
 }, {
   "mep_id" : 6264,
-  "full_name" : "Biljana Borzan Hr",
+  "full_name" : "Biljana Borzan",
   "country" : "Croatia",
   "political_group" : "S&D",
   "national_political_group" : "Socijaldemokratska partija Hrvatske",
@@ -792,7 +792,7 @@
   "code" : "hr"
 }, {
   "mep_id" : 7203,
-  "full_name" : "Billy Kelleher Ie",
+  "full_name" : "Billy Kelleher",
   "country" : "Ireland",
   "political_group" : "Renew",
   "national_political_group" : "Fianna Fáil Party",
@@ -801,7 +801,7 @@
   "code" : "ie"
 }, {
   "mep_id" : 6093,
-  "full_name" : "Birgit Sippel De",
+  "full_name" : "Birgit Sippel",
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
@@ -810,7 +810,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6938,
-  "full_name" : "Bogdan Rzońca Pl",
+  "full_name" : "Bogdan Rzońca",
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
@@ -819,7 +819,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 5094,
-  "full_name" : "Bogusław Liberadzki Pl",
+  "full_name" : "Bogusław Liberadzki",
   "country" : "Poland",
   "political_group" : "S&D",
   "national_political_group" : "Nowa Lewica",
@@ -828,7 +828,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6505,
-  "full_name" : "Brando Benifei It",
+  "full_name" : "Brando Benifei",
   "country" : "Italy",
   "political_group" : "S&D",
   "national_political_group" : "Partito Democratico",
@@ -837,7 +837,7 @@
   "code" : "it"
 }, {
   "mep_id" : 4987,
-  "full_name" : "Brice Hortefeux Fr",
+  "full_name" : "Brice Hortefeux",
   "country" : "France",
   "political_group" : "EPP",
   "national_political_group" : "Les Républicains",
@@ -846,7 +846,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6694,
-  "full_name" : "Bronis Ropė Lt",
+  "full_name" : "Bronis Ropė",
   "country" : "Lithuania",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Lietuvos valstiečių ir žaliųjų sąjunga",
@@ -855,7 +855,7 @@
   "code" : "lt"
 }, {
   "mep_id" : 7257,
-  "full_name" : "Carles Puigdemonticasamajó Es",
+  "full_name" : "Carles Puigdemonticasamajó",
   "country" : "Spain",
   "political_group" : "NI",
   "national_political_group" : "Junts per Catalunya - Lliures per Europa",
@@ -864,7 +864,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7008,
-  "full_name" : "Carlo Calenda It",
+  "full_name" : "Carlo Calenda",
   "country" : "Italy",
   "political_group" : "Renew",
   "national_political_group" : "Azione",
@@ -873,7 +873,7 @@
   "code" : "it"
 }, {
   "mep_id" : 5982,
-  "full_name" : "Carlo Fidanza It",
+  "full_name" : "Carlo Fidanza",
   "country" : "Italy",
   "political_group" : "ECR",
   "national_political_group" : "Fratelli d'Italia",
@@ -882,7 +882,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6373,
-  "full_name" : "Carlos Zorrinho Pt",
+  "full_name" : "Carlos Zorrinho",
   "country" : "Portugal",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista",
@@ -891,7 +891,7 @@
   "code" : "pt"
 }, {
   "mep_id" : 7040,
-  "full_name" : "Carmen Avram Ro",
+  "full_name" : "Carmen Avram",
   "country" : "Romania",
   "political_group" : "S&D",
   "national_political_group" : "Partidul Social Democrat",
@@ -900,7 +900,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 6760,
-  "full_name" : "Caroline Nagtegaal Nl",
+  "full_name" : "Caroline Nagtegaal",
   "country" : "Netherlands",
   "political_group" : "Renew",
   "national_political_group" : "Volkspartij voor Vrijheid en Democratie",
@@ -909,7 +909,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 6900,
-  "full_name" : "Caroline Roose Fr",
+  "full_name" : "Caroline Roose",
   "country" : "France",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Europe Écologie",
@@ -918,7 +918,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6499,
-  "full_name" : "Caterina Chinnici It",
+  "full_name" : "Caterina Chinnici",
   "country" : "Italy",
   "political_group" : "EPP",
   "national_political_group" : "Forza Italia",
@@ -927,7 +927,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6899,
-  "full_name" : "Catherine Chabaud Fr",
+  "full_name" : "Catherine Chabaud",
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Mouvement Démocrate",
@@ -936,7 +936,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 7019,
-  "full_name" : "Catherine Griset Fr",
+  "full_name" : "Catherine Griset",
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
@@ -945,7 +945,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 1793,
-  "full_name" : "Charles Goerens Lu",
+  "full_name" : "Charles Goerens",
   "country" : "Luxembourg",
   "political_group" : "Renew",
   "national_political_group" : "Parti démocratique",
@@ -954,7 +954,7 @@
   "code" : "lu"
 }, {
   "mep_id" : 6808,
-  "full_name" : "Charlie Weimers Se",
+  "full_name" : "Charlie Weimers",
   "country" : "Sweden",
   "political_group" : "ECR",
   "national_political_group" : "Sverigedemokraterna",
@@ -963,7 +963,7 @@
   "code" : "se"
 }, {
   "mep_id" : 7179,
-  "full_name" : "Chiara Gemma It",
+  "full_name" : "Chiara Gemma",
   "country" : "Italy",
   "political_group" : "ECR",
   "national_political_group" : "FRATELLI D' ITALIA",
@@ -972,7 +972,7 @@
   "code" : "it"
 }, {
   "mep_id" : 7279,
-  "full_name" : "Chris Macmanus Ie",
+  "full_name" : "Chris Macmanus",
   "country" : "Ireland",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Sinn Féin",
@@ -981,7 +981,7 @@
   "code" : "ie"
 }, {
   "mep_id" : 5713,
-  "full_name" : "Christel Schaldemose Dk",
+  "full_name" : "Christel Schaldemose",
   "country" : "Denmark",
   "political_group" : "S&D",
   "national_political_group" : "Socialdemokratiet",
@@ -990,7 +990,7 @@
   "code" : "dk"
 }, {
   "mep_id" : 6870,
-  "full_name" : "Christian Doleschal De",
+  "full_name" : "Christian Doleschal",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich-Soziale Union in Bayern e.V.",
@@ -999,7 +999,7 @@
   "code" : "de"
 }, {
   "mep_id" : 5348,
-  "full_name" : "Christian Ehler De",
+  "full_name" : "Christian Ehler",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
@@ -1008,7 +1008,7 @@
   "code" : "de"
 }, {
   "mep_id" : 7266,
-  "full_name" : "Christian Sagartz At",
+  "full_name" : "Christian Sagartz",
   "country" : "Austria",
   "political_group" : "EPP",
   "national_political_group" : "Österreichische Volkspartei",
@@ -1017,7 +1017,7 @@
   "code" : "at"
 }, {
   "mep_id" : 6872,
-  "full_name" : "Christine Anderson De",
+  "full_name" : "Christine Anderson",
   "country" : "Germany",
   "political_group" : "ID",
   "national_political_group" : "Alternative für Deutschland",
@@ -1026,7 +1026,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6821,
-  "full_name" : "Christine Schneider De",
+  "full_name" : "Christine Schneider",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
@@ -1035,7 +1035,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6950,
-  "full_name" : "Christophe Grudler Fr",
+  "full_name" : "Christophe Grudler",
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Mouvement Démocrate",
@@ -1044,7 +1044,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6777,
-  "full_name" : "Christophe Hansen Lu",
+  "full_name" : "Christophe Hansen",
   "country" : "Luxembourg",
   "political_group" : "EPP",
   "national_political_group" : "Parti chrétien social luxembourgeois",
@@ -1053,7 +1053,7 @@
   "code" : "lu"
 }, {
   "mep_id" : 6892,
-  "full_name" : "Chrysoula Zacharopoulou Fr",
+  "full_name" : "Chrysoula Zacharopoulou",
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "La République en marche",
@@ -1062,7 +1062,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 7043,
-  "full_name" : "Ciarán Cuffe Ie",
+  "full_name" : "Ciarán Cuffe",
   "country" : "Ireland",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Green Party",
@@ -1071,7 +1071,7 @@
   "code" : "ie"
 }, {
   "mep_id" : 6852,
-  "full_name" : "Cindy Franssen Be",
+  "full_name" : "Cindy Franssen",
   "country" : "Belgium",
   "political_group" : "EPP",
   "national_political_group" : "Christen-Democratisch & Vlaams",
@@ -1080,7 +1080,7 @@
   "code" : "be"
 }, {
   "mep_id" : 6651,
-  "full_name" : "Clara Aguilera Es",
+  "full_name" : "Clara Aguilera",
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
@@ -1089,7 +1089,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7276,
-  "full_name" : "Clara Ponsatíobiols Es",
+  "full_name" : "Clara Ponsatíobiols",
   "country" : "Spain",
   "political_group" : "NI",
   "national_political_group" : "Junts per Catalunya - Lliures per Europa",
@@ -1098,7 +1098,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7113,
-  "full_name" : "Clare Daly Ie",
+  "full_name" : "Clare Daly",
   "country" : "Ireland",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Independents for change",
@@ -1107,7 +1107,7 @@
   "code" : "ie"
 }, {
   "mep_id" : 7274,
-  "full_name" : "Claude Gruffat Fr",
+  "full_name" : "Claude Gruffat",
   "country" : "France",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Europe Écologie",
@@ -1116,7 +1116,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 7022,
-  "full_name" : "Claudia Gamon At",
+  "full_name" : "Claudia Gamon",
   "country" : "Austria",
   "political_group" : "Renew",
   "national_political_group" : "NEOS – Das Neue Österreich",
@@ -1125,7 +1125,7 @@
   "code" : "at"
 }, {
   "mep_id" : 7042,
-  "full_name" : "Claudiu Manda Ro",
+  "full_name" : "Claudiu Manda",
   "country" : "Romania",
   "political_group" : "S&D",
   "national_political_group" : "Partidul Social Democrat",
@@ -1134,7 +1134,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 7053,
-  "full_name" : "Clotilde Armand Ro",
+  "full_name" : "Clotilde Armand",
   "country" : "Romania",
   "political_group" : "Renew",
   "national_political_group" : "Uniunea Salvați România",
@@ -1143,7 +1143,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 6366,
-  "full_name" : "Cláudia Monteirodeaguiar Pt",
+  "full_name" : "Cláudia Monteirodeaguiar",
   "country" : "Portugal",
   "political_group" : "EPP",
   "national_political_group" : "Partido Social Democrata",
@@ -1152,7 +1152,7 @@
   "code" : "pt"
 }, {
   "mep_id" : 7284,
-  "full_name" : "Colm Markey Ie",
+  "full_name" : "Colm Markey",
   "country" : "Ireland",
   "political_group" : "EPP",
   "national_political_group" : "Fine Gael Party",
@@ -1161,7 +1161,7 @@
   "code" : "ie"
 }, {
   "mep_id" : 3761,
-  "full_name" : "Constanze Krehl De",
+  "full_name" : "Constanze Krehl",
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
@@ -1170,7 +1170,7 @@
   "code" : "de"
 }, {
   "mep_id" : 5661,
-  "full_name" : "Corina Crețu Ro",
+  "full_name" : "Corina Crețu",
   "country" : "Romania",
   "political_group" : "S&D",
   "national_political_group" : "PRO Romania",
@@ -1179,7 +1179,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 6024,
-  "full_name" : "Cornelia Ernst De",
+  "full_name" : "Cornelia Ernst",
   "country" : "Germany",
   "political_group" : "GUE/NGL",
   "national_political_group" : "DIE LINKE.",
@@ -1188,7 +1188,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6322,
-  "full_name" : "Costas Mavrides Cy",
+  "full_name" : "Costas Mavrides",
   "country" : "Cyprus",
   "political_group" : "S&D",
   "national_political_group" : "Democratic Party",
@@ -1197,7 +1197,7 @@
   "code" : "cy"
 }, {
   "mep_id" : 7050,
-  "full_name" : "Cristian Ghinea Ro",
+  "full_name" : "Cristian Ghinea",
   "country" : "Romania",
   "political_group" : "Renew",
   "national_political_group" : "USR-PLUS",
@@ -1206,7 +1206,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 7044,
-  "full_name" : "Cristian Terheş Ro",
+  "full_name" : "Cristian Terheş",
   "country" : "Romania",
   "political_group" : "ECR",
   "national_political_group" : "Partidul Național Țărănesc Creștin Democrat",
@@ -1215,7 +1215,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 5729,
-  "full_name" : "Cristian-silviu Buşoi Ro",
+  "full_name" : "Cristian-silviu Buşoi",
   "country" : "Romania",
   "political_group" : "EPP",
   "national_political_group" : "Partidul Naţional Liberal",
@@ -1224,7 +1224,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 7107,
-  "full_name" : "Cristina Maestremartíndealmagro Es",
+  "full_name" : "Cristina Maestremartíndealmagro",
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
@@ -1233,7 +1233,7 @@
   "code" : "es"
 }, {
   "mep_id" : 6351,
-  "full_name" : "Csaba Molnár Hu",
+  "full_name" : "Csaba Molnár",
   "country" : "Hungary",
   "political_group" : "S&D",
   "national_political_group" : "Demokratikus Koalíció",
@@ -1242,7 +1242,7 @@
   "code" : "hu"
 }, {
   "mep_id" : 7282,
-  "full_name" : "Cyrus Engerer Mt",
+  "full_name" : "Cyrus Engerer",
   "country" : "Malta",
   "political_group" : "S&D",
   "national_political_group" : "Partit Laburista",
@@ -1251,7 +1251,7 @@
   "code" : "mt"
 }, {
   "mep_id" : 7109,
-  "full_name" : "César Luena Es",
+  "full_name" : "César Luena",
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
@@ -1260,7 +1260,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7173,
-  "full_name" : "Dace Melbārde Lv",
+  "full_name" : "Dace Melbārde",
   "country" : "Latvia",
   "political_group" : "EPP",
   "national_political_group" : "Partija \"VIENOTĪBA\"",
@@ -1269,7 +1269,7 @@
   "code" : "lv"
 }, {
   "mep_id" : 7021,
-  "full_name" : "Dacian Cioloş Ro",
+  "full_name" : "Dacian Cioloş",
   "country" : "Romania",
   "political_group" : "Renew",
   "national_political_group" : "Reînnoim Proiectul European al României",
@@ -1278,7 +1278,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 6837,
-  "full_name" : "Damian Boeselager De",
+  "full_name" : "Damian Boeselager",
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Volt",
@@ -1287,7 +1287,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6964,
-  "full_name" : "Damien Carême Fr",
+  "full_name" : "Damien Carême",
   "country" : "France",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Europe Écologie",
@@ -1296,7 +1296,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6418,
-  "full_name" : "Dan Nica Ro",
+  "full_name" : "Dan Nica",
   "country" : "Romania",
   "political_group" : "S&D",
   "national_political_group" : "Partidul Social Democrat",
@@ -1305,7 +1305,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 7036,
-  "full_name" : "Dan-ştefan Motreanu Ro",
+  "full_name" : "Dan-ştefan Motreanu",
   "country" : "Romania",
   "political_group" : "EPP",
   "national_political_group" : "Partidul Naţional Liberal",
@@ -1314,7 +1314,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 6617,
-  "full_name" : "Daniel Buda Ro",
+  "full_name" : "Daniel Buda",
   "country" : "Romania",
   "political_group" : "EPP",
   "national_political_group" : "Partidul Naţional Liberal",
@@ -1323,7 +1323,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 5341,
-  "full_name" : "Daniel Caspary De",
+  "full_name" : "Daniel Caspary",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
@@ -1332,7 +1332,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6851,
-  "full_name" : "Daniel Freund De",
+  "full_name" : "Daniel Freund",
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
@@ -1341,7 +1341,7 @@
   "code" : "de"
 }, {
   "mep_id" : 7177,
-  "full_name" : "Daniela Rondinelli It",
+  "full_name" : "Daniela Rondinelli",
   "country" : "Italy",
   "political_group" : "S&D",
   "national_political_group" : "Partito Democratico",
@@ -1350,7 +1350,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6771,
-  "full_name" : "Danilooscar Lancini It",
+  "full_name" : "Danilooscar Lancini",
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
@@ -1359,7 +1359,7 @@
   "code" : "it"
 }, {
   "mep_id" : 5952,
-  "full_name" : "Danutamaria Hübner Pl",
+  "full_name" : "Danutamaria Hübner",
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Platforma Obywatelska",
@@ -1368,7 +1368,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 5252,
-  "full_name" : "David Casa Mt",
+  "full_name" : "David Casa",
   "country" : "Malta",
   "political_group" : "EPP",
   "national_political_group" : "Partit Nazzjonalista",
@@ -1377,7 +1377,7 @@
   "code" : "mt"
 }, {
   "mep_id" : 6897,
-  "full_name" : "David Cormand Fr",
+  "full_name" : "David Cormand",
   "country" : "France",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Europe Écologie",
@@ -1386,7 +1386,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6793,
-  "full_name" : "David Lega Se",
+  "full_name" : "David Lega",
   "country" : "Sweden",
   "political_group" : "EPP",
   "national_political_group" : "Kristdemokraterna",
@@ -1395,7 +1395,7 @@
   "code" : "se"
 }, {
   "mep_id" : 6440,
-  "full_name" : "David Mcallister De",
+  "full_name" : "David Mcallister",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
@@ -1404,7 +1404,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6600,
-  "full_name" : "Deirdre Clune Ie",
+  "full_name" : "Deirdre Clune",
   "country" : "Ireland",
   "political_group" : "EPP",
   "national_political_group" : "Fine Gael Party",
@@ -1413,7 +1413,7 @@
   "code" : "ie"
 }, {
   "mep_id" : 6838,
-  "full_name" : "Delara Burkhardt De",
+  "full_name" : "Delara Burkhardt",
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
@@ -1422,7 +1422,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6323,
-  "full_name" : "Demetris Papadakis Cy",
+  "full_name" : "Demetris Papadakis",
   "country" : "Cyprus",
   "political_group" : "S&D",
   "national_political_group" : "Movement for Social Democracy EDEK",
@@ -1431,7 +1431,7 @@
   "code" : "cy"
 }, {
   "mep_id" : 6750,
-  "full_name" : "Dennis Radtke De",
+  "full_name" : "Dennis Radtke",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
@@ -1440,7 +1440,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6167,
-  "full_name" : "Derkjan Eppink Nl",
+  "full_name" : "Derkjan Eppink",
   "country" : "Netherlands",
   "political_group" : "ECR",
   "national_political_group" : "JA21",
@@ -1449,7 +1449,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 7217,
-  "full_name" : "Diana Ribaiginer Es",
+  "full_name" : "Diana Ribaiginer",
   "country" : "Spain",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Esquerra Republicana de Catalunya",
@@ -1458,7 +1458,7 @@
   "code" : "es"
 }, {
   "mep_id" : 6459,
-  "full_name" : "Dietmar Köster De",
+  "full_name" : "Dietmar Köster",
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
@@ -1467,7 +1467,7 @@
   "code" : "de"
 }, {
   "mep_id" : 7189,
-  "full_name" : "Dino Giarrusso It",
+  "full_name" : "Dino Giarrusso",
   "country" : "Italy",
   "political_group" : "NI",
   "national_political_group" : "Independent",
@@ -1476,7 +1476,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6339,
-  "full_name" : "Dita Charanzová Cz",
+  "full_name" : "Dita Charanzová",
   "country" : "Czechia",
   "political_group" : "Renew",
   "national_political_group" : "ANO 2011",
@@ -1485,7 +1485,7 @@
   "code" : "cz"
 }, {
   "mep_id" : 7099,
-  "full_name" : "Dolors Montserrat Es",
+  "full_name" : "Dolors Montserrat",
   "country" : "Spain",
   "political_group" : "EPP",
   "national_political_group" : "Partido Popular",
@@ -1494,7 +1494,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7265,
-  "full_name" : "Dominik Tarczyński Pl",
+  "full_name" : "Dominik Tarczyński",
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
@@ -1503,7 +1503,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6405,
-  "full_name" : "Dominique Bilde Fr",
+  "full_name" : "Dominique Bilde",
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
@@ -1512,7 +1512,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6056,
-  "full_name" : "Dominique Riquet Fr",
+  "full_name" : "Dominique Riquet",
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Mouvement Radical Social-Libéral",
@@ -1521,7 +1521,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 7128,
-  "full_name" : "Domènec Ruizdevesa Es",
+  "full_name" : "Domènec Ruizdevesa",
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
@@ -1530,7 +1530,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7278,
-  "full_name" : "Dorien Rookmaker Nl",
+  "full_name" : "Dorien Rookmaker",
   "country" : "Netherlands",
   "political_group" : "ECR",
   "national_political_group" : "Meer Directe Democratie",
@@ -1539,7 +1539,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 7052,
-  "full_name" : "Dragoş Pîslaru Ro",
+  "full_name" : "Dragoş Pîslaru",
   "country" : "Romania",
   "political_group" : "Renew",
   "national_political_group" : "Reînnoim Proiectul European al României",
@@ -1548,7 +1548,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 7054,
-  "full_name" : "Dragoş Tudorache Ro",
+  "full_name" : "Dragoş Tudorache",
   "country" : "Romania",
   "political_group" : "Renew",
   "national_political_group" : "Reînnoim Proiectul European al României",
@@ -1557,7 +1557,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 6965,
-  "full_name" : "Edina Tóth Hu",
+  "full_name" : "Edina Tóth",
   "country" : "Hungary",
   "political_group" : "NI",
   "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
@@ -1566,7 +1566,7 @@
   "code" : "hu"
 }, {
   "mep_id" : 7185,
-  "full_name" : "Eero Heinäluoma Fi",
+  "full_name" : "Eero Heinäluoma",
   "country" : "Finland",
   "political_group" : "S&D",
   "national_political_group" : "Suomen Sosialidemokraattinen Puolue/Finlands Socialdemokratiska Parti",
@@ -1575,7 +1575,7 @@
   "code" : "fi"
 }, {
   "mep_id" : 6130,
-  "full_name" : "Eider Gardiazabalrubial Es",
+  "full_name" : "Eider Gardiazabalrubial",
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
@@ -1584,7 +1584,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7002,
-  "full_name" : "Elena Lizzi It",
+  "full_name" : "Elena Lizzi",
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
@@ -1593,7 +1593,7 @@
   "code" : "it"
 }, {
   "mep_id" : 7225,
-  "full_name" : "Elena Yoncheva Bg",
+  "full_name" : "Elena Yoncheva",
   "country" : "Bulgaria",
   "political_group" : "S&D",
   "national_political_group" : "Bulgarian Socialist Party",
@@ -1602,7 +1602,7 @@
   "code" : "bg"
 }, {
   "mep_id" : 6413,
-  "full_name" : "Eleonora Evi It",
+  "full_name" : "Eleonora Evi",
   "country" : "Italy",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Europa Verde",
@@ -1611,7 +1611,7 @@
   "code" : "it"
 }, {
   "mep_id" : 7009,
-  "full_name" : "Elisabetta Gualmini It",
+  "full_name" : "Elisabetta Gualmini",
   "country" : "Italy",
   "political_group" : "S&D",
   "national_political_group" : "Partito Democratico",
@@ -1620,7 +1620,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6766,
-  "full_name" : "Elsi Katainen Fi",
+  "full_name" : "Elsi Katainen",
   "country" : "Finland",
   "political_group" : "Renew",
   "national_political_group" : "Suomen Keskusta",
@@ -1629,7 +1629,7 @@
   "code" : "fi"
 }, {
   "mep_id" : 6925,
-  "full_name" : "Elżbieta Kruk Pl",
+  "full_name" : "Elżbieta Kruk",
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
@@ -1638,7 +1638,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6937,
-  "full_name" : "Elżbieta Rafalska Pl",
+  "full_name" : "Elżbieta Rafalska",
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
@@ -1647,7 +1647,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 5964,
-  "full_name" : "Elżbietakatarzyna Łukacijewska Pl",
+  "full_name" : "Elżbietakatarzyna Łukacijewska",
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Platforma Obywatelska",
@@ -1656,7 +1656,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6488,
-  "full_name" : "Emil Radev Bg",
+  "full_name" : "Emil Radev",
   "country" : "Bulgaria",
   "political_group" : "EPP",
   "national_political_group" : "Citizens for European Development of Bulgaria",
@@ -1665,7 +1665,7 @@
   "code" : "bg"
 }, {
   "mep_id" : 7287,
-  "full_name" : "Emma Wiesner Se",
+  "full_name" : "Emma Wiesner",
   "country" : "Sweden",
   "political_group" : "Renew",
   "national_political_group" : "Centerpartiet",
@@ -1674,7 +1674,7 @@
   "code" : "se"
 }, {
   "mep_id" : 6354,
-  "full_name" : "Emmanuel Maurel Fr",
+  "full_name" : "Emmanuel Maurel",
   "country" : "France",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Gauche républicaine et socialiste",
@@ -1683,7 +1683,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6828,
-  "full_name" : "Engin Eroglu De",
+  "full_name" : "Engin Eroglu",
   "country" : "Germany",
   "political_group" : "Renew",
   "national_political_group" : "Freie Wähler",
@@ -1692,7 +1692,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6002,
-  "full_name" : "Enikő Győri Hu",
+  "full_name" : "Enikő Győri",
   "country" : "Hungary",
   "political_group" : "NI",
   "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
@@ -1701,7 +1701,7 @@
   "code" : "hu"
 }, {
   "mep_id" : 6279,
-  "full_name" : "Eric Andrieu Fr",
+  "full_name" : "Eric Andrieu",
   "country" : "France",
   "political_group" : "S&D",
   "national_political_group" : "Parti socialiste",
@@ -1710,7 +1710,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6796,
-  "full_name" : "Erik Bergkvist Se",
+  "full_name" : "Erik Bergkvist",
   "country" : "Sweden",
   "political_group" : "S&D",
   "national_political_group" : "Arbetarepartiet- Socialdemokraterna",
@@ -1719,7 +1719,7 @@
   "code" : "se"
 }, {
   "mep_id" : 6859,
-  "full_name" : "Erik Marquardt De",
+  "full_name" : "Erik Marquardt",
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
@@ -1728,7 +1728,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6591,
-  "full_name" : "Ernest Urtasun Es",
+  "full_name" : "Ernest Urtasun",
   "country" : "Spain",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Catalunya en Comú",
@@ -1737,7 +1737,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7286,
-  "full_name" : "Ernő Schaller-baross Hu",
+  "full_name" : "Ernő Schaller-baross",
   "country" : "Hungary",
   "political_group" : "NI",
   "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
@@ -1746,7 +1746,7 @@
   "code" : "hu"
 }, {
   "mep_id" : 6632,
-  "full_name" : "Esteban Gonzálezpons Es",
+  "full_name" : "Esteban Gonzálezpons",
   "country" : "Spain",
   "political_group" : "EPP",
   "national_political_group" : "Partido Popular",
@@ -1755,7 +1755,7 @@
   "code" : "es"
 }, {
   "mep_id" : 5727,
-  "full_name" : "Esther Delange Nl",
+  "full_name" : "Esther Delange",
   "country" : "Netherlands",
   "political_group" : "EPP",
   "national_political_group" : "Christen Democratisch Appèl",
@@ -1764,7 +1764,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 7248,
-  "full_name" : "Estrella Duráferrandis Es",
+  "full_name" : "Estrella Duráferrandis",
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
@@ -1773,7 +1773,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7151,
-  "full_name" : "Eugen Jurzyca Sk",
+  "full_name" : "Eugen Jurzyca",
   "country" : "Slovakia",
   "political_group" : "ECR",
   "national_political_group" : "Sloboda a Solidarita",
@@ -1782,7 +1782,7 @@
   "code" : "sk"
 }, {
   "mep_id" : 7061,
-  "full_name" : "Eugen Tomac Ro",
+  "full_name" : "Eugen Tomac",
   "country" : "Romania",
   "political_group" : "EPP",
   "national_political_group" : "Partidul Mișcarea Populară",
@@ -1791,7 +1791,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 7169,
-  "full_name" : "Eugenia Rodríguezpalop Es",
+  "full_name" : "Eugenia Rodríguezpalop",
   "country" : "Spain",
   "political_group" : "GUE/NGL",
   "national_political_group" : "PODEMOS",
@@ -1800,7 +1800,7 @@
   "code" : "es"
 }, {
   "mep_id" : 6483,
-  "full_name" : "Eva Maydell Bg",
+  "full_name" : "Eva Maydell",
   "country" : "Bulgaria",
   "political_group" : "EPP",
   "national_political_group" : "Citizens for European Development of Bulgaria",
@@ -1809,7 +1809,7 @@
   "code" : "bg"
 }, {
   "mep_id" : 6136,
-  "full_name" : "Evelyn Regner At",
+  "full_name" : "Evelyn Regner",
   "country" : "Austria",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Österreichs",
@@ -1818,7 +1818,7 @@
   "code" : "at"
 }, {
   "mep_id" : 3827,
-  "full_name" : "Evelyne Gebhardt De",
+  "full_name" : "Evelyne Gebhardt",
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
@@ -1827,7 +1827,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6792,
-  "full_name" : "Evin Incir Se",
+  "full_name" : "Evin Incir",
   "country" : "Sweden",
   "political_group" : "S&D",
   "national_political_group" : "Arbetarepartiet- Socialdemokraterna",
@@ -1836,7 +1836,7 @@
   "code" : "se"
 }, {
   "mep_id" : 5892,
-  "full_name" : "Evžen Tošenovský Cz",
+  "full_name" : "Evžen Tošenovský",
   "country" : "Czechia",
   "political_group" : "ECR",
   "national_political_group" : "Občanská demokratická strana",
@@ -1845,7 +1845,7 @@
   "code" : "cz"
 }, {
   "mep_id" : 6918,
-  "full_name" : "Ewa Kopacz Pl",
+  "full_name" : "Ewa Kopacz",
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Platforma Obywatelska",
@@ -1854,7 +1854,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 5021,
-  "full_name" : "Fabienne Keller Fr",
+  "full_name" : "Fabienne Keller",
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Agir - La Droite constructive",
@@ -1863,7 +1863,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6446,
-  "full_name" : "Fabiomassimo Castaldo It",
+  "full_name" : "Fabiomassimo Castaldo",
   "country" : "Italy",
   "political_group" : "NI",
   "national_political_group" : "Movimento 5 Stelle",
@@ -1872,7 +1872,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6869,
-  "full_name" : "Filip Deman Be",
+  "full_name" : "Filip Deman",
   "country" : "Belgium",
   "political_group" : "ID",
   "national_political_group" : "Vlaams Belang",
@@ -1881,7 +1881,7 @@
   "code" : "be"
 }, {
   "mep_id" : 6613,
-  "full_name" : "Franc Bogovič Si",
+  "full_name" : "Franc Bogovič",
   "country" : "Slovenia",
   "political_group" : "EPP",
   "national_political_group" : "Slovenska ljudska stranka",
@@ -1890,7 +1890,7 @@
   "code" : "si"
 }, {
   "mep_id" : 6751,
-  "full_name" : "France Jamet Fr",
+  "full_name" : "France Jamet",
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
@@ -1899,7 +1899,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 7108,
-  "full_name" : "Frances Fitzgerald Ie",
+  "full_name" : "Frances Fitzgerald",
   "country" : "Ireland",
   "political_group" : "EPP",
   "national_political_group" : "Fine Gael Party",
@@ -1908,7 +1908,7 @@
   "code" : "ie"
 }, {
   "mep_id" : 7207,
-  "full_name" : "Francesca Donato It",
+  "full_name" : "Francesca Donato",
   "country" : "Italy",
   "political_group" : "NI",
   "national_political_group" : "Democrazia Cristiana",
@@ -1917,7 +1917,7 @@
   "code" : "it"
 }, {
   "mep_id" : 7034,
-  "full_name" : "Francisco Guerreiro Pt",
+  "full_name" : "Francisco Guerreiro",
   "country" : "Portugal",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Independente",
@@ -1926,7 +1926,7 @@
   "code" : "pt"
 }, {
   "mep_id" : 5518,
-  "full_name" : "Franciscojosé Millánmon Es",
+  "full_name" : "Franciscojosé Millánmon",
   "country" : "Spain",
   "political_group" : "EPP",
   "national_political_group" : "Partido Popular",
@@ -1935,7 +1935,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7186,
-  "full_name" : "Franco Roberti It",
+  "full_name" : "Franco Roberti",
   "country" : "Italy",
   "political_group" : "S&D",
   "national_political_group" : "Partito Democratico",
@@ -1944,7 +1944,7 @@
   "code" : "it"
 }, {
   "mep_id" : 5924,
-  "full_name" : "François Alfonsi Fr",
+  "full_name" : "François Alfonsi",
   "country" : "France",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Régions et Peuples Solidaires",
@@ -1953,7 +1953,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6927,
-  "full_name" : "François-xavier Bellamy Fr",
+  "full_name" : "François-xavier Bellamy",
   "country" : "France",
   "political_group" : "EPP",
   "national_political_group" : "Les Républicains",
@@ -1962,7 +1962,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6601,
-  "full_name" : "Fredrick Federley Se",
+  "full_name" : "Fredrick Federley",
   "country" : "Sweden",
   "political_group" : "Renew",
   "national_political_group" : "Centerpartiet",
@@ -1971,7 +1971,7 @@
   "code" : "se"
 }, {
   "mep_id" : 4676,
-  "full_name" : "Frédérique Ries Be",
+  "full_name" : "Frédérique Ries",
   "country" : "Belgium",
   "political_group" : "Renew",
   "national_political_group" : "Mouvement Réformateur",
@@ -1980,7 +1980,7 @@
   "code" : "be"
 }, {
   "mep_id" : 6465,
-  "full_name" : "Fulvio Martusciello It",
+  "full_name" : "Fulvio Martusciello",
   "country" : "Italy",
   "political_group" : "EPP",
   "national_political_group" : "Forza Italia",
@@ -1989,7 +1989,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6096,
-  "full_name" : "Gabriel Mato Es",
+  "full_name" : "Gabriel Mato",
   "country" : "Spain",
   "political_group" : "EPP",
   "national_political_group" : "Partido Popular",
@@ -1998,7 +1998,7 @@
   "code" : "es"
 }, {
   "mep_id" : 6833,
-  "full_name" : "Gabriele Bischoff De",
+  "full_name" : "Gabriele Bischoff",
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
@@ -2007,7 +2007,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6864,
-  "full_name" : "Geert Bourgeois Be",
+  "full_name" : "Geert Bourgeois",
   "country" : "Belgium",
   "political_group" : "ECR",
   "national_political_group" : "Nieuw-Vlaamse Alliantie",
@@ -2016,7 +2016,7 @@
   "code" : "be"
 }, {
   "mep_id" : 6762,
-  "full_name" : "Geoffroy Didier Fr",
+  "full_name" : "Geoffroy Didier",
   "country" : "France",
   "political_group" : "EPP",
   "national_political_group" : "Les Républicains",
@@ -2025,7 +2025,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6627,
-  "full_name" : "Georg Mayer At",
+  "full_name" : "Georg Mayer",
   "country" : "Austria",
   "political_group" : "ID",
   "national_political_group" : "Freiheitliche Partei Österreichs",
@@ -2034,7 +2034,7 @@
   "code" : "at"
 }, {
   "mep_id" : 6593,
-  "full_name" : "Gerolf Annemans Be",
+  "full_name" : "Gerolf Annemans",
   "country" : "Belgium",
   "political_group" : "ID",
   "national_political_group" : "Vlaams Belang",
@@ -2043,7 +2043,7 @@
   "code" : "be"
 }, {
   "mep_id" : 7038,
-  "full_name" : "Gheorghe Falcă Ro",
+  "full_name" : "Gheorghe Falcă",
   "country" : "Romania",
   "political_group" : "EPP",
   "national_political_group" : "Partidul Naţional Liberal",
@@ -2052,7 +2052,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 7255,
-  "full_name" : "Gheorghe-vlad Nistor Ro",
+  "full_name" : "Gheorghe-vlad Nistor",
   "country" : "Romania",
   "political_group" : "EPP",
   "national_political_group" : "Partidul Naţional Liberal",
@@ -2061,7 +2061,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 6999,
-  "full_name" : "Gianantonio Dare It",
+  "full_name" : "Gianantonio Dare",
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
@@ -2070,7 +2070,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6972,
-  "full_name" : "Gianna Gancia It",
+  "full_name" : "Gianna Gancia",
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
@@ -2079,7 +2079,7 @@
   "code" : "it"
 }, {
   "mep_id" : 7071,
-  "full_name" : "Gilbert Collard Fr",
+  "full_name" : "Gilbert Collard",
   "country" : "France",
   "political_group" : "NI",
   "national_political_group" : "Reconquête!",
@@ -2088,7 +2088,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6967,
-  "full_name" : "Gilles Boyer Fr",
+  "full_name" : "Gilles Boyer",
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Horizons",
@@ -2097,7 +2097,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6372,
-  "full_name" : "Gilles Lebreton Fr",
+  "full_name" : "Gilles Lebreton",
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
@@ -2106,7 +2106,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6815,
-  "full_name" : "Giorgos Georgiou Cy",
+  "full_name" : "Giorgos Georgiou",
   "country" : "Cyprus",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Progressive Party of Working People - Left - New Forces",
@@ -2115,7 +2115,7 @@
   "code" : "cy"
 }, {
   "mep_id" : 6982,
-  "full_name" : "Giuliano Pisapia It",
+  "full_name" : "Giuliano Pisapia",
   "country" : "Italy",
   "political_group" : "S&D",
   "national_political_group" : "Independent",
@@ -2124,7 +2124,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6770,
-  "full_name" : "Giuseppe Ferrandino It",
+  "full_name" : "Giuseppe Ferrandino",
   "country" : "Italy",
   "political_group" : "Renew",
   "national_political_group" : "Azione - Italia Viva",
@@ -2133,7 +2133,7 @@
   "code" : "it"
 }, {
   "mep_id" : 7209,
-  "full_name" : "Giuseppe Milazzo It",
+  "full_name" : "Giuseppe Milazzo",
   "country" : "Italy",
   "political_group" : "ECR",
   "national_political_group" : "Fratelli d'Italia",
@@ -2142,7 +2142,7 @@
   "code" : "it"
 }, {
   "mep_id" : 7240,
-  "full_name" : "Grace O'sullivan Ie",
+  "full_name" : "Grace O'sullivan",
   "country" : "Ireland",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Green Party",
@@ -2151,7 +2151,7 @@
   "code" : "ie"
 }, {
   "mep_id" : 6952,
-  "full_name" : "Grzegorz Tobiszowski Pl",
+  "full_name" : "Grzegorz Tobiszowski",
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
@@ -2160,7 +2160,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6881,
-  "full_name" : "Guido Reil De",
+  "full_name" : "Guido Reil",
   "country" : "Germany",
   "political_group" : "ID",
   "national_political_group" : "Alternative für Deutschland",
@@ -2169,7 +2169,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6874,
-  "full_name" : "Gunnar Beck De",
+  "full_name" : "Gunnar Beck",
   "country" : "Germany",
   "political_group" : "ID",
   "national_political_group" : "Alternative für Deutschland",
@@ -2178,7 +2178,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6159,
-  "full_name" : "Guy Verhofstadt Be",
+  "full_name" : "Guy Verhofstadt",
   "country" : "Belgium",
   "political_group" : "Renew",
   "national_political_group" : "Open Vlaamse Liberalen en Democraten",
@@ -2187,7 +2187,7 @@
   "code" : "be"
 }, {
   "mep_id" : 6924,
-  "full_name" : "Gwendoline Delbos-corfield Fr",
+  "full_name" : "Gwendoline Delbos-corfield",
   "country" : "France",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Europe Écologie",
@@ -2196,7 +2196,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6346,
-  "full_name" : "György Hölvényi Hu",
+  "full_name" : "György Hölvényi",
   "country" : "Hungary",
   "political_group" : "EPP",
   "national_political_group" : "Kereszténydemokrata Néppárt",
@@ -2205,7 +2205,7 @@
   "code" : "hu"
 }, {
   "mep_id" : 7065,
-  "full_name" : "Günther Sidl At",
+  "full_name" : "Günther Sidl",
   "country" : "Austria",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Österreichs",
@@ -2214,7 +2214,7 @@
   "code" : "at"
 }, {
   "mep_id" : 6861,
-  "full_name" : "Hannah Neumann De",
+  "full_name" : "Hannah Neumann",
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
@@ -2223,7 +2223,7 @@
   "code" : "de"
 }, {
   "mep_id" : 7070,
-  "full_name" : "Hannes Heide At",
+  "full_name" : "Hannes Heide",
   "country" : "Austria",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Österreichs",
@@ -2232,7 +2232,7 @@
   "code" : "at"
 }, {
   "mep_id" : 6610,
-  "full_name" : "Harald Vilimsky At",
+  "full_name" : "Harald Vilimsky",
   "country" : "Austria",
   "political_group" : "ID",
   "national_political_group" : "Freiheitliche Partei Österreichs",
@@ -2241,7 +2241,7 @@
   "code" : "at"
 }, {
   "mep_id" : 4535,
-  "full_name" : "Heidi Hautala Fi",
+  "full_name" : "Heidi Hautala",
   "country" : "Finland",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Vihreä liitto",
@@ -2250,7 +2250,7 @@
   "code" : "fi"
 }, {
   "mep_id" : 6834,
-  "full_name" : "Helmut Geuking De",
+  "full_name" : "Helmut Geuking",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Familien-Partei Deutschlands",
@@ -2259,7 +2259,7 @@
   "code" : "de"
 }, {
   "mep_id" : 5837,
-  "full_name" : "Helmut Scholz De",
+  "full_name" : "Helmut Scholz",
   "country" : "Germany",
   "political_group" : "GUE/NGL",
   "national_political_group" : "DIE LINKE.",
@@ -2268,7 +2268,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6791,
-  "full_name" : "Heléne Fritzon Se",
+  "full_name" : "Heléne Fritzon",
   "country" : "Sweden",
   "political_group" : "S&D",
   "national_political_group" : "Arbetarepartiet- Socialdemokraterna",
@@ -2277,7 +2277,7 @@
   "code" : "se"
 }, {
   "mep_id" : 6356,
-  "full_name" : "Henna Virkkunen Fi",
+  "full_name" : "Henna Virkkunen",
   "country" : "Finland",
   "political_group" : "EPP",
   "national_political_group" : "Kansallinen Kokoomus",
@@ -2286,7 +2286,7 @@
   "code" : "fi"
 }, {
   "mep_id" : 6854,
-  "full_name" : "Henrike Hahn De",
+  "full_name" : "Henrike Hahn",
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
@@ -2295,7 +2295,7 @@
   "code" : "de"
 }, {
   "mep_id" : 5960,
-  "full_name" : "Herbert Dorfmann It",
+  "full_name" : "Herbert Dorfmann",
   "country" : "Italy",
   "political_group" : "EPP",
   "national_political_group" : "Südtiroler Volkspartei",
@@ -2304,7 +2304,7 @@
   "code" : "it"
 }, {
   "mep_id" : 7216,
-  "full_name" : "Hermann Tertsch Es",
+  "full_name" : "Hermann Tertsch",
   "country" : "Spain",
   "political_group" : "ECR",
   "national_political_group" : "VOX",
@@ -2313,7 +2313,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7016,
-  "full_name" : "Hervé Juvin Fr",
+  "full_name" : "Hervé Juvin",
   "country" : "France",
   "political_group" : "NI",
   "national_political_group" : "Rassemblement national",
@@ -2322,7 +2322,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6710,
-  "full_name" : "Hilde Vautmans Be",
+  "full_name" : "Hilde Vautmans",
   "country" : "Belgium",
   "political_group" : "Renew",
   "national_political_group" : "Open Vlaamse Liberalen en Democraten",
@@ -2331,7 +2331,7 @@
   "code" : "be"
 }, {
   "mep_id" : 6807,
-  "full_name" : "Hildegard Bentele De",
+  "full_name" : "Hildegard Bentele",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
@@ -2340,7 +2340,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6954,
-  "full_name" : "Hynek Blaško Cz",
+  "full_name" : "Hynek Blaško",
   "country" : "Czechia",
   "political_group" : "ID",
   "national_political_group" : "Svoboda a přímá demokracie",
@@ -2349,7 +2349,7 @@
   "code" : "cz"
 }, {
   "mep_id" : 6990,
-  "full_name" : "Hélène Laporte Fr",
+  "full_name" : "Hélène Laporte",
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
@@ -2358,7 +2358,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 7105,
-  "full_name" : "Ibán Garcíadelblanco Es",
+  "full_name" : "Ibán Garcíadelblanco",
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
@@ -2367,7 +2367,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7212,
-  "full_name" : "Idoia Villanuevaruiz Es",
+  "full_name" : "Idoia Villanuevaruiz",
   "country" : "Spain",
   "political_group" : "GUE/NGL",
   "national_political_group" : "PODEMOS",
@@ -2376,7 +2376,7 @@
   "code" : "es"
 }, {
   "mep_id" : 6494,
-  "full_name" : "Ignazio Corrao It",
+  "full_name" : "Ignazio Corrao",
   "country" : "Italy",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Independent",
@@ -2385,7 +2385,7 @@
   "code" : "it"
 }, {
   "mep_id" : 7271,
-  "full_name" : "Ilana Cicurel Fr",
+  "full_name" : "Ilana Cicurel",
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Liste Renaissance",
@@ -2394,7 +2394,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6504,
-  "full_name" : "Ilhan Kyuchyuk Bg",
+  "full_name" : "Ilhan Kyuchyuk",
   "country" : "Bulgaria",
   "political_group" : "Renew",
   "national_political_group" : "Movement for Rights and Freedoms",
@@ -2403,7 +2403,7 @@
   "code" : "bg"
 }, {
   "mep_id" : 5600,
-  "full_name" : "Inese Vaidere Lv",
+  "full_name" : "Inese Vaidere",
   "country" : "Latvia",
   "political_group" : "EPP",
   "national_political_group" : "Partija \"VIENOTĪBA\"",
@@ -2412,7 +2412,7 @@
   "code" : "lv"
 }, {
   "mep_id" : 6649,
-  "full_name" : "Inma Rodríguez-piñero Es",
+  "full_name" : "Inma Rodríguez-piñero",
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
@@ -2421,7 +2421,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7025,
-  "full_name" : "Ioan-rareş Bogdan Ro",
+  "full_name" : "Ioan-rareş Bogdan",
   "country" : "Romania",
   "political_group" : "EPP",
   "national_political_group" : "Partidul Naţional Liberal",
@@ -2430,7 +2430,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 5417,
-  "full_name" : "Iratxe Garcíapérez Es",
+  "full_name" : "Iratxe Garcíapérez",
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
@@ -2439,7 +2439,7 @@
   "code" : "es"
 }, {
   "mep_id" : 6844,
-  "full_name" : "Irena Joveva Si",
+  "full_name" : "Irena Joveva",
   "country" : "Slovenia",
   "political_group" : "Renew",
   "national_political_group" : "Gibanje Svoboda",
@@ -2448,7 +2448,7 @@
   "code" : "si"
 }, {
   "mep_id" : 6983,
-  "full_name" : "Irene Tinagli It",
+  "full_name" : "Irene Tinagli",
   "country" : "Italy",
   "political_group" : "S&D",
   "national_political_group" : "Partito Democratico",
@@ -2457,7 +2457,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6940,
-  "full_name" : "Irène Tolleret Fr",
+  "full_name" : "Irène Tolleret",
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Liste Renaissance",
@@ -2466,7 +2466,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 7067,
-  "full_name" : "Isabel Benjumeabenjumea Es",
+  "full_name" : "Isabel Benjumeabenjumea",
   "country" : "Spain",
   "political_group" : "EPP",
   "national_political_group" : "Partido Popular",
@@ -2475,7 +2475,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7252,
-  "full_name" : "Isabel Carvalhais Pt",
+  "full_name" : "Isabel Carvalhais",
   "country" : "Portugal",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista",
@@ -2484,7 +2484,7 @@
   "code" : "pt"
 }, {
   "mep_id" : 7125,
-  "full_name" : "Isabel Garcíamuñoz Es",
+  "full_name" : "Isabel Garcíamuñoz",
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
@@ -2493,7 +2493,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7039,
-  "full_name" : "Isabel Santos Pt",
+  "full_name" : "Isabel Santos",
   "country" : "Portugal",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista",
@@ -2502,7 +2502,7 @@
   "code" : "pt"
 }, {
   "mep_id" : 6820,
-  "full_name" : "Isabel Wiseler-lima Lu",
+  "full_name" : "Isabel Wiseler-lima",
   "country" : "Luxembourg",
   "political_group" : "EPP",
   "national_political_group" : "Parti chrétien social luxembourgeois",
@@ -2511,7 +2511,7 @@
   "code" : "lu"
 }, {
   "mep_id" : 6468,
-  "full_name" : "Isabella Adinolfi It",
+  "full_name" : "Isabella Adinolfi",
   "country" : "Italy",
   "political_group" : "EPP",
   "national_political_group" : "Forza Italia",
@@ -2520,7 +2520,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6970,
-  "full_name" : "Isabella Tovaglieri It",
+  "full_name" : "Isabella Tovaglieri",
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
@@ -2529,7 +2529,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6690,
-  "full_name" : "Iskra Mihaylova Bg",
+  "full_name" : "Iskra Mihaylova",
   "country" : "Bulgaria",
   "political_group" : "Renew",
   "national_political_group" : "Movement for Rights and Freedoms",
@@ -2538,7 +2538,7 @@
   "code" : "bg"
 }, {
   "mep_id" : 6014,
-  "full_name" : "Ismail Ertug De",
+  "full_name" : "Ismail Ertug",
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
@@ -2547,7 +2547,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6336,
-  "full_name" : "István Ujhelyi Hu",
+  "full_name" : "István Ujhelyi",
   "country" : "Hungary",
   "political_group" : "S&D",
   "national_political_group" : "Esély Közösség",
@@ -2556,7 +2556,7 @@
   "code" : "hu"
 }, {
   "mep_id" : 5782,
-  "full_name" : "Iuliu Winkler Ro",
+  "full_name" : "Iuliu Winkler",
   "country" : "Romania",
   "political_group" : "EPP",
   "national_political_group" : "Uniunea Democrată Maghiară din România",
@@ -2565,7 +2565,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 6949,
-  "full_name" : "Ivan David Cz",
+  "full_name" : "Ivan David",
   "country" : "Czechia",
   "political_group" : "ID",
   "national_political_group" : "Svoboda a přímá demokracie",
@@ -2574,7 +2574,7 @@
   "code" : "cz"
 }, {
   "mep_id" : 6547,
-  "full_name" : "Ivan Štefanec Sk",
+  "full_name" : "Ivan Štefanec",
   "country" : "Slovakia",
   "political_group" : "EPP",
   "national_political_group" : "Kresťanskodemokratické hnutie",
@@ -2583,7 +2583,7 @@
   "code" : "sk"
 }, {
   "mep_id" : 7242,
-  "full_name" : "Ivanvilibor Sinčić Hr",
+  "full_name" : "Ivanvilibor Sinčić",
   "country" : "Croatia",
   "political_group" : "NI",
   "national_political_group" : "KLJUČ Hrvatske",
@@ -2592,7 +2592,7 @@
   "code" : "hr"
 }, {
   "mep_id" : 7014,
-  "full_name" : "Ivars Ijabs Lv",
+  "full_name" : "Ivars Ijabs",
   "country" : "Latvia",
   "political_group" : "Renew",
   "national_political_group" : "Attīstībai/Par!",
@@ -2601,7 +2601,7 @@
   "code" : "lv"
 }, {
   "mep_id" : 7229,
-  "full_name" : "Ivo Hristov Bg",
+  "full_name" : "Ivo Hristov",
   "country" : "Bulgaria",
   "political_group" : "S&D",
   "national_political_group" : "Bulgarian Socialist Party",
@@ -2610,7 +2610,7 @@
   "code" : "bg"
 }, {
   "mep_id" : 6913,
-  "full_name" : "Izabela-helena Kloc Pl",
+  "full_name" : "Izabela-helena Kloc",
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
@@ -2619,7 +2619,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6089,
-  "full_name" : "Izaskun Bilbaobarandica Es",
+  "full_name" : "Izaskun Bilbaobarandica",
   "country" : "Spain",
   "political_group" : "Renew",
   "national_political_group" : "Partido Nacionalista Vasco",
@@ -2628,7 +2628,7 @@
   "code" : "es"
 }, {
   "mep_id" : 6886,
-  "full_name" : "Jaak Madison Ee",
+  "full_name" : "Jaak Madison",
   "country" : "Estonia",
   "political_group" : "ID",
   "national_political_group" : "Eesti Konservatiivne Rahvaerakond",
@@ -2637,7 +2637,7 @@
   "code" : "ee"
 }, {
   "mep_id" : 5416,
-  "full_name" : "Jacek Saryusz-wolski Pl",
+  "full_name" : "Jacek Saryusz-wolski",
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
@@ -2646,7 +2646,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6515,
-  "full_name" : "Jadwiga Wiśniewska Pl",
+  "full_name" : "Jadwiga Wiśniewska",
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
@@ -2655,7 +2655,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6730,
-  "full_name" : "Jakopg. Dalunde Se",
+  "full_name" : "Jakopg. Dalunde",
   "country" : "Sweden",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Miljöpartiet de gröna",
@@ -2664,7 +2664,7 @@
   "code" : "se"
 }, {
   "mep_id" : 6622,
-  "full_name" : "Jan Huitema Nl",
+  "full_name" : "Jan Huitema",
   "country" : "Netherlands",
   "political_group" : "Renew",
   "national_political_group" : "Volkspartij voor Vrijheid en Democratie",
@@ -2673,7 +2673,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 5407,
-  "full_name" : "Jan Olbrycht Pl",
+  "full_name" : "Jan Olbrycht",
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Platforma Obywatelska",
@@ -2682,7 +2682,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 5052,
-  "full_name" : "Jan Zahradil Cz",
+  "full_name" : "Jan Zahradil",
   "country" : "Czechia",
   "political_group" : "ECR",
   "national_political_group" : "Občanská demokratická strana",
@@ -2691,7 +2691,7 @@
   "code" : "cz"
 }, {
   "mep_id" : 6830,
-  "full_name" : "Jan-christoph Oetjen De",
+  "full_name" : "Jan-christoph Oetjen",
   "country" : "Germany",
   "political_group" : "Renew",
   "national_political_group" : "Freie Demokratische Partei",
@@ -2700,7 +2700,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6935,
-  "full_name" : "Janina Ochojska Pl",
+  "full_name" : "Janina Ochojska",
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Independent",
@@ -2709,7 +2709,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 5105,
-  "full_name" : "Janusz Lewandowski Pl",
+  "full_name" : "Janusz Lewandowski",
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Platforma Obywatelska",
@@ -2718,7 +2718,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6903,
-  "full_name" : "Jarosław Duda Pl",
+  "full_name" : "Jarosław Duda",
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Platforma Obywatelska",
@@ -2727,7 +2727,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 5944,
-  "full_name" : "Jarosław Kalinowski Pl",
+  "full_name" : "Jarosław Kalinowski",
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Polskie Stronnictwo Ludowe",
@@ -2736,7 +2736,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6648,
-  "full_name" : "Javi López Es",
+  "full_name" : "Javi López",
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partit dels Socialistes de Catalunya",
@@ -2745,7 +2745,7 @@
   "code" : "es"
 }, {
   "mep_id" : 5466,
-  "full_name" : "Javier Morenosánchez Es",
+  "full_name" : "Javier Morenosánchez",
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
@@ -2754,7 +2754,7 @@
   "code" : "es"
 }, {
   "mep_id" : 6614,
-  "full_name" : "Javier Nart Es",
+  "full_name" : "Javier Nart",
   "country" : "Spain",
   "political_group" : "Renew",
   "national_political_group" : "Independiente",
@@ -2763,7 +2763,7 @@
   "code" : "es"
 }, {
   "mep_id" : 6997,
-  "full_name" : "Javier Zarzalejos Es",
+  "full_name" : "Javier Zarzalejos",
   "country" : "Spain",
   "political_group" : "EPP",
   "national_political_group" : "Partido Popular",
@@ -2772,7 +2772,7 @@
   "code" : "es"
 }, {
   "mep_id" : 6404,
-  "full_name" : "Jean-françois Jalkh Fr",
+  "full_name" : "Jean-françois Jalkh",
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
@@ -2781,7 +2781,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 7275,
-  "full_name" : "Jean-lin Lacapelle Fr",
+  "full_name" : "Jean-lin Lacapelle",
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
@@ -2790,7 +2790,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 7018,
-  "full_name" : "Jean-paul Garraud Fr",
+  "full_name" : "Jean-paul Garraud",
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
@@ -2799,7 +2799,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6005,
-  "full_name" : "Jens Geier De",
+  "full_name" : "Jens Geier",
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
@@ -2808,7 +2808,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6441,
-  "full_name" : "Jens Gieseke De",
+  "full_name" : "Jens Gieseke",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
@@ -2817,7 +2817,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6592,
-  "full_name" : "Jeroen Lenaers Nl",
+  "full_name" : "Jeroen Lenaers",
   "country" : "Netherlands",
   "political_group" : "EPP",
   "national_political_group" : "Christen Democratisch Appèl",
@@ -2826,7 +2826,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 5388,
-  "full_name" : "Jerzy Buzek Pl",
+  "full_name" : "Jerzy Buzek",
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Platforma Obywatelska",
@@ -2835,7 +2835,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6803,
-  "full_name" : "Jessica Polfjärd Se",
+  "full_name" : "Jessica Polfjärd",
   "country" : "Sweden",
   "political_group" : "EPP",
   "national_political_group" : "Moderaterna",
@@ -2844,7 +2844,7 @@
   "code" : "se"
 }, {
   "mep_id" : 6798,
-  "full_name" : "Jessica Stegrud Se",
+  "full_name" : "Jessica Stegrud",
   "country" : "Sweden",
   "political_group" : "ECR",
   "national_political_group" : "Sverigedemokraterna",
@@ -2853,7 +2853,7 @@
   "code" : "se"
 }, {
   "mep_id" : 6700,
-  "full_name" : "Jiří Pospíšil Cz",
+  "full_name" : "Jiří Pospíšil",
   "country" : "Czechia",
   "political_group" : "EPP",
   "national_political_group" : "TOP 09 a Starostové",
@@ -2862,7 +2862,7 @@
   "code" : "cz"
 }, {
   "mep_id" : 6879,
-  "full_name" : "Joachim Kuhs De",
+  "full_name" : "Joachim Kuhs",
   "country" : "Germany",
   "political_group" : "ID",
   "national_political_group" : "Alternative für Deutschland",
@@ -2871,7 +2871,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6475,
-  "full_name" : "Joachim Schuster De",
+  "full_name" : "Joachim Schuster",
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
@@ -2880,7 +2880,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6895,
-  "full_name" : "Joachimstanisław Brudziński Pl",
+  "full_name" : "Joachimstanisław Brudziński",
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
@@ -2889,7 +2889,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6923,
-  "full_name" : "Joanna Kopcińska Pl",
+  "full_name" : "Joanna Kopcińska",
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
@@ -2898,7 +2898,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6806,
-  "full_name" : "Johan Danielsson Se",
+  "full_name" : "Johan Danielsson",
   "country" : "Sweden",
   "political_group" : "S&D",
   "national_political_group" : "Arbetarepartiet- Socialdemokraterna",
@@ -2907,7 +2907,7 @@
   "code" : "se"
 }, {
   "mep_id" : 6683,
-  "full_name" : "Johan Vanovertveldt Be",
+  "full_name" : "Johan Vanovertveldt",
   "country" : "Belgium",
   "political_group" : "ECR",
   "national_political_group" : "Nieuw-Vlaamse Alliantie",
@@ -2916,7 +2916,7 @@
   "code" : "be"
 }, {
   "mep_id" : 6652,
-  "full_name" : "Jonás Fernández Es",
+  "full_name" : "Jonás Fernández",
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
@@ -2925,7 +2925,7 @@
   "code" : "es"
 }, {
   "mep_id" : 6988,
-  "full_name" : "Jordan Bardella Fr",
+  "full_name" : "Jordan Bardella",
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
@@ -2934,7 +2934,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6973,
-  "full_name" : "Jordi Cañas Es",
+  "full_name" : "Jordi Cañas",
   "country" : "Spain",
   "political_group" : "Renew",
   "national_political_group" : "Ciudadanos – Partido de la Ciudadanía",
@@ -2943,7 +2943,7 @@
   "code" : "es"
 }, {
   "mep_id" : 6738,
-  "full_name" : "Jordi Solé Es",
+  "full_name" : "Jordi Solé",
   "country" : "Spain",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Esquerra Republicana de Catalunya",
@@ -2952,7 +2952,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7214,
-  "full_name" : "Jorge Buxadévillalba Es",
+  "full_name" : "Jorge Buxadévillalba",
   "country" : "Spain",
   "political_group" : "ECR",
   "national_political_group" : "VOX",
@@ -2961,7 +2961,7 @@
   "code" : "es"
 }, {
   "mep_id" : 6794,
-  "full_name" : "Josianne Cutajar Mt",
+  "full_name" : "Josianne Cutajar",
   "country" : "Malta",
   "political_group" : "S&D",
   "national_political_group" : "Partit Laburista",
@@ -2970,7 +2970,7 @@
   "code" : "mt"
 }, {
   "mep_id" : 7133,
-  "full_name" : "José Gusmão Pt",
+  "full_name" : "José Gusmão",
   "country" : "Portugal",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Bloco de Esquerda",
@@ -2979,7 +2979,7 @@
   "code" : "pt"
 }, {
   "mep_id" : 6068,
-  "full_name" : "Josémanuel Fernandes Pt",
+  "full_name" : "Josémanuel Fernandes",
   "country" : "Portugal",
   "political_group" : "EPP",
   "national_political_group" : "Partido Social Democrata",
@@ -2988,7 +2988,7 @@
   "code" : "pt"
 }, {
   "mep_id" : 3980,
-  "full_name" : "Josémanuel García-margalloymarfil Es",
+  "full_name" : "Josémanuel García-margalloymarfil",
   "country" : "Spain",
   "political_group" : "EPP",
   "national_political_group" : "Partido Popular",
@@ -2997,7 +2997,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7163,
-  "full_name" : "Joséramón Bauzádíaz Es",
+  "full_name" : "Joséramón Bauzádíaz",
   "country" : "Spain",
   "political_group" : "Renew",
   "national_political_group" : "Ciudadanos – Partido de la Ciudadanía",
@@ -3006,7 +3006,7 @@
   "code" : "es"
 }, {
   "mep_id" : 5886,
-  "full_name" : "João Ferreira Pt",
+  "full_name" : "João Ferreira",
   "country" : "Portugal",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Partido Comunista Português",
@@ -3015,7 +3015,7 @@
   "code" : "pt"
 }, {
   "mep_id" : 6399,
-  "full_name" : "Joëlle Mélin Fr",
+  "full_name" : "Joëlle Mélin",
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
@@ -3024,7 +3024,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 5984,
-  "full_name" : "Juanfernando Lópezaguilar Es",
+  "full_name" : "Juanfernando Lópezaguilar",
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
@@ -3033,7 +3033,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7012,
-  "full_name" : "Juanignacio Zoidoálvarez Es",
+  "full_name" : "Juanignacio Zoidoálvarez",
   "country" : "Spain",
   "political_group" : "EPP",
   "national_political_group" : "Partido Popular",
@@ -3042,7 +3042,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7074,
-  "full_name" : "Julie Lechanteux Fr",
+  "full_name" : "Julie Lechanteux",
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
@@ -3051,7 +3051,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 7221,
-  "full_name" : "Juozas Olekas Lt",
+  "full_name" : "Juozas Olekas",
   "country" : "Lithuania",
   "political_group" : "S&D",
   "national_political_group" : "Lietuvos socialdemokratų partija",
@@ -3060,7 +3060,7 @@
   "code" : "lt"
 }, {
   "mep_id" : 6863,
-  "full_name" : "Jutta Paulus De",
+  "full_name" : "Jutta Paulus",
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
@@ -3069,7 +3069,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6603,
-  "full_name" : "Jytte Guteland Se",
+  "full_name" : "Jytte Guteland",
   "country" : "Sweden",
   "political_group" : "S&D",
   "national_political_group" : "Arbetarepartiet- Socialdemokraterna",
@@ -3078,7 +3078,7 @@
   "code" : "se"
 }, {
   "mep_id" : 6898,
-  "full_name" : "Jérémy Decerle Fr",
+  "full_name" : "Jérémy Decerle",
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Liste L'Europe Ensemble",
@@ -3087,7 +3087,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 7006,
-  "full_name" : "Jérôme Rivière Fr",
+  "full_name" : "Jérôme Rivière",
   "country" : "France",
   "political_group" : "NI",
   "national_political_group" : "Indépendant",
@@ -3096,7 +3096,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 5143,
-  "full_name" : "József Szájer Hu",
+  "full_name" : "József Szájer",
   "country" : "Hungary",
   "political_group" : "EPP",
   "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
@@ -3105,7 +3105,7 @@
   "code" : "hu"
 }, {
   "mep_id" : 6759,
-  "full_name" : "Jörg Meuthen De",
+  "full_name" : "Jörg Meuthen",
   "country" : "Germany",
   "political_group" : "NI",
   "national_political_group" : "Deutsche Zentrumspartei",
@@ -3114,7 +3114,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6804,
-  "full_name" : "Jörgen Warborn Se",
+  "full_name" : "Jörgen Warborn",
   "country" : "Sweden",
   "political_group" : "EPP",
   "national_political_group" : "Moderaterna",
@@ -3123,7 +3123,7 @@
   "code" : "se"
 }, {
   "mep_id" : 6957,
-  "full_name" : "Karen Melchior Dk",
+  "full_name" : "Karen Melchior",
   "country" : "Denmark",
   "political_group" : "Renew",
   "national_political_group" : "Independent",
@@ -3132,7 +3132,7 @@
   "code" : "dk"
 }, {
   "mep_id" : 6040,
-  "full_name" : "Karima Delli Fr",
+  "full_name" : "Karima Delli",
   "country" : "France",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Europe Écologie",
@@ -3141,7 +3141,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6800,
-  "full_name" : "Karin Karlsbro Se",
+  "full_name" : "Karin Karlsbro",
   "country" : "Sweden",
   "political_group" : "Renew",
   "national_political_group" : "Liberalerna",
@@ -3150,7 +3150,7 @@
   "code" : "se"
 }, {
   "mep_id" : 6812,
-  "full_name" : "Karlo Ressler Hr",
+  "full_name" : "Karlo Ressler",
   "country" : "Croatia",
   "political_group" : "EPP",
   "national_political_group" : "Hrvatska demokratska zajednica",
@@ -3159,7 +3159,7 @@
   "code" : "hr"
 }, {
   "mep_id" : 6525,
-  "full_name" : "Karol Karski Pl",
+  "full_name" : "Karol Karski",
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
@@ -3168,7 +3168,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6978,
-  "full_name" : "Katalin Cseh Hu",
+  "full_name" : "Katalin Cseh",
   "country" : "Hungary",
   "political_group" : "Renew",
   "national_political_group" : "Momentum",
@@ -3177,7 +3177,7 @@
   "code" : "hu"
 }, {
   "mep_id" : 6831,
-  "full_name" : "Katarina Barley De",
+  "full_name" : "Katarina Barley",
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
@@ -3186,7 +3186,7 @@
   "code" : "de"
 }, {
   "mep_id" : 5039,
-  "full_name" : "Kateřina Konečná Cz",
+  "full_name" : "Kateřina Konečná",
   "country" : "Czechia",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Komunistická strana Čech a Moravy",
@@ -3195,7 +3195,7 @@
   "code" : "cz"
 }, {
   "mep_id" : 4990,
-  "full_name" : "Kathleen Vanbrempt Be",
+  "full_name" : "Kathleen Vanbrempt",
   "country" : "Belgium",
   "political_group" : "S&D",
   "national_political_group" : "Vooruit",
@@ -3204,7 +3204,7 @@
   "code" : "be"
 }, {
   "mep_id" : 6625,
-  "full_name" : "Kati Piri Nl",
+  "full_name" : "Kati Piri",
   "country" : "Netherlands",
   "political_group" : "S&D",
   "national_political_group" : "Partij van de Arbeid",
@@ -3213,7 +3213,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 6858,
-  "full_name" : "Katrin Langensiepen De",
+  "full_name" : "Katrin Langensiepen",
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
@@ -3222,7 +3222,7 @@
   "code" : "de"
 }, {
   "mep_id" : 7237,
-  "full_name" : "Kim Vansparrentak Nl",
+  "full_name" : "Kim Vansparrentak",
   "country" : "Netherlands",
   "political_group" : "Greens/EFA",
   "national_political_group" : "GroenLinks",
@@ -3231,7 +3231,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 5280,
-  "full_name" : "Kinga Gál Hu",
+  "full_name" : "Kinga Gál",
   "country" : "Hungary",
   "political_group" : "NI",
   "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
@@ -3240,7 +3240,7 @@
   "code" : "hu"
 }, {
   "mep_id" : 6963,
-  "full_name" : "Kiramarie Peter-hansen Dk",
+  "full_name" : "Kiramarie Peter-hansen",
   "country" : "Denmark",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Socialistisk Folkeparti",
@@ -3249,7 +3249,7 @@
   "code" : "dk"
 }, {
   "mep_id" : 6849,
-  "full_name" : "Klemen Grošelj Si",
+  "full_name" : "Klemen Grošelj",
   "country" : "Slovenia",
   "political_group" : "Renew",
   "national_political_group" : "Gibanje Svoboda",
@@ -3258,7 +3258,7 @@
   "code" : "si"
 }, {
   "mep_id" : 6969,
-  "full_name" : "Klára Dobrev Hu",
+  "full_name" : "Klára Dobrev",
   "country" : "Hungary",
   "political_group" : "S&D",
   "national_political_group" : "Demokratikus Koalíció",
@@ -3267,7 +3267,7 @@
   "code" : "hu"
 }, {
   "mep_id" : 6522,
-  "full_name" : "Kosma Złotowski Pl",
+  "full_name" : "Kosma Złotowski",
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
@@ -3276,7 +3276,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6819,
-  "full_name" : "Kris Peeters Be",
+  "full_name" : "Kris Peeters",
   "country" : "Belgium",
   "political_group" : "EPP",
   "national_political_group" : "Christen-Democratisch & Vlaams",
@@ -3285,7 +3285,7 @@
   "code" : "be"
 }, {
   "mep_id" : 6534,
-  "full_name" : "Krzysztof Hetman Pl",
+  "full_name" : "Krzysztof Hetman",
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Polskie Stronnictwo Ludowe",
@@ -3294,7 +3294,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6911,
-  "full_name" : "Krzysztof Jurgiel Pl",
+  "full_name" : "Krzysztof Jurgiel",
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
@@ -3303,7 +3303,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 7249,
-  "full_name" : "Lara Wolters Nl",
+  "full_name" : "Lara Wolters",
   "country" : "Netherlands",
   "political_group" : "S&D",
   "national_political_group" : "Partij van de Arbeid",
@@ -3312,7 +3312,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 6875,
-  "full_name" : "Larspatrick Berg De",
+  "full_name" : "Larspatrick Berg",
   "country" : "Germany",
   "political_group" : "ECR",
   "national_political_group" : "Bündnis Deutschland",
@@ -3321,7 +3321,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6470,
-  "full_name" : "Laura Ferrara It",
+  "full_name" : "Laura Ferrara",
   "country" : "Italy",
   "political_group" : "NI",
   "national_political_group" : "Movimento 5 Stelle",
@@ -3330,7 +3330,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6986,
-  "full_name" : "Laura Huhtasaari Fi",
+  "full_name" : "Laura Huhtasaari",
   "country" : "Finland",
   "political_group" : "NI",
   "national_political_group" : "Perussuomalaiset",
@@ -3339,7 +3339,7 @@
   "code" : "fi"
 }, {
   "mep_id" : 6980,
-  "full_name" : "Laurence Farreng Fr",
+  "full_name" : "Laurence Farreng",
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Mouvement Démocrate",
@@ -3348,7 +3348,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 5236,
-  "full_name" : "Lefteris Christoforou Cy",
+  "full_name" : "Lefteris Christoforou",
   "country" : "Cyprus",
   "political_group" : "EPP",
   "national_political_group" : "Democratic Rally",
@@ -3357,7 +3357,7 @@
   "code" : "cy"
 }, {
   "mep_id" : 6922,
-  "full_name" : "Leila Chaibi Fr",
+  "full_name" : "Leila Chaibi",
   "country" : "France",
   "political_group" : "GUE/NGL",
   "national_political_group" : "La France Insoumise",
@@ -3366,7 +3366,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6810,
-  "full_name" : "Lena Düpont De",
+  "full_name" : "Lena Düpont",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
@@ -3375,7 +3375,7 @@
   "code" : "de"
 }, {
   "mep_id" : 7161,
-  "full_name" : "Leopoldo Lópezgil Es",
+  "full_name" : "Leopoldo Lópezgil",
   "country" : "Spain",
   "political_group" : "EPP",
   "national_political_group" : "Partido Popular",
@@ -3384,7 +3384,7 @@
   "code" : "es"
 }, {
   "mep_id" : 6933,
-  "full_name" : "Leszek Miller Pl",
+  "full_name" : "Leszek Miller",
   "country" : "Poland",
   "political_group" : "S&D",
   "national_political_group" : "Independent",
@@ -3393,7 +3393,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 7236,
-  "full_name" : "Liesje Schreinemacher Nl",
+  "full_name" : "Liesje Schreinemacher",
   "country" : "Netherlands",
   "political_group" : "Renew",
   "national_political_group" : "Volkspartij voor Vrijheid en Democratie",
@@ -3402,7 +3402,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 7090,
-  "full_name" : "Lina Gálvezmuñoz Es",
+  "full_name" : "Lina Gálvezmuñoz",
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
@@ -3411,7 +3411,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7259,
-  "full_name" : "Linea Søgaard-lidell Dk",
+  "full_name" : "Linea Søgaard-lidell",
   "country" : "Denmark",
   "political_group" : "Renew",
   "national_political_group" : "Venstre, Danmarks Liberale Parti",
@@ -3420,7 +3420,7 @@
   "code" : "dk"
 }, {
   "mep_id" : 7224,
-  "full_name" : "Liudas Mažylis Lt",
+  "full_name" : "Liudas Mažylis",
   "country" : "Lithuania",
   "political_group" : "EPP",
   "national_political_group" : "Tėvynės sąjunga-Lietuvos krikščionys demokratai",
@@ -3429,7 +3429,7 @@
   "code" : "lt"
 }, {
   "mep_id" : 5413,
-  "full_name" : "Ljudmila Novak Si",
+  "full_name" : "Ljudmila Novak",
   "country" : "Slovenia",
   "political_group" : "EPP",
   "national_political_group" : "Nova Slovenija – Krščanski demokrati",
@@ -3438,7 +3438,7 @@
   "code" : "si"
 }, {
   "mep_id" : 7062,
-  "full_name" : "Loránt Vincze Ro",
+  "full_name" : "Loránt Vincze",
   "country" : "Romania",
   "political_group" : "EPP",
   "national_political_group" : "Uniunea Democrată Maghiară din România",
@@ -3447,7 +3447,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 6813,
-  "full_name" : "Loucas Fourlas Cy",
+  "full_name" : "Loucas Fourlas",
   "country" : "Cyprus",
   "political_group" : "EPP",
   "national_political_group" : "Democratic Rally",
@@ -3456,7 +3456,7 @@
   "code" : "cy"
 }, {
   "mep_id" : 7183,
-  "full_name" : "Lucia Vuolo It",
+  "full_name" : "Lucia Vuolo",
   "country" : "Italy",
   "political_group" : "EPP",
   "national_political_group" : "Forza Italia",
@@ -3465,7 +3465,7 @@
   "code" : "it"
 }, {
   "mep_id" : 7150,
-  "full_name" : "Lucia Ďurišnicholsonová Sk",
+  "full_name" : "Lucia Ďurišnicholsonová",
   "country" : "Slovakia",
   "political_group" : "Renew",
   "national_political_group" : "Independent",
@@ -3474,7 +3474,7 @@
   "code" : "sk"
 }, {
   "mep_id" : 6332,
-  "full_name" : "Luděk Niedermayer Cz",
+  "full_name" : "Luděk Niedermayer",
   "country" : "Czechia",
   "political_group" : "EPP",
   "national_political_group" : "TOP 09 a Starostové",
@@ -3483,7 +3483,7 @@
   "code" : "cz"
 }, {
   "mep_id" : 6947,
-  "full_name" : "Luis Garicano Es",
+  "full_name" : "Luis Garicano",
   "country" : "Spain",
   "political_group" : "Renew",
   "national_political_group" : "Ciudadanos – Partido de la Ciudadanía",
@@ -3492,7 +3492,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7175,
-  "full_name" : "Luisa Regimenti It",
+  "full_name" : "Luisa Regimenti",
   "country" : "Italy",
   "political_group" : "EPP",
   "national_political_group" : "Forza Italia",
@@ -3501,7 +3501,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6761,
-  "full_name" : "Lukas Mandl At",
+  "full_name" : "Lukas Mandl",
   "country" : "Austria",
   "political_group" : "EPP",
   "national_political_group" : "Österreichische Volkspartei",
@@ -3510,7 +3510,7 @@
   "code" : "at"
 }, {
   "mep_id" : 6597,
-  "full_name" : "Lukeming Flanagan Ie",
+  "full_name" : "Lukeming Flanagan",
   "country" : "Ireland",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Independent",
@@ -3519,7 +3519,7 @@
   "code" : "ie"
 }, {
   "mep_id" : 7241,
-  "full_name" : "László Trócsányi Hu",
+  "full_name" : "László Trócsányi",
   "country" : "Hungary",
   "political_group" : "NI",
   "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
@@ -3528,7 +3528,7 @@
   "code" : "hu"
 }, {
   "mep_id" : 7120,
-  "full_name" : "Lídia Pereira Pt",
+  "full_name" : "Lídia Pereira",
   "country" : "Portugal",
   "political_group" : "EPP",
   "national_political_group" : "Partido Social Democrata",
@@ -3537,7 +3537,7 @@
   "code" : "pt"
 }, {
   "mep_id" : 5271,
-  "full_name" : "Lívia Járóka Hu",
+  "full_name" : "Lívia Járóka",
   "country" : "Hungary",
   "political_group" : "NI",
   "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
@@ -3546,7 +3546,7 @@
   "code" : "hu"
 }, {
   "mep_id" : 6883,
-  "full_name" : "Magdalena Adamowicz Pl",
+  "full_name" : "Magdalena Adamowicz",
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Independent",
@@ -3555,7 +3555,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6644,
-  "full_name" : "Maite Pagazaurtundúa Es",
+  "full_name" : "Maite Pagazaurtundúa",
   "country" : "Spain",
   "political_group" : "Renew",
   "national_political_group" : "Delegación Ciudadanos Europeos",
@@ -3564,7 +3564,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7165,
-  "full_name" : "Malik Azmani Nl",
+  "full_name" : "Malik Azmani",
   "country" : "Netherlands",
   "political_group" : "Renew",
   "national_political_group" : "Volkspartij voor Vrijheid en Democratie",
@@ -3573,7 +3573,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 6604,
-  "full_name" : "Malin Björk Se",
+  "full_name" : "Malin Björk",
   "country" : "Sweden",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Vänsterpartiet",
@@ -3582,7 +3582,7 @@
   "code" : "se"
 }, {
   "mep_id" : 5351,
-  "full_name" : "Manfred Weber De",
+  "full_name" : "Manfred Weber",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich-Soziale Union in Bayern e.V.",
@@ -3591,7 +3591,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6926,
-  "full_name" : "Manon Aubry Fr",
+  "full_name" : "Manon Aubry",
   "country" : "France",
   "political_group" : "GUE/NGL",
   "national_political_group" : "La France Insoumise",
@@ -3600,7 +3600,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 7213,
-  "full_name" : "Manu Pineda Es",
+  "full_name" : "Manu Pineda",
   "country" : "Spain",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Izquierda Unida",
@@ -3609,7 +3609,7 @@
   "code" : "es"
 }, {
   "mep_id" : 6914,
-  "full_name" : "Manuel Bompard Fr",
+  "full_name" : "Manuel Bompard",
   "country" : "France",
   "political_group" : "GUE/NGL",
   "national_political_group" : "La France Insoumise",
@@ -3618,7 +3618,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 7114,
-  "full_name" : "Manuel Pizarro Pt",
+  "full_name" : "Manuel Pizarro",
   "country" : "Portugal",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista",
@@ -3627,7 +3627,7 @@
   "code" : "pt"
 }, {
   "mep_id" : 7280,
-  "full_name" : "Manuela Ripa De",
+  "full_name" : "Manuela Ripa",
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Ökologisch-Demokratische Partei",
@@ -3636,7 +3636,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6179,
-  "full_name" : "Mara Bizzotto It",
+  "full_name" : "Mara Bizzotto",
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
@@ -3645,7 +3645,7 @@
   "code" : "it"
 }, {
   "mep_id" : 7254,
-  "full_name" : "Marc Angel Lu",
+  "full_name" : "Marc Angel",
   "country" : "Luxembourg",
   "political_group" : "S&D",
   "national_political_group" : "Parti ouvrier socialiste luxembourgeois",
@@ -3654,7 +3654,7 @@
   "code" : "lu"
 }, {
   "mep_id" : 6873,
-  "full_name" : "Marc Botenga Be",
+  "full_name" : "Marc Botenga",
   "country" : "Belgium",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Parti du Travail de Belgique",
@@ -3663,7 +3663,7 @@
   "code" : "be"
 }, {
   "mep_id" : 5624,
-  "full_name" : "Marc Tarabella Be",
+  "full_name" : "Marc Tarabella",
   "country" : "Belgium",
   "political_group" : "NI",
   "national_political_group" : "Independent",
@@ -3672,7 +3672,7 @@
   "code" : "be"
 }, {
   "mep_id" : 6630,
-  "full_name" : "Marcel Degraaff Nl",
+  "full_name" : "Marcel Degraaff",
   "country" : "Netherlands",
   "political_group" : "NI",
   "national_political_group" : "Forum voor Democratie",
@@ -3681,7 +3681,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 6939,
-  "full_name" : "Marcel Kolaja Cz",
+  "full_name" : "Marcel Kolaja",
   "country" : "Czechia",
   "political_group" : "Greens/EFA",
   "national_political_group" : "PIRÁTI",
@@ -3690,7 +3690,7 @@
   "code" : "cz"
 }, {
   "mep_id" : 6981,
-  "full_name" : "Marco Campomenosi It",
+  "full_name" : "Marco Campomenosi",
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
@@ -3699,7 +3699,7 @@
   "code" : "it"
 }, {
   "mep_id" : 7005,
-  "full_name" : "Marco Dreosto It",
+  "full_name" : "Marco Dreosto",
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
@@ -3708,7 +3708,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6414,
-  "full_name" : "Marco Zanni It",
+  "full_name" : "Marco Zanni",
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
@@ -3717,7 +3717,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6695,
-  "full_name" : "Marco Zullo It",
+  "full_name" : "Marco Zullo",
   "country" : "Italy",
   "political_group" : "Renew",
   "national_political_group" : "Independent",
@@ -3726,7 +3726,7 @@
   "code" : "it"
 }, {
   "mep_id" : 7269,
-  "full_name" : "Marcos Rossempere Es",
+  "full_name" : "Marcos Rossempere",
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
@@ -3735,7 +3735,7 @@
   "code" : "es"
 }, {
   "mep_id" : 6889,
-  "full_name" : "Marek Belka Pl",
+  "full_name" : "Marek Belka",
   "country" : "Poland",
   "political_group" : "S&D",
   "national_political_group" : "Nowa Lewica",
@@ -3744,7 +3744,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6888,
-  "full_name" : "Marekpaweł Balt Pl",
+  "full_name" : "Marekpaweł Balt",
   "country" : "Poland",
   "political_group" : "S&D",
   "national_political_group" : "Nowa Lewica",
@@ -3753,7 +3753,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 7027,
-  "full_name" : "Margarida Marques Pt",
+  "full_name" : "Margarida Marques",
   "country" : "Portugal",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista",
@@ -3762,7 +3762,7 @@
   "code" : "pt"
 }, {
   "mep_id" : 7270,
-  "full_name" : "Margarita Delapisacarrión Es",
+  "full_name" : "Margarita Delapisacarrión",
   "country" : "Spain",
   "political_group" : "ECR",
   "national_political_group" : "VOX",
@@ -3771,7 +3771,7 @@
   "code" : "es"
 }, {
   "mep_id" : 5291,
-  "full_name" : "Margrete Auken Dk",
+  "full_name" : "Margrete Auken",
   "country" : "Denmark",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Socialistisk Folkeparti",
@@ -3780,7 +3780,7 @@
   "code" : "dk"
 }, {
   "mep_id" : 6553,
-  "full_name" : "Maria Arena Be",
+  "full_name" : "Maria Arena",
   "country" : "Belgium",
   "political_group" : "S&D",
   "national_political_group" : "Parti Socialiste",
@@ -3789,7 +3789,7 @@
   "code" : "be"
 }, {
   "mep_id" : 6419,
-  "full_name" : "Maria Grapini Ro",
+  "full_name" : "Maria Grapini",
   "country" : "Romania",
   "political_group" : "S&D",
   "national_political_group" : "Partidul Umanist Social Liberal",
@@ -3798,7 +3798,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 6473,
-  "full_name" : "Maria Noichl De",
+  "full_name" : "Maria Noichl",
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
@@ -3807,7 +3807,7 @@
   "code" : "de"
 }, {
   "mep_id" : 7233,
-  "full_name" : "Maria Walsh Ie",
+  "full_name" : "Maria Walsh",
   "country" : "Ireland",
   "political_group" : "EPP",
   "national_political_group" : "Fine Gael Party",
@@ -3816,7 +3816,7 @@
   "code" : "ie"
 }, {
   "mep_id" : 7024,
-  "full_name" : "Maria-manuel Leitão-marques Pt",
+  "full_name" : "Maria-manuel Leitão-marques",
   "country" : "Portugal",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista",
@@ -3825,7 +3825,7 @@
   "code" : "pt"
 }, {
   "mep_id" : 6039,
-  "full_name" : "Mariadagraça Carvalho Pt",
+  "full_name" : "Mariadagraça Carvalho",
   "country" : "Portugal",
   "political_group" : "EPP",
   "national_political_group" : "Partido Social Democrata",
@@ -3834,7 +3834,7 @@
   "code" : "pt"
 }, {
   "mep_id" : 5646,
-  "full_name" : "Marian-jean Marinescu Ro",
+  "full_name" : "Marian-jean Marinescu",
   "country" : "Romania",
   "political_group" : "EPP",
   "national_political_group" : "Partidul Naţional Liberal",
@@ -3843,7 +3843,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 7251,
-  "full_name" : "Marianne Vind Dk",
+  "full_name" : "Marianne Vind",
   "country" : "Denmark",
   "political_group" : "S&D",
   "national_political_group" : "Socialdemokratiet",
@@ -3852,7 +3852,7 @@
   "code" : "dk"
 }, {
   "mep_id" : 6894,
-  "full_name" : "Marie Toussaint Fr",
+  "full_name" : "Marie Toussaint",
   "country" : "France",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Europe Écologie",
@@ -3861,7 +3861,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6896,
-  "full_name" : "Marie-pierre Vedrenne Fr",
+  "full_name" : "Marie-pierre Vedrenne",
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Mouvement Démocrate",
@@ -3870,7 +3870,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6884,
-  "full_name" : "Marina Kaljurand Ee",
+  "full_name" : "Marina Kaljurand",
   "country" : "Estonia",
   "political_group" : "S&D",
   "national_political_group" : "Sotsiaaldemokraatlik Erakond",
@@ -3879,7 +3879,7 @@
   "code" : "ee"
 }, {
   "mep_id" : 7180,
-  "full_name" : "Mario Furore It",
+  "full_name" : "Mario Furore",
   "country" : "Italy",
   "political_group" : "NI",
   "national_political_group" : "Movimento 5 Stelle",
@@ -3888,7 +3888,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6827,
-  "full_name" : "Marion Walsmann De",
+  "full_name" : "Marion Walsmann",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
@@ -3897,7 +3897,7 @@
   "code" : "de"
 }, {
   "mep_id" : 5992,
-  "full_name" : "Marisa Matias Pt",
+  "full_name" : "Marisa Matias",
   "country" : "Portugal",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Bloco de Esquerda",
@@ -3906,7 +3906,7 @@
   "code" : "pt"
 }, {
   "mep_id" : 6876,
-  "full_name" : "Markus Buchheit De",
+  "full_name" : "Markus Buchheit",
   "country" : "Germany",
   "political_group" : "ID",
   "national_political_group" : "Alternative für Deutschland",
@@ -3915,7 +3915,7 @@
   "code" : "de"
 }, {
   "mep_id" : 3833,
-  "full_name" : "Markus Ferber De",
+  "full_name" : "Markus Ferber",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich-Soziale Union in Bayern e.V.",
@@ -3924,7 +3924,7 @@
   "code" : "de"
 }, {
   "mep_id" : 5346,
-  "full_name" : "Markus Pieper De",
+  "full_name" : "Markus Pieper",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
@@ -3933,7 +3933,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6942,
-  "full_name" : "Markéta Gregorová Cz",
+  "full_name" : "Markéta Gregorová",
   "country" : "Czechia",
   "political_group" : "Greens/EFA",
   "national_political_group" : "PIRÁTI",
@@ -3942,7 +3942,7 @@
   "code" : "cz"
 }, {
   "mep_id" : 6825,
-  "full_name" : "Marlene Mortler De",
+  "full_name" : "Marlene Mortler",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich-Soziale Union in Bayern e.V.",
@@ -3951,7 +3951,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6832,
-  "full_name" : "Martin Buschmann De",
+  "full_name" : "Martin Buschmann",
   "country" : "Germany",
   "political_group" : "NI",
   "national_political_group" : "Independent",
@@ -3960,7 +3960,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6919,
-  "full_name" : "Martin Hlaváček Cz",
+  "full_name" : "Martin Hlaváček",
   "country" : "Czechia",
   "political_group" : "Renew",
   "national_political_group" : "ANO 2011",
@@ -3969,7 +3969,7 @@
   "code" : "cz"
 }, {
   "mep_id" : 7154,
-  "full_name" : "Martin Hojsík Sk",
+  "full_name" : "Martin Hojsík",
   "country" : "Slovakia",
   "political_group" : "Renew",
   "national_political_group" : "Progresívne Slovensko",
@@ -3978,7 +3978,7 @@
   "code" : "sk"
 }, {
   "mep_id" : 5926,
-  "full_name" : "Martin Häusling De",
+  "full_name" : "Martin Häusling",
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
@@ -3987,7 +3987,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6758,
-  "full_name" : "Martin Schirdewan De",
+  "full_name" : "Martin Schirdewan",
   "country" : "Germany",
   "political_group" : "GUE/NGL",
   "national_political_group" : "DIE LINKE.",
@@ -3996,7 +3996,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6471,
-  "full_name" : "Martin Sonneborn De",
+  "full_name" : "Martin Sonneborn",
   "country" : "Germany",
   "political_group" : "NI",
   "national_political_group" : "Die PARTEI",
@@ -4005,7 +4005,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6340,
-  "full_name" : "Martina Dlabajová Cz",
+  "full_name" : "Martina Dlabajová",
   "country" : "Czechia",
   "political_group" : "Renew",
   "national_political_group" : "ANO 2011",
@@ -4014,7 +4014,7 @@
   "code" : "cz"
 }, {
   "mep_id" : 6310,
-  "full_name" : "Martina Michels De",
+  "full_name" : "Martina Michels",
   "country" : "Germany",
   "political_group" : "GUE/NGL",
   "national_political_group" : "DIE LINKE.",
@@ -4023,7 +4023,7 @@
   "code" : "de"
 }, {
   "mep_id" : 4767,
-  "full_name" : "Maríasoraya Rodríguezramos Es",
+  "full_name" : "Maríasoraya Rodríguezramos",
   "country" : "Spain",
   "political_group" : "Renew",
   "national_political_group" : "Ciudadanos – Partido de la Ciudadanía",
@@ -4032,7 +4032,7 @@
   "code" : "es"
 }, {
   "mep_id" : 6698,
-  "full_name" : "Massimiliano Salini It",
+  "full_name" : "Massimiliano Salini",
   "country" : "Italy",
   "political_group" : "EPP",
   "national_political_group" : "Forza Italia",
@@ -4041,7 +4041,7 @@
   "code" : "it"
 }, {
   "mep_id" : 7176,
-  "full_name" : "Massimiliano Smeriglio It",
+  "full_name" : "Massimiliano Smeriglio",
   "country" : "Italy",
   "political_group" : "S&D",
   "national_political_group" : "Partito Democratico",
@@ -4050,7 +4050,7 @@
   "code" : "it"
 }, {
   "mep_id" : 7181,
-  "full_name" : "Massimo Casanova It",
+  "full_name" : "Massimo Casanova",
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
@@ -4059,7 +4059,7 @@
   "code" : "it"
 }, {
   "mep_id" : 7079,
-  "full_name" : "Mathilde Androuët Fr",
+  "full_name" : "Mathilde Androuët",
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
@@ -4068,7 +4068,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 7211,
-  "full_name" : "Matteo Adinolfi It",
+  "full_name" : "Matteo Adinolfi",
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
@@ -4077,7 +4077,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6953,
-  "full_name" : "Mauri Pekkarinen Fi",
+  "full_name" : "Mauri Pekkarinen",
   "country" : "Finland",
   "political_group" : "Renew",
   "national_political_group" : "Suomen Keskusta",
@@ -4086,7 +4086,7 @@
   "code" : "fi"
 }, {
   "mep_id" : 7020,
-  "full_name" : "Maxette Pirbakas Fr",
+  "full_name" : "Maxette Pirbakas",
   "country" : "France",
   "political_group" : "NI",
   "national_political_group" : "Indépendant",
@@ -4095,7 +4095,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6878,
-  "full_name" : "Maximilian Krah De",
+  "full_name" : "Maximilian Krah",
   "country" : "Germany",
   "political_group" : "ID",
   "national_political_group" : "Alternative für Deutschland",
@@ -4104,7 +4104,7 @@
   "code" : "de"
 }, {
   "mep_id" : 7244,
-  "full_name" : "Mazaly Aguilar Es",
+  "full_name" : "Mazaly Aguilar",
   "country" : "Spain",
   "political_group" : "ECR",
   "national_political_group" : "VOX",
@@ -4113,7 +4113,7 @@
   "code" : "es"
 }, {
   "mep_id" : 6367,
-  "full_name" : "Miapetra Kumpula-natri Fi",
+  "full_name" : "Miapetra Kumpula-natri",
   "country" : "Finland",
   "political_group" : "S&D",
   "national_political_group" : "Suomen Sosialidemokraattinen Puolue/Finlands Socialdemokratiska Parti",
@@ -4122,7 +4122,7 @@
   "code" : "fi"
 }, {
   "mep_id" : 6846,
-  "full_name" : "Michael Bloss De",
+  "full_name" : "Michael Bloss",
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
@@ -4131,7 +4131,7 @@
   "code" : "de"
 }, {
   "mep_id" : 4659,
-  "full_name" : "Michael Gahler De",
+  "full_name" : "Michael Gahler",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
@@ -4140,7 +4140,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6341,
-  "full_name" : "Michaela Šojdrová Cz",
+  "full_name" : "Michaela Šojdrová",
   "country" : "Czechia",
   "political_group" : "EPP",
   "national_political_group" : "Křesťanská a demokratická unie - Československá strana lidová",
@@ -4149,7 +4149,7 @@
   "code" : "cz"
 }, {
   "mep_id" : 7153,
-  "full_name" : "Michal Wiezik Sk",
+  "full_name" : "Michal Wiezik",
   "country" : "Slovakia",
   "political_group" : "Renew",
   "national_political_group" : "Progresívne Slovensko",
@@ -4158,7 +4158,7 @@
   "code" : "sk"
 }, {
   "mep_id" : 7152,
-  "full_name" : "Michal Šimečka Sk",
+  "full_name" : "Michal Šimečka",
   "country" : "Slovakia",
   "political_group" : "Renew",
   "national_political_group" : "Progresívne Slovensko",
@@ -4167,7 +4167,7 @@
   "code" : "sk"
 }, {
   "mep_id" : 7289,
-  "full_name" : "Michiel Hoogeveen Nl",
+  "full_name" : "Michiel Hoogeveen",
   "country" : "Netherlands",
   "political_group" : "ECR",
   "national_political_group" : "JA21",
@@ -4176,7 +4176,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 5917,
-  "full_name" : "Michèle Rivasi Fr",
+  "full_name" : "Michèle Rivasi",
   "country" : "France",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Europe Écologie",
@@ -4185,7 +4185,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 7202,
-  "full_name" : "Mick Wallace Ie",
+  "full_name" : "Mick Wallace",
   "country" : "Ireland",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Independents for change",
@@ -4194,7 +4194,7 @@
   "code" : "ie"
 }, {
   "mep_id" : 6715,
-  "full_name" : "Miguel Urbáncrespo Es",
+  "full_name" : "Miguel Urbáncrespo",
   "country" : "Spain",
   "political_group" : "GUE/NGL",
   "national_political_group" : "ANTICAPITALISTAS",
@@ -4203,7 +4203,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7247,
-  "full_name" : "Mihai Tudose Ro",
+  "full_name" : "Mihai Tudose",
   "country" : "Romania",
   "political_group" : "S&D",
   "national_political_group" : "Partidul Social Democrat",
@@ -4212,7 +4212,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 6932,
-  "full_name" : "Mikuláš Peksa Cz",
+  "full_name" : "Mikuláš Peksa",
   "country" : "Czechia",
   "political_group" : "Greens/EFA",
   "national_political_group" : "PIRÁTI",
@@ -4221,7 +4221,7 @@
   "code" : "cz"
 }, {
   "mep_id" : 6843,
-  "full_name" : "Milan Brglez Si",
+  "full_name" : "Milan Brglez",
   "country" : "Slovenia",
   "political_group" : "S&D",
   "national_political_group" : "Socialni demokrati",
@@ -4230,7 +4230,7 @@
   "code" : "si"
 }, {
   "mep_id" : 7147,
-  "full_name" : "Milan Uhrík Sk",
+  "full_name" : "Milan Uhrík",
   "country" : "Slovakia",
   "political_group" : "NI",
   "national_political_group" : "Hnutie Republika",
@@ -4239,7 +4239,7 @@
   "code" : "sk"
 }, {
   "mep_id" : 6094,
-  "full_name" : "Milan Zver Si",
+  "full_name" : "Milan Zver",
   "country" : "Slovenia",
   "political_group" : "EPP",
   "national_political_group" : "Slovenska demokratska stranka",
@@ -4248,7 +4248,7 @@
   "code" : "si"
 }, {
   "mep_id" : 7035,
-  "full_name" : "Mircea-gheorghe Hava Ro",
+  "full_name" : "Mircea-gheorghe Hava",
   "country" : "Romania",
   "political_group" : "EPP",
   "national_political_group" : "Partidul Naţional Liberal",
@@ -4257,7 +4257,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 7264,
-  "full_name" : "Miriam Lexmann Sk",
+  "full_name" : "Miriam Lexmann",
   "country" : "Slovakia",
   "political_group" : "EPP",
   "national_political_group" : "Kresťanskodemokratické hnutie",
@@ -4266,7 +4266,7 @@
   "code" : "sk"
 }, {
   "mep_id" : 7148,
-  "full_name" : "Miroslav Radačovský Sk",
+  "full_name" : "Miroslav Radačovský",
   "country" : "Slovakia",
   "political_group" : "NI",
   "national_political_group" : "Slovak PATRIOT",
@@ -4275,7 +4275,7 @@
   "code" : "sk"
 }, {
   "mep_id" : 7145,
-  "full_name" : "Miroslav Číž Sk",
+  "full_name" : "Miroslav Číž",
   "country" : "Slovakia",
   "political_group" : "S&D",
   "national_political_group" : "SMER-Sociálna demokracia",
@@ -4284,7 +4284,7 @@
   "code" : "sk"
 }, {
   "mep_id" : 6836,
-  "full_name" : "Mislav Kolakušić Hr",
+  "full_name" : "Mislav Kolakušić",
   "country" : "Croatia",
   "political_group" : "NI",
   "national_political_group" : "-",
@@ -4293,7 +4293,7 @@
   "code" : "hr"
 }, {
   "mep_id" : 7166,
-  "full_name" : "Mohammed Chahim Nl",
+  "full_name" : "Mohammed Chahim",
   "country" : "Netherlands",
   "political_group" : "S&D",
   "national_political_group" : "Partij van de Arbeid",
@@ -4302,7 +4302,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 6817,
-  "full_name" : "Monica Semedo Lu",
+  "full_name" : "Monica Semedo",
   "country" : "Luxembourg",
   "political_group" : "Renew",
   "national_political_group" : "Indépendent",
@@ -4311,7 +4311,7 @@
   "code" : "lu"
 }, {
   "mep_id" : 5173,
-  "full_name" : "Monika Beňová Sk",
+  "full_name" : "Monika Beňová",
   "country" : "Slovakia",
   "political_group" : "S&D",
   "national_political_group" : "SMER-Sociálna demokracia",
@@ -4320,7 +4320,7 @@
   "code" : "sk"
 }, {
   "mep_id" : 5953,
-  "full_name" : "Monika Hohlmeier De",
+  "full_name" : "Monika Hohlmeier",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich-Soziale Union in Bayern e.V.",
@@ -4329,7 +4329,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6551,
-  "full_name" : "Monika Vana At",
+  "full_name" : "Monika Vana",
   "country" : "Austria",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Die Grünen - Die Grüne Alternative",
@@ -4338,7 +4338,7 @@
   "code" : "at"
 }, {
   "mep_id" : 6842,
-  "full_name" : "Moritz Körner De",
+  "full_name" : "Moritz Körner",
   "country" : "Germany",
   "political_group" : "Renew",
   "national_political_group" : "Freie Demokratische Partei",
@@ -4347,7 +4347,7 @@
   "code" : "de"
 }, {
   "mep_id" : 5889,
-  "full_name" : "Morten Løkkegaard Dk",
+  "full_name" : "Morten Løkkegaard",
   "country" : "Denmark",
   "political_group" : "Renew",
   "national_political_group" : "Venstre, Danmarks Liberale Parti",
@@ -4356,7 +4356,7 @@
   "code" : "dk"
 }, {
   "mep_id" : 6510,
-  "full_name" : "Morten Petersen Dk",
+  "full_name" : "Morten Petersen",
   "country" : "Denmark",
   "political_group" : "Renew",
   "national_political_group" : "Det Radikale Venstre",
@@ -4365,7 +4365,7 @@
   "code" : "dk"
 }, {
   "mep_id" : 6893,
-  "full_name" : "Mounir Satouri Fr",
+  "full_name" : "Mounir Satouri",
   "country" : "France",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Europe Écologie",
@@ -4374,7 +4374,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 7243,
-  "full_name" : "Márton Gyöngyösi Hu",
+  "full_name" : "Márton Gyöngyösi",
   "country" : "Hungary",
   "political_group" : "NI",
   "national_political_group" : "Jobbik – Konzervatívok",
@@ -4383,7 +4383,7 @@
   "code" : "hu"
 }, {
   "mep_id" : 7111,
-  "full_name" : "Mónicasilvana González Es",
+  "full_name" : "Mónicasilvana González",
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
@@ -4392,7 +4392,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7110,
-  "full_name" : "Nacho Sánchezamor Es",
+  "full_name" : "Nacho Sánchezamor",
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
@@ -4401,7 +4401,7 @@
   "code" : "es"
 }, {
   "mep_id" : 6368,
-  "full_name" : "Nadine Morano Fr",
+  "full_name" : "Nadine Morano",
   "country" : "France",
   "political_group" : "EPP",
   "national_political_group" : "Les Républicains",
@@ -4410,7 +4410,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6929,
-  "full_name" : "Nathalie Colin-oesterlé Fr",
+  "full_name" : "Nathalie Colin-oesterlé",
   "country" : "France",
   "political_group" : "EPP",
   "national_political_group" : "Les centristes",
@@ -4419,7 +4419,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6887,
-  "full_name" : "Nathalie Loiseau Fr",
+  "full_name" : "Nathalie Loiseau",
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Liste Renaissance",
@@ -4428,7 +4428,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6811,
-  "full_name" : "Niclas Herbst De",
+  "full_name" : "Niclas Herbst",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
@@ -4437,7 +4437,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6822,
-  "full_name" : "Nico Semsrott De",
+  "full_name" : "Nico Semsrott",
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Independent",
@@ -4446,7 +4446,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6835,
-  "full_name" : "Nicola Beer De",
+  "full_name" : "Nicola Beer",
   "country" : "Germany",
   "political_group" : "Renew",
   "national_political_group" : "Freie Demokratische Partei",
@@ -4455,7 +4455,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6458,
-  "full_name" : "Nicola Danti It",
+  "full_name" : "Nicola Danti",
   "country" : "Italy",
   "political_group" : "Renew",
   "national_political_group" : "Azione - Italia Viva",
@@ -4464,7 +4464,7 @@
   "code" : "it"
 }, {
   "mep_id" : 7205,
-  "full_name" : "Nicola Procaccini It",
+  "full_name" : "Nicola Procaccini",
   "country" : "Italy",
   "political_group" : "ECR",
   "national_political_group" : "Fratelli d'Italia",
@@ -4473,7 +4473,7 @@
   "code" : "it"
 }, {
   "mep_id" : 7055,
-  "full_name" : "Nicolae Ştefănuță Ro",
+  "full_name" : "Nicolae Ştefănuță",
   "country" : "Romania",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Independent",
@@ -4482,7 +4482,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 6394,
-  "full_name" : "Nicolas Bay Fr",
+  "full_name" : "Nicolas Bay",
   "country" : "France",
   "political_group" : "NI",
   "national_political_group" : "Reconquête!",
@@ -4491,7 +4491,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6877,
-  "full_name" : "Nicolaus Fest De",
+  "full_name" : "Nicolaus Fest",
   "country" : "Germany",
   "political_group" : "ID",
   "national_political_group" : "Alternative für Deutschland",
@@ -4500,7 +4500,7 @@
   "code" : "de"
 }, {
   "mep_id" : 7106,
-  "full_name" : "Nicolás Gonzálezcasares Es",
+  "full_name" : "Nicolás Gonzálezcasares",
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
@@ -4509,7 +4509,7 @@
   "code" : "es"
 }, {
   "mep_id" : 6955,
-  "full_name" : "Niels Fuglsang Dk",
+  "full_name" : "Niels Fuglsang",
   "country" : "Denmark",
   "political_group" : "S&D",
   "national_political_group" : "Socialdemokratiet",
@@ -4518,7 +4518,7 @@
   "code" : "dk"
 }, {
   "mep_id" : 6862,
-  "full_name" : "Niklas Nienass De",
+  "full_name" : "Niklas Nienass",
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
@@ -4527,7 +4527,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6961,
-  "full_name" : "Nikolaj Villumsen Dk",
+  "full_name" : "Nikolaj Villumsen",
   "country" : "Denmark",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Enhedslisten",
@@ -4536,7 +4536,7 @@
   "code" : "dk"
 }, {
   "mep_id" : 6281,
-  "full_name" : "Nils Torvalds Fi",
+  "full_name" : "Nils Torvalds",
   "country" : "Finland",
   "political_group" : "Renew",
   "national_political_group" : "Svenska folkpartiet",
@@ -4545,7 +4545,7 @@
   "code" : "fi"
 }, {
   "mep_id" : 7195,
-  "full_name" : "Nils Ušakovs Lv",
+  "full_name" : "Nils Ušakovs",
   "country" : "Latvia",
   "political_group" : "S&D",
   "national_political_group" : "\"Saskaņa\" sociāldemokrātiskā partija",
@@ -4554,7 +4554,7 @@
   "code" : "lv"
 }, {
   "mep_id" : 6814,
-  "full_name" : "Niyazi Kizilyürek Cy",
+  "full_name" : "Niyazi Kizilyürek",
   "country" : "Cyprus",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Progressive Party of Working People - Left - New Forces",
@@ -4563,7 +4563,7 @@
   "code" : "cy"
 }, {
   "mep_id" : 7272,
-  "full_name" : "Nora Mebarek Fr",
+  "full_name" : "Nora Mebarek",
   "country" : "France",
   "political_group" : "S&D",
   "national_political_group" : "Parti socialiste",
@@ -4572,7 +4572,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6442,
-  "full_name" : "Norbert Lins De",
+  "full_name" : "Norbert Lins",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
@@ -4581,7 +4581,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6016,
-  "full_name" : "Norbert Neuser De",
+  "full_name" : "Norbert Neuser",
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
@@ -4590,7 +4590,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6121,
-  "full_name" : "Nuno Melo Pt",
+  "full_name" : "Nuno Melo",
   "country" : "Portugal",
   "political_group" : "EPP",
   "national_political_group" : "Partido do Centro Democrático Social-Partido Popular",
@@ -4599,7 +4599,7 @@
   "code" : "pt"
 }, {
   "mep_id" : 6860,
-  "full_name" : "Olivier Chastel Be",
+  "full_name" : "Olivier Chastel",
   "country" : "Belgium",
   "political_group" : "Renew",
   "national_political_group" : "Mouvement Réformateur",
@@ -4608,7 +4608,7 @@
   "code" : "be"
 }, {
   "mep_id" : 6921,
-  "full_name" : "Ondřej Knotek Cz",
+  "full_name" : "Ondřej Knotek",
   "country" : "Czechia",
   "political_group" : "Renew",
   "national_political_group" : "ANO 2011",
@@ -4617,7 +4617,7 @@
   "code" : "cz"
 }, {
   "mep_id" : 6917,
-  "full_name" : "Ondřej Kovařík Cz",
+  "full_name" : "Ondřej Kovařík",
   "country" : "Czechia",
   "political_group" : "Renew",
   "national_political_group" : "ANO 2011",
@@ -4626,7 +4626,7 @@
   "code" : "cz"
 }, {
   "mep_id" : 4669,
-  "full_name" : "Othmar Karas At",
+  "full_name" : "Othmar Karas",
   "country" : "Austria",
   "political_group" : "EPP",
   "national_political_group" : "Österreichische Volkspartei",
@@ -4635,7 +4635,7 @@
   "code" : "at"
 }, {
   "mep_id" : 5980,
-  "full_name" : "Pablo Ariasecheverría Es",
+  "full_name" : "Pablo Ariasecheverría",
   "country" : "Spain",
   "political_group" : "EPP",
   "national_political_group" : "Partido Popular",
@@ -4644,7 +4644,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7000,
-  "full_name" : "Paolo Borchia It",
+  "full_name" : "Paolo Borchia",
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
@@ -4653,7 +4653,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6062,
-  "full_name" : "Paolo Decastro It",
+  "full_name" : "Paolo Decastro",
   "country" : "Italy",
   "political_group" : "S&D",
   "national_political_group" : "Partito Democratico",
@@ -4662,7 +4662,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6594,
-  "full_name" : "Pascal Arimont Be",
+  "full_name" : "Pascal Arimont",
   "country" : "Belgium",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Soziale Partei",
@@ -4671,7 +4671,7 @@
   "code" : "be"
 }, {
   "mep_id" : 5891,
-  "full_name" : "Pascal Canfin Fr",
+  "full_name" : "Pascal Canfin",
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Liste Renaissance",
@@ -4680,7 +4680,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6324,
-  "full_name" : "Pascal Durand Fr",
+  "full_name" : "Pascal Durand",
   "country" : "France",
   "political_group" : "S&D",
   "national_political_group" : "Liste Renaissance",
@@ -4689,7 +4689,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6829,
-  "full_name" : "Patrick Breyer De",
+  "full_name" : "Patrick Breyer",
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Piratenpartei Deutschland",
@@ -4698,7 +4698,7 @@
   "code" : "de"
 }, {
   "mep_id" : 5459,
-  "full_name" : "Patrizia Toia It",
+  "full_name" : "Patrizia Toia",
   "country" : "Italy",
   "political_group" : "S&D",
   "national_political_group" : "Partito Democratico",
@@ -4707,7 +4707,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6909,
-  "full_name" : "Patryk Jaki Pl",
+  "full_name" : "Patryk Jaki",
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Solidarna Polska Zbigniewa Ziobro",
@@ -4716,7 +4716,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6623,
-  "full_name" : "Paul Tang Nl",
+  "full_name" : "Paul Tang",
   "country" : "Netherlands",
   "political_group" : "S&D",
   "national_political_group" : "Partij van de Arbeid",
@@ -4725,7 +4725,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 6072,
-  "full_name" : "Paulo Rangel Pt",
+  "full_name" : "Paulo Rangel",
   "country" : "Portugal",
   "political_group" : "EPP",
   "national_political_group" : "Partido Social Democrata",
@@ -4734,7 +4734,7 @@
   "code" : "pt"
 }, {
   "mep_id" : 7023,
-  "full_name" : "Pedro Marques Pt",
+  "full_name" : "Pedro Marques",
   "country" : "Portugal",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista",
@@ -4743,7 +4743,7 @@
   "code" : "pt"
 }, {
   "mep_id" : 6381,
-  "full_name" : "Pedro Silvapereira Pt",
+  "full_name" : "Pedro Silvapereira",
   "country" : "Portugal",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista",
@@ -4752,7 +4752,7 @@
   "code" : "pt"
 }, {
   "mep_id" : 7072,
-  "full_name" : "Pernando Barrenaarza Es",
+  "full_name" : "Pernando Barrenaarza",
   "country" : "Spain",
   "political_group" : "GUE/NGL",
   "national_political_group" : "EH BILDU",
@@ -4761,7 +4761,7 @@
   "code" : "es"
 }, {
   "mep_id" : 6908,
-  "full_name" : "Pernille Weiss Dk",
+  "full_name" : "Pernille Weiss",
   "country" : "Denmark",
   "political_group" : "EPP",
   "national_political_group" : "Det Konservative Folkeparti",
@@ -4770,7 +4770,7 @@
   "code" : "dk"
 }, {
   "mep_id" : 7227,
-  "full_name" : "Petar Vitanov Bg",
+  "full_name" : "Petar Vitanov",
   "country" : "Bulgaria",
   "political_group" : "S&D",
   "national_political_group" : "Bulgarian Socialist Party",
@@ -4779,7 +4779,7 @@
   "code" : "bg"
 }, {
   "mep_id" : 5945,
-  "full_name" : "Peter Jahr De",
+  "full_name" : "Peter Jahr",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
@@ -4788,7 +4788,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6960,
-  "full_name" : "Peter Kofod Dk",
+  "full_name" : "Peter Kofod",
   "country" : "Denmark",
   "political_group" : "ID",
   "national_political_group" : "Dansk Folkeparti",
@@ -4797,7 +4797,7 @@
   "code" : "dk"
 }, {
   "mep_id" : 3855,
-  "full_name" : "Peter Liese De",
+  "full_name" : "Peter Liese",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
@@ -4806,7 +4806,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6608,
-  "full_name" : "Peter Lundgren Se",
+  "full_name" : "Peter Lundgren",
   "country" : "Sweden",
   "political_group" : "ECR",
   "national_political_group" : "Sverigedemokraterna",
@@ -4815,7 +4815,7 @@
   "code" : "se"
 }, {
   "mep_id" : 7149,
-  "full_name" : "Peter Pollák Sk",
+  "full_name" : "Peter Pollák",
   "country" : "Slovakia",
   "political_group" : "EPP",
   "national_political_group" : "Obyčajní ľudia a nezávislé osobnosti",
@@ -4824,7 +4824,7 @@
   "code" : "sk"
 }, {
   "mep_id" : 5981,
-  "full_name" : "Peter Vandalen Nl",
+  "full_name" : "Peter Vandalen",
   "country" : "Netherlands",
   "political_group" : "EPP",
   "national_political_group" : "ChristenUnie",
@@ -4833,7 +4833,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 6009,
-  "full_name" : "Petra Kammerevert De",
+  "full_name" : "Petra Kammerevert",
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
@@ -4842,7 +4842,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6400,
-  "full_name" : "Petras Auštrevičius Lt",
+  "full_name" : "Petras Auštrevičius",
   "country" : "Lithuania",
   "political_group" : "Renew",
   "national_political_group" : "Lietuvos Respublikos liberalų sąjūdis",
@@ -4851,7 +4851,7 @@
   "code" : "lt"
 }, {
   "mep_id" : 6259,
-  "full_name" : "Petri Sarvamaa Fi",
+  "full_name" : "Petri Sarvamaa",
   "country" : "Finland",
   "political_group" : "EPP",
   "national_political_group" : "Kansallinen Kokoomus",
@@ -4860,7 +4860,7 @@
   "code" : "fi"
 }, {
   "mep_id" : 5838,
-  "full_name" : "Philippe Lamberts Be",
+  "full_name" : "Philippe Lamberts",
   "country" : "Belgium",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Ecologistes Confédérés pour l'Organisation de Luttes Originales",
@@ -4869,7 +4869,7 @@
   "code" : "be"
 }, {
   "mep_id" : 7075,
-  "full_name" : "Philippe Olivier Fr",
+  "full_name" : "Philippe Olivier",
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
@@ -4878,7 +4878,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6984,
-  "full_name" : "Pierfrancesco Majorino It",
+  "full_name" : "Pierfrancesco Majorino",
   "country" : "Italy",
   "political_group" : "S&D",
   "national_political_group" : "Partito Democratico",
@@ -4887,7 +4887,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6482,
-  "full_name" : "Piernicola Pedicini It",
+  "full_name" : "Piernicola Pedicini",
   "country" : "Italy",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Independent",
@@ -4896,7 +4896,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6975,
-  "full_name" : "Pierre Karleskind Fr",
+  "full_name" : "Pierre Karleskind",
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "La République en marche",
@@ -4905,7 +4905,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 7086,
-  "full_name" : "Pierre Larrouturou Fr",
+  "full_name" : "Pierre Larrouturou",
   "country" : "France",
   "political_group" : "S&D",
   "national_political_group" : "Nouvelle Donne",
@@ -4914,7 +4914,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6856,
-  "full_name" : "Pierrette Herzberger-fofana De",
+  "full_name" : "Pierrette Herzberger-fofana",
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
@@ -4923,7 +4923,7 @@
   "code" : "de"
 }, {
   "mep_id" : 7193,
-  "full_name" : "Pietro Bartolo It",
+  "full_name" : "Pietro Bartolo",
   "country" : "Italy",
   "political_group" : "S&D",
   "national_political_group" : "Partito Democratico",
@@ -4932,7 +4932,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6998,
-  "full_name" : "Pietro Fiocchi It",
+  "full_name" : "Pietro Fiocchi",
   "country" : "Italy",
   "political_group" : "ECR",
   "national_political_group" : "Fratelli d'Italia",
@@ -4941,7 +4941,7 @@
   "code" : "it"
 }, {
   "mep_id" : 5508,
-  "full_name" : "Pilar Delcastillovera Es",
+  "full_name" : "Pilar Delcastillovera",
   "country" : "Spain",
   "political_group" : "EPP",
   "national_political_group" : "Partido Popular",
@@ -4950,7 +4950,7 @@
   "code" : "es"
 }, {
   "mep_id" : 6484,
-  "full_name" : "Pina Picierno It",
+  "full_name" : "Pina Picierno",
   "country" : "Italy",
   "political_group" : "S&D",
   "national_political_group" : "Partito Democratico",
@@ -4959,7 +4959,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6839,
-  "full_name" : "Predragfred Matić Hr",
+  "full_name" : "Predragfred Matić",
   "country" : "Croatia",
   "political_group" : "S&D",
   "national_political_group" : "Socijaldemokratska partija Hrvatske",
@@ -4968,7 +4968,7 @@
   "code" : "hr"
 }, {
   "mep_id" : 6797,
-  "full_name" : "Pär Holmgren Se",
+  "full_name" : "Pär Holmgren",
   "country" : "Sweden",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Miljöpartiet de gröna",
@@ -4977,7 +4977,7 @@
   "code" : "se"
 }, {
   "mep_id" : 7222,
-  "full_name" : "Radan Kanev Bg",
+  "full_name" : "Radan Kanev",
   "country" : "Bulgaria",
   "political_group" : "EPP",
   "national_political_group" : "Democrats for Strong Bulgaria",
@@ -4986,7 +4986,7 @@
   "code" : "bg"
 }, {
   "mep_id" : 6915,
-  "full_name" : "Radka Maxová Cz",
+  "full_name" : "Radka Maxová",
   "country" : "Czechia",
   "political_group" : "S&D",
   "national_political_group" : "Independent",
@@ -4995,7 +4995,7 @@
   "code" : "cz"
 }, {
   "mep_id" : 6941,
-  "full_name" : "Radosław Sikorski Pl",
+  "full_name" : "Radosław Sikorski",
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Platforma Obywatelska",
@@ -5004,7 +5004,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 4880,
-  "full_name" : "Raffaele Fitto It",
+  "full_name" : "Raffaele Fitto",
   "country" : "Italy",
   "political_group" : "ECR",
   "national_political_group" : "Fratelli d'Italia",
@@ -5013,7 +5013,7 @@
   "code" : "it"
 }, {
   "mep_id" : 7210,
-  "full_name" : "Raffaele Stancanelli It",
+  "full_name" : "Raffaele Stancanelli",
   "country" : "Italy",
   "political_group" : "ECR",
   "national_political_group" : "Fratelli d'Italia",
@@ -5022,7 +5022,7 @@
   "code" : "it"
 }, {
   "mep_id" : 4643,
-  "full_name" : "Rainer Wieland De",
+  "full_name" : "Rainer Wieland",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
@@ -5031,7 +5031,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6823,
-  "full_name" : "Ralf Seekatz De",
+  "full_name" : "Ralf Seekatz",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
@@ -5040,7 +5040,7 @@
   "code" : "de"
 }, {
   "mep_id" : 7058,
-  "full_name" : "Ramona Strugariu Ro",
+  "full_name" : "Ramona Strugariu",
   "country" : "Romania",
   "political_group" : "Renew",
   "national_political_group" : "Reînnoim Proiectul European al României",
@@ -5049,7 +5049,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 7082,
-  "full_name" : "Raphaël Glucksmann Fr",
+  "full_name" : "Raphaël Glucksmann",
   "country" : "France",
   "political_group" : "S&D",
   "national_political_group" : "Place publique",
@@ -5058,7 +5058,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 7223,
-  "full_name" : "Rasa Juknevičienė Lt",
+  "full_name" : "Rasa Juknevičienė",
   "country" : "Lithuania",
   "political_group" : "EPP",
   "national_political_group" : "Tėvynės sąjunga-Lietuvos krikščionys demokratai",
@@ -5067,7 +5067,7 @@
   "code" : "lt"
 }, {
   "mep_id" : 6845,
-  "full_name" : "Rasmus Andresen De",
+  "full_name" : "Rasmus Andresen",
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
@@ -5076,7 +5076,7 @@
   "code" : "de"
 }, {
   "mep_id" : 5913,
-  "full_name" : "Reinhard Bütikofer De",
+  "full_name" : "Reinhard Bütikofer",
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
@@ -5085,7 +5085,7 @@
   "code" : "de"
 }, {
   "mep_id" : 7277,
-  "full_name" : "Riho Terras Ee",
+  "full_name" : "Riho Terras",
   "country" : "Estonia",
   "political_group" : "EPP",
   "national_political_group" : "Isamaa",
@@ -5094,7 +5094,7 @@
   "code" : "ee"
 }, {
   "mep_id" : 7160,
-  "full_name" : "Rob Rooken Nl",
+  "full_name" : "Rob Rooken",
   "country" : "Netherlands",
   "political_group" : "ECR",
   "national_political_group" : "JA21",
@@ -5103,7 +5103,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 6891,
-  "full_name" : "Robert Biedroń Pl",
+  "full_name" : "Robert Biedroń",
   "country" : "Poland",
   "political_group" : "S&D",
   "national_political_group" : "Nowa Lewica",
@@ -5112,7 +5112,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 7146,
-  "full_name" : "Robert Hajšel Sk",
+  "full_name" : "Robert Hajšel",
   "country" : "Slovakia",
   "political_group" : "S&D",
   "national_political_group" : "Independent",
@@ -5121,7 +5121,7 @@
   "code" : "sk"
 }, {
   "mep_id" : 7097,
-  "full_name" : "Robert Roos Nl",
+  "full_name" : "Robert Roos",
   "country" : "Netherlands",
   "political_group" : "ECR",
   "national_political_group" : "JA21",
@@ -5130,7 +5130,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 6297,
-  "full_name" : "Roberta Metsola Mt",
+  "full_name" : "Roberta Metsola",
   "country" : "Malta",
   "political_group" : "EPP",
   "national_political_group" : "Partit Nazzjonalista",
@@ -5139,7 +5139,7 @@
   "code" : "mt"
 }, {
   "mep_id" : 5598,
-  "full_name" : "Roberts Zīle Lv",
+  "full_name" : "Roberts Zīle",
   "country" : "Latvia",
   "political_group" : "ECR",
   "national_political_group" : "Nacionālā apvienība \"Visu Latvijai!\"-\"Tēvzemei un Brīvībai/LNNK\"",
@@ -5148,7 +5148,7 @@
   "code" : "lv"
 }, {
   "mep_id" : 7246,
-  "full_name" : "Roman Haider At",
+  "full_name" : "Roman Haider",
   "country" : "Austria",
   "political_group" : "ID",
   "national_political_group" : "Freiheitliche Partei Österreichs",
@@ -5157,7 +5157,7 @@
   "code" : "at"
 }, {
   "mep_id" : 6263,
-  "full_name" : "Romana Jerković Hr",
+  "full_name" : "Romana Jerković",
   "country" : "Croatia",
   "political_group" : "S&D",
   "national_political_group" : "Socijaldemokratska partija Hrvatske",
@@ -5166,7 +5166,7 @@
   "code" : "hr"
 }, {
   "mep_id" : 6681,
-  "full_name" : "Romana Tomc Si",
+  "full_name" : "Romana Tomc",
   "country" : "Slovenia",
   "political_group" : "EPP",
   "national_political_group" : "Slovenska demokratska stranka",
@@ -5175,7 +5175,7 @@
   "code" : "si"
 }, {
   "mep_id" : 6775,
-  "full_name" : "Romeo Franz De",
+  "full_name" : "Romeo Franz",
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
@@ -5184,7 +5184,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6472,
-  "full_name" : "Rosa D'amato It",
+  "full_name" : "Rosa D'amato",
   "country" : "Italy",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Independent",
@@ -5193,7 +5193,7 @@
   "code" : "it"
 }, {
   "mep_id" : 5983,
-  "full_name" : "Rosa Estaràsferragut Es",
+  "full_name" : "Rosa Estaràsferragut",
   "country" : "Spain",
   "political_group" : "EPP",
   "national_political_group" : "Partido Popular",
@@ -5202,7 +5202,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7007,
-  "full_name" : "Rosanna Conte It",
+  "full_name" : "Rosanna Conte",
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
@@ -5211,7 +5211,7 @@
   "code" : "it"
 }, {
   "mep_id" : 5731,
-  "full_name" : "Rovana Plumb Ro",
+  "full_name" : "Rovana Plumb",
   "country" : "Romania",
   "political_group" : "S&D",
   "national_political_group" : "Partidul Social Democrat",
@@ -5220,7 +5220,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 6300,
-  "full_name" : "Ruža Tomašić Hr",
+  "full_name" : "Ruža Tomašić",
   "country" : "Croatia",
   "political_group" : "ECR",
   "national_political_group" : "Hrvatska konzervativna stranka",
@@ -5229,7 +5229,7 @@
   "code" : "hr"
 }, {
   "mep_id" : 5490,
-  "full_name" : "Ryszard Czarnecki Pl",
+  "full_name" : "Ryszard Czarnecki",
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
@@ -5238,7 +5238,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 5969,
-  "full_name" : "Ryszardantoni Legutko Pl",
+  "full_name" : "Ryszardantoni Legutko",
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
@@ -5247,7 +5247,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 5949,
-  "full_name" : "Róża Thunundhohenstein Pl",
+  "full_name" : "Róża Thunundhohenstein",
   "country" : "Poland",
   "political_group" : "Renew",
   "national_political_group" : "Polska 2050",
@@ -5256,7 +5256,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 5930,
-  "full_name" : "Sabine Verheyen De",
+  "full_name" : "Sabine Verheyen",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
@@ -5265,7 +5265,7 @@
   "code" : "de"
 }, {
   "mep_id" : 7010,
-  "full_name" : "Sabrina Pignedoli It",
+  "full_name" : "Sabrina Pignedoli",
   "country" : "Italy",
   "political_group" : "NI",
   "national_political_group" : "Movimento 5 Stelle",
@@ -5274,7 +5274,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6904,
-  "full_name" : "Salima Yenbou Fr",
+  "full_name" : "Salima Yenbou",
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Renaissance",
@@ -5283,7 +5283,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 7261,
-  "full_name" : "Salvatore Demeo It",
+  "full_name" : "Salvatore Demeo",
   "country" : "Italy",
   "political_group" : "EPP",
   "national_political_group" : "Forza Italia",
@@ -5292,7 +5292,7 @@
   "code" : "it"
 }, {
   "mep_id" : 7235,
-  "full_name" : "Samira Rafaela Nl",
+  "full_name" : "Samira Rafaela",
   "country" : "Netherlands",
   "political_group" : "Renew",
   "national_political_group" : "Democraten 66",
@@ -5301,7 +5301,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 6095,
-  "full_name" : "Sandra Kalniete Lv",
+  "full_name" : "Sandra Kalniete",
   "country" : "Latvia",
   "political_group" : "EPP",
   "national_political_group" : "Partija \"VIENOTĪBA\"",
@@ -5310,7 +5310,7 @@
   "code" : "lv"
 }, {
   "mep_id" : 7138,
-  "full_name" : "Sandra Pereira Pt",
+  "full_name" : "Sandra Pereira",
   "country" : "Portugal",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Partido Comunista Português",
@@ -5319,7 +5319,7 @@
   "code" : "pt"
 }, {
   "mep_id" : 7273,
-  "full_name" : "Sandro Gozi Fr",
+  "full_name" : "Sandro Gozi",
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Liste Renaissance",
@@ -5328,7 +5328,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 7030,
-  "full_name" : "Sara Cerdas Pt",
+  "full_name" : "Sara Cerdas",
   "country" : "Portugal",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista",
@@ -5337,7 +5337,7 @@
   "code" : "pt"
 }, {
   "mep_id" : 7281,
-  "full_name" : "Sara Matthieu Be",
+  "full_name" : "Sara Matthieu",
   "country" : "Belgium",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Groen",
@@ -5346,7 +5346,7 @@
   "code" : "be"
 }, {
   "mep_id" : 6790,
-  "full_name" : "Sara Skyttedal Se",
+  "full_name" : "Sara Skyttedal",
   "country" : "Sweden",
   "political_group" : "EPP",
   "national_political_group" : "Kristdemokraterna",
@@ -5355,7 +5355,7 @@
   "code" : "se"
 }, {
   "mep_id" : 7064,
-  "full_name" : "Sarah Wiener At",
+  "full_name" : "Sarah Wiener",
   "country" : "Austria",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Die Grünen - Die Grüne Alternative",
@@ -5364,7 +5364,7 @@
   "code" : "at"
 }, {
   "mep_id" : 6867,
-  "full_name" : "Saskia Bricmont Be",
+  "full_name" : "Saskia Bricmont",
   "country" : "Belgium",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Ecologistes Confédérés pour l'Organisation de Luttes Originales",
@@ -5373,7 +5373,7 @@
   "code" : "be"
 }, {
   "mep_id" : 6490,
-  "full_name" : "Sergei Stanishev Bg",
+  "full_name" : "Sergei Stanishev",
   "country" : "Bulgaria",
   "political_group" : "S&D",
   "national_political_group" : "Bulgarian Socialist Party",
@@ -5382,7 +5382,7 @@
   "code" : "bg"
 }, {
   "mep_id" : 6857,
-  "full_name" : "Sergey Lagodinsky De",
+  "full_name" : "Sergey Lagodinsky",
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
@@ -5391,7 +5391,7 @@
   "code" : "de"
 }, {
   "mep_id" : 4978,
-  "full_name" : "Sergio Berlato It",
+  "full_name" : "Sergio Berlato",
   "country" : "Italy",
   "political_group" : "ECR",
   "national_political_group" : "Fratelli d'Italia",
@@ -5400,7 +5400,7 @@
   "code" : "it"
 }, {
   "mep_id" : 5855,
-  "full_name" : "Seán Kelly Ie",
+  "full_name" : "Seán Kelly",
   "country" : "Ireland",
   "political_group" : "EPP",
   "national_political_group" : "Fine Gael Party",
@@ -5409,7 +5409,7 @@
   "code" : "ie"
 }, {
   "mep_id" : 6436,
-  "full_name" : "Siegfried Mureşan Ro",
+  "full_name" : "Siegfried Mureşan",
   "country" : "Romania",
   "political_group" : "EPP",
   "national_political_group" : "Partidul Naţional Liberal",
@@ -5418,7 +5418,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 7190,
-  "full_name" : "Silvia Modig Fi",
+  "full_name" : "Silvia Modig",
   "country" : "Finland",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Vasemmistoliitto",
@@ -5427,7 +5427,7 @@
   "code" : "fi"
 }, {
   "mep_id" : 6968,
-  "full_name" : "Silvia Sardone It",
+  "full_name" : "Silvia Sardone",
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
@@ -5436,7 +5436,7 @@
   "code" : "it"
 }, {
   "mep_id" : 4806,
-  "full_name" : "Silvio Berlusconi It",
+  "full_name" : "Silvio Berlusconi",
   "country" : "Italy",
   "political_group" : "EPP",
   "national_political_group" : "Forza Italia",
@@ -5445,7 +5445,7 @@
   "code" : "it"
 }, {
   "mep_id" : 7174,
-  "full_name" : "Simona Baldassarre It",
+  "full_name" : "Simona Baldassarre",
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
@@ -5454,7 +5454,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6449,
-  "full_name" : "Simona Bonafè It",
+  "full_name" : "Simona Bonafè",
   "country" : "Italy",
   "political_group" : "S&D",
   "national_political_group" : "Partito Democratico",
@@ -5463,7 +5463,7 @@
   "code" : "it"
 }, {
   "mep_id" : 7045,
-  "full_name" : "Simone Schmiedtbauer At",
+  "full_name" : "Simone Schmiedtbauer",
   "country" : "Austria",
   "political_group" : "EPP",
   "national_political_group" : "Österreichische Volkspartei",
@@ -5472,7 +5472,7 @@
   "code" : "at"
 }, {
   "mep_id" : 7069,
-  "full_name" : "Sira Rego Es",
+  "full_name" : "Sira Rego",
   "country" : "Spain",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Izquierda Unida",
@@ -5481,7 +5481,7 @@
   "code" : "es"
 }, {
   "mep_id" : 5788,
-  "full_name" : "Sirpa Pietikäinen Fi",
+  "full_name" : "Sirpa Pietikäinen",
   "country" : "Finland",
   "political_group" : "EPP",
   "national_political_group" : "Kansallinen Kokoomus",
@@ -5490,7 +5490,7 @@
   "code" : "fi"
 }, {
   "mep_id" : 5908,
-  "full_name" : "Ska Keller De",
+  "full_name" : "Ska Keller",
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
@@ -5499,7 +5499,7 @@
   "code" : "de"
 }, {
   "mep_id" : 5385,
-  "full_name" : "Sophia In'tveld Nl",
+  "full_name" : "Sophia In'tveld",
   "country" : "Netherlands",
   "political_group" : "Renew",
   "national_political_group" : "Independent",
@@ -5508,7 +5508,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 6335,
-  "full_name" : "Stanislav Polčák Cz",
+  "full_name" : "Stanislav Polčák",
   "country" : "Czechia",
   "political_group" : "EPP",
   "national_political_group" : "Starostové a nezávisli",
@@ -5517,7 +5517,7 @@
   "code" : "cz"
 }, {
   "mep_id" : 7220,
-  "full_name" : "Stasys Jakeliūnas Lt",
+  "full_name" : "Stasys Jakeliūnas",
   "country" : "Lithuania",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Independent",
@@ -5526,7 +5526,7 @@
   "code" : "lt"
 }, {
   "mep_id" : 6809,
-  "full_name" : "Stefan Berger De",
+  "full_name" : "Stefan Berger",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
@@ -5535,7 +5535,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6976,
-  "full_name" : "Stefania Zambelli It",
+  "full_name" : "Stefania Zambelli",
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
@@ -5544,7 +5544,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6944,
-  "full_name" : "Stéphane Bijoux Fr",
+  "full_name" : "Stéphane Bijoux",
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "La République en marche",
@@ -5553,7 +5553,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6902,
-  "full_name" : "Stéphane Séjourné Fr",
+  "full_name" : "Stéphane Séjourné",
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "La République en marche",
@@ -5562,7 +5562,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6971,
-  "full_name" : "Stéphanie Yon-courtin Fr",
+  "full_name" : "Stéphanie Yon-courtin",
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Liste Renaissance",
@@ -5571,7 +5571,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 7253,
-  "full_name" : "Sunčana Glavak Hr",
+  "full_name" : "Sunčana Glavak",
   "country" : "Croatia",
   "political_group" : "EPP",
   "national_political_group" : "Hrvatska demokratska zajednica",
@@ -5580,7 +5580,7 @@
   "code" : "hr"
 }, {
   "mep_id" : 7168,
-  "full_name" : "Susana Solíspérez Es",
+  "full_name" : "Susana Solíspérez",
   "country" : "Spain",
   "political_group" : "Renew",
   "national_political_group" : "Ciudadanos – Partido de la Ciudadanía",
@@ -5589,7 +5589,7 @@
   "code" : "es"
 }, {
   "mep_id" : 7170,
-  "full_name" : "Susanna Ceccardi It",
+  "full_name" : "Susanna Ceccardi",
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
@@ -5598,7 +5598,7 @@
   "code" : "it"
 }, {
   "mep_id" : 5904,
-  "full_name" : "Sven Giegold De",
+  "full_name" : "Sven Giegold",
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
@@ -5607,7 +5607,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6890,
-  "full_name" : "Sven Mikser Ee",
+  "full_name" : "Sven Mikser",
   "country" : "Estonia",
   "political_group" : "S&D",
   "national_political_group" : "Sotsiaaldemokraatlik Erakond",
@@ -5616,7 +5616,7 @@
   "code" : "ee"
 }, {
   "mep_id" : 6443,
-  "full_name" : "Sven Schulze De",
+  "full_name" : "Sven Schulze",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
@@ -5625,7 +5625,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6824,
-  "full_name" : "Sven Simon De",
+  "full_name" : "Sven Simon",
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
@@ -5634,7 +5634,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6841,
-  "full_name" : "Svenja Hahn De",
+  "full_name" : "Svenja Hahn",
   "country" : "Germany",
   "political_group" : "Renew",
   "national_political_group" : "Freie Demokratische Partei",
@@ -5643,7 +5643,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6880,
-  "full_name" : "Sylvia Limmer De",
+  "full_name" : "Sylvia Limmer",
   "country" : "Germany",
   "political_group" : "ID",
   "national_political_group" : "Alternative für Deutschland",
@@ -5652,7 +5652,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6966,
-  "full_name" : "Sylvie Brunet Fr",
+  "full_name" : "Sylvie Brunet",
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Mouvement Démocrate",
@@ -5661,7 +5661,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6107,
-  "full_name" : "Sylvie Guillaume Fr",
+  "full_name" : "Sylvie Guillaume",
   "country" : "France",
   "political_group" : "S&D",
   "national_political_group" : "Parti socialiste",
@@ -5670,7 +5670,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6943,
-  "full_name" : "Sylwia Spurek Pl",
+  "full_name" : "Sylwia Spurek",
   "country" : "Poland",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Independent",
@@ -5679,7 +5679,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6974,
-  "full_name" : "Sándor Rónai Hu",
+  "full_name" : "Sándor Rónai",
   "country" : "Hungary",
   "political_group" : "S&D",
   "national_political_group" : "Demokratikus Koalíció",
@@ -5688,7 +5688,7 @@
   "code" : "hu"
 }, {
   "mep_id" : 6948,
-  "full_name" : "Søren Gade Dk",
+  "full_name" : "Søren Gade",
   "country" : "Denmark",
   "political_group" : "Renew",
   "national_political_group" : "Venstre, Danmarks Liberale Parti",
@@ -5697,7 +5697,7 @@
   "code" : "dk"
 }, {
   "mep_id" : 5998,
-  "full_name" : "Tamás Deutsch Hu",
+  "full_name" : "Tamás Deutsch",
   "country" : "Hungary",
   "political_group" : "NI",
   "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
@@ -5706,7 +5706,7 @@
   "code" : "hu"
 }, {
   "mep_id" : 6080,
-  "full_name" : "Tanja Fajon Si",
+  "full_name" : "Tanja Fajon",
   "country" : "Slovenia",
   "political_group" : "S&D",
   "national_political_group" : "Socialni demokrati",
@@ -5715,7 +5715,7 @@
   "code" : "si"
 }, {
   "mep_id" : 5602,
-  "full_name" : "Tatjana Ždanoka Lv",
+  "full_name" : "Tatjana Ždanoka",
   "country" : "Latvia",
   "political_group" : "NI",
   "national_political_group" : "Latvijas Krievu savienība",
@@ -5724,7 +5724,7 @@
   "code" : "lv"
 }, {
   "mep_id" : 6529,
-  "full_name" : "Terry Reintke De",
+  "full_name" : "Terry Reintke",
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
@@ -5733,7 +5733,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6989,
-  "full_name" : "Teuvo Hakkarainen Fi",
+  "full_name" : "Teuvo Hakkarainen",
   "country" : "Finland",
   "political_group" : "ECR",
   "national_political_group" : "Perussuomalaiset",
@@ -5742,7 +5742,7 @@
   "code" : "fi"
 }, {
   "mep_id" : 7013,
-  "full_name" : "Thierry Mariani Fr",
+  "full_name" : "Thierry Mariani",
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
@@ -5751,7 +5751,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 7288,
-  "full_name" : "Thijs Reuten Nl",
+  "full_name" : "Thijs Reuten",
   "country" : "Netherlands",
   "political_group" : "S&D",
   "national_political_group" : "Partij van de Arbeid",
@@ -5760,7 +5760,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 6757,
-  "full_name" : "Thomas Waitz At",
+  "full_name" : "Thomas Waitz",
   "country" : "Austria",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Die Grünen - Die Grüne Alternative",
@@ -5769,7 +5769,7 @@
   "code" : "at"
 }, {
   "mep_id" : 6735,
-  "full_name" : "Tiemo Wölken De",
+  "full_name" : "Tiemo Wölken",
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
@@ -5778,7 +5778,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6776,
-  "full_name" : "Tilly Metz Lu",
+  "full_name" : "Tilly Metz",
   "country" : "Luxembourg",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Déi Gréng - Les Verts",
@@ -5787,7 +5787,7 @@
   "code" : "lu"
 }, {
   "mep_id" : 7156,
-  "full_name" : "Tineke Strik Nl",
+  "full_name" : "Tineke Strik",
   "country" : "Netherlands",
   "political_group" : "Greens/EFA",
   "national_political_group" : "GroenLinks",
@@ -5796,7 +5796,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 6411,
-  "full_name" : "Tiziana Beghin It",
+  "full_name" : "Tiziana Beghin",
   "country" : "Italy",
   "political_group" : "NI",
   "national_political_group" : "Movimento 5 Stelle",
@@ -5805,7 +5805,7 @@
   "code" : "it"
 }, {
   "mep_id" : 7162,
-  "full_name" : "Tom Berendsen Nl",
+  "full_name" : "Tom Berendsen",
   "country" : "Netherlands",
   "political_group" : "EPP",
   "national_political_group" : "Christen Democratisch Appèl",
@@ -5814,7 +5814,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 7234,
-  "full_name" : "Tom Vandendriessche Be",
+  "full_name" : "Tom Vandendriessche",
   "country" : "Belgium",
   "political_group" : "ID",
   "national_political_group" : "Vlaams Belang",
@@ -5823,7 +5823,7 @@
   "code" : "be"
 }, {
   "mep_id" : 6706,
-  "full_name" : "Tom Vandenkendelaere Be",
+  "full_name" : "Tom Vandenkendelaere",
   "country" : "Belgium",
   "political_group" : "EPP",
   "national_political_group" : "Christen-Democratisch & Vlaams",
@@ -5832,7 +5832,7 @@
   "code" : "be"
 }, {
   "mep_id" : 6801,
-  "full_name" : "Tomas Tobé Se",
+  "full_name" : "Tomas Tobé",
   "country" : "Sweden",
   "political_group" : "EPP",
   "national_political_group" : "Moderaterna",
@@ -5841,7 +5841,7 @@
   "code" : "se"
 }, {
   "mep_id" : 6906,
-  "full_name" : "Tomasz Frankowski Pl",
+  "full_name" : "Tomasz Frankowski",
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Platforma Obywatelska",
@@ -5850,7 +5850,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 5974,
-  "full_name" : "Tomaszpiotr Poręba Pl",
+  "full_name" : "Tomaszpiotr Poręba",
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
@@ -5859,7 +5859,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6816,
-  "full_name" : "Tomislav Sokol Hr",
+  "full_name" : "Tomislav Sokol",
   "country" : "Croatia",
   "political_group" : "EPP",
   "national_political_group" : "Hrvatska demokratska zajednica",
@@ -5868,7 +5868,7 @@
   "code" : "hr"
 }, {
   "mep_id" : 6344,
-  "full_name" : "Tomáš Zdechovský Cz",
+  "full_name" : "Tomáš Zdechovský",
   "country" : "Czechia",
   "political_group" : "EPP",
   "national_political_group" : "Křesťanská a demokratická unie - Československá strana lidová",
@@ -5877,7 +5877,7 @@
   "code" : "cz"
 }, {
   "mep_id" : 6261,
-  "full_name" : "Tonino Picula Hr",
+  "full_name" : "Tonino Picula",
   "country" : "Croatia",
   "political_group" : "S&D",
   "national_political_group" : "Socijaldemokratska partija Hrvatske",
@@ -5886,7 +5886,7 @@
   "code" : "hr"
 }, {
   "mep_id" : 7060,
-  "full_name" : "Traian Băsescu Ro",
+  "full_name" : "Traian Băsescu",
   "country" : "Romania",
   "political_group" : "EPP",
   "national_political_group" : "Partidul Mișcarea Populară",
@@ -5895,7 +5895,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 7228,
-  "full_name" : "Tsvetelina Penkova Bg",
+  "full_name" : "Tsvetelina Penkova",
   "country" : "Bulgaria",
   "political_group" : "S&D",
   "national_political_group" : "Bulgarian Socialist Party",
@@ -5904,7 +5904,7 @@
   "code" : "bg"
 }, {
   "mep_id" : 7046,
-  "full_name" : "Tudor Ciuhodaru Ro",
+  "full_name" : "Tudor Ciuhodaru",
   "country" : "Romania",
   "political_group" : "S&D",
   "national_political_group" : "Partidul Social Democrat",
@@ -5913,7 +5913,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 4690,
-  "full_name" : "Udo Bullmann De",
+  "full_name" : "Udo Bullmann",
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
@@ -5922,7 +5922,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6500,
-  "full_name" : "Ulrike Müller De",
+  "full_name" : "Ulrike Müller",
   "country" : "Germany",
   "political_group" : "Renew",
   "national_political_group" : "Freie Wähler",
@@ -5931,7 +5931,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6705,
-  "full_name" : "Urmas Paet Ee",
+  "full_name" : "Urmas Paet",
   "country" : "Estonia",
   "political_group" : "Renew",
   "national_political_group" : "Eesti Reformierakond",
@@ -5940,7 +5940,7 @@
   "code" : "ee"
 }, {
   "mep_id" : 7184,
-  "full_name" : "Valentino Grant It",
+  "full_name" : "Valentino Grant",
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
@@ -5949,7 +5949,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6818,
-  "full_name" : "Valter Flego Hr",
+  "full_name" : "Valter Flego",
   "country" : "Croatia",
   "political_group" : "Renew",
   "national_political_group" : "Istarski demokratski sabor - Dieta democratica istriana",
@@ -5958,7 +5958,7 @@
   "code" : "hr"
 }, {
   "mep_id" : 6959,
-  "full_name" : "Valérie Hayer Fr",
+  "full_name" : "Valérie Hayer",
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Renaissance",
@@ -5967,7 +5967,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 7026,
-  "full_name" : "Vasile Blaga Ro",
+  "full_name" : "Vasile Blaga",
   "country" : "Romania",
   "political_group" : "EPP",
   "national_political_group" : "Partidul Naţional Liberal",
@@ -5976,7 +5976,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 7140,
-  "full_name" : "Vera Tax Nl",
+  "full_name" : "Vera Tax",
   "country" : "Netherlands",
   "political_group" : "S&D",
   "national_political_group" : "Partij van de Arbeid",
@@ -5985,7 +5985,7 @@
   "code" : "nl"
 }, {
   "mep_id" : 6945,
-  "full_name" : "Veronika Vrecionová Cz",
+  "full_name" : "Veronika Vrecionová",
   "country" : "Czechia",
   "political_group" : "ECR",
   "national_political_group" : "Občanská demokratická strana",
@@ -5994,7 +5994,7 @@
   "code" : "cz"
 }, {
   "mep_id" : 6691,
-  "full_name" : "Victor Negrescu Ro",
+  "full_name" : "Victor Negrescu",
   "country" : "Romania",
   "political_group" : "S&D",
   "national_political_group" : "Partidul Social Democrat",
@@ -6003,7 +6003,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 5879,
-  "full_name" : "Viktor Uspaskich Lt",
+  "full_name" : "Viktor Uspaskich",
   "country" : "Lithuania",
   "political_group" : "NI",
   "national_political_group" : "Darbo partija",
@@ -6012,7 +6012,7 @@
   "code" : "lt"
 }, {
   "mep_id" : 5867,
-  "full_name" : "Vilija Blinkevičiūtė Lt",
+  "full_name" : "Vilija Blinkevičiūtė",
   "country" : "Lithuania",
   "political_group" : "S&D",
   "national_political_group" : "Lietuvos socialdemokratų partija",
@@ -6021,7 +6021,7 @@
   "code" : "lt"
 }, {
   "mep_id" : 7187,
-  "full_name" : "Ville Niinistö Fi",
+  "full_name" : "Ville Niinistö",
   "country" : "Finland",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Vihreä liitto",
@@ -6030,7 +6030,7 @@
   "code" : "fi"
 }, {
   "mep_id" : 7262,
-  "full_name" : "Vincenzo Sofo It",
+  "full_name" : "Vincenzo Sofo",
   "country" : "Italy",
   "political_group" : "ECR",
   "national_political_group" : "Fratelli d'Italia",
@@ -6039,7 +6039,7 @@
   "code" : "it"
 }, {
   "mep_id" : 6848,
-  "full_name" : "Viola Voncramon-taubadel De",
+  "full_name" : "Viola Voncramon-taubadel",
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
@@ -6048,7 +6048,7 @@
   "code" : "de"
 }, {
   "mep_id" : 7017,
-  "full_name" : "Virginie Joron Fr",
+  "full_name" : "Virginie Joron",
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
@@ -6057,7 +6057,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 7283,
-  "full_name" : "Vlad Gheorghe Ro",
+  "full_name" : "Vlad Gheorghe",
   "country" : "Romania",
   "political_group" : "Renew",
   "national_political_group" : "Uniunea Salvați România",
@@ -6066,7 +6066,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 7057,
-  "full_name" : "Vlad-marius Botoş Ro",
+  "full_name" : "Vlad-marius Botoş",
   "country" : "Romania",
   "political_group" : "Renew",
   "national_political_group" : "Uniunea Salvați România",
@@ -6075,7 +6075,7 @@
   "code" : "ro"
 }, {
   "mep_id" : 7155,
-  "full_name" : "Vladimír Bilčík Sk",
+  "full_name" : "Vladimír Bilčík",
   "country" : "Slovakia",
   "political_group" : "EPP",
   "national_political_group" : "Slovakia – Demokrati",
@@ -6084,7 +6084,7 @@
   "code" : "sk"
 }, {
   "mep_id" : 6985,
-  "full_name" : "Véronique Trillet-lenoir Fr",
+  "full_name" : "Véronique Trillet-lenoir",
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Liste Renaissance",
@@ -6093,7 +6093,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 5878,
-  "full_name" : "Waldemar Tomaszewski Lt",
+  "full_name" : "Waldemar Tomaszewski",
   "country" : "Lithuania",
   "political_group" : "ECR",
   "national_political_group" : "Lietuvos lenkų rinkimų akcija – Krikščioniškų šeimų sąjunga",
@@ -6102,7 +6102,7 @@
   "code" : "lt"
 }, {
   "mep_id" : 6956,
-  "full_name" : "Witoldjan Waszczykowski Pl",
+  "full_name" : "Witoldjan Waszczykowski",
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
@@ -6111,7 +6111,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6901,
-  "full_name" : "Włodzimierz Cimoszewicz Pl",
+  "full_name" : "Włodzimierz Cimoszewicz",
   "country" : "Poland",
   "political_group" : "S&D",
   "national_political_group" : "Sojusz Lewicy Demokratycznej - Unia Pracy",
@@ -6120,7 +6120,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6331,
-  "full_name" : "Yana Toom Ee",
+  "full_name" : "Yana Toom",
   "country" : "Estonia",
   "political_group" : "Renew",
   "national_political_group" : "Eesti Keskerakond",
@@ -6129,7 +6129,7 @@
   "code" : "ee"
 }, {
   "mep_id" : 5914,
-  "full_name" : "Yannick Jadot Fr",
+  "full_name" : "Yannick Jadot",
   "country" : "France",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Europe Écologie",
@@ -6138,7 +6138,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 6250,
-  "full_name" : "Younous Omarjee Fr",
+  "full_name" : "Younous Omarjee",
   "country" : "France",
   "political_group" : "GUE/NGL",
   "national_political_group" : "La France Insoumise",
@@ -6147,7 +6147,7 @@
   "code" : "fr"
 }, {
   "mep_id" : 5507,
-  "full_name" : "Zbigniew Kuźmiuk Pl",
+  "full_name" : "Zbigniew Kuźmiuk",
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
@@ -6156,7 +6156,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6530,
-  "full_name" : "Zdzisław Krasnodębski Pl",
+  "full_name" : "Zdzisław Krasnodębski",
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
@@ -6165,7 +6165,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6001,
-  "full_name" : "Ádám Kósa Hu",
+  "full_name" : "Ádám Kósa",
   "country" : "Hungary",
   "political_group" : "NI",
   "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
@@ -6174,7 +6174,7 @@
   "code" : "hu"
 }, {
   "mep_id" : 7129,
-  "full_name" : "Álvaro Amaro Pt",
+  "full_name" : "Álvaro Amaro",
   "country" : "Portugal",
   "political_group" : "EPP",
   "national_political_group" : "Partido Social Democrata",
@@ -6183,7 +6183,7 @@
   "code" : "pt"
 }, {
   "mep_id" : 6865,
-  "full_name" : "Özlem Demirel De",
+  "full_name" : "Özlem Demirel",
   "country" : "Germany",
   "political_group" : "GUE/NGL",
   "national_political_group" : "DIE LINKE.",
@@ -6192,7 +6192,7 @@
   "code" : "de"
 }, {
   "mep_id" : 6916,
-  "full_name" : "Łukasz Kohut Pl",
+  "full_name" : "Łukasz Kohut",
   "country" : "Poland",
   "political_group" : "S&D",
   "national_political_group" : "Nowa Lewica",
@@ -6201,7 +6201,7 @@
   "code" : "pl"
 }, {
   "mep_id" : 6734,
-  "full_name" : "Željana Zovko Hr",
+  "full_name" : "Željana Zovko",
   "country" : "Croatia",
   "political_group" : "EPP",
   "national_political_group" : "Hrvatska demokratska zajednica",
