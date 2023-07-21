@@ -56,7 +56,7 @@ function generateCard(mep, containerClass){
 
     //Create a new div and give it the "card" class
     const card = document.createElement('div');
-    card.className = "card border-light-gray";
+    card.className = "card white-bg border-light-gray";
 
     const picture = document.createElement("img");
     picture.src = `https://www.europarl.europa.eu/mepphoto/${mep.long_id}.jpg`;

@@ -4,7 +4,7 @@
   "country" : "Sweden",
   "political_group" : "Renew",
   "national_political_group" : "Centerpartiet",
-  "final_grade" : 5.810355963466758,
+  "final_grade" : 5.809837953369793,
   "long_id" : 197400,
   "code" : "se"
 }, {
@@ -13,7 +13,7 @@
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Partia Republikańska",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 23788,
   "code" : "pl"
 }, {
@@ -22,7 +22,7 @@
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Polskie Stronnictwo Ludowe",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197517,
   "code" : "pl"
 }, {
@@ -31,7 +31,7 @@
   "country" : "Romania",
   "political_group" : "S&D",
   "national_political_group" : "Partidul Social Democrat",
-  "final_grade" : 9.610539460981975,
+  "final_grade" : 9.60989681480872,
   "long_id" : 197658,
   "code" : "ro"
 }, {
@@ -40,7 +40,7 @@
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
-  "final_grade" : 10.597079492452083,
+  "final_grade" : 10.596521951726853,
   "long_id" : 197735,
   "code" : "es"
 }, {
@@ -49,7 +49,7 @@
   "country" : "Spain",
   "political_group" : "Renew",
   "national_political_group" : "Ciudadanos – Partido de la Ciudadanía",
-  "final_grade" : 5.681143675401539,
+  "final_grade" : 5.681408342220687,
   "long_id" : 204400,
   "code" : "es"
 }, {
@@ -58,7 +58,7 @@
   "country" : "Netherlands",
   "political_group" : "S&D",
   "national_political_group" : "Partij van de Arbeid",
-  "final_grade" : 16.021832994622752,
+  "final_grade" : 16.021336783131936,
   "long_id" : 125021,
   "code" : "nl"
 }, {
@@ -67,7 +67,7 @@
   "country" : "France",
   "political_group" : "EPP",
   "national_political_group" : "Les Républicains",
-  "final_grade" : 7.124340101924877,
+  "final_grade" : 7.123911331885774,
   "long_id" : 197535,
   "code" : "fr"
 }, {
@@ -76,7 +76,7 @@
   "country" : "Italy",
   "political_group" : "EPP",
   "national_political_group" : "Forza Italia",
-  "final_grade" : 7.0368978122364885,
+  "final_grade" : 7.036477044581121,
   "long_id" : 36392,
   "code" : "it"
 }, {
@@ -85,7 +85,7 @@
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 197610,
   "code" : "it"
 }, {
@@ -94,7 +94,7 @@
   "country" : "Italy",
   "political_group" : "S&D",
   "national_political_group" : "Partito Democratico",
-  "final_grade" : 13.06001329679063,
+  "final_grade" : 13.059373008357026,
   "long_id" : 124799,
   "code" : "it"
 }, {
@@ -103,7 +103,7 @@
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 99283,
   "code" : "it"
 }, {
@@ -112,7 +112,7 @@
   "country" : "Malta",
   "political_group" : "S&D",
   "national_political_group" : "Partit Laburista",
-  "final_grade" : 11.575199191445616,
+  "final_grade" : 11.57458317614945,
   "long_id" : 197403,
   "code" : "mt"
 }, {
@@ -121,7 +121,7 @@
   "country" : "Bulgaria",
   "political_group" : "EPP",
   "national_political_group" : "Union of Democratic Forces",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197836,
   "code" : "bg"
 }, {
@@ -130,7 +130,7 @@
   "country" : "Austria",
   "political_group" : "EPP",
   "national_political_group" : "Österreichische Volkspartei",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197648,
   "code" : "at"
 }, {
@@ -139,7 +139,7 @@
   "country" : "Czechia",
   "political_group" : "ECR",
   "national_political_group" : "Občanská demokratická strana",
-  "final_grade" : 4.763536570941118,
+  "final_grade" : 4.763072580667545,
   "long_id" : 197537,
   "code" : "cz"
 }, {
@@ -148,7 +148,7 @@
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 183916,
   "code" : "de"
 }, {
@@ -157,7 +157,7 @@
   "country" : "Malta",
   "political_group" : "S&D",
   "national_political_group" : "Partit Laburista",
-  "final_grade" : 11.575199191445616,
+  "final_grade" : 11.57458317614945,
   "long_id" : 124781,
   "code" : "mt"
 }, {
@@ -166,7 +166,7 @@
   "country" : "Sweden",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Miljöpartiet de gröna",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197395,
   "code" : "se"
 }, {
@@ -175,7 +175,7 @@
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
-  "final_grade" : 11.650760565225719,
+  "final_grade" : 11.65041871438386,
   "long_id" : 122978,
   "code" : "es"
 }, {
@@ -184,7 +184,7 @@
   "country" : "Romania",
   "political_group" : "Renew",
   "national_political_group" : "Reînnoim Proiectul European al României",
-  "final_grade" : 11.357433058106311,
+  "final_grade" : 11.356684076270428,
   "long_id" : 212855,
   "code" : "ro"
 }, {
@@ -193,7 +193,7 @@
   "country" : "Finland",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Vihreä liitto",
-  "final_grade" : 17.96165698847956,
+  "final_grade" : 17.961929531726835,
   "long_id" : 204335,
   "code" : "fi"
 }, {
@@ -202,7 +202,7 @@
   "country" : "Hungary",
   "political_group" : "NI",
   "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
-  "final_grade" : 5.810355963466758,
+  "final_grade" : 5.809837953369793,
   "long_id" : 124714,
   "code" : "hu"
 }, {
@@ -211,7 +211,7 @@
   "country" : "Hungary",
   "political_group" : "NI",
   "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
-  "final_grade" : 5.810355963466758,
+  "final_grade" : 5.809837953369793,
   "long_id" : 124712,
   "code" : "hu"
 }, {
@@ -220,7 +220,7 @@
   "country" : "Italy",
   "political_group" : "EPP",
   "national_political_group" : "Forza Italia",
-  "final_grade" : 3.380821890357348,
+  "final_grade" : 3.380781505208127,
   "long_id" : 197797,
   "code" : "it"
 }, {
@@ -229,7 +229,7 @@
   "country" : "Italy",
   "political_group" : "NI",
   "national_political_group" : "Partito Democratico",
-  "final_grade" : 10.597079492452083,
+  "final_grade" : 10.596521951726853,
   "long_id" : 96880,
   "code" : "it"
 }, {
@@ -238,7 +238,7 @@
   "country" : "Germany",
   "political_group" : "Renew",
   "national_political_group" : "Freie Demokratische Partei",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 197443,
   "code" : "de"
 }, {
@@ -247,7 +247,7 @@
   "country" : "Austria",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Österreichs",
-  "final_grade" : 15.460520863542595,
+  "final_grade" : 15.460914822973933,
   "long_id" : 197670,
   "code" : "at"
 }, {
@@ -256,7 +256,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 28223,
   "code" : "de"
 }, {
@@ -265,7 +265,7 @@
   "country" : "Bulgaria",
   "political_group" : "EPP",
   "national_political_group" : "Citizens for European Development of Bulgaria",
-  "final_grade" : 7.124340101924877,
+  "final_grade" : 7.123911331885774,
   "long_id" : 97968,
   "code" : "bg"
 }, {
@@ -274,7 +274,7 @@
   "country" : "Bulgaria",
   "political_group" : "EPP",
   "national_political_group" : "Citizens for European Development of Bulgaria",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 107212,
   "code" : "bg"
 }, {
@@ -283,7 +283,7 @@
   "country" : "Bulgaria",
   "political_group" : "ECR",
   "national_political_group" : "VMRO",
-  "final_grade" : 1.3004502573469168,
+  "final_grade" : 1.3006743034395956,
   "long_id" : 197849,
   "code" : "bg"
 }, {
@@ -292,7 +292,7 @@
   "country" : "Latvia",
   "political_group" : "S&D",
   "national_political_group" : "Gods kalpot Rīgai",
-  "final_grade" : 10.241507833660808,
+  "final_grade" : 10.241464420410697,
   "long_id" : 197783,
   "code" : "lv"
 }, {
@@ -301,7 +301,7 @@
   "country" : "Lithuania",
   "political_group" : "EPP",
   "national_political_group" : "Tėvynės sąjunga-Lietuvos krikščionys demokratai",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197843,
   "code" : "lt"
 }, {
@@ -310,7 +310,7 @@
   "country" : "Estonia",
   "political_group" : "Renew",
   "national_political_group" : "Eesti Reformierakond",
-  "final_grade" : 3.833896231017255,
+  "final_grade" : 3.8344295887421955,
   "long_id" : 124696,
   "code" : "ee"
 }, {
@@ -319,7 +319,7 @@
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Platforma Obywatelska",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197514,
   "code" : "pl"
 }, {
@@ -328,7 +328,7 @@
   "country" : "Hungary",
   "political_group" : "NI",
   "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
-  "final_grade" : 5.810355963466758,
+  "final_grade" : 5.809837953369793,
   "long_id" : 23816,
   "code" : "hu"
 }, {
@@ -337,7 +337,7 @@
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
-  "final_grade" : 1.6483476187681803,
+  "final_grade" : 1.6484521192296173,
   "long_id" : 197690,
   "code" : "fr"
 }, {
@@ -346,7 +346,7 @@
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
-  "final_grade" : 1.3004502573469168,
+  "final_grade" : 1.3006743034395956,
   "long_id" : 197541,
   "code" : "pl"
 }, {
@@ -355,7 +355,7 @@
   "country" : "Bulgaria",
   "political_group" : "ECR",
   "national_political_group" : "VMRO",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 124873,
   "code" : "bg"
 }, {
@@ -364,7 +364,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich-Soziale Union in Bayern e.V.",
-  "final_grade" : 5.810355963466758,
+  "final_grade" : 5.809837953369793,
   "long_id" : 4289,
   "code" : "de"
 }, {
@@ -373,7 +373,7 @@
   "country" : "Austria",
   "political_group" : "EPP",
   "national_political_group" : "Österreichische Volkspartei",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197652,
   "code" : "at"
 }, {
@@ -382,7 +382,7 @@
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 183793,
   "code" : "it"
 }, {
@@ -391,7 +391,7 @@
   "country" : "Netherlands",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Partij voor de Dieren",
-  "final_grade" : 18.369403819397657,
+  "final_grade" : 18.369674840788054,
   "long_id" : 125023,
   "code" : "nl"
 }, {
@@ -400,7 +400,7 @@
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
-  "final_grade" : 3.0019706564849797,
+  "final_grade" : 3.00187971320109,
   "long_id" : 197788,
   "code" : "it"
 }, {
@@ -409,7 +409,7 @@
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
-  "final_grade" : 19.96051467201658,
+  "final_grade" : 19.96048268943299,
   "long_id" : 86793,
   "code" : "de"
 }, {
@@ -418,7 +418,7 @@
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197453,
   "code" : "de"
 }, {
@@ -427,7 +427,7 @@
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 28353,
   "code" : "pl"
 }, {
@@ -436,7 +436,7 @@
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 197572,
   "code" : "pl"
 }, {
@@ -445,7 +445,7 @@
   "country" : "Hungary",
   "political_group" : "Renew",
   "national_political_group" : "Momentum",
-  "final_grade" : 17.222086777998733,
+  "final_grade" : 17.22210769044039,
   "long_id" : 197595,
   "code" : "hu"
 }, {
@@ -454,7 +454,7 @@
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 197806,
   "code" : "it"
 }, {
@@ -463,7 +463,7 @@
   "country" : "France",
   "political_group" : "EPP",
   "national_political_group" : "Les Républicains",
-  "final_grade" : 7.124340101924877,
+  "final_grade" : 7.123911331885774,
   "long_id" : 24594,
   "code" : "fr"
 }, {
@@ -472,7 +472,7 @@
   "country" : "France",
   "political_group" : "GUE/NGL",
   "national_political_group" : "La France Insoumise",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197527,
   "code" : "fr"
 }, {
@@ -481,7 +481,7 @@
   "country" : "Netherlands",
   "political_group" : "EPP",
   "national_political_group" : "Christen Democratisch Appèl",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 125030,
   "code" : "nl"
 }, {
@@ -490,7 +490,7 @@
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
-  "final_grade" : 3.4183230517871994,
+  "final_grade" : 3.418051412954423,
   "long_id" : 182995,
   "code" : "fr"
 }, {
@@ -499,7 +499,7 @@
   "country" : "Spain",
   "political_group" : "NI",
   "national_political_group" : "Junts per Catalunya - Lliures per Europa",
-  "final_grade" : 16.87151178171352,
+  "final_grade" : 16.871477926873908,
   "long_id" : 202352,
   "code" : "es"
 }, {
@@ -508,7 +508,7 @@
   "country" : "Spain",
   "political_group" : "EPP",
   "national_political_group" : "Partido Popular",
-  "final_grade" : 5.810355963466758,
+  "final_grade" : 5.809837953369793,
   "long_id" : 28399,
   "code" : "es"
 }, {
@@ -517,7 +517,7 @@
   "country" : "Italy",
   "political_group" : "EPP",
   "national_political_group" : "Forza Italia",
-  "final_grade" : 7.0368978122364885,
+  "final_grade" : 7.036477044581121,
   "long_id" : 2187,
   "code" : "it"
 }, {
@@ -526,7 +526,7 @@
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 197787,
   "code" : "it"
 }, {
@@ -535,7 +535,7 @@
   "country" : "Netherlands",
   "political_group" : "EPP",
   "national_political_group" : "Christen Democratisch Appèl",
-  "final_grade" : 1.592717924920069,
+  "final_grade" : 1.5929254192279263,
   "long_id" : 4560,
   "code" : "nl"
 }, {
@@ -544,7 +544,7 @@
   "country" : "Sweden",
   "political_group" : "EPP",
   "national_political_group" : "Moderaterna",
-  "final_grade" : 6.026841997273981,
+  "final_grade" : 6.02615971712035,
   "long_id" : 197406,
   "code" : "se"
 }, {
@@ -553,7 +553,7 @@
   "country" : "France",
   "political_group" : "EPP",
   "national_political_group" : "Les Républicains",
-  "final_grade" : 7.124340101924877,
+  "final_grade" : 7.123911331885774,
   "long_id" : 96747,
   "code" : "fr"
 }, {
@@ -562,7 +562,7 @@
   "country" : "Denmark",
   "political_group" : "Renew",
   "national_political_group" : "Venstre, Danmarks Liberale Parti",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 197558,
   "code" : "dk"
 }, {
@@ -571,7 +571,7 @@
   "country" : "Bulgaria",
   "political_group" : "EPP",
   "national_political_group" : "Citizens for European Development of Bulgaria",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 189525,
   "code" : "bg"
 }, {
@@ -580,7 +580,7 @@
   "country" : "Belgium",
   "political_group" : "ECR",
   "national_political_group" : "Nieuw-Vlaamse Alliantie",
-  "final_grade" : 8.744659929114283,
+  "final_grade" : 8.745140461281688,
   "long_id" : 197469,
   "code" : "be"
 }, {
@@ -589,7 +589,7 @@
   "country" : "Bulgaria",
   "political_group" : "Renew",
   "national_political_group" : "Movement for Rights and Freedoms",
-  "final_grade" : 4.411223388049891,
+  "final_grade" : 4.4108340071742544,
   "long_id" : 197848,
   "code" : "bg"
 }, {
@@ -598,7 +598,7 @@
   "country" : "Hungary",
   "political_group" : "S&D",
   "national_political_group" : "Demokratikus Koalíció",
-  "final_grade" : 16.576623465904397,
+  "final_grade" : 16.57716394955963,
   "long_id" : 197587,
   "code" : "hu"
 }, {
@@ -607,7 +607,7 @@
   "country" : "France",
   "political_group" : "S&D",
   "national_political_group" : "Place publique",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197697,
   "code" : "fr"
 }, {
@@ -616,7 +616,7 @@
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 197680,
   "code" : "fr"
 }, {
@@ -625,7 +625,7 @@
   "country" : "Lithuania",
   "political_group" : "EPP",
   "national_political_group" : "Tėvynės sąjunga-Lietuvos krikščionys demokratai",
-  "final_grade" : 8.489528982383316,
+  "final_grade" : 8.489366582389389,
   "long_id" : 197835,
   "code" : "lt"
 }, {
@@ -634,7 +634,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 96761,
   "code" : "de"
 }, {
@@ -643,7 +643,7 @@
   "country" : "Hungary",
   "political_group" : "NI",
   "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
-  "final_grade" : 6.543627796501435,
+  "final_grade" : 6.543164476122054,
   "long_id" : 124586,
   "code" : "hu"
 }, {
@@ -652,7 +652,7 @@
   "country" : "Austria",
   "political_group" : "EPP",
   "national_political_group" : "Österreichische Volkspartei",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197667,
   "code" : "at"
 }, {
@@ -661,7 +661,7 @@
   "country" : "Ireland",
   "political_group" : "Renew",
   "national_political_group" : "Fianna Fáil Party",
-  "final_grade" : 6.995127813859657,
+  "final_grade" : 6.995481720736667,
   "long_id" : 204332,
   "code" : "ie"
 }, {
@@ -670,7 +670,7 @@
   "country" : "Netherlands",
   "political_group" : "Renew",
   "national_political_group" : "Volkspartij voor Vrijheid en Democratie",
-  "final_grade" : 1.8593495778831515,
+  "final_grade" : 1.8593781067091815,
   "long_id" : 197780,
   "code" : "nl"
 }, {
@@ -679,7 +679,7 @@
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Platforma Obywatelska",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197492,
   "code" : "pl"
 }, {
@@ -688,7 +688,7 @@
   "country" : "Netherlands",
   "political_group" : "Greens/EFA",
   "national_political_group" : "GroenLinks",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 96725,
   "code" : "nl"
 }, {
@@ -697,7 +697,7 @@
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Solidarna Polska Zbigniewa Ziobro",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 197519,
   "code" : "pl"
 }, {
@@ -706,7 +706,7 @@
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
-  "final_grade" : 1.3004502573469168,
+  "final_grade" : 1.3006743034395956,
   "long_id" : 197538,
   "code" : "pl"
 }, {
@@ -715,7 +715,7 @@
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 197553,
   "code" : "pl"
 }, {
@@ -724,7 +724,7 @@
   "country" : "France",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Europe Écologie",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197512,
   "code" : "fr"
 }, {
@@ -733,7 +733,7 @@
   "country" : "Belgium",
   "political_group" : "EPP",
   "national_political_group" : "Les Engagés",
-  "final_grade" : 11.693334783705094,
+  "final_grade" : 11.69288399822364,
   "long_id" : 197458,
   "code" : "be"
 }, {
@@ -742,7 +742,7 @@
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Liste Renaissance",
-  "final_grade" : 10.774771139586974,
+  "final_grade" : 10.774369795373207,
   "long_id" : 197543,
   "code" : "fr"
 }, {
@@ -751,7 +751,7 @@
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
-  "final_grade" : 15.460520863542595,
+  "final_grade" : 15.460914822973933,
   "long_id" : 1909,
   "code" : "de"
 }, {
@@ -760,7 +760,7 @@
   "country" : "Germany",
   "political_group" : "ID",
   "national_political_group" : "Alternative für Deutschland",
-  "final_grade" : 6.32880083921394,
+  "final_grade" : 6.328628460900833,
   "long_id" : 197489,
   "code" : "de"
 }, {
@@ -769,7 +769,7 @@
   "country" : "Netherlands",
   "political_group" : "ECR",
   "national_political_group" : "Staatkundig Gereformeerde Partij",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 197773,
   "code" : "nl"
 }, {
@@ -778,7 +778,7 @@
   "country" : "Austria",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Österreichs",
-  "final_grade" : 14.887634760119296,
+  "final_grade" : 14.887984635237078,
   "long_id" : 197678,
   "code" : "at"
 }, {
@@ -787,7 +787,7 @@
   "country" : "Croatia",
   "political_group" : "S&D",
   "national_political_group" : "Socijaldemokratska partija Hrvatske",
-  "final_grade" : 14.260267080166612,
+  "final_grade" : 14.26014391566548,
   "long_id" : 112748,
   "code" : "hr"
 }, {
@@ -796,7 +796,7 @@
   "country" : "Ireland",
   "political_group" : "Renew",
   "national_political_group" : "Fianna Fáil Party",
-  "final_grade" : 6.119138388220911,
+  "final_grade" : 6.1194328017260124,
   "long_id" : 197818,
   "code" : "ie"
 }, {
@@ -805,7 +805,7 @@
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
-  "final_grade" : 15.460520863542595,
+  "final_grade" : 15.460914822973933,
   "long_id" : 96932,
   "code" : "de"
 }, {
@@ -814,7 +814,7 @@
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 197545,
   "code" : "pl"
 }, {
@@ -823,7 +823,7 @@
   "country" : "Poland",
   "political_group" : "S&D",
   "national_political_group" : "Nowa Lewica",
-  "final_grade" : 12.727333878946371,
+  "final_grade" : 12.726530160311102,
   "long_id" : 23768,
   "code" : "pl"
 }, {
@@ -832,7 +832,7 @@
   "country" : "Italy",
   "political_group" : "S&D",
   "national_political_group" : "Partito Democratico",
-  "final_grade" : 11.650760565225719,
+  "final_grade" : 11.65041871438386,
   "long_id" : 124867,
   "code" : "it"
 }, {
@@ -841,7 +841,7 @@
   "country" : "France",
   "political_group" : "EPP",
   "national_political_group" : "Les Républicains",
-  "final_grade" : 7.124340101924877,
+  "final_grade" : 7.123911331885774,
   "long_id" : 5565,
   "code" : "fr"
 }, {
@@ -850,7 +850,7 @@
   "country" : "Lithuania",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Lietuvos valstiečių ir žaliųjų sąjunga",
-  "final_grade" : 18.84527678789931,
+  "final_grade" : 18.845099040277407,
   "long_id" : 125214,
   "code" : "lt"
 }, {
@@ -859,7 +859,7 @@
   "country" : "Spain",
   "political_group" : "NI",
   "national_political_group" : "Junts per Catalunya - Lliures per Europa",
-  "final_grade" : 15.879573270916408,
+  "final_grade" : 15.879731281055497,
   "long_id" : 202351,
   "code" : "es"
 }, {
@@ -868,7 +868,7 @@
   "country" : "Italy",
   "political_group" : "Renew",
   "national_political_group" : "Azione",
-  "final_grade" : 10.597079492452083,
+  "final_grade" : 10.596521951726853,
   "long_id" : 197617,
   "code" : "it"
 }, {
@@ -877,7 +877,7 @@
   "country" : "Italy",
   "political_group" : "ECR",
   "national_political_group" : "Fratelli d'Italia",
-  "final_grade" : 3.0019706564849797,
+  "final_grade" : 3.00187971320109,
   "long_id" : 96810,
   "code" : "it"
 }, {
@@ -886,7 +886,7 @@
   "country" : "Portugal",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista",
-  "final_grade" : 12.355386931008177,
+  "final_grade" : 12.354895861370444,
   "long_id" : 124739,
   "code" : "pt"
 }, {
@@ -895,7 +895,7 @@
   "country" : "Romania",
   "political_group" : "S&D",
   "national_political_group" : "Partidul Social Democrat",
-  "final_grade" : 10.774771139586974,
+  "final_grade" : 10.774369795373207,
   "long_id" : 197651,
   "code" : "ro"
 }, {
@@ -904,7 +904,7 @@
   "country" : "Netherlands",
   "political_group" : "Renew",
   "national_political_group" : "Volkspartij voor Vrijheid en Democratie",
-  "final_grade" : 1.8593495778831515,
+  "final_grade" : 1.8593781067091815,
   "long_id" : 190519,
   "code" : "nl"
 }, {
@@ -913,7 +913,7 @@
   "country" : "France",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Europe Écologie",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197506,
   "code" : "fr"
 }, {
@@ -922,7 +922,7 @@
   "country" : "Italy",
   "political_group" : "EPP",
   "national_political_group" : "Forza Italia",
-  "final_grade" : 10.597079492452083,
+  "final_grade" : 10.596521951726853,
   "long_id" : 124861,
   "code" : "it"
 }, {
@@ -931,7 +931,7 @@
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Mouvement Démocrate",
-  "final_grade" : 11.650760565225719,
+  "final_grade" : 11.65041871438386,
   "long_id" : 197505,
   "code" : "fr"
 }, {
@@ -940,7 +940,7 @@
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 94649,
   "code" : "fr"
 }, {
@@ -949,7 +949,7 @@
   "country" : "Luxembourg",
   "political_group" : "Renew",
   "national_political_group" : "Parti démocratique",
-  "final_grade" : 6.823764754003367,
+  "final_grade" : 6.823909948712595,
   "long_id" : 840,
   "code" : "lu"
 }, {
@@ -958,7 +958,7 @@
   "country" : "Sweden",
   "political_group" : "ECR",
   "national_political_group" : "Sverigedemokraterna",
-  "final_grade" : 4.032391728918639,
+  "final_grade" : 4.032342953774751,
   "long_id" : 123562,
   "code" : "se"
 }, {
@@ -967,7 +967,7 @@
   "country" : "Italy",
   "political_group" : "ECR",
   "national_political_group" : "FRATELLI D' ITALIA",
-  "final_grade" : 11.058948167416505,
+  "final_grade" : 11.058069046417799,
   "long_id" : 197794,
   "code" : "it"
 }, {
@@ -976,7 +976,7 @@
   "country" : "Ireland",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Sinn Féin",
-  "final_grade" : 15.34002408699395,
+  "final_grade" : 15.33935638335452,
   "long_id" : 205452,
   "code" : "ie"
 }, {
@@ -985,7 +985,7 @@
   "country" : "Denmark",
   "political_group" : "S&D",
   "national_political_group" : "Socialdemokratiet",
-  "final_grade" : 13.06001329679063,
+  "final_grade" : 13.059373008357026,
   "long_id" : 37312,
   "code" : "dk"
 }, {
@@ -994,7 +994,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich-Soziale Union in Bayern e.V.",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197473,
   "code" : "de"
 }, {
@@ -1003,7 +1003,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 28226,
   "code" : "de"
 }, {
@@ -1012,7 +1012,7 @@
   "country" : "Austria",
   "political_group" : "EPP",
   "national_political_group" : "Österreichische Volkspartei",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 204368,
   "code" : "at"
 }, {
@@ -1021,7 +1021,7 @@
   "country" : "Germany",
   "political_group" : "ID",
   "national_political_group" : "Alternative für Deutschland",
-  "final_grade" : 6.32880083921394,
+  "final_grade" : 6.328628460900833,
   "long_id" : 197475,
   "code" : "de"
 }, {
@@ -1030,7 +1030,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197422,
   "code" : "de"
 }, {
@@ -1039,7 +1039,7 @@
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Mouvement Démocrate",
-  "final_grade" : 10.774771139586974,
+  "final_grade" : 10.774369795373207,
   "long_id" : 197557,
   "code" : "fr"
 }, {
@@ -1048,7 +1048,7 @@
   "country" : "Luxembourg",
   "political_group" : "EPP",
   "national_political_group" : "Parti chrétien social luxembourgeois",
-  "final_grade" : 7.124340101924877,
+  "final_grade" : 7.123911331885774,
   "long_id" : 193419,
   "code" : "lu"
 }, {
@@ -1057,7 +1057,7 @@
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "La République en marche",
-  "final_grade" : 10.597079492452083,
+  "final_grade" : 10.596521951726853,
   "long_id" : 197499,
   "code" : "fr"
 }, {
@@ -1066,7 +1066,7 @@
   "country" : "Ireland",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Green Party",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197654,
   "code" : "ie"
 }, {
@@ -1075,7 +1075,7 @@
   "country" : "Belgium",
   "political_group" : "EPP",
   "national_political_group" : "Christen-Democratisch & Vlaams",
-  "final_grade" : 6.679445757215961,
+  "final_grade" : 6.679196495276563,
   "long_id" : 197455,
   "code" : "be"
 }, {
@@ -1084,7 +1084,7 @@
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
-  "final_grade" : 9.898781713948228,
+  "final_grade" : 9.898320876362552,
   "long_id" : 125045,
   "code" : "es"
 }, {
@@ -1093,7 +1093,7 @@
   "country" : "Spain",
   "political_group" : "NI",
   "national_political_group" : "Junts per Catalunya - Lliures per Europa",
-  "final_grade" : 17.222086777998733,
+  "final_grade" : 17.22210769044039,
   "long_id" : 204443,
   "code" : "es"
 }, {
@@ -1102,7 +1102,7 @@
   "country" : "Ireland",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Independents for change",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197731,
   "code" : "ie"
 }, {
@@ -1111,7 +1111,7 @@
   "country" : "France",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Europe Écologie",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 204420,
   "code" : "fr"
 }, {
@@ -1120,7 +1120,7 @@
   "country" : "Austria",
   "political_group" : "Renew",
   "national_political_group" : "NEOS – Das Neue Österreich",
-  "final_grade" : 14.051268131977682,
+  "final_grade" : 14.051960529000768,
   "long_id" : 197632,
   "code" : "at"
 }, {
@@ -1129,7 +1129,7 @@
   "country" : "Romania",
   "political_group" : "S&D",
   "national_political_group" : "Partidul Social Democrat",
-  "final_grade" : 11.369821581983969,
+  "final_grade" : 11.368764872334909,
   "long_id" : 197653,
   "code" : "ro"
 }, {
@@ -1138,7 +1138,7 @@
   "country" : "Romania",
   "political_group" : "Renew",
   "national_political_group" : "Uniunea Salvați România",
-  "final_grade" : 9.41925428342685,
+  "final_grade" : 9.419261828765054,
   "long_id" : 197664,
   "code" : "ro"
 }, {
@@ -1147,7 +1147,7 @@
   "country" : "Portugal",
   "political_group" : "EPP",
   "national_political_group" : "Partido Social Democrata",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 124734,
   "code" : "pt"
 }, {
@@ -1156,7 +1156,7 @@
   "country" : "Ireland",
   "political_group" : "EPP",
   "national_political_group" : "Fine Gael Party",
-  "final_grade" : 10.106973148158804,
+  "final_grade" : 10.106252439743951,
   "long_id" : 209896,
   "code" : "ie"
 }, {
@@ -1165,7 +1165,7 @@
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
-  "final_grade" : 14.887634760119296,
+  "final_grade" : 14.887984635237078,
   "long_id" : 1854,
   "code" : "de"
 }, {
@@ -1174,7 +1174,7 @@
   "country" : "Romania",
   "political_group" : "S&D",
   "national_political_group" : "PRO Romania",
-  "final_grade" : 11.650760565225719,
+  "final_grade" : 11.65041871438386,
   "long_id" : 33997,
   "code" : "ro"
 }, {
@@ -1183,7 +1183,7 @@
   "country" : "Germany",
   "political_group" : "GUE/NGL",
   "national_political_group" : "DIE LINKE.",
-  "final_grade" : 17.351872875320222,
+  "final_grade" : 17.351622965581484,
   "long_id" : 96852,
   "code" : "de"
 }, {
@@ -1192,7 +1192,7 @@
   "country" : "Cyprus",
   "political_group" : "S&D",
   "national_political_group" : "Democratic Party",
-  "final_grade" : 13.06001329679063,
+  "final_grade" : 13.059373008357026,
   "long_id" : 124691,
   "code" : "cy"
 }, {
@@ -1201,7 +1201,7 @@
   "country" : "Romania",
   "political_group" : "Renew",
   "national_political_group" : "USR-PLUS",
-  "final_grade" : 9.41925428342685,
+  "final_grade" : 9.419261828765054,
   "long_id" : 197661,
   "code" : "ro"
 }, {
@@ -1210,7 +1210,7 @@
   "country" : "Romania",
   "political_group" : "ECR",
   "national_political_group" : "Partidul Național Țărănesc Creștin Democrat",
-  "final_grade" : 4.753949507762471,
+  "final_grade" : 4.753977551222397,
   "long_id" : 197655,
   "code" : "ro"
 }, {
@@ -1219,7 +1219,7 @@
   "country" : "Romania",
   "political_group" : "EPP",
   "national_political_group" : "Partidul Naţional Liberal",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 38420,
   "code" : "ro"
 }, {
@@ -1228,7 +1228,7 @@
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
-  "final_grade" : 10.774771139586974,
+  "final_grade" : 10.774369795373207,
   "long_id" : 197719,
   "code" : "es"
 }, {
@@ -1237,7 +1237,7 @@
   "country" : "Hungary",
   "political_group" : "S&D",
   "national_political_group" : "Demokratikus Koalíció",
-  "final_grade" : 16.14459045413924,
+  "final_grade" : 16.14512841277419,
   "long_id" : 124722,
   "code" : "hu"
 }, {
@@ -1246,7 +1246,7 @@
   "country" : "Malta",
   "political_group" : "S&D",
   "national_political_group" : "Partit Laburista",
-  "final_grade" : 7.9737410611904584,
+  "final_grade" : 7.973950405231852,
   "long_id" : 209091,
   "code" : "mt"
 }, {
@@ -1255,7 +1255,7 @@
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
-  "final_grade" : 13.06001329679063,
+  "final_grade" : 13.059373008357026,
   "long_id" : 197721,
   "code" : "es"
 }, {
@@ -1264,7 +1264,7 @@
   "country" : "Latvia",
   "political_group" : "EPP",
   "national_political_group" : "Partija \"VIENOTĪBA\"",
-  "final_grade" : 1.592717924920069,
+  "final_grade" : 1.5929254192279263,
   "long_id" : 130256,
   "code" : "lv"
 }, {
@@ -1273,7 +1273,7 @@
   "country" : "Romania",
   "political_group" : "Renew",
   "national_political_group" : "Reînnoim Proiectul European al României",
-  "final_grade" : 10.07014477380452,
+  "final_grade" : 10.069892648386626,
   "long_id" : 197631,
   "code" : "ro"
 }, {
@@ -1282,7 +1282,7 @@
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Volt",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197439,
   "code" : "de"
 }, {
@@ -1291,7 +1291,7 @@
   "country" : "France",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Europe Écologie",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197574,
   "code" : "fr"
 }, {
@@ -1300,7 +1300,7 @@
   "country" : "Romania",
   "political_group" : "S&D",
   "national_political_group" : "Partidul Social Democrat",
-  "final_grade" : 10.774771139586974,
+  "final_grade" : 10.774369795373207,
   "long_id" : 124784,
   "code" : "ro"
 }, {
@@ -1309,7 +1309,7 @@
   "country" : "Romania",
   "political_group" : "EPP",
   "national_political_group" : "Partidul Naţional Liberal",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197647,
   "code" : "ro"
 }, {
@@ -1318,7 +1318,7 @@
   "country" : "Romania",
   "political_group" : "EPP",
   "national_political_group" : "Partidul Naţional Liberal",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 125012,
   "code" : "ro"
 }, {
@@ -1327,7 +1327,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 28219,
   "code" : "de"
 }, {
@@ -1336,7 +1336,7 @@
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 106936,
   "code" : "de"
 }, {
@@ -1345,7 +1345,7 @@
   "country" : "Italy",
   "political_group" : "S&D",
   "national_political_group" : "Partito Democratico",
-  "final_grade" : 13.30012647351369,
+  "final_grade" : 13.29957321593207,
   "long_id" : 197792,
   "code" : "it"
 }, {
@@ -1354,7 +1354,7 @@
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
-  "final_grade" : 2.621383550433688,
+  "final_grade" : 2.6212641441948454,
   "long_id" : 192635,
   "code" : "it"
 }, {
@@ -1363,7 +1363,7 @@
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Platforma Obywatelska",
-  "final_grade" : 10.211101046787245,
+  "final_grade" : 10.210066311200054,
   "long_id" : 96779,
   "code" : "pl"
 }, {
@@ -1372,7 +1372,7 @@
   "country" : "Malta",
   "political_group" : "EPP",
   "national_political_group" : "Partit Nazzjonalista",
-  "final_grade" : 8.489528982383316,
+  "final_grade" : 8.489366582389389,
   "long_id" : 28122,
   "code" : "mt"
 }, {
@@ -1381,7 +1381,7 @@
   "country" : "France",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Europe Écologie",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197503,
   "code" : "fr"
 }, {
@@ -1390,7 +1390,7 @@
   "country" : "Sweden",
   "political_group" : "EPP",
   "national_political_group" : "Kristdemokraterna",
-  "final_grade" : 8.062696235144049,
+  "final_grade" : 8.061983740927678,
   "long_id" : 197393,
   "code" : "se"
 }, {
@@ -1399,7 +1399,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 124806,
   "code" : "de"
 }, {
@@ -1408,7 +1408,7 @@
   "country" : "Ireland",
   "political_group" : "EPP",
   "national_political_group" : "Fine Gael Party",
-  "final_grade" : 8.489528982383316,
+  "final_grade" : 8.489366582389389,
   "long_id" : 124988,
   "code" : "ie"
 }, {
@@ -1417,7 +1417,7 @@
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
-  "final_grade" : 16.341303820770666,
+  "final_grade" : 16.341511256707165,
   "long_id" : 197440,
   "code" : "de"
 }, {
@@ -1426,7 +1426,7 @@
   "country" : "Cyprus",
   "political_group" : "S&D",
   "national_political_group" : "Movement for Social Democracy EDEK",
-  "final_grade" : 14.82157921124677,
+  "final_grade" : 14.820565875823482,
   "long_id" : 124692,
   "code" : "cy"
 }, {
@@ -1435,7 +1435,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 188945,
   "code" : "de"
 }, {
@@ -1444,7 +1444,7 @@
   "country" : "Netherlands",
   "political_group" : "ECR",
   "national_political_group" : "JA21",
-  "final_grade" : 1.6814048781256605,
+  "final_grade" : 1.6813979010210691,
   "long_id" : 97133,
   "code" : "nl"
 }, {
@@ -1453,7 +1453,7 @@
   "country" : "Spain",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Esquerra Republicana de Catalunya",
-  "final_grade" : 17.222086777998733,
+  "final_grade" : 17.22210769044039,
   "long_id" : 197832,
   "code" : "es"
 }, {
@@ -1462,7 +1462,7 @@
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
-  "final_grade" : 16.149454533429918,
+  "final_grade" : 16.149386709297076,
   "long_id" : 124822,
   "code" : "de"
 }, {
@@ -1471,7 +1471,7 @@
   "country" : "Italy",
   "political_group" : "NI",
   "national_political_group" : "Independent",
-  "final_grade" : 14.131256288515065,
+  "final_grade" : 14.130389654644208,
   "long_id" : 197804,
   "code" : "it"
 }, {
@@ -1480,7 +1480,7 @@
   "country" : "Czechia",
   "political_group" : "Renew",
   "national_political_group" : "ANO 2011",
-  "final_grade" : 3.706597022267435,
+  "final_grade" : 3.706356860187672,
   "long_id" : 124708,
   "code" : "cz"
 }, {
@@ -1489,7 +1489,7 @@
   "country" : "Spain",
   "political_group" : "EPP",
   "national_political_group" : "Partido Popular",
-  "final_grade" : 5.810355963466758,
+  "final_grade" : 5.809837953369793,
   "long_id" : 197711,
   "code" : "es"
 }, {
@@ -1498,7 +1498,7 @@
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 204346,
   "code" : "pl"
 }, {
@@ -1507,7 +1507,7 @@
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 124771,
   "code" : "fr"
 }, {
@@ -1516,7 +1516,7 @@
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Mouvement Radical Social-Libéral",
-  "final_grade" : 10.774771139586974,
+  "final_grade" : 10.774369795373207,
   "long_id" : 96885,
   "code" : "fr"
 }, {
@@ -1525,7 +1525,7 @@
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
-  "final_grade" : 10.774771139586974,
+  "final_grade" : 10.774369795373207,
   "long_id" : 127096,
   "code" : "es"
 }, {
@@ -1534,7 +1534,7 @@
   "country" : "Netherlands",
   "political_group" : "ECR",
   "national_political_group" : "Meer Directe Democratie",
-  "final_grade" : 3.344696776197561,
+  "final_grade" : 3.3450232572492338,
   "long_id" : 204733,
   "code" : "nl"
 }, {
@@ -1543,7 +1543,7 @@
   "country" : "Romania",
   "political_group" : "Renew",
   "national_political_group" : "Reînnoim Proiectul European al României",
-  "final_grade" : 10.774771139586974,
+  "final_grade" : 10.774369795373207,
   "long_id" : 197663,
   "code" : "ro"
 }, {
@@ -1552,7 +1552,7 @@
   "country" : "Romania",
   "political_group" : "Renew",
   "national_political_group" : "Reînnoim Proiectul European al României",
-  "final_grade" : 10.774771139586974,
+  "final_grade" : 10.774369795373207,
   "long_id" : 197665,
   "code" : "ro"
 }, {
@@ -1561,7 +1561,7 @@
   "country" : "Hungary",
   "political_group" : "NI",
   "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
-  "final_grade" : 5.810355963466758,
+  "final_grade" : 5.809837953369793,
   "long_id" : 27714,
   "code" : "hu"
 }, {
@@ -1570,7 +1570,7 @@
   "country" : "Finland",
   "political_group" : "S&D",
   "national_political_group" : "Suomen Sosialidemokraattinen Puolue/Finlands Socialdemokratiska Parti",
-  "final_grade" : 8.618317823760233,
+  "final_grade" : 8.618473070573682,
   "long_id" : 197800,
   "code" : "fi"
 }, {
@@ -1579,7 +1579,7 @@
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
-  "final_grade" : 11.650760565225719,
+  "final_grade" : 11.65041871438386,
   "long_id" : 96991,
   "code" : "es"
 }, {
@@ -1588,7 +1588,7 @@
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 197611,
   "code" : "it"
 }, {
@@ -1597,7 +1597,7 @@
   "country" : "Bulgaria",
   "political_group" : "S&D",
   "national_political_group" : "Bulgarian Socialist Party",
-  "final_grade" : 12.425117453391652,
+  "final_grade" : 12.424369721413349,
   "long_id" : 197842,
   "code" : "bg"
 }, {
@@ -1606,7 +1606,7 @@
   "country" : "Italy",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Europa Verde",
-  "final_grade" : 19.956505436673037,
+  "final_grade" : 19.956469474097524,
   "long_id" : 124779,
   "code" : "it"
 }, {
@@ -1615,7 +1615,7 @@
   "country" : "Italy",
   "political_group" : "S&D",
   "national_political_group" : "Partito Democratico",
-  "final_grade" : 11.650760565225719,
+  "final_grade" : 11.65041871438386,
   "long_id" : 197618,
   "code" : "it"
 }, {
@@ -1624,7 +1624,7 @@
   "country" : "Finland",
   "political_group" : "Renew",
   "national_political_group" : "Suomen Keskusta",
-  "final_grade" : 1.8593495778831515,
+  "final_grade" : 1.8593781067091815,
   "long_id" : 191693,
   "code" : "fi"
 }, {
@@ -1633,7 +1633,7 @@
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 197532,
   "code" : "pl"
 }, {
@@ -1642,7 +1642,7 @@
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 197544,
   "code" : "pl"
 }, {
@@ -1651,7 +1651,7 @@
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Platforma Obywatelska",
-  "final_grade" : 7.950916792706276,
+  "final_grade" : 7.95040092942437,
   "long_id" : 96791,
   "code" : "pl"
 }, {
@@ -1660,7 +1660,7 @@
   "country" : "Bulgaria",
   "political_group" : "EPP",
   "national_political_group" : "Citizens for European Development of Bulgaria",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 124850,
   "code" : "bg"
 }, {
@@ -1669,7 +1669,7 @@
   "country" : "Sweden",
   "political_group" : "Renew",
   "national_political_group" : "Centerpartiet",
-  "final_grade" : 6.2824995256315415,
+  "final_grade" : 6.281617426794668,
   "long_id" : 214839,
   "code" : "se"
 }, {
@@ -1678,7 +1678,7 @@
   "country" : "France",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Gauche républicaine et socialiste",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 24505,
   "code" : "fr"
 }, {
@@ -1687,7 +1687,7 @@
   "country" : "Germany",
   "political_group" : "Renew",
   "national_political_group" : "Freie Wähler",
-  "final_grade" : 3.973228675230518,
+  "final_grade" : 3.972809547668927,
   "long_id" : 197430,
   "code" : "de"
 }, {
@@ -1696,7 +1696,7 @@
   "country" : "Hungary",
   "political_group" : "NI",
   "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
-  "final_grade" : 5.810355963466758,
+  "final_grade" : 5.809837953369793,
   "long_id" : 96830,
   "code" : "hu"
 }, {
@@ -1705,7 +1705,7 @@
   "country" : "France",
   "political_group" : "S&D",
   "national_political_group" : "Parti socialiste",
-  "final_grade" : 16.077960973075832,
+  "final_grade" : 16.07808061021918,
   "long_id" : 113892,
   "code" : "fr"
 }, {
@@ -1714,7 +1714,7 @@
   "country" : "Sweden",
   "political_group" : "S&D",
   "national_political_group" : "Arbetarepartiet- Socialdemokraterna",
-  "final_grade" : 12.946282941708493,
+  "final_grade" : 12.946070537149499,
   "long_id" : 197396,
   "code" : "se"
 }, {
@@ -1723,7 +1723,7 @@
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197462,
   "code" : "de"
 }, {
@@ -1732,7 +1732,7 @@
   "country" : "Spain",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Catalunya en Comú",
-  "final_grade" : 19.085389964622365,
+  "final_grade" : 19.085299247852447,
   "long_id" : 124972,
   "code" : "es"
 }, {
@@ -1741,7 +1741,7 @@
   "country" : "Hungary",
   "political_group" : "NI",
   "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
-  "final_grade" : 6.2824995256315415,
+  "final_grade" : 6.281617426794668,
   "long_id" : 213330,
   "code" : "hu"
 }, {
@@ -1750,7 +1750,7 @@
   "country" : "Spain",
   "political_group" : "EPP",
   "national_political_group" : "Partido Popular",
-  "final_grade" : 6.543627796501435,
+  "final_grade" : 6.543164476122054,
   "long_id" : 125027,
   "code" : "es"
 }, {
@@ -1759,7 +1759,7 @@
   "country" : "Netherlands",
   "political_group" : "EPP",
   "national_political_group" : "Christen Democratisch Appèl",
-  "final_grade" : 1.592717924920069,
+  "final_grade" : 1.5929254192279263,
   "long_id" : 38398,
   "code" : "nl"
 }, {
@@ -1768,7 +1768,7 @@
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
-  "final_grade" : 11.650760565225719,
+  "final_grade" : 11.65041871438386,
   "long_id" : 198329,
   "code" : "es"
 }, {
@@ -1777,7 +1777,7 @@
   "country" : "Slovakia",
   "political_group" : "ECR",
   "national_political_group" : "Sloboda a Solidarita",
-  "final_grade" : 7.986901353293397,
+  "final_grade" : 7.987775359413953,
   "long_id" : 197767,
   "code" : "sk"
 }, {
@@ -1786,7 +1786,7 @@
   "country" : "Romania",
   "political_group" : "EPP",
   "national_political_group" : "Partidul Mișcarea Populară",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197672,
   "code" : "ro"
 }, {
@@ -1795,7 +1795,7 @@
   "country" : "Spain",
   "political_group" : "GUE/NGL",
   "national_political_group" : "PODEMOS",
-  "final_grade" : 16.151619091944237,
+  "final_grade" : 16.150852058273028,
   "long_id" : 197785,
   "code" : "es"
 }, {
@@ -1804,7 +1804,7 @@
   "country" : "Bulgaria",
   "political_group" : "EPP",
   "national_political_group" : "Citizens for European Development of Bulgaria",
-  "final_grade" : 5.777023128710093,
+  "final_grade" : 5.776403862974586,
   "long_id" : 98341,
   "code" : "bg"
 }, {
@@ -1813,7 +1813,7 @@
   "country" : "Austria",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Österreichs",
-  "final_grade" : 15.460520863542595,
+  "final_grade" : 15.460914822973933,
   "long_id" : 96998,
   "code" : "at"
 }, {
@@ -1822,7 +1822,7 @@
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
-  "final_grade" : 14.887634760119296,
+  "final_grade" : 14.887984635237078,
   "long_id" : 1913,
   "code" : "de"
 }, {
@@ -1831,7 +1831,7 @@
   "country" : "Sweden",
   "political_group" : "S&D",
   "national_political_group" : "Arbetarepartiet- Socialdemokraterna",
-  "final_grade" : 13.384277654527867,
+  "final_grade" : 13.384094996654825,
   "long_id" : 197392,
   "code" : "se"
 }, {
@@ -1840,7 +1840,7 @@
   "country" : "Czechia",
   "political_group" : "ECR",
   "national_political_group" : "Občanská demokratická strana",
-  "final_grade" : 3.0019706564849797,
+  "final_grade" : 3.00187971320109,
   "long_id" : 96713,
   "code" : "cz"
 }, {
@@ -1849,7 +1849,7 @@
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Platforma Obywatelska",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197525,
   "code" : "pl"
 }, {
@@ -1858,7 +1858,7 @@
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Agir - La Droite constructive",
-  "final_grade" : 11.650760565225719,
+  "final_grade" : 11.65041871438386,
   "long_id" : 22858,
   "code" : "fr"
 }, {
@@ -1867,7 +1867,7 @@
   "country" : "Italy",
   "political_group" : "NI",
   "national_political_group" : "Movimento 5 Stelle",
-  "final_grade" : 13.30012647351369,
+  "final_grade" : 13.29957321593207,
   "long_id" : 124812,
   "code" : "it"
 }, {
@@ -1876,7 +1876,7 @@
   "country" : "Belgium",
   "political_group" : "ID",
   "national_political_group" : "Vlaams Belang",
-  "final_grade" : 5.948731868022321,
+  "final_grade" : 5.948039470999233,
   "long_id" : 197472,
   "code" : "be"
 }, {
@@ -1885,7 +1885,7 @@
   "country" : "Slovenia",
   "political_group" : "EPP",
   "national_political_group" : "Slovenska ljudska stranka",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 125004,
   "code" : "si"
 }, {
@@ -1894,7 +1894,7 @@
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 189065,
   "code" : "fr"
 }, {
@@ -1903,7 +1903,7 @@
   "country" : "Ireland",
   "political_group" : "EPP",
   "national_political_group" : "Fine Gael Party",
-  "final_grade" : 9.365518408022064,
+  "final_grade" : 9.365415501400042,
   "long_id" : 197720,
   "code" : "ie"
 }, {
@@ -1912,7 +1912,7 @@
   "country" : "Italy",
   "political_group" : "NI",
   "national_political_group" : "Democrazia Cristiana",
-  "final_grade" : 2.621383550433688,
+  "final_grade" : 2.6212641441948454,
   "long_id" : 197822,
   "code" : "it"
 }, {
@@ -1921,7 +1921,7 @@
   "country" : "Portugal",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Independente",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197645,
   "code" : "pt"
 }, {
@@ -1930,7 +1930,7 @@
   "country" : "Spain",
   "political_group" : "EPP",
   "national_political_group" : "Partido Popular",
-  "final_grade" : 5.810355963466758,
+  "final_grade" : 5.809837953369793,
   "long_id" : 28400,
   "code" : "es"
 }, {
@@ -1939,7 +1939,7 @@
   "country" : "Italy",
   "political_group" : "S&D",
   "national_political_group" : "Partito Democratico",
-  "final_grade" : 11.650760565225719,
+  "final_grade" : 11.65041871438386,
   "long_id" : 197801,
   "code" : "it"
 }, {
@@ -1948,7 +1948,7 @@
   "country" : "France",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Régions et Peuples Solidaires",
-  "final_grade" : 17.222086777998733,
+  "final_grade" : 17.22210769044039,
   "long_id" : 96750,
   "code" : "fr"
 }, {
@@ -1957,7 +1957,7 @@
   "country" : "France",
   "political_group" : "EPP",
   "national_political_group" : "Les Républicains",
-  "final_grade" : 7.124340101924877,
+  "final_grade" : 7.123911331885774,
   "long_id" : 197534,
   "code" : "fr"
 }, {
@@ -1966,7 +1966,7 @@
   "country" : "Sweden",
   "political_group" : "Renew",
   "national_political_group" : "Centerpartiet",
-  "final_grade" : 4.773288550841648,
+  "final_grade" : 4.77335645888548,
   "long_id" : 124989,
   "code" : "se"
 }, {
@@ -1975,7 +1975,7 @@
   "country" : "Belgium",
   "political_group" : "Renew",
   "national_political_group" : "Mouvement Réformateur",
-  "final_grade" : 8.40438054542457,
+  "final_grade" : 8.40443601470983,
   "long_id" : 4253,
   "code" : "be"
 }, {
@@ -1984,7 +1984,7 @@
   "country" : "Italy",
   "political_group" : "EPP",
   "national_political_group" : "Forza Italia",
-  "final_grade" : 7.657603407851043,
+  "final_grade" : 7.656816706848284,
   "long_id" : 124828,
   "code" : "it"
 }, {
@@ -1993,7 +1993,7 @@
   "country" : "Spain",
   "political_group" : "EPP",
   "national_political_group" : "Partido Popular",
-  "final_grade" : 5.810355963466758,
+  "final_grade" : 5.809837953369793,
   "long_id" : 96936,
   "code" : "es"
 }, {
@@ -2002,7 +2002,7 @@
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
-  "final_grade" : 16.341303820770666,
+  "final_grade" : 16.341511256707165,
   "long_id" : 197435,
   "code" : "de"
 }, {
@@ -2011,7 +2011,7 @@
   "country" : "Belgium",
   "political_group" : "ECR",
   "national_political_group" : "Nieuw-Vlaamse Alliantie",
-  "final_grade" : 8.744659929114283,
+  "final_grade" : 8.745140461281688,
   "long_id" : 197467,
   "code" : "be"
 }, {
@@ -2020,7 +2020,7 @@
   "country" : "France",
   "political_group" : "EPP",
   "national_political_group" : "Les Républicains",
-  "final_grade" : 7.124340101924877,
+  "final_grade" : 7.123911331885774,
   "long_id" : 190774,
   "code" : "fr"
 }, {
@@ -2029,7 +2029,7 @@
   "country" : "Austria",
   "political_group" : "ID",
   "national_political_group" : "Freiheitliche Partei Österreichs",
-  "final_grade" : 2.9162891265568343,
+  "final_grade" : 2.916093827189054,
   "long_id" : 38511,
   "code" : "at"
 }, {
@@ -2038,7 +2038,7 @@
   "country" : "Belgium",
   "political_group" : "ID",
   "national_political_group" : "Vlaams Belang",
-  "final_grade" : 5.948731868022321,
+  "final_grade" : 5.948039470999233,
   "long_id" : 124973,
   "code" : "be"
 }, {
@@ -2047,7 +2047,7 @@
   "country" : "Romania",
   "political_group" : "EPP",
   "national_political_group" : "Partidul Naţional Liberal",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197649,
   "code" : "ro"
 }, {
@@ -2056,7 +2056,7 @@
   "country" : "Romania",
   "political_group" : "EPP",
   "national_political_group" : "Partidul Naţional Liberal",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 202112,
   "code" : "ro"
 }, {
@@ -2065,7 +2065,7 @@
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 197608,
   "code" : "it"
 }, {
@@ -2074,7 +2074,7 @@
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
-  "final_grade" : 2.8875518746222943,
+  "final_grade" : 2.887468936749061,
   "long_id" : 197582,
   "code" : "it"
 }, {
@@ -2083,7 +2083,7 @@
   "country" : "France",
   "political_group" : "NI",
   "national_political_group" : "Reconquête!",
-  "final_grade" : 2.8875518746222943,
+  "final_grade" : 2.887468936749061,
   "long_id" : 197683,
   "code" : "fr"
 }, {
@@ -2092,7 +2092,7 @@
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Horizons",
-  "final_grade" : 10.774771139586974,
+  "final_grade" : 10.774369795373207,
   "long_id" : 197577,
   "code" : "fr"
 }, {
@@ -2101,7 +2101,7 @@
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 124738,
   "code" : "fr"
 }, {
@@ -2110,7 +2110,7 @@
   "country" : "Cyprus",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Progressive Party of Working People - Left - New Forces",
-  "final_grade" : 18.552126658696203,
+  "final_grade" : 18.552393872889937,
   "long_id" : 197416,
   "code" : "cy"
 }, {
@@ -2119,7 +2119,7 @@
   "country" : "Italy",
   "political_group" : "S&D",
   "national_political_group" : "Independent",
-  "final_grade" : 11.650760565225719,
+  "final_grade" : 11.65041871438386,
   "long_id" : 197590,
   "code" : "it"
 }, {
@@ -2128,7 +2128,7 @@
   "country" : "Italy",
   "political_group" : "Renew",
   "national_political_group" : "Azione - Italia Viva",
-  "final_grade" : 9.409582259128534,
+  "final_grade" : 9.408914544869592,
   "long_id" : 192634,
   "code" : "it"
 }, {
@@ -2137,7 +2137,7 @@
   "country" : "Italy",
   "political_group" : "ECR",
   "national_political_group" : "Fratelli d'Italia",
-  "final_grade" : 7.657603407851043,
+  "final_grade" : 7.656816706848284,
   "long_id" : 197824,
   "code" : "it"
 }, {
@@ -2146,7 +2146,7 @@
   "country" : "Ireland",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Green Party",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197889,
   "code" : "ie"
 }, {
@@ -2155,7 +2155,7 @@
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 197559,
   "code" : "pl"
 }, {
@@ -2164,7 +2164,7 @@
   "country" : "Germany",
   "political_group" : "ID",
   "national_political_group" : "Alternative für Deutschland",
-  "final_grade" : 6.32880083921394,
+  "final_grade" : 6.328628460900833,
   "long_id" : 197488,
   "code" : "de"
 }, {
@@ -2173,7 +2173,7 @@
   "country" : "Germany",
   "political_group" : "ID",
   "national_political_group" : "Alternative für Deutschland",
-  "final_grade" : 6.32880083921394,
+  "final_grade" : 6.328628460900833,
   "long_id" : 132191,
   "code" : "de"
 }, {
@@ -2182,7 +2182,7 @@
   "country" : "Belgium",
   "political_group" : "Renew",
   "national_political_group" : "Open Vlaamse Liberalen en Democraten",
-  "final_grade" : 6.995127813859657,
+  "final_grade" : 6.995481720736667,
   "long_id" : 97058,
   "code" : "be"
 }, {
@@ -2191,7 +2191,7 @@
   "country" : "France",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Europe Écologie",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197531,
   "code" : "fr"
 }, {
@@ -2200,7 +2200,7 @@
   "country" : "Hungary",
   "political_group" : "EPP",
   "national_political_group" : "Kereszténydemokrata Néppárt",
-  "final_grade" : 5.810355963466758,
+  "final_grade" : 5.809837953369793,
   "long_id" : 124715,
   "code" : "hu"
 }, {
@@ -2209,7 +2209,7 @@
   "country" : "Austria",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Österreichs",
-  "final_grade" : 15.460520863542595,
+  "final_grade" : 15.460914822973933,
   "long_id" : 197677,
   "code" : "at"
 }, {
@@ -2218,7 +2218,7 @@
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197464,
   "code" : "de"
 }, {
@@ -2227,7 +2227,7 @@
   "country" : "Austria",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Österreichs",
-  "final_grade" : 15.460520863542595,
+  "final_grade" : 15.460914822973933,
   "long_id" : 197682,
   "code" : "at"
 }, {
@@ -2236,7 +2236,7 @@
   "country" : "Austria",
   "political_group" : "ID",
   "national_political_group" : "Freiheitliche Partei Österreichs",
-  "final_grade" : 2.9162891265568343,
+  "final_grade" : 2.916093827189054,
   "long_id" : 125001,
   "code" : "at"
 }, {
@@ -2245,7 +2245,7 @@
   "country" : "Finland",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Vihreä liitto",
-  "final_grade" : 19.96051467201658,
+  "final_grade" : 19.96048268943299,
   "long_id" : 2054,
   "code" : "fi"
 }, {
@@ -2254,7 +2254,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Familien-Partei Deutschlands",
-  "final_grade" : 2.1053174669148818,
+  "final_grade" : 2.1055088061314855,
   "long_id" : 197436,
   "code" : "de"
 }, {
@@ -2263,7 +2263,7 @@
   "country" : "Germany",
   "political_group" : "GUE/NGL",
   "national_political_group" : "DIE LINKE.",
-  "final_grade" : 14.91305810130933,
+  "final_grade" : 14.912244610085294,
   "long_id" : 96646,
   "code" : "de"
 }, {
@@ -2272,7 +2272,7 @@
   "country" : "Sweden",
   "political_group" : "S&D",
   "national_political_group" : "Arbetarepartiet- Socialdemokraterna",
-  "final_grade" : 13.384277654527867,
+  "final_grade" : 13.384094996654825,
   "long_id" : 197391,
   "code" : "se"
 }, {
@@ -2281,7 +2281,7 @@
   "country" : "Finland",
   "political_group" : "EPP",
   "national_political_group" : "Kansallinen Kokoomus",
-  "final_grade" : 7.497940394055792,
+  "final_grade" : 7.497382547298955,
   "long_id" : 124726,
   "code" : "fi"
 }, {
@@ -2290,7 +2290,7 @@
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197457,
   "code" : "de"
 }, {
@@ -2299,7 +2299,7 @@
   "country" : "Italy",
   "political_group" : "EPP",
   "national_political_group" : "Südtiroler Volkspartei",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 96787,
   "code" : "it"
 }, {
@@ -2308,7 +2308,7 @@
   "country" : "Spain",
   "political_group" : "ECR",
   "national_political_group" : "VOX",
-  "final_grade" : 2.3549769954766777,
+  "final_grade" : 2.3556718670310532,
   "long_id" : 197831,
   "code" : "es"
 }, {
@@ -2317,7 +2317,7 @@
   "country" : "France",
   "political_group" : "NI",
   "national_political_group" : "Rassemblement national",
-  "final_grade" : 4.8051542497627935,
+  "final_grade" : 4.8053594232100325,
   "long_id" : 197626,
   "code" : "fr"
 }, {
@@ -2326,7 +2326,7 @@
   "country" : "Belgium",
   "political_group" : "Renew",
   "national_political_group" : "Open Vlaamse Liberalen en Democraten",
-  "final_grade" : 3.8779600821237254,
+  "final_grade" : 3.8779286322117437,
   "long_id" : 130100,
   "code" : "be"
 }, {
@@ -2335,7 +2335,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197408,
   "code" : "de"
 }, {
@@ -2344,7 +2344,7 @@
   "country" : "Czechia",
   "political_group" : "ID",
   "national_political_group" : "Svoboda a přímá demokracie",
-  "final_grade" : 9.892138013661983,
+  "final_grade" : 9.890806914312249,
   "long_id" : 197564,
   "code" : "cz"
 }, {
@@ -2353,7 +2353,7 @@
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
-  "final_grade" : 2.8875518746222943,
+  "final_grade" : 2.887468936749061,
   "long_id" : 197597,
   "code" : "fr"
 }, {
@@ -2362,7 +2362,7 @@
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
-  "final_grade" : 13.239882467537205,
+  "final_grade" : 13.240272064356699,
   "long_id" : 197717,
   "code" : "es"
 }, {
@@ -2371,7 +2371,7 @@
   "country" : "Spain",
   "political_group" : "GUE/NGL",
   "national_political_group" : "PODEMOS",
-  "final_grade" : 16.151619091944237,
+  "final_grade" : 16.150852058273028,
   "long_id" : 197827,
   "code" : "es"
 }, {
@@ -2380,7 +2380,7 @@
   "country" : "Italy",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Independent",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 124856,
   "code" : "it"
 }, {
@@ -2389,7 +2389,7 @@
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Liste Renaissance",
-  "final_grade" : 11.650760565225719,
+  "final_grade" : 11.65041871438386,
   "long_id" : 204416,
   "code" : "fr"
 }, {
@@ -2398,7 +2398,7 @@
   "country" : "Bulgaria",
   "political_group" : "Renew",
   "national_political_group" : "Movement for Rights and Freedoms",
-  "final_grade" : 4.411223388049891,
+  "final_grade" : 4.4108340071742544,
   "long_id" : 124866,
   "code" : "bg"
 }, {
@@ -2407,7 +2407,7 @@
   "country" : "Latvia",
   "political_group" : "EPP",
   "national_political_group" : "Partija \"VIENOTĪBA\"",
-  "final_grade" : 8.489528982383316,
+  "final_grade" : 8.489366582389389,
   "long_id" : 28617,
   "code" : "lv"
 }, {
@@ -2416,7 +2416,7 @@
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
-  "final_grade" : 10.774771139586974,
+  "final_grade" : 10.774369795373207,
   "long_id" : 125043,
   "code" : "es"
 }, {
@@ -2425,7 +2425,7 @@
   "country" : "Romania",
   "political_group" : "EPP",
   "national_political_group" : "Partidul Naţional Liberal",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197636,
   "code" : "ro"
 }, {
@@ -2434,7 +2434,7 @@
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
-  "final_grade" : 13.06001329679063,
+  "final_grade" : 13.059373008357026,
   "long_id" : 28298,
   "code" : "es"
 }, {
@@ -2443,7 +2443,7 @@
   "country" : "Slovenia",
   "political_group" : "Renew",
   "national_political_group" : "Gibanje Svoboda",
-  "final_grade" : 8.40438054542457,
+  "final_grade" : 8.40443601470983,
   "long_id" : 197447,
   "code" : "si"
 }, {
@@ -2452,7 +2452,7 @@
   "country" : "Italy",
   "political_group" : "S&D",
   "national_political_group" : "Partito Democratico",
-  "final_grade" : 11.650760565225719,
+  "final_grade" : 11.65041871438386,
   "long_id" : 197591,
   "code" : "it"
 }, {
@@ -2461,7 +2461,7 @@
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Liste Renaissance",
-  "final_grade" : 10.774771139586974,
+  "final_grade" : 10.774369795373207,
   "long_id" : 197547,
   "code" : "fr"
 }, {
@@ -2470,7 +2470,7 @@
   "country" : "Spain",
   "political_group" : "EPP",
   "national_political_group" : "Partido Popular",
-  "final_grade" : 5.810355963466758,
+  "final_grade" : 5.809837953369793,
   "long_id" : 197679,
   "code" : "es"
 }, {
@@ -2479,7 +2479,7 @@
   "country" : "Portugal",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista",
-  "final_grade" : 11.479397505369429,
+  "final_grade" : 11.478846942359791,
   "long_id" : 199996,
   "code" : "pt"
 }, {
@@ -2488,7 +2488,7 @@
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
-  "final_grade" : 10.774771139586974,
+  "final_grade" : 10.774369795373207,
   "long_id" : 197742,
   "code" : "es"
 }, {
@@ -2497,7 +2497,7 @@
   "country" : "Portugal",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista",
-  "final_grade" : 13.045146101694563,
+  "final_grade" : 13.045287060310635,
   "long_id" : 197650,
   "code" : "pt"
 }, {
@@ -2506,7 +2506,7 @@
   "country" : "Luxembourg",
   "political_group" : "EPP",
   "national_political_group" : "Parti chrétien social luxembourgeois",
-  "final_grade" : 7.124340101924877,
+  "final_grade" : 7.123911331885774,
   "long_id" : 197421,
   "code" : "lu"
 }, {
@@ -2515,7 +2515,7 @@
   "country" : "Italy",
   "political_group" : "EPP",
   "national_political_group" : "Forza Italia",
-  "final_grade" : 9.066856139415954,
+  "final_grade" : 9.06577100082145,
   "long_id" : 124831,
   "code" : "it"
 }, {
@@ -2524,7 +2524,7 @@
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 197580,
   "code" : "it"
 }, {
@@ -2533,7 +2533,7 @@
   "country" : "Bulgaria",
   "political_group" : "Renew",
   "national_political_group" : "Movement for Rights and Freedoms",
-  "final_grade" : 4.411223388049891,
+  "final_grade" : 4.4108340071742544,
   "long_id" : 125128,
   "code" : "bg"
 }, {
@@ -2542,7 +2542,7 @@
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
-  "final_grade" : 14.887634760119296,
+  "final_grade" : 14.887984635237078,
   "long_id" : 96842,
   "code" : "de"
 }, {
@@ -2551,7 +2551,7 @@
   "country" : "Hungary",
   "political_group" : "S&D",
   "national_political_group" : "Esély Közösség",
-  "final_grade" : 12.184181109727461,
+  "final_grade" : 12.18331658503632,
   "long_id" : 124705,
   "code" : "hu"
 }, {
@@ -2560,7 +2560,7 @@
   "country" : "Romania",
   "political_group" : "EPP",
   "national_political_group" : "Uniunea Democrată Maghiară din România",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 39725,
   "code" : "ro"
 }, {
@@ -2569,7 +2569,7 @@
   "country" : "Czechia",
   "political_group" : "ID",
   "national_political_group" : "Svoboda a přímá demokracie",
-  "final_grade" : 5.547322806853209,
+  "final_grade" : 5.548740819935856,
   "long_id" : 197556,
   "code" : "cz"
 }, {
@@ -2578,7 +2578,7 @@
   "country" : "Slovakia",
   "political_group" : "EPP",
   "national_political_group" : "Kresťanskodemokratické hnutie",
-  "final_grade" : 8.000329527563622,
+  "final_grade" : 7.999960250896428,
   "long_id" : 124929,
   "code" : "sk"
 }, {
@@ -2587,7 +2587,7 @@
   "country" : "Croatia",
   "political_group" : "NI",
   "national_political_group" : "KLJUČ Hrvatske",
-  "final_grade" : 14.318856324598466,
+  "final_grade" : 14.318591657779315,
   "long_id" : 197935,
   "code" : "hr"
 }, {
@@ -2596,7 +2596,7 @@
   "country" : "Latvia",
   "political_group" : "Renew",
   "national_political_group" : "Attīstībai/Par!",
-  "final_grade" : 8.40438054542457,
+  "final_grade" : 8.40443601470983,
   "long_id" : 197624,
   "code" : "lv"
 }, {
@@ -2605,7 +2605,7 @@
   "country" : "Bulgaria",
   "political_group" : "S&D",
   "national_political_group" : "Bulgarian Socialist Party",
-  "final_grade" : 12.425117453391652,
+  "final_grade" : 12.424369721413349,
   "long_id" : 197846,
   "code" : "bg"
 }, {
@@ -2614,7 +2614,7 @@
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 197520,
   "code" : "pl"
 }, {
@@ -2623,7 +2623,7 @@
   "country" : "Spain",
   "political_group" : "Renew",
   "national_political_group" : "Partido Nacionalista Vasco",
-  "final_grade" : 2.9136930549450146,
+  "final_grade" : 2.913727130738359,
   "long_id" : 96922,
   "code" : "es"
 }, {
@@ -2632,7 +2632,7 @@
   "country" : "Estonia",
   "political_group" : "ID",
   "national_political_group" : "Eesti Konservatiivne Rahvaerakond",
-  "final_grade" : 4.975707543580643,
+  "final_grade" : 4.976035562059907,
   "long_id" : 197493,
   "code" : "ee"
 }, {
@@ -2641,7 +2641,7 @@
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
-  "final_grade" : 1.3004502573469168,
+  "final_grade" : 1.3006743034395956,
   "long_id" : 28297,
   "code" : "pl"
 }, {
@@ -2650,7 +2650,7 @@
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 124877,
   "code" : "pl"
 }, {
@@ -2659,7 +2659,7 @@
   "country" : "Sweden",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Miljöpartiet de gröna",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 183338,
   "code" : "se"
 }, {
@@ -2668,7 +2668,7 @@
   "country" : "Netherlands",
   "political_group" : "Renew",
   "national_political_group" : "Volkspartij voor Vrijheid en Democratie",
-  "final_grade" : 2.1129581832377915,
+  "final_grade" : 2.113114782127382,
   "long_id" : 58789,
   "code" : "nl"
 }, {
@@ -2677,7 +2677,7 @@
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Platforma Obywatelska",
-  "final_grade" : 7.448604459662112,
+  "final_grade" : 7.448633320183573,
   "long_id" : 28288,
   "code" : "pl"
 }, {
@@ -2686,7 +2686,7 @@
   "country" : "Czechia",
   "political_group" : "ECR",
   "national_political_group" : "Občanská demokratická strana",
-  "final_grade" : 3.380821890357348,
+  "final_grade" : 3.380781505208127,
   "long_id" : 23712,
   "code" : "cz"
 }, {
@@ -2695,7 +2695,7 @@
   "country" : "Germany",
   "political_group" : "Renew",
   "national_political_group" : "Freie Demokratische Partei",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 197432,
   "code" : "de"
 }, {
@@ -2704,7 +2704,7 @@
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Independent",
-  "final_grade" : 13.98473850270882,
+  "final_grade" : 13.983257761024399,
   "long_id" : 197542,
   "code" : "pl"
 }, {
@@ -2713,7 +2713,7 @@
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Platforma Obywatelska",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 23781,
   "code" : "pl"
 }, {
@@ -2722,7 +2722,7 @@
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Platforma Obywatelska",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197510,
   "code" : "pl"
 }, {
@@ -2731,7 +2731,7 @@
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Polskie Stronnictwo Ludowe",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 96771,
   "code" : "pl"
 }, {
@@ -2740,7 +2740,7 @@
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partit dels Socialistes de Catalunya",
-  "final_grade" : 14.841352210951651,
+  "final_grade" : 14.841496761578654,
   "long_id" : 125042,
   "code" : "es"
 }, {
@@ -2749,7 +2749,7 @@
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
-  "final_grade" : 11.650760565225719,
+  "final_grade" : 11.65041871438386,
   "long_id" : 28347,
   "code" : "es"
 }, {
@@ -2758,7 +2758,7 @@
   "country" : "Spain",
   "political_group" : "Renew",
   "national_political_group" : "Independiente",
-  "final_grade" : 6.941003570572941,
+  "final_grade" : 6.940826412353859,
   "long_id" : 125005,
   "code" : "es"
 }, {
@@ -2767,7 +2767,7 @@
   "country" : "Spain",
   "political_group" : "EPP",
   "national_political_group" : "Partido Popular",
-  "final_grade" : 5.810355963466758,
+  "final_grade" : 5.809837953369793,
   "long_id" : 197606,
   "code" : "es"
 }, {
@@ -2776,7 +2776,7 @@
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
-  "final_grade" : 1.629772696033976,
+  "final_grade" : 1.6294987868718867,
   "long_id" : 124770,
   "code" : "fr"
 }, {
@@ -2785,7 +2785,7 @@
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 204421,
   "code" : "fr"
 }, {
@@ -2794,7 +2794,7 @@
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 197628,
   "code" : "fr"
 }, {
@@ -2803,7 +2803,7 @@
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
-  "final_grade" : 15.460520863542595,
+  "final_grade" : 15.460914822973933,
   "long_id" : 96833,
   "code" : "de"
 }, {
@@ -2812,7 +2812,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 124807,
   "code" : "de"
 }, {
@@ -2821,7 +2821,7 @@
   "country" : "Netherlands",
   "political_group" : "EPP",
   "national_political_group" : "Christen Democratisch Appèl",
-  "final_grade" : 1.3004502573469168,
+  "final_grade" : 1.3006743034395956,
   "long_id" : 95074,
   "code" : "nl"
 }, {
@@ -2830,7 +2830,7 @@
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Platforma Obywatelska",
-  "final_grade" : 5.777023128710093,
+  "final_grade" : 5.776403862974586,
   "long_id" : 28269,
   "code" : "pl"
 }, {
@@ -2839,7 +2839,7 @@
   "country" : "Sweden",
   "political_group" : "EPP",
   "national_political_group" : "Moderaterna",
-  "final_grade" : 6.926458565828563,
+  "final_grade" : 6.92608707995549,
   "long_id" : 197404,
   "code" : "se"
 }, {
@@ -2848,7 +2848,7 @@
   "country" : "Sweden",
   "political_group" : "ECR",
   "national_political_group" : "Sverigedemokraterna",
-  "final_grade" : 4.541282972961085,
+  "final_grade" : 4.541311372613541,
   "long_id" : 197399,
   "code" : "se"
 }, {
@@ -2857,7 +2857,7 @@
   "country" : "Czechia",
   "political_group" : "EPP",
   "national_political_group" : "TOP 09 a Starostové",
-  "final_grade" : 13.273950575126293,
+  "final_grade" : 13.273410064220876,
   "long_id" : 125706,
   "code" : "cz"
 }, {
@@ -2866,7 +2866,7 @@
   "country" : "Germany",
   "political_group" : "ID",
   "national_political_group" : "Alternative für Deutschland",
-  "final_grade" : 7.192026546467786,
+  "final_grade" : 7.192253314733286,
   "long_id" : 197482,
   "code" : "de"
 }, {
@@ -2875,7 +2875,7 @@
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
-  "final_grade" : 15.460520863542595,
+  "final_grade" : 15.460914822973933,
   "long_id" : 124837,
   "code" : "de"
 }, {
@@ -2884,7 +2884,7 @@
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 197501,
   "code" : "pl"
 }, {
@@ -2893,7 +2893,7 @@
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 197530,
   "code" : "pl"
 }, {
@@ -2902,7 +2902,7 @@
   "country" : "Sweden",
   "political_group" : "S&D",
   "national_political_group" : "Arbetarepartiet- Socialdemokraterna",
-  "final_grade" : 12.549367903453271,
+  "final_grade" : 12.549025473218565,
   "long_id" : 38542,
   "code" : "se"
 }, {
@@ -2911,7 +2911,7 @@
   "country" : "Belgium",
   "political_group" : "ECR",
   "national_political_group" : "Nieuw-Vlaamse Alliantie",
-  "final_grade" : 8.744659929114283,
+  "final_grade" : 8.745140461281688,
   "long_id" : 125106,
   "code" : "be"
 }, {
@@ -2920,7 +2920,7 @@
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
-  "final_grade" : 10.774771139586974,
+  "final_grade" : 10.774369795373207,
   "long_id" : 125046,
   "code" : "es"
 }, {
@@ -2929,7 +2929,7 @@
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 131580,
   "code" : "fr"
 }, {
@@ -2938,7 +2938,7 @@
   "country" : "Spain",
   "political_group" : "Renew",
   "national_political_group" : "Ciudadanos – Partido de la Ciudadanía",
-  "final_grade" : 7.949238127623304,
+  "final_grade" : 7.9501075003797395,
   "long_id" : 126644,
   "code" : "es"
 }, {
@@ -2947,7 +2947,7 @@
   "country" : "Spain",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Esquerra Republicana de Catalunya",
-  "final_grade" : 14.260267080166612,
+  "final_grade" : 14.26014391566548,
   "long_id" : 185974,
   "code" : "es"
 }, {
@@ -2956,7 +2956,7 @@
   "country" : "Spain",
   "political_group" : "ECR",
   "national_political_group" : "VOX",
-  "final_grade" : 2.3549769954766777,
+  "final_grade" : 2.3556718670310532,
   "long_id" : 197829,
   "code" : "es"
 }, {
@@ -2965,7 +2965,7 @@
   "country" : "Malta",
   "political_group" : "S&D",
   "national_political_group" : "Partit Laburista",
-  "final_grade" : 11.575199191445616,
+  "final_grade" : 11.57458317614945,
   "long_id" : 197394,
   "code" : "mt"
 }, {
@@ -2974,7 +2974,7 @@
   "country" : "Portugal",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Bloco de Esquerda",
-  "final_grade" : 18.552126658696203,
+  "final_grade" : 18.552393872889937,
   "long_id" : 88715,
   "code" : "pt"
 }, {
@@ -2983,7 +2983,7 @@
   "country" : "Portugal",
   "political_group" : "EPP",
   "national_political_group" : "Partido Social Democrata",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 96899,
   "code" : "pt"
 }, {
@@ -2992,7 +2992,7 @@
   "country" : "Spain",
   "political_group" : "EPP",
   "national_political_group" : "Partido Popular",
-  "final_grade" : 5.810355963466758,
+  "final_grade" : 5.809837953369793,
   "long_id" : 1992,
   "code" : "es"
 }, {
@@ -3001,7 +3001,7 @@
   "country" : "Spain",
   "political_group" : "Renew",
   "national_political_group" : "Ciudadanos – Partido de la Ciudadanía",
-  "final_grade" : 3.0019706564849797,
+  "final_grade" : 3.00187971320109,
   "long_id" : 197779,
   "code" : "es"
 }, {
@@ -3010,7 +3010,7 @@
   "country" : "Portugal",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Partido Comunista Português",
-  "final_grade" : 15.32067976983314,
+  "final_grade" : 15.320800294554859,
   "long_id" : 96706,
   "code" : "pt"
 }, {
@@ -3019,7 +3019,7 @@
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
-  "final_grade" : 2.8875518746222943,
+  "final_grade" : 2.887468936749061,
   "long_id" : 124765,
   "code" : "fr"
 }, {
@@ -3028,7 +3028,7 @@
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
-  "final_grade" : 11.650760565225719,
+  "final_grade" : 11.65041871438386,
   "long_id" : 96812,
   "code" : "es"
 }, {
@@ -3037,7 +3037,7 @@
   "country" : "Spain",
   "political_group" : "EPP",
   "national_political_group" : "Partido Popular",
-  "final_grade" : 5.810355963466758,
+  "final_grade" : 5.809837953369793,
   "long_id" : 197621,
   "code" : "es"
 }, {
@@ -3046,7 +3046,7 @@
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
-  "final_grade" : 2.8875518746222943,
+  "final_grade" : 2.887468936749061,
   "long_id" : 197686,
   "code" : "fr"
 }, {
@@ -3055,7 +3055,7 @@
   "country" : "Lithuania",
   "political_group" : "S&D",
   "national_political_group" : "Lietuvos socialdemokratų partija",
-  "final_grade" : 13.06001329679063,
+  "final_grade" : 13.059373008357026,
   "long_id" : 197838,
   "code" : "lt"
 }, {
@@ -3064,7 +3064,7 @@
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197466,
   "code" : "de"
 }, {
@@ -3073,7 +3073,7 @@
   "country" : "Sweden",
   "political_group" : "S&D",
   "national_political_group" : "Arbetarepartiet- Socialdemokraterna",
-  "final_grade" : 12.549367903453271,
+  "final_grade" : 12.549025473218565,
   "long_id" : 124991,
   "code" : "se"
 }, {
@@ -3082,7 +3082,7 @@
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Liste L'Europe Ensemble",
-  "final_grade" : 7.528391119785822,
+  "final_grade" : 7.528387095699177,
   "long_id" : 197504,
   "code" : "fr"
 }, {
@@ -3091,7 +3091,7 @@
   "country" : "France",
   "political_group" : "NI",
   "national_political_group" : "Indépendant",
-  "final_grade" : 2.8875518746222943,
+  "final_grade" : 2.887468936749061,
   "long_id" : 197615,
   "code" : "fr"
 }, {
@@ -3100,7 +3100,7 @@
   "country" : "Hungary",
   "political_group" : "EPP",
   "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
-  "final_grade" : 4.773288550841648,
+  "final_grade" : 4.77335645888548,
   "long_id" : 23821,
   "code" : "hu"
 }, {
@@ -3109,7 +3109,7 @@
   "country" : "Germany",
   "political_group" : "NI",
   "national_political_group" : "Deutsche Zentrumspartei",
-  "final_grade" : 6.32880083921394,
+  "final_grade" : 6.328628460900833,
   "long_id" : 190518,
   "code" : "de"
 }, {
@@ -3118,7 +3118,7 @@
   "country" : "Sweden",
   "political_group" : "EPP",
   "national_political_group" : "Moderaterna",
-  "final_grade" : 6.926458565828563,
+  "final_grade" : 6.92608707995549,
   "long_id" : 197405,
   "code" : "se"
 }, {
@@ -3127,7 +3127,7 @@
   "country" : "Denmark",
   "political_group" : "Renew",
   "national_political_group" : "Independent",
-  "final_grade" : 13.522798357640843,
+  "final_grade" : 13.523602668760832,
   "long_id" : 197567,
   "code" : "dk"
 }, {
@@ -3136,7 +3136,7 @@
   "country" : "France",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Europe Écologie",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 96868,
   "code" : "fr"
 }, {
@@ -3145,7 +3145,7 @@
   "country" : "Sweden",
   "political_group" : "Renew",
   "national_political_group" : "Liberalerna",
-  "final_grade" : 13.06001329679063,
+  "final_grade" : 13.059373008357026,
   "long_id" : 197401,
   "code" : "se"
 }, {
@@ -3154,7 +3154,7 @@
   "country" : "Croatia",
   "political_group" : "EPP",
   "national_political_group" : "Hrvatska demokratska zajednica",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197413,
   "code" : "hr"
 }, {
@@ -3163,7 +3163,7 @@
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 124887,
   "code" : "pl"
 }, {
@@ -3172,7 +3172,7 @@
   "country" : "Hungary",
   "political_group" : "Renew",
   "national_political_group" : "Momentum",
-  "final_grade" : 16.87151178171352,
+  "final_grade" : 16.871477926873908,
   "long_id" : 197588,
   "code" : "hu"
 }, {
@@ -3181,7 +3181,7 @@
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
-  "final_grade" : 15.460520863542595,
+  "final_grade" : 15.460914822973933,
   "long_id" : 197433,
   "code" : "de"
 }, {
@@ -3190,7 +3190,7 @@
   "country" : "Czechia",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Komunistická strana Čech a Moravy",
-  "final_grade" : 10.915442275833696,
+  "final_grade" : 10.914865908459467,
   "long_id" : 23699,
   "code" : "cz"
 }, {
@@ -3199,7 +3199,7 @@
   "country" : "Belgium",
   "political_group" : "S&D",
   "national_political_group" : "Vooruit",
-  "final_grade" : 17.222086777998733,
+  "final_grade" : 17.22210769044039,
   "long_id" : 5729,
   "code" : "be"
 }, {
@@ -3208,7 +3208,7 @@
   "country" : "Netherlands",
   "political_group" : "S&D",
   "national_political_group" : "Partij van de Arbeid",
-  "final_grade" : 16.960881398795753,
+  "final_grade" : 16.960686834242324,
   "long_id" : 37229,
   "code" : "nl"
 }, {
@@ -3217,7 +3217,7 @@
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
-  "final_grade" : 19.956111677782335,
+  "final_grade" : 19.95607361425673,
   "long_id" : 197461,
   "code" : "de"
 }, {
@@ -3226,7 +3226,7 @@
   "country" : "Netherlands",
   "political_group" : "Greens/EFA",
   "national_political_group" : "GroenLinks",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197870,
   "code" : "nl"
 }, {
@@ -3235,7 +3235,7 @@
   "country" : "Hungary",
   "political_group" : "NI",
   "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
-  "final_grade" : 5.810355963466758,
+  "final_grade" : 5.809837953369793,
   "long_id" : 28150,
   "code" : "hu"
 }, {
@@ -3244,7 +3244,7 @@
   "country" : "Denmark",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Socialistisk Folkeparti",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197573,
   "code" : "dk"
 }, {
@@ -3253,7 +3253,7 @@
   "country" : "Slovenia",
   "political_group" : "Renew",
   "national_political_group" : "Gibanje Svoboda",
-  "final_grade" : 9.151581129686399,
+  "final_grade" : 9.151378445536192,
   "long_id" : 197452,
   "code" : "si"
 }, {
@@ -3262,7 +3262,7 @@
   "country" : "Hungary",
   "political_group" : "S&D",
   "national_political_group" : "Demokratikus Koalíció",
-  "final_grade" : 16.14459045413924,
+  "final_grade" : 16.14512841277419,
   "long_id" : 197579,
   "code" : "hu"
 }, {
@@ -3271,7 +3271,7 @@
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 124884,
   "code" : "pl"
 }, {
@@ -3280,7 +3280,7 @@
   "country" : "Belgium",
   "political_group" : "EPP",
   "national_political_group" : "Christen-Democratisch & Vlaams",
-  "final_grade" : 4.773288550841648,
+  "final_grade" : 4.77335645888548,
   "long_id" : 197420,
   "code" : "be"
 }, {
@@ -3289,7 +3289,7 @@
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Polskie Stronnictwo Ludowe",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 124895,
   "code" : "pl"
 }, {
@@ -3298,7 +3298,7 @@
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 197518,
   "code" : "pl"
 }, {
@@ -3307,7 +3307,7 @@
   "country" : "Netherlands",
   "political_group" : "S&D",
   "national_political_group" : "Partij van de Arbeid",
-  "final_grade" : 16.021832994622752,
+  "final_grade" : 16.021336783131936,
   "long_id" : 5392,
   "code" : "nl"
 }, {
@@ -3316,7 +3316,7 @@
   "country" : "Germany",
   "political_group" : "ECR",
   "national_political_group" : "Bündnis Deutschland",
-  "final_grade" : 5.650692949671509,
+  "final_grade" : 5.650403793820464,
   "long_id" : 197478,
   "code" : "de"
 }, {
@@ -3325,7 +3325,7 @@
   "country" : "Italy",
   "political_group" : "NI",
   "national_political_group" : "Movimento 5 Stelle",
-  "final_grade" : 14.50038025688967,
+  "final_grade" : 14.500344123240524,
   "long_id" : 124833,
   "code" : "it"
 }, {
@@ -3334,7 +3334,7 @@
   "country" : "Finland",
   "political_group" : "NI",
   "national_political_group" : "Perussuomalaiset",
-  "final_grade" : 2.6521770825428344,
+  "final_grade" : 2.653008328539975,
   "long_id" : 197594,
   "code" : "fi"
 }, {
@@ -3343,7 +3343,7 @@
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Mouvement Démocrate",
-  "final_grade" : 10.774771139586974,
+  "final_grade" : 10.774369795373207,
   "long_id" : 197589,
   "code" : "fr"
 }, {
@@ -3352,7 +3352,7 @@
   "country" : "Cyprus",
   "political_group" : "EPP",
   "national_political_group" : "Democratic Rally",
-  "final_grade" : 7.0368978122364885,
+  "final_grade" : 7.036477044581121,
   "long_id" : 26837,
   "code" : "cy"
 }, {
@@ -3361,7 +3361,7 @@
   "country" : "France",
   "political_group" : "GUE/NGL",
   "national_political_group" : "La France Insoumise",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197529,
   "code" : "fr"
 }, {
@@ -3370,7 +3370,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 99945,
   "code" : "de"
 }, {
@@ -3379,7 +3379,7 @@
   "country" : "Spain",
   "political_group" : "EPP",
   "national_political_group" : "Partido Popular",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197777,
   "code" : "es"
 }, {
@@ -3388,7 +3388,7 @@
   "country" : "Poland",
   "political_group" : "S&D",
   "national_political_group" : "Independent",
-  "final_grade" : 13.06001329679063,
+  "final_grade" : 13.059373008357026,
   "long_id" : 197540,
   "code" : "pl"
 }, {
@@ -3397,7 +3397,7 @@
   "country" : "Netherlands",
   "political_group" : "Renew",
   "national_political_group" : "Volkspartij voor Vrijheid en Democratie",
-  "final_grade" : 2.0940010659846053,
+  "final_grade" : 2.0940716200943283,
   "long_id" : 197869,
   "code" : "nl"
 }, {
@@ -3406,7 +3406,7 @@
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
-  "final_grade" : 10.597079492452083,
+  "final_grade" : 10.596521951726853,
   "long_id" : 197702,
   "code" : "es"
 }, {
@@ -3415,7 +3415,7 @@
   "country" : "Denmark",
   "political_group" : "Renew",
   "national_political_group" : "Venstre, Danmarks Liberale Parti",
-  "final_grade" : 2.8875518746222943,
+  "final_grade" : 2.887468936749061,
   "long_id" : 204331,
   "code" : "dk"
 }, {
@@ -3424,7 +3424,7 @@
   "country" : "Lithuania",
   "political_group" : "EPP",
   "national_political_group" : "Tėvynės sąjunga-Lietuvos krikščionys demokratai",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197841,
   "code" : "lt"
 }, {
@@ -3433,7 +3433,7 @@
   "country" : "Slovenia",
   "political_group" : "EPP",
   "national_political_group" : "Nova Slovenija – Krščanski demokrati",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 28294,
   "code" : "si"
 }, {
@@ -3442,7 +3442,7 @@
   "country" : "Romania",
   "political_group" : "EPP",
   "national_political_group" : "Uniunea Democrată Maghiară din România",
-  "final_grade" : 7.657603407851043,
+  "final_grade" : 7.656816706848284,
   "long_id" : 98582,
   "code" : "ro"
 }, {
@@ -3451,7 +3451,7 @@
   "country" : "Cyprus",
   "political_group" : "EPP",
   "national_political_group" : "Democratic Rally",
-  "final_grade" : 8.023437843706597,
+  "final_grade" : 8.023102181499254,
   "long_id" : 197414,
   "code" : "cy"
 }, {
@@ -3460,7 +3460,7 @@
   "country" : "Italy",
   "political_group" : "EPP",
   "national_political_group" : "Forza Italia",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 197798,
   "code" : "it"
 }, {
@@ -3469,7 +3469,7 @@
   "country" : "Slovakia",
   "political_group" : "Renew",
   "national_political_group" : "Independent",
-  "final_grade" : 12.322544574264858,
+  "final_grade" : 12.32283176145238,
   "long_id" : 197766,
   "code" : "sk"
 }, {
@@ -3478,7 +3478,7 @@
   "country" : "Czechia",
   "political_group" : "EPP",
   "national_political_group" : "TOP 09 a Starostové",
-  "final_grade" : 13.491246293695701,
+  "final_grade" : 13.491113524586751,
   "long_id" : 124701,
   "code" : "cz"
 }, {
@@ -3487,7 +3487,7 @@
   "country" : "Spain",
   "political_group" : "Renew",
   "national_political_group" : "Ciudadanos – Partido de la Ciudadanía",
-  "final_grade" : 5.353901953297563,
+  "final_grade" : 5.3540317790443925,
   "long_id" : 197554,
   "code" : "es"
 }, {
@@ -3496,7 +3496,7 @@
   "country" : "Italy",
   "political_group" : "EPP",
   "national_political_group" : "Forza Italia",
-  "final_grade" : 2.8875518746222943,
+  "final_grade" : 2.887468936749061,
   "long_id" : 197790,
   "code" : "it"
 }, {
@@ -3505,7 +3505,7 @@
   "country" : "Austria",
   "political_group" : "EPP",
   "national_political_group" : "Österreichische Volkspartei",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 190713,
   "code" : "at"
 }, {
@@ -3514,7 +3514,7 @@
   "country" : "Ireland",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Independent",
-  "final_grade" : 16.151619091944237,
+  "final_grade" : 16.150852058273028,
   "long_id" : 124985,
   "code" : "ie"
 }, {
@@ -3523,7 +3523,7 @@
   "country" : "Hungary",
   "political_group" : "NI",
   "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
-  "final_grade" : 5.810355963466758,
+  "final_grade" : 5.809837953369793,
   "long_id" : 197894,
   "code" : "hu"
 }, {
@@ -3532,7 +3532,7 @@
   "country" : "Portugal",
   "political_group" : "EPP",
   "national_political_group" : "Partido Social Democrata",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197738,
   "code" : "pt"
 }, {
@@ -3541,7 +3541,7 @@
   "country" : "Hungary",
   "political_group" : "NI",
   "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
-  "final_grade" : 5.810355963466758,
+  "final_grade" : 5.809837953369793,
   "long_id" : 28141,
   "code" : "hu"
 }, {
@@ -3550,7 +3550,7 @@
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Independent",
-  "final_grade" : 7.124340101924877,
+  "final_grade" : 7.123911331885774,
   "long_id" : 197490,
   "code" : "pl"
 }, {
@@ -3559,7 +3559,7 @@
   "country" : "Spain",
   "political_group" : "Renew",
   "national_political_group" : "Delegación Ciudadanos Europeos",
-  "final_grade" : 6.995127813859657,
+  "final_grade" : 6.995481720736667,
   "long_id" : 125038,
   "code" : "es"
 }, {
@@ -3568,7 +3568,7 @@
   "country" : "Netherlands",
   "political_group" : "Renew",
   "national_political_group" : "Volkspartij voor Vrijheid en Democratie",
-  "final_grade" : 1.8593495778831515,
+  "final_grade" : 1.8593781067091815,
   "long_id" : 197781,
   "code" : "nl"
 }, {
@@ -3577,7 +3577,7 @@
   "country" : "Sweden",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Vänsterpartiet",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 124992,
   "code" : "se"
 }, {
@@ -3586,7 +3586,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich-Soziale Union in Bayern e.V.",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 28229,
   "code" : "de"
 }, {
@@ -3595,7 +3595,7 @@
   "country" : "France",
   "political_group" : "GUE/NGL",
   "national_political_group" : "La France Insoumise",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197533,
   "code" : "fr"
 }, {
@@ -3604,7 +3604,7 @@
   "country" : "Spain",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Izquierda Unida",
-  "final_grade" : 16.928936648795624,
+  "final_grade" : 16.92940252305292,
   "long_id" : 197828,
   "code" : "es"
 }, {
@@ -3613,7 +3613,7 @@
   "country" : "France",
   "political_group" : "GUE/NGL",
   "national_political_group" : "La France Insoumise",
-  "final_grade" : 19.956505436673037,
+  "final_grade" : 19.956469474097524,
   "long_id" : 197521,
   "code" : "fr"
 }, {
@@ -3622,7 +3622,7 @@
   "country" : "Portugal",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista",
-  "final_grade" : 12.184181109727461,
+  "final_grade" : 12.18331658503632,
   "long_id" : 197732,
   "code" : "pt"
 }, {
@@ -3631,7 +3631,7 @@
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Ökologisch-Demokratische Partei",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 206158,
   "code" : "de"
 }, {
@@ -3640,7 +3640,7 @@
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
-  "final_grade" : 2.8875518746222943,
+  "final_grade" : 2.887468936749061,
   "long_id" : 97198,
   "code" : "it"
 }, {
@@ -3649,7 +3649,7 @@
   "country" : "Luxembourg",
   "political_group" : "S&D",
   "national_political_group" : "Parti ouvrier socialiste luxembourgeois",
-  "final_grade" : 13.9407962540187,
+  "final_grade" : 13.939969442090256,
   "long_id" : 202073,
   "code" : "lu"
 }, {
@@ -3658,7 +3658,7 @@
   "country" : "Belgium",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Parti du Travail de Belgique",
-  "final_grade" : 17.847500292913747,
+  "final_grade" : 17.847916725903353,
   "long_id" : 187917,
   "code" : "be"
 }, {
@@ -3667,7 +3667,7 @@
   "country" : "Belgium",
   "political_group" : "NI",
   "national_political_group" : "Independent",
-  "final_grade" : 18.552126658696203,
+  "final_grade" : 18.552393872889937,
   "long_id" : 29579,
   "code" : "be"
 }, {
@@ -3676,7 +3676,7 @@
   "country" : "Netherlands",
   "political_group" : "NI",
   "national_political_group" : "Forum voor Democratie",
-  "final_grade" : 5.57786671766139,
+  "final_grade" : 5.578206705474018,
   "long_id" : 125025,
   "code" : "nl"
 }, {
@@ -3685,7 +3685,7 @@
   "country" : "Czechia",
   "political_group" : "Greens/EFA",
   "national_political_group" : "PIRÁTI",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197546,
   "code" : "cz"
 }, {
@@ -3694,7 +3694,7 @@
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 35016,
   "code" : "it"
 }, {
@@ -3703,7 +3703,7 @@
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
-  "final_grade" : 2.8875518746222943,
+  "final_grade" : 2.887468936749061,
   "long_id" : 197614,
   "code" : "it"
 }, {
@@ -3712,7 +3712,7 @@
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 124780,
   "code" : "it"
 }, {
@@ -3721,7 +3721,7 @@
   "country" : "Italy",
   "political_group" : "Renew",
   "national_political_group" : "Independent",
-  "final_grade" : 13.06001329679063,
+  "final_grade" : 13.059373008357026,
   "long_id" : 125237,
   "code" : "it"
 }, {
@@ -3730,7 +3730,7 @@
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
-  "final_grade" : 11.650760565225719,
+  "final_grade" : 11.65041871438386,
   "long_id" : 204413,
   "code" : "es"
 }, {
@@ -3739,7 +3739,7 @@
   "country" : "Poland",
   "political_group" : "S&D",
   "national_political_group" : "Nowa Lewica",
-  "final_grade" : 13.06001329679063,
+  "final_grade" : 13.059373008357026,
   "long_id" : 197496,
   "code" : "pl"
 }, {
@@ -3748,7 +3748,7 @@
   "country" : "Poland",
   "political_group" : "S&D",
   "national_political_group" : "Nowa Lewica",
-  "final_grade" : 13.06001329679063,
+  "final_grade" : 13.059373008357026,
   "long_id" : 197495,
   "code" : "pl"
 }, {
@@ -3757,7 +3757,7 @@
   "country" : "Portugal",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista",
-  "final_grade" : 13.06001329679063,
+  "final_grade" : 13.059373008357026,
   "long_id" : 197638,
   "code" : "pt"
 }, {
@@ -3766,7 +3766,7 @@
   "country" : "Spain",
   "political_group" : "ECR",
   "national_political_group" : "VOX",
-  "final_grade" : 2.3549769954766777,
+  "final_grade" : 2.3556718670310532,
   "long_id" : 204414,
   "code" : "es"
 }, {
@@ -3775,7 +3775,7 @@
   "country" : "Denmark",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Socialistisk Folkeparti",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 28161,
   "code" : "dk"
 }, {
@@ -3784,7 +3784,7 @@
   "country" : "Belgium",
   "political_group" : "S&D",
   "national_political_group" : "Parti Socialiste",
-  "final_grade" : 18.552126658696203,
+  "final_grade" : 18.552393872889937,
   "long_id" : 124936,
   "code" : "be"
 }, {
@@ -3793,7 +3793,7 @@
   "country" : "Romania",
   "political_group" : "S&D",
   "national_political_group" : "Partidul Umanist Social Liberal",
-  "final_grade" : 10.774771139586974,
+  "final_grade" : 10.774369795373207,
   "long_id" : 124785,
   "code" : "ro"
 }, {
@@ -3802,7 +3802,7 @@
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
-  "final_grade" : 15.460520863542595,
+  "final_grade" : 15.460914822973933,
   "long_id" : 124836,
   "code" : "de"
 }, {
@@ -3811,7 +3811,7 @@
   "country" : "Ireland",
   "political_group" : "EPP",
   "national_political_group" : "Fine Gael Party",
-  "final_grade" : 9.365518408022064,
+  "final_grade" : 9.365415501400042,
   "long_id" : 197863,
   "code" : "ie"
 }, {
@@ -3820,7 +3820,7 @@
   "country" : "Portugal",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista",
-  "final_grade" : 13.045146101694563,
+  "final_grade" : 13.045287060310635,
   "long_id" : 197635,
   "code" : "pt"
 }, {
@@ -3829,7 +3829,7 @@
   "country" : "Portugal",
   "political_group" : "EPP",
   "national_political_group" : "Partido Social Democrata",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 96867,
   "code" : "pt"
 }, {
@@ -3838,7 +3838,7 @@
   "country" : "Romania",
   "political_group" : "EPP",
   "national_political_group" : "Partidul Naţional Liberal",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 33982,
   "code" : "ro"
 }, {
@@ -3847,7 +3847,7 @@
   "country" : "Denmark",
   "political_group" : "S&D",
   "national_political_group" : "Socialdemokratiet",
-  "final_grade" : 13.845902923223427,
+  "final_grade" : 13.844944250125044,
   "long_id" : 199941,
   "code" : "dk"
 }, {
@@ -3856,7 +3856,7 @@
   "country" : "France",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Europe Écologie",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 97236,
   "code" : "fr"
 }, {
@@ -3865,7 +3865,7 @@
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Mouvement Démocrate",
-  "final_grade" : 10.774771139586974,
+  "final_grade" : 10.774369795373207,
   "long_id" : 197502,
   "code" : "fr"
 }, {
@@ -3874,7 +3874,7 @@
   "country" : "Estonia",
   "political_group" : "S&D",
   "national_political_group" : "Sotsiaaldemokraatlik Erakond",
-  "final_grade" : 12.184181109727461,
+  "final_grade" : 12.18331658503632,
   "long_id" : 197491,
   "code" : "ee"
 }, {
@@ -3883,7 +3883,7 @@
   "country" : "Italy",
   "political_group" : "NI",
   "national_political_group" : "Movimento 5 Stelle",
-  "final_grade" : 13.30012647351369,
+  "final_grade" : 13.29957321593207,
   "long_id" : 197795,
   "code" : "it"
 }, {
@@ -3892,7 +3892,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197429,
   "code" : "de"
 }, {
@@ -3901,7 +3901,7 @@
   "country" : "Portugal",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Bloco de Esquerda",
-  "final_grade" : 18.552126658696203,
+  "final_grade" : 18.552393872889937,
   "long_id" : 96820,
   "code" : "pt"
 }, {
@@ -3910,7 +3910,7 @@
   "country" : "Germany",
   "political_group" : "ID",
   "national_political_group" : "Alternative für Deutschland",
-  "final_grade" : 6.32880083921394,
+  "final_grade" : 6.328628460900833,
   "long_id" : 128483,
   "code" : "de"
 }, {
@@ -3919,7 +3919,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich-Soziale Union in Bayern e.V.",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 1917,
   "code" : "de"
 }, {
@@ -3928,7 +3928,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 28224,
   "code" : "de"
 }, {
@@ -3937,7 +3937,7 @@
   "country" : "Czechia",
   "political_group" : "Greens/EFA",
   "national_political_group" : "PIRÁTI",
-  "final_grade" : 19.956630485779588,
+  "final_grade" : 19.956595060580867,
   "long_id" : 197549,
   "code" : "cz"
 }, {
@@ -3946,7 +3946,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich-Soziale Union in Bayern e.V.",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197427,
   "code" : "de"
 }, {
@@ -3955,7 +3955,7 @@
   "country" : "Germany",
   "political_group" : "NI",
   "national_political_group" : "Independent",
-  "final_grade" : 19.95504394608279,
+  "final_grade" : 19.95500916365771,
   "long_id" : 197434,
   "code" : "de"
 }, {
@@ -3964,7 +3964,7 @@
   "country" : "Czechia",
   "political_group" : "Renew",
   "national_political_group" : "ANO 2011",
-  "final_grade" : 3.706597022267435,
+  "final_grade" : 3.706356860187672,
   "long_id" : 197526,
   "code" : "cz"
 }, {
@@ -3973,7 +3973,7 @@
   "country" : "Slovakia",
   "political_group" : "Renew",
   "national_political_group" : "Progresívne Slovensko",
-  "final_grade" : 18.03368178294902,
+  "final_grade" : 18.033603365358896,
   "long_id" : 197770,
   "code" : "sk"
 }, {
@@ -3982,7 +3982,7 @@
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 96752,
   "code" : "de"
 }, {
@@ -3991,7 +3991,7 @@
   "country" : "Germany",
   "political_group" : "GUE/NGL",
   "national_political_group" : "DIE LINKE.",
-  "final_grade" : 14.91305810130933,
+  "final_grade" : 14.912244610085294,
   "long_id" : 190517,
   "code" : "de"
 }, {
@@ -4000,7 +4000,7 @@
   "country" : "Germany",
   "political_group" : "NI",
   "national_political_group" : "Die PARTEI",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 124834,
   "code" : "de"
 }, {
@@ -4009,7 +4009,7 @@
   "country" : "Czechia",
   "political_group" : "Renew",
   "national_political_group" : "ANO 2011",
-  "final_grade" : 3.706597022267435,
+  "final_grade" : 3.706356860187672,
   "long_id" : 124709,
   "code" : "cz"
 }, {
@@ -4018,7 +4018,7 @@
   "country" : "Germany",
   "political_group" : "GUE/NGL",
   "national_political_group" : "DIE LINKE.",
-  "final_grade" : 15.34002408699395,
+  "final_grade" : 15.33935638335452,
   "long_id" : 120478,
   "code" : "de"
 }, {
@@ -4027,7 +4027,7 @@
   "country" : "Spain",
   "political_group" : "Renew",
   "national_political_group" : "Ciudadanos – Partido de la Ciudadanía",
-  "final_grade" : 9.550707871037751,
+  "final_grade" : 9.551332197601694,
   "long_id" : 4344,
   "code" : "es"
 }, {
@@ -4036,7 +4036,7 @@
   "country" : "Italy",
   "political_group" : "EPP",
   "national_political_group" : "Forza Italia",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 125670,
   "code" : "it"
 }, {
@@ -4045,7 +4045,7 @@
   "country" : "Italy",
   "political_group" : "S&D",
   "national_political_group" : "Partito Democratico",
-  "final_grade" : 14.260267080166612,
+  "final_grade" : 14.26014391566548,
   "long_id" : 197791,
   "code" : "it"
 }, {
@@ -4054,7 +4054,7 @@
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
-  "final_grade" : 2.8875518746222943,
+  "final_grade" : 2.887468936749061,
   "long_id" : 197796,
   "code" : "it"
 }, {
@@ -4063,7 +4063,7 @@
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 197691,
   "code" : "fr"
 }, {
@@ -4072,7 +4072,7 @@
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 197826,
   "code" : "it"
 }, {
@@ -4081,7 +4081,7 @@
   "country" : "Finland",
   "political_group" : "Renew",
   "national_political_group" : "Suomen Keskusta",
-  "final_grade" : 1.8593495778831515,
+  "final_grade" : 1.8593781067091815,
   "long_id" : 197563,
   "code" : "fi"
 }, {
@@ -4090,7 +4090,7 @@
   "country" : "France",
   "political_group" : "NI",
   "national_political_group" : "Indépendant",
-  "final_grade" : 3.2937259356483475,
+  "final_grade" : 3.2936712987621237,
   "long_id" : 197629,
   "code" : "fr"
 }, {
@@ -4099,7 +4099,7 @@
   "country" : "Germany",
   "political_group" : "ID",
   "national_political_group" : "Alternative für Deutschland",
-  "final_grade" : 7.521222460078381,
+  "final_grade" : 7.5207175268945266,
   "long_id" : 197481,
   "code" : "de"
 }, {
@@ -4108,7 +4108,7 @@
   "country" : "Spain",
   "political_group" : "ECR",
   "national_political_group" : "VOX",
-  "final_grade" : 2.407705100683048,
+  "final_grade" : 2.4084191927902636,
   "long_id" : 198096,
   "code" : "es"
 }, {
@@ -4117,7 +4117,7 @@
   "country" : "Finland",
   "political_group" : "S&D",
   "national_political_group" : "Suomen Sosialidemokraattinen Puolue/Finlands Socialdemokratiska Parti",
-  "final_grade" : 10.741450829687857,
+  "final_grade" : 10.740873412128908,
   "long_id" : 124735,
   "code" : "fi"
 }, {
@@ -4126,7 +4126,7 @@
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197449,
   "code" : "de"
 }, {
@@ -4135,7 +4135,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 2341,
   "code" : "de"
 }, {
@@ -4144,7 +4144,7 @@
   "country" : "Czechia",
   "political_group" : "EPP",
   "national_political_group" : "Křesťanská a demokratická unie - Československá strana lidová",
-  "final_grade" : 7.124340101924877,
+  "final_grade" : 7.123911331885774,
   "long_id" : 124710,
   "code" : "cz"
 }, {
@@ -4153,7 +4153,7 @@
   "country" : "Slovakia",
   "political_group" : "Renew",
   "national_political_group" : "Progresívne Slovensko",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197769,
   "code" : "sk"
 }, {
@@ -4162,7 +4162,7 @@
   "country" : "Slovakia",
   "political_group" : "Renew",
   "national_political_group" : "Progresívne Slovensko",
-  "final_grade" : 13.97570675819758,
+  "final_grade" : 13.976124990766357,
   "long_id" : 103746,
   "code" : "sk"
 }, {
@@ -4171,7 +4171,7 @@
   "country" : "Netherlands",
   "political_group" : "ECR",
   "national_political_group" : "JA21",
-  "final_grade" : 7.7785572836729004,
+  "final_grade" : 7.77962236803628,
   "long_id" : 218349,
   "code" : "nl"
 }, {
@@ -4180,7 +4180,7 @@
   "country" : "France",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Europe Écologie",
-  "final_grade" : 19.956505436673037,
+  "final_grade" : 19.956469474097524,
   "long_id" : 96743,
   "code" : "fr"
 }, {
@@ -4189,7 +4189,7 @@
   "country" : "Ireland",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Independents for change",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197817,
   "code" : "ie"
 }, {
@@ -4198,7 +4198,7 @@
   "country" : "Spain",
   "political_group" : "GUE/NGL",
   "national_political_group" : "ANTICAPITALISTAS",
-  "final_grade" : 18.552126658696203,
+  "final_grade" : 18.552393872889937,
   "long_id" : 131507,
   "code" : "es"
 }, {
@@ -4207,7 +4207,7 @@
   "country" : "Romania",
   "political_group" : "S&D",
   "national_political_group" : "Partidul Social Democrat",
-  "final_grade" : 9.610539460981975,
+  "final_grade" : 9.60989681480872,
   "long_id" : 198183,
   "code" : "ro"
 }, {
@@ -4216,7 +4216,7 @@
   "country" : "Czechia",
   "political_group" : "Greens/EFA",
   "national_political_group" : "PIRÁTI",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197539,
   "code" : "cz"
 }, {
@@ -4225,7 +4225,7 @@
   "country" : "Slovenia",
   "political_group" : "S&D",
   "national_political_group" : "Socialni demokrati",
-  "final_grade" : 16.341303820770666,
+  "final_grade" : 16.341511256707165,
   "long_id" : 197446,
   "code" : "si"
 }, {
@@ -4234,7 +4234,7 @@
   "country" : "Slovakia",
   "political_group" : "NI",
   "national_political_group" : "Hnutie Republika",
-  "final_grade" : 8.196338136893338,
+  "final_grade" : 8.196431069342411,
   "long_id" : 197763,
   "code" : "sk"
 }, {
@@ -4243,7 +4243,7 @@
   "country" : "Slovenia",
   "political_group" : "EPP",
   "national_political_group" : "Slovenska demokratska stranka",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 96933,
   "code" : "si"
 }, {
@@ -4252,7 +4252,7 @@
   "country" : "Romania",
   "political_group" : "EPP",
   "national_political_group" : "Partidul Naţional Liberal",
-  "final_grade" : 3.9681233942168004,
+  "final_grade" : 3.9678468902554296,
   "long_id" : 197646,
   "code" : "ro"
 }, {
@@ -4261,7 +4261,7 @@
   "country" : "Slovakia",
   "political_group" : "EPP",
   "national_political_group" : "Kresťanskodemokratické hnutie",
-  "final_grade" : 7.124340101924877,
+  "final_grade" : 7.123911331885774,
   "long_id" : 204336,
   "code" : "sk"
 }, {
@@ -4270,7 +4270,7 @@
   "country" : "Slovakia",
   "political_group" : "NI",
   "national_political_group" : "Slovak PATRIOT",
-  "final_grade" : 6.184489348567069,
+  "final_grade" : 6.184164487115451,
   "long_id" : 197764,
   "code" : "sk"
 }, {
@@ -4279,7 +4279,7 @@
   "country" : "Slovakia",
   "political_group" : "S&D",
   "national_political_group" : "SMER-Sociálna demokracia",
-  "final_grade" : 11.390630301089772,
+  "final_grade" : 11.389919268381586,
   "long_id" : 197761,
   "code" : "sk"
 }, {
@@ -4288,7 +4288,7 @@
   "country" : "Croatia",
   "political_group" : "NI",
   "national_political_group" : "-",
-  "final_grade" : 9.631671509287262,
+  "final_grade" : 9.63116551995804,
   "long_id" : 197438,
   "code" : "hr"
 }, {
@@ -4297,7 +4297,7 @@
   "country" : "Netherlands",
   "political_group" : "S&D",
   "national_political_group" : "Partij van de Arbeid",
-  "final_grade" : 14.82157921124677,
+  "final_grade" : 14.820565875823482,
   "long_id" : 197782,
   "code" : "nl"
 }, {
@@ -4306,7 +4306,7 @@
   "country" : "Luxembourg",
   "political_group" : "Renew",
   "national_political_group" : "Indépendent",
-  "final_grade" : 6.147452761935252,
+  "final_grade" : 6.147429095699126,
   "long_id" : 197418,
   "code" : "lu"
 }, {
@@ -4315,7 +4315,7 @@
   "country" : "Slovakia",
   "political_group" : "S&D",
   "national_political_group" : "SMER-Sociálna demokracia",
-  "final_grade" : 13.06001329679063,
+  "final_grade" : 13.059373008357026,
   "long_id" : 23868,
   "code" : "sk"
 }, {
@@ -4324,7 +4324,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich-Soziale Union in Bayern e.V.",
-  "final_grade" : 5.940450253609122,
+  "final_grade" : 5.939929677698468,
   "long_id" : 96780,
   "code" : "de"
 }, {
@@ -4333,7 +4333,7 @@
   "country" : "Austria",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Die Grünen - Die Grüne Alternative",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 124934,
   "code" : "at"
 }, {
@@ -4342,7 +4342,7 @@
   "country" : "Germany",
   "political_group" : "Renew",
   "national_political_group" : "Freie Demokratische Partei",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 197445,
   "code" : "de"
 }, {
@@ -4351,7 +4351,7 @@
   "country" : "Denmark",
   "political_group" : "Renew",
   "national_political_group" : "Venstre, Danmarks Liberale Parti",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 96709,
   "code" : "dk"
 }, {
@@ -4360,7 +4360,7 @@
   "country" : "Denmark",
   "political_group" : "Renew",
   "national_political_group" : "Det Radikale Venstre",
-  "final_grade" : 10.241507833660808,
+  "final_grade" : 10.241464420410697,
   "long_id" : 124872,
   "code" : "dk"
 }, {
@@ -4369,7 +4369,7 @@
   "country" : "France",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Europe Écologie",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197500,
   "code" : "fr"
 }, {
@@ -4378,7 +4378,7 @@
   "country" : "Hungary",
   "political_group" : "NI",
   "national_political_group" : "Jobbik – Konzervatívok",
-  "final_grade" : 14.203590915050162,
+  "final_grade" : 14.202053056146228,
   "long_id" : 198063,
   "code" : "hu"
 }, {
@@ -4387,7 +4387,7 @@
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
-  "final_grade" : 11.92155643001057,
+  "final_grade" : 11.92109176328331,
   "long_id" : 197728,
   "code" : "es"
 }, {
@@ -4396,7 +4396,7 @@
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
-  "final_grade" : 11.650760565225719,
+  "final_grade" : 11.65041871438386,
   "long_id" : 197722,
   "code" : "es"
 }, {
@@ -4405,7 +4405,7 @@
   "country" : "France",
   "political_group" : "EPP",
   "national_political_group" : "Les Républicains",
-  "final_grade" : 7.124340101924877,
+  "final_grade" : 7.123911331885774,
   "long_id" : 72779,
   "code" : "fr"
 }, {
@@ -4414,7 +4414,7 @@
   "country" : "France",
   "political_group" : "EPP",
   "national_political_group" : "Les centristes",
-  "final_grade" : 7.124340101924877,
+  "final_grade" : 7.123911331885774,
   "long_id" : 197536,
   "code" : "fr"
 }, {
@@ -4423,7 +4423,7 @@
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Liste Renaissance",
-  "final_grade" : 10.774771139586974,
+  "final_grade" : 10.774369795373207,
   "long_id" : 197494,
   "code" : "fr"
 }, {
@@ -4432,7 +4432,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197412,
   "code" : "de"
 }, {
@@ -4441,7 +4441,7 @@
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Independent",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197423,
   "code" : "de"
 }, {
@@ -4450,7 +4450,7 @@
   "country" : "Germany",
   "political_group" : "Renew",
   "national_political_group" : "Freie Demokratische Partei",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 197437,
   "code" : "de"
 }, {
@@ -4459,7 +4459,7 @@
   "country" : "Italy",
   "political_group" : "Renew",
   "national_political_group" : "Azione - Italia Viva",
-  "final_grade" : 6.163202239327382,
+  "final_grade" : 6.162931845195562,
   "long_id" : 124821,
   "code" : "it"
 }, {
@@ -4468,7 +4468,7 @@
   "country" : "Italy",
   "political_group" : "ECR",
   "national_political_group" : "Fratelli d'Italia",
-  "final_grade" : 3.0019706564849797,
+  "final_grade" : 3.00187971320109,
   "long_id" : 197820,
   "code" : "it"
 }, {
@@ -4477,7 +4477,7 @@
   "country" : "Romania",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Independent",
-  "final_grade" : 10.774771139586974,
+  "final_grade" : 10.774369795373207,
   "long_id" : 58766,
   "code" : "ro"
 }, {
@@ -4486,7 +4486,7 @@
   "country" : "France",
   "political_group" : "NI",
   "national_political_group" : "Reconquête!",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 124760,
   "code" : "fr"
 }, {
@@ -4495,7 +4495,7 @@
   "country" : "Germany",
   "political_group" : "ID",
   "national_political_group" : "Alternative für Deutschland",
-  "final_grade" : 6.32880083921394,
+  "final_grade" : 6.328628460900833,
   "long_id" : 197480,
   "code" : "de"
 }, {
@@ -4504,7 +4504,7 @@
   "country" : "Spain",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista Obrero Español",
-  "final_grade" : 13.06001329679063,
+  "final_grade" : 13.059373008357026,
   "long_id" : 197718,
   "code" : "es"
 }, {
@@ -4513,7 +4513,7 @@
   "country" : "Denmark",
   "political_group" : "S&D",
   "national_political_group" : "Socialdemokratiet",
-  "final_grade" : 13.06001329679063,
+  "final_grade" : 13.059373008357026,
   "long_id" : 101585,
   "code" : "dk"
 }, {
@@ -4522,7 +4522,7 @@
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
-  "final_grade" : 19.96051467201658,
+  "final_grade" : 19.96048268943299,
   "long_id" : 197465,
   "code" : "de"
 }, {
@@ -4531,7 +4531,7 @@
   "country" : "Denmark",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Enhedslisten",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197571,
   "code" : "dk"
 }, {
@@ -4540,7 +4540,7 @@
   "country" : "Finland",
   "political_group" : "Renew",
   "national_political_group" : "Svenska folkpartiet",
-  "final_grade" : 7.3469079037814895,
+  "final_grade" : 7.346864975897481,
   "long_id" : 114268,
   "code" : "fi"
 }, {
@@ -4549,7 +4549,7 @@
   "country" : "Latvia",
   "political_group" : "S&D",
   "national_political_group" : "\"Saskaņa\" sociāldemokrātiskā partija",
-  "final_grade" : 10.241507833660808,
+  "final_grade" : 10.241464420410697,
   "long_id" : 197810,
   "code" : "lv"
 }, {
@@ -4558,7 +4558,7 @@
   "country" : "Cyprus",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Progressive Party of Working People - Left - New Forces",
-  "final_grade" : 18.552126658696203,
+  "final_grade" : 18.552393872889937,
   "long_id" : 197415,
   "code" : "cy"
 }, {
@@ -4567,7 +4567,7 @@
   "country" : "France",
   "political_group" : "S&D",
   "national_political_group" : "Parti socialiste",
-  "final_grade" : 16.51746041221628,
+  "final_grade" : 16.51763054345381,
   "long_id" : 204418,
   "code" : "fr"
 }, {
@@ -4576,7 +4576,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
-  "final_grade" : 7.657603407851043,
+  "final_grade" : 7.656816706848284,
   "long_id" : 124808,
   "code" : "de"
 }, {
@@ -4585,7 +4585,7 @@
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
-  "final_grade" : 14.887634760119296,
+  "final_grade" : 14.887984635237078,
   "long_id" : 96844,
   "code" : "de"
 }, {
@@ -4594,7 +4594,7 @@
   "country" : "Portugal",
   "political_group" : "EPP",
   "national_political_group" : "Partido do Centro Democrático Social-Partido Popular",
-  "final_grade" : 7.100603270219401,
+  "final_grade" : 7.100465673821883,
   "long_id" : 96978,
   "code" : "pt"
 }, {
@@ -4603,7 +4603,7 @@
   "country" : "Belgium",
   "political_group" : "Renew",
   "national_political_group" : "Mouvement Réformateur",
-  "final_grade" : 8.40438054542457,
+  "final_grade" : 8.40443601470983,
   "long_id" : 197463,
   "code" : "be"
 }, {
@@ -4612,7 +4612,7 @@
   "country" : "Czechia",
   "political_group" : "Renew",
   "national_political_group" : "ANO 2011",
-  "final_grade" : 3.706597022267435,
+  "final_grade" : 3.706356860187672,
   "long_id" : 197528,
   "code" : "cz"
 }, {
@@ -4621,7 +4621,7 @@
   "country" : "Czechia",
   "political_group" : "Renew",
   "national_political_group" : "ANO 2011",
-  "final_grade" : 3.706597022267435,
+  "final_grade" : 3.706356860187672,
   "long_id" : 118949,
   "code" : "cz"
 }, {
@@ -4630,7 +4630,7 @@
   "country" : "Austria",
   "political_group" : "EPP",
   "national_political_group" : "Österreichische Volkspartei",
-  "final_grade" : 7.124340101924877,
+  "final_grade" : 7.123911331885774,
   "long_id" : 4246,
   "code" : "at"
 }, {
@@ -4639,7 +4639,7 @@
   "country" : "Spain",
   "political_group" : "EPP",
   "national_political_group" : "Partido Popular",
-  "final_grade" : 5.810355963466758,
+  "final_grade" : 5.809837953369793,
   "long_id" : 96808,
   "code" : "es"
 }, {
@@ -4648,7 +4648,7 @@
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 101039,
   "code" : "it"
 }, {
@@ -4657,7 +4657,7 @@
   "country" : "Italy",
   "political_group" : "S&D",
   "national_political_group" : "Partito Democratico",
-  "final_grade" : 10.597079492452083,
+  "final_grade" : 10.596521951726853,
   "long_id" : 96891,
   "code" : "it"
 }, {
@@ -4666,7 +4666,7 @@
   "country" : "Belgium",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Soziale Partei",
-  "final_grade" : 9.649695435851593,
+  "final_grade" : 9.649114752444634,
   "long_id" : 24922,
   "code" : "be"
 }, {
@@ -4675,7 +4675,7 @@
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Liste Renaissance",
-  "final_grade" : 11.650760565225719,
+  "final_grade" : 11.65041871438386,
   "long_id" : 96711,
   "code" : "fr"
 }, {
@@ -4684,7 +4684,7 @@
   "country" : "France",
   "political_group" : "S&D",
   "national_political_group" : "Liste Renaissance",
-  "final_grade" : 15.740142855364892,
+  "final_grade" : 15.739080078673915,
   "long_id" : 124693,
   "code" : "fr"
 }, {
@@ -4693,7 +4693,7 @@
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Piratenpartei Deutschland",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197431,
   "code" : "de"
 }, {
@@ -4702,7 +4702,7 @@
   "country" : "Italy",
   "political_group" : "S&D",
   "national_political_group" : "Partito Democratico",
-  "final_grade" : 11.650760565225719,
+  "final_grade" : 11.65041871438386,
   "long_id" : 28340,
   "code" : "it"
 }, {
@@ -4711,7 +4711,7 @@
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Solidarna Polska Zbigniewa Ziobro",
-  "final_grade" : 1.3722868484362525,
+  "final_grade" : 1.372443325323086,
   "long_id" : 197516,
   "code" : "pl"
 }, {
@@ -4720,7 +4720,7 @@
   "country" : "Netherlands",
   "political_group" : "S&D",
   "national_political_group" : "Partij van de Arbeid",
-  "final_grade" : 16.021832994622752,
+  "final_grade" : 16.021336783131936,
   "long_id" : 125020,
   "code" : "nl"
 }, {
@@ -4729,7 +4729,7 @@
   "country" : "Portugal",
   "political_group" : "EPP",
   "national_political_group" : "Partido Social Democrata",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 96903,
   "code" : "pt"
 }, {
@@ -4738,7 +4738,7 @@
   "country" : "Portugal",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista",
-  "final_grade" : 12.184023871151885,
+  "final_grade" : 12.183324089346373,
   "long_id" : 197634,
   "code" : "pt"
 }, {
@@ -4747,7 +4747,7 @@
   "country" : "Portugal",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista",
-  "final_grade" : 11.479397505369429,
+  "final_grade" : 11.478846942359791,
   "long_id" : 124747,
   "code" : "pt"
 }, {
@@ -4756,7 +4756,7 @@
   "country" : "Spain",
   "political_group" : "GUE/NGL",
   "national_political_group" : "EH BILDU",
-  "final_grade" : 15.665950169005823,
+  "final_grade" : 15.665006790587297,
   "long_id" : 197684,
   "code" : "es"
 }, {
@@ -4765,7 +4765,7 @@
   "country" : "Denmark",
   "political_group" : "EPP",
   "national_political_group" : "Det Konservative Folkeparti",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197515,
   "code" : "dk"
 }, {
@@ -4774,7 +4774,7 @@
   "country" : "Bulgaria",
   "political_group" : "S&D",
   "national_political_group" : "Bulgarian Socialist Party",
-  "final_grade" : 13.273950575126293,
+  "final_grade" : 13.273410064220876,
   "long_id" : 197844,
   "code" : "bg"
 }, {
@@ -4783,7 +4783,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 96772,
   "code" : "de"
 }, {
@@ -4792,7 +4792,7 @@
   "country" : "Denmark",
   "political_group" : "ID",
   "national_political_group" : "Dansk Folkeparti",
-  "final_grade" : 7.337178605139125,
+  "final_grade" : 7.336561792776788,
   "long_id" : 197570,
   "code" : "dk"
 }, {
@@ -4801,7 +4801,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 1927,
   "code" : "de"
 }, {
@@ -4810,7 +4810,7 @@
   "country" : "Sweden",
   "political_group" : "ECR",
   "national_political_group" : "Sverigedemokraterna",
-  "final_grade" : 4.032391728918639,
+  "final_grade" : 4.032342953774751,
   "long_id" : 124996,
   "code" : "se"
 }, {
@@ -4819,7 +4819,7 @@
   "country" : "Slovakia",
   "political_group" : "EPP",
   "national_political_group" : "Obyčajní ľudia a nezávislé osobnosti",
-  "final_grade" : 9.623519537464198,
+  "final_grade" : 9.622951600733444,
   "long_id" : 197765,
   "code" : "sk"
 }, {
@@ -4828,7 +4828,7 @@
   "country" : "Netherlands",
   "political_group" : "EPP",
   "national_political_group" : "ChristenUnie",
-  "final_grade" : 5.553844466651718,
+  "final_grade" : 5.553335613666162,
   "long_id" : 96809,
   "code" : "nl"
 }, {
@@ -4837,7 +4837,7 @@
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
-  "final_grade" : 15.460520863542595,
+  "final_grade" : 15.460914822973933,
   "long_id" : 96837,
   "code" : "de"
 }, {
@@ -4846,7 +4846,7 @@
   "country" : "Lithuania",
   "political_group" : "Renew",
   "national_political_group" : "Lietuvos Respublikos liberalų sąjūdis",
-  "final_grade" : 9.499100780988302,
+  "final_grade" : 9.499069504306908,
   "long_id" : 124766,
   "code" : "lt"
 }, {
@@ -4855,7 +4855,7 @@
   "country" : "Finland",
   "political_group" : "EPP",
   "national_political_group" : "Kansallinen Kokoomus",
-  "final_grade" : 7.571921877922897,
+  "final_grade" : 7.571030820836248,
   "long_id" : 112611,
   "code" : "fi"
 }, {
@@ -4864,7 +4864,7 @@
   "country" : "Belgium",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Ecologistes Confédérés pour l'Organisation de Luttes Originales",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 96648,
   "code" : "be"
 }, {
@@ -4873,7 +4873,7 @@
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 197687,
   "code" : "fr"
 }, {
@@ -4882,7 +4882,7 @@
   "country" : "Italy",
   "political_group" : "S&D",
   "national_political_group" : "Partito Democratico",
-  "final_grade" : 12.184181109727461,
+  "final_grade" : 12.18331658503632,
   "long_id" : 197592,
   "code" : "it"
 }, {
@@ -4891,7 +4891,7 @@
   "country" : "Italy",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Independent",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 124844,
   "code" : "it"
 }, {
@@ -4900,7 +4900,7 @@
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "La République en marche",
-  "final_grade" : 10.774771139586974,
+  "final_grade" : 10.774369795373207,
   "long_id" : 197585,
   "code" : "fr"
 }, {
@@ -4909,7 +4909,7 @@
   "country" : "France",
   "political_group" : "S&D",
   "national_political_group" : "Nouvelle Donne",
-  "final_grade" : 17.222086777998733,
+  "final_grade" : 17.22210769044039,
   "long_id" : 197698,
   "code" : "fr"
 }, {
@@ -4918,7 +4918,7 @@
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197459,
   "code" : "de"
 }, {
@@ -4927,7 +4927,7 @@
   "country" : "Italy",
   "political_group" : "S&D",
   "national_political_group" : "Partito Democratico",
-  "final_grade" : 13.06001329679063,
+  "final_grade" : 13.059373008357026,
   "long_id" : 197808,
   "code" : "it"
 }, {
@@ -4936,7 +4936,7 @@
   "country" : "Italy",
   "political_group" : "ECR",
   "national_political_group" : "Fratelli d'Italia",
-  "final_grade" : 3.0019706564849797,
+  "final_grade" : 3.00187971320109,
   "long_id" : 197607,
   "code" : "it"
 }, {
@@ -4945,7 +4945,7 @@
   "country" : "Spain",
   "political_group" : "EPP",
   "national_political_group" : "Partido Popular",
-  "final_grade" : 5.810355963466758,
+  "final_grade" : 5.809837953369793,
   "long_id" : 28390,
   "code" : "es"
 }, {
@@ -4954,7 +4954,7 @@
   "country" : "Italy",
   "political_group" : "S&D",
   "national_political_group" : "Partito Democratico",
-  "final_grade" : 11.650760565225719,
+  "final_grade" : 11.65041871438386,
   "long_id" : 124846,
   "code" : "it"
 }, {
@@ -4963,7 +4963,7 @@
   "country" : "Croatia",
   "political_group" : "S&D",
   "national_political_group" : "Socijaldemokratska partija Hrvatske",
-  "final_grade" : 13.845902923223427,
+  "final_grade" : 13.844944250125044,
   "long_id" : 197441,
   "code" : "hr"
 }, {
@@ -4972,7 +4972,7 @@
   "country" : "Sweden",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Miljöpartiet de gröna",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197398,
   "code" : "se"
 }, {
@@ -4981,7 +4981,7 @@
   "country" : "Bulgaria",
   "political_group" : "EPP",
   "national_political_group" : "Democrats for Strong Bulgaria",
-  "final_grade" : 12.633002894404932,
+  "final_grade" : 12.63172451789632,
   "long_id" : 197839,
   "code" : "bg"
 }, {
@@ -4990,7 +4990,7 @@
   "country" : "Czechia",
   "political_group" : "S&D",
   "national_political_group" : "Independent",
-  "final_grade" : 5.458575873544926,
+  "final_grade" : 5.458454698208979,
   "long_id" : 197522,
   "code" : "cz"
 }, {
@@ -4999,7 +4999,7 @@
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Platforma Obywatelska",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197548,
   "code" : "pl"
 }, {
@@ -5008,7 +5008,7 @@
   "country" : "Italy",
   "political_group" : "ECR",
   "national_political_group" : "Fratelli d'Italia",
-  "final_grade" : 3.380821890357348,
+  "final_grade" : 3.380781505208127,
   "long_id" : 4465,
   "code" : "it"
 }, {
@@ -5017,7 +5017,7 @@
   "country" : "Italy",
   "political_group" : "ECR",
   "national_political_group" : "Fratelli d'Italia",
-  "final_grade" : 3.0019706564849797,
+  "final_grade" : 3.00187971320109,
   "long_id" : 197825,
   "code" : "it"
 }, {
@@ -5026,7 +5026,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 2323,
   "code" : "de"
 }, {
@@ -5035,7 +5035,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197425,
   "code" : "de"
 }, {
@@ -5044,7 +5044,7 @@
   "country" : "Romania",
   "political_group" : "Renew",
   "national_political_group" : "Reînnoim Proiectul European al României",
-  "final_grade" : 10.774771139586974,
+  "final_grade" : 10.774369795373207,
   "long_id" : 134605,
   "code" : "ro"
 }, {
@@ -5053,7 +5053,7 @@
   "country" : "France",
   "political_group" : "S&D",
   "national_political_group" : "Place publique",
-  "final_grade" : 18.338189380360536,
+  "final_grade" : 18.338356817026085,
   "long_id" : 197694,
   "code" : "fr"
 }, {
@@ -5062,7 +5062,7 @@
   "country" : "Lithuania",
   "political_group" : "EPP",
   "national_political_group" : "Tėvynės sąjunga-Lietuvos krikščionys demokratai",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197840,
   "code" : "lt"
 }, {
@@ -5071,7 +5071,7 @@
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197448,
   "code" : "de"
 }, {
@@ -5080,7 +5080,7 @@
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
-  "final_grade" : 19.95652740232102,
+  "final_grade" : 19.956491538666885,
   "long_id" : 96739,
   "code" : "de"
 }, {
@@ -5089,7 +5089,7 @@
   "country" : "Estonia",
   "political_group" : "EPP",
   "national_political_group" : "Isamaa",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 204449,
   "code" : "ee"
 }, {
@@ -5098,7 +5098,7 @@
   "country" : "Netherlands",
   "political_group" : "ECR",
   "national_political_group" : "JA21",
-  "final_grade" : 4.436013736080729,
+  "final_grade" : 4.4370392080727346,
   "long_id" : 197776,
   "code" : "nl"
 }, {
@@ -5107,7 +5107,7 @@
   "country" : "Poland",
   "political_group" : "S&D",
   "national_political_group" : "Nowa Lewica",
-  "final_grade" : 16.341303820770666,
+  "final_grade" : 16.341511256707165,
   "long_id" : 197498,
   "code" : "pl"
 }, {
@@ -5116,7 +5116,7 @@
   "country" : "Slovakia",
   "political_group" : "S&D",
   "national_political_group" : "Independent",
-  "final_grade" : 13.06001329679063,
+  "final_grade" : 13.059373008357026,
   "long_id" : 34578,
   "code" : "sk"
 }, {
@@ -5125,7 +5125,7 @@
   "country" : "Netherlands",
   "political_group" : "ECR",
   "national_political_group" : "JA21",
-  "final_grade" : 4.436013736080729,
+  "final_grade" : 4.4370392080727346,
   "long_id" : 197709,
   "code" : "nl"
 }, {
@@ -5134,7 +5134,7 @@
   "country" : "Malta",
   "political_group" : "EPP",
   "national_political_group" : "Partit Nazzjonalista",
-  "final_grade" : 7.0368978122364885,
+  "final_grade" : 7.036477044581121,
   "long_id" : 118859,
   "code" : "mt"
 }, {
@@ -5143,7 +5143,7 @@
   "country" : "Latvia",
   "political_group" : "ECR",
   "national_political_group" : "Nacionālā apvienība \"Visu Latvijai!\"-\"Tēvzemei un Brīvībai/LNNK\"",
-  "final_grade" : 1.592717924920069,
+  "final_grade" : 1.5929254192279263,
   "long_id" : 28615,
   "code" : "lv"
 }, {
@@ -5152,7 +5152,7 @@
   "country" : "Austria",
   "political_group" : "ID",
   "national_political_group" : "Freiheitliche Partei Österreichs",
-  "final_grade" : 2.9162891265568343,
+  "final_grade" : 2.916093827189054,
   "long_id" : 198176,
   "code" : "at"
 }, {
@@ -5161,7 +5161,7 @@
   "country" : "Croatia",
   "political_group" : "S&D",
   "national_political_group" : "Socijaldemokratska partija Hrvatske",
-  "final_grade" : 13.06001329679063,
+  "final_grade" : 13.059373008357026,
   "long_id" : 112747,
   "code" : "hr"
 }, {
@@ -5170,7 +5170,7 @@
   "country" : "Slovenia",
   "political_group" : "EPP",
   "national_political_group" : "Slovenska demokratska stranka",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 125104,
   "code" : "si"
 }, {
@@ -5179,7 +5179,7 @@
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
-  "final_grade" : 19.956505436673037,
+  "final_grade" : 19.956469474097524,
   "long_id" : 193273,
   "code" : "de"
 }, {
@@ -5188,7 +5188,7 @@
   "country" : "Italy",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Independent",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 124835,
   "code" : "it"
 }, {
@@ -5197,7 +5197,7 @@
   "country" : "Spain",
   "political_group" : "EPP",
   "national_political_group" : "Partido Popular",
-  "final_grade" : 5.810355963466758,
+  "final_grade" : 5.809837953369793,
   "long_id" : 96811,
   "code" : "es"
 }, {
@@ -5206,7 +5206,7 @@
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 197616,
   "code" : "it"
 }, {
@@ -5215,7 +5215,7 @@
   "country" : "Romania",
   "political_group" : "S&D",
   "national_political_group" : "Partidul Social Democrat",
-  "final_grade" : 10.774771139586974,
+  "final_grade" : 10.774369795373207,
   "long_id" : 38595,
   "code" : "ro"
 }, {
@@ -5224,7 +5224,7 @@
   "country" : "Croatia",
   "political_group" : "ECR",
   "national_political_group" : "Hrvatska konzervativna stranka",
-  "final_grade" : 1.7998352677425262,
+  "final_grade" : 1.7999274956389557,
   "long_id" : 119431,
   "code" : "hr"
 }, {
@@ -5233,7 +5233,7 @@
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 28372,
   "code" : "pl"
 }, {
@@ -5242,7 +5242,7 @@
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 96796,
   "code" : "pl"
 }, {
@@ -5251,7 +5251,7 @@
   "country" : "Poland",
   "political_group" : "Renew",
   "national_political_group" : "Polska 2050",
-  "final_grade" : 18.84527678789931,
+  "final_grade" : 18.845099040277407,
   "long_id" : 96776,
   "code" : "pl"
 }, {
@@ -5260,7 +5260,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 96756,
   "code" : "de"
 }, {
@@ -5269,7 +5269,7 @@
   "country" : "Italy",
   "political_group" : "NI",
   "national_political_group" : "Movimento 5 Stelle",
-  "final_grade" : 13.30012647351369,
+  "final_grade" : 13.29957321593207,
   "long_id" : 197619,
   "code" : "it"
 }, {
@@ -5278,7 +5278,7 @@
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Renaissance",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197511,
   "code" : "fr"
 }, {
@@ -5287,7 +5287,7 @@
   "country" : "Italy",
   "political_group" : "EPP",
   "national_political_group" : "Forza Italia",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 204333,
   "code" : "it"
 }, {
@@ -5296,7 +5296,7 @@
   "country" : "Netherlands",
   "political_group" : "Renew",
   "national_political_group" : "Democraten 66",
-  "final_grade" : 14.82157921124677,
+  "final_grade" : 14.820565875823482,
   "long_id" : 197868,
   "code" : "nl"
 }, {
@@ -5305,7 +5305,7 @@
   "country" : "Latvia",
   "political_group" : "EPP",
   "national_political_group" : "Partija \"VIENOTĪBA\"",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 96934,
   "code" : "lv"
 }, {
@@ -5314,7 +5314,7 @@
   "country" : "Portugal",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Partido Comunista Português",
-  "final_grade" : 18.065580830499524,
+  "final_grade" : 18.065842925491328,
   "long_id" : 197754,
   "code" : "pt"
 }, {
@@ -5323,7 +5323,7 @@
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Liste Renaissance",
-  "final_grade" : 11.650760565225719,
+  "final_grade" : 11.65041871438386,
   "long_id" : 204419,
   "code" : "fr"
 }, {
@@ -5332,7 +5332,7 @@
   "country" : "Portugal",
   "political_group" : "S&D",
   "national_political_group" : "Partido Socialista",
-  "final_grade" : 13.06001329679063,
+  "final_grade" : 13.059373008357026,
   "long_id" : 197641,
   "code" : "pt"
 }, {
@@ -5341,7 +5341,7 @@
   "country" : "Belgium",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Groen",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 208722,
   "code" : "be"
 }, {
@@ -5350,7 +5350,7 @@
   "country" : "Sweden",
   "political_group" : "EPP",
   "national_political_group" : "Kristdemokraterna",
-  "final_grade" : 4.968383145225851,
+  "final_grade" : 4.968079379793459,
   "long_id" : 197390,
   "code" : "se"
 }, {
@@ -5359,7 +5359,7 @@
   "country" : "Austria",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Die Grünen - Die Grüne Alternative",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197675,
   "code" : "at"
 }, {
@@ -5368,7 +5368,7 @@
   "country" : "Belgium",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Ecologistes Confédérés pour l'Organisation de Luttes Originales",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197470,
   "code" : "be"
 }, {
@@ -5377,7 +5377,7 @@
   "country" : "Bulgaria",
   "political_group" : "S&D",
   "national_political_group" : "Bulgarian Socialist Party",
-  "final_grade" : 13.273950575126293,
+  "final_grade" : 13.273410064220876,
   "long_id" : 124852,
   "code" : "bg"
 }, {
@@ -5386,7 +5386,7 @@
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197460,
   "code" : "de"
 }, {
@@ -5395,7 +5395,7 @@
   "country" : "Italy",
   "political_group" : "ECR",
   "national_political_group" : "Fratelli d'Italia",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 4746,
   "code" : "it"
 }, {
@@ -5404,7 +5404,7 @@
   "country" : "Ireland",
   "political_group" : "EPP",
   "national_political_group" : "Fine Gael Party",
-  "final_grade" : 8.489528982383316,
+  "final_grade" : 8.489366582389389,
   "long_id" : 96668,
   "code" : "ie"
 }, {
@@ -5413,7 +5413,7 @@
   "country" : "Romania",
   "political_group" : "EPP",
   "national_political_group" : "Partidul Naţional Liberal",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 124802,
   "code" : "ro"
 }, {
@@ -5422,7 +5422,7 @@
   "country" : "Finland",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Vasemmistoliitto",
-  "final_grade" : 18.76112560688513,
+  "final_grade" : 18.760577259554648,
   "long_id" : 197805,
   "code" : "fi"
 }, {
@@ -5431,7 +5431,7 @@
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 197578,
   "code" : "it"
 }, {
@@ -5440,7 +5440,7 @@
   "country" : "Italy",
   "political_group" : "EPP",
   "national_political_group" : "Forza Italia",
-  "final_grade" : 7.0368978122364885,
+  "final_grade" : 7.036477044581121,
   "long_id" : 4391,
   "code" : "it"
 }, {
@@ -5449,7 +5449,7 @@
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
-  "final_grade" : 2.8875518746222943,
+  "final_grade" : 2.887468936749061,
   "long_id" : 197789,
   "code" : "it"
 }, {
@@ -5458,7 +5458,7 @@
   "country" : "Italy",
   "political_group" : "S&D",
   "national_political_group" : "Partito Democratico",
-  "final_grade" : 12.184181109727461,
+  "final_grade" : 12.18331658503632,
   "long_id" : 124814,
   "code" : "it"
 }, {
@@ -5467,7 +5467,7 @@
   "country" : "Austria",
   "political_group" : "EPP",
   "national_political_group" : "Österreichische Volkspartei",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197656,
   "code" : "at"
 }, {
@@ -5476,7 +5476,7 @@
   "country" : "Spain",
   "political_group" : "GUE/NGL",
   "national_political_group" : "Izquierda Unida",
-  "final_grade" : 16.928936648795624,
+  "final_grade" : 16.92940252305292,
   "long_id" : 197681,
   "code" : "es"
 }, {
@@ -5485,7 +5485,7 @@
   "country" : "Finland",
   "political_group" : "EPP",
   "national_political_group" : "Kansallinen Kokoomus",
-  "final_grade" : 17.325287724756862,
+  "final_grade" : 17.324174075615833,
   "long_id" : 40599,
   "code" : "fi"
 }, {
@@ -5494,7 +5494,7 @@
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 96734,
   "code" : "de"
 }, {
@@ -5503,7 +5503,7 @@
   "country" : "Netherlands",
   "political_group" : "Renew",
   "national_political_group" : "Independent",
-  "final_grade" : 11.12229079088888,
+  "final_grade" : 11.122060854143925,
   "long_id" : 28266,
   "code" : "nl"
 }, {
@@ -5512,7 +5512,7 @@
   "country" : "Czechia",
   "political_group" : "EPP",
   "national_political_group" : "Starostové a nezávisli",
-  "final_grade" : 17.645023004523328,
+  "final_grade" : 17.64432813296895,
   "long_id" : 124704,
   "code" : "cz"
 }, {
@@ -5521,7 +5521,7 @@
   "country" : "Lithuania",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Independent",
-  "final_grade" : 19.950252381430555,
+  "final_grade" : 19.950210177549717,
   "long_id" : 197837,
   "code" : "lt"
 }, {
@@ -5530,7 +5530,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
-  "final_grade" : 7.657603407851043,
+  "final_grade" : 7.656816706848284,
   "long_id" : 197410,
   "code" : "de"
 }, {
@@ -5539,7 +5539,7 @@
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 197586,
   "code" : "it"
 }, {
@@ -5548,7 +5548,7 @@
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "La République en marche",
-  "final_grade" : 10.774771139586974,
+  "final_grade" : 10.774369795373207,
   "long_id" : 197551,
   "code" : "fr"
 }, {
@@ -5557,7 +5557,7 @@
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "La République en marche",
-  "final_grade" : 11.650760565225719,
+  "final_grade" : 11.65041871438386,
   "long_id" : 197508,
   "code" : "fr"
 }, {
@@ -5566,7 +5566,7 @@
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Liste Renaissance",
-  "final_grade" : 10.774771139586974,
+  "final_grade" : 10.774369795373207,
   "long_id" : 197581,
   "code" : "fr"
 }, {
@@ -5575,7 +5575,7 @@
   "country" : "Croatia",
   "political_group" : "EPP",
   "national_political_group" : "Hrvatska demokratska zajednica",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 202036,
   "code" : "hr"
 }, {
@@ -5584,7 +5584,7 @@
   "country" : "Spain",
   "political_group" : "Renew",
   "national_political_group" : "Ciudadanos – Partido de la Ciudadanía",
-  "final_grade" : 6.995127813859657,
+  "final_grade" : 6.995481720736667,
   "long_id" : 197784,
   "code" : "es"
 }, {
@@ -5593,7 +5593,7 @@
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 197786,
   "code" : "it"
 }, {
@@ -5602,7 +5602,7 @@
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
-  "final_grade" : 19.956505436673037,
+  "final_grade" : 19.956469474097524,
   "long_id" : 96730,
   "code" : "de"
 }, {
@@ -5611,7 +5611,7 @@
   "country" : "Estonia",
   "political_group" : "S&D",
   "national_political_group" : "Sotsiaaldemokraatlik Erakond",
-  "final_grade" : 13.06001329679063,
+  "final_grade" : 13.059373008357026,
   "long_id" : 197497,
   "code" : "ee"
 }, {
@@ -5620,7 +5620,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
-  "final_grade" : 8.136766346301153,
+  "final_grade" : 8.136851105263462,
   "long_id" : 124809,
   "code" : "de"
 }, {
@@ -5629,7 +5629,7 @@
   "country" : "Germany",
   "political_group" : "EPP",
   "national_political_group" : "Christlich Demokratische Union Deutschlands",
-  "final_grade" : 3.9681233942168004,
+  "final_grade" : 3.9678468902554296,
   "long_id" : 197426,
   "code" : "de"
 }, {
@@ -5638,7 +5638,7 @@
   "country" : "Germany",
   "political_group" : "Renew",
   "national_political_group" : "Freie Demokratische Partei",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 197444,
   "code" : "de"
 }, {
@@ -5647,7 +5647,7 @@
   "country" : "Germany",
   "political_group" : "ID",
   "national_political_group" : "Alternative für Deutschland",
-  "final_grade" : 6.32880083921394,
+  "final_grade" : 6.328628460900833,
   "long_id" : 197483,
   "code" : "de"
 }, {
@@ -5656,7 +5656,7 @@
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Mouvement Démocrate",
-  "final_grade" : 11.650760565225719,
+  "final_grade" : 11.65041871438386,
   "long_id" : 197576,
   "code" : "fr"
 }, {
@@ -5665,7 +5665,7 @@
   "country" : "France",
   "political_group" : "S&D",
   "national_political_group" : "Parti socialiste",
-  "final_grade" : 16.51746041221628,
+  "final_grade" : 16.51763054345381,
   "long_id" : 96952,
   "code" : "fr"
 }, {
@@ -5674,7 +5674,7 @@
   "country" : "Poland",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Independent",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197550,
   "code" : "pl"
 }, {
@@ -5683,7 +5683,7 @@
   "country" : "Hungary",
   "political_group" : "S&D",
   "national_political_group" : "Demokratikus Koalíció",
-  "final_grade" : 16.14459045413924,
+  "final_grade" : 16.14512841277419,
   "long_id" : 197584,
   "code" : "hu"
 }, {
@@ -5692,7 +5692,7 @@
   "country" : "Denmark",
   "political_group" : "Renew",
   "national_political_group" : "Venstre, Danmarks Liberale Parti",
-  "final_grade" : 2.8875518746222943,
+  "final_grade" : 2.887468936749061,
   "long_id" : 197555,
   "code" : "dk"
 }, {
@@ -5701,7 +5701,7 @@
   "country" : "Hungary",
   "political_group" : "NI",
   "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
-  "final_grade" : 5.810355963466758,
+  "final_grade" : 5.809837953369793,
   "long_id" : 96826,
   "code" : "hu"
 }, {
@@ -5710,7 +5710,7 @@
   "country" : "Slovenia",
   "political_group" : "S&D",
   "national_political_group" : "Socialni demokrati",
-  "final_grade" : 16.87151178171352,
+  "final_grade" : 16.871477926873908,
   "long_id" : 96911,
   "code" : "si"
 }, {
@@ -5719,7 +5719,7 @@
   "country" : "Latvia",
   "political_group" : "NI",
   "national_political_group" : "Latvijas Krievu savienība",
-  "final_grade" : 18.84527678789931,
+  "final_grade" : 18.845099040277407,
   "long_id" : 28619,
   "code" : "lv"
 }, {
@@ -5728,7 +5728,7 @@
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 103381,
   "code" : "de"
 }, {
@@ -5737,7 +5737,7 @@
   "country" : "Finland",
   "political_group" : "ECR",
   "national_political_group" : "Perussuomalaiset",
-  "final_grade" : 2.3549769954766777,
+  "final_grade" : 2.3556718670310532,
   "long_id" : 197596,
   "code" : "fi"
 }, {
@@ -5746,7 +5746,7 @@
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 197623,
   "code" : "fr"
 }, {
@@ -5755,7 +5755,7 @@
   "country" : "Netherlands",
   "political_group" : "S&D",
   "national_political_group" : "Partij van de Arbeid",
-  "final_grade" : 14.847500879546587,
+  "final_grade" : 14.847031511167204,
   "long_id" : 218347,
   "code" : "nl"
 }, {
@@ -5764,7 +5764,7 @@
   "country" : "Austria",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Die Grünen - Die Grüne Alternative",
-  "final_grade" : 18.552126658696203,
+  "final_grade" : 18.552393872889937,
   "long_id" : 190464,
   "code" : "at"
 }, {
@@ -5773,7 +5773,7 @@
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
-  "final_grade" : 16.341303820770666,
+  "final_grade" : 16.341511256707165,
   "long_id" : 185619,
   "code" : "de"
 }, {
@@ -5782,7 +5782,7 @@
   "country" : "Luxembourg",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Déi Gréng - Les Verts",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 193292,
   "code" : "lu"
 }, {
@@ -5791,7 +5791,7 @@
   "country" : "Netherlands",
   "political_group" : "Greens/EFA",
   "national_political_group" : "GroenLinks",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197772,
   "code" : "nl"
 }, {
@@ -5800,7 +5800,7 @@
   "country" : "Italy",
   "political_group" : "NI",
   "national_political_group" : "Movimento 5 Stelle",
-  "final_grade" : 13.30012647351369,
+  "final_grade" : 13.29957321593207,
   "long_id" : 124777,
   "code" : "it"
 }, {
@@ -5809,7 +5809,7 @@
   "country" : "Netherlands",
   "political_group" : "EPP",
   "national_political_group" : "Christen Democratisch Appèl",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 197778,
   "code" : "nl"
 }, {
@@ -5818,7 +5818,7 @@
   "country" : "Belgium",
   "political_group" : "ID",
   "national_political_group" : "Vlaams Belang",
-  "final_grade" : 5.948731868022321,
+  "final_grade" : 5.948039470999233,
   "long_id" : 185771,
   "code" : "be"
 }, {
@@ -5827,7 +5827,7 @@
   "country" : "Belgium",
   "political_group" : "EPP",
   "national_political_group" : "Christen-Democratisch & Vlaams",
-  "final_grade" : 6.907729480605295,
+  "final_grade" : 6.906833245057906,
   "long_id" : 129164,
   "code" : "be"
 }, {
@@ -5836,7 +5836,7 @@
   "country" : "Sweden",
   "political_group" : "EPP",
   "national_political_group" : "Moderaterna",
-  "final_grade" : 6.926458565828563,
+  "final_grade" : 6.92608707995549,
   "long_id" : 197402,
   "code" : "se"
 }, {
@@ -5845,7 +5845,7 @@
   "country" : "Poland",
   "political_group" : "EPP",
   "national_political_group" : "Platforma Obywatelska",
-  "final_grade" : 7.0368978122364885,
+  "final_grade" : 7.036477044581121,
   "long_id" : 197513,
   "code" : "pl"
 }, {
@@ -5854,7 +5854,7 @@
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 96801,
   "code" : "pl"
 }, {
@@ -5863,7 +5863,7 @@
   "country" : "Croatia",
   "political_group" : "EPP",
   "national_political_group" : "Hrvatska demokratska zajednica",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197417,
   "code" : "hr"
 }, {
@@ -5872,7 +5872,7 @@
   "country" : "Czechia",
   "political_group" : "EPP",
   "national_political_group" : "Křesťanská a demokratická unie - Československá strana lidová",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 124713,
   "code" : "cz"
 }, {
@@ -5881,7 +5881,7 @@
   "country" : "Croatia",
   "political_group" : "S&D",
   "national_political_group" : "Socijaldemokratska partija Hrvatske",
-  "final_grade" : 13.06001329679063,
+  "final_grade" : 13.059373008357026,
   "long_id" : 112744,
   "code" : "hr"
 }, {
@@ -5890,7 +5890,7 @@
   "country" : "Romania",
   "political_group" : "EPP",
   "national_political_group" : "Partidul Mișcarea Populară",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197671,
   "code" : "ro"
 }, {
@@ -5899,7 +5899,7 @@
   "country" : "Bulgaria",
   "political_group" : "S&D",
   "national_political_group" : "Bulgarian Socialist Party",
-  "final_grade" : 13.273950575126293,
+  "final_grade" : 13.273410064220876,
   "long_id" : 197845,
   "code" : "bg"
 }, {
@@ -5908,7 +5908,7 @@
   "country" : "Romania",
   "political_group" : "S&D",
   "national_political_group" : "Partidul Social Democrat",
-  "final_grade" : 9.610539460981975,
+  "final_grade" : 9.60989681480872,
   "long_id" : 197657,
   "code" : "ro"
 }, {
@@ -5917,7 +5917,7 @@
   "country" : "Germany",
   "political_group" : "S&D",
   "national_political_group" : "Sozialdemokratische Partei Deutschlands",
-  "final_grade" : 16.341303820770666,
+  "final_grade" : 16.341511256707165,
   "long_id" : 4267,
   "code" : "de"
 }, {
@@ -5926,7 +5926,7 @@
   "country" : "Germany",
   "political_group" : "Renew",
   "national_political_group" : "Freie Wähler",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 124862,
   "code" : "de"
 }, {
@@ -5935,7 +5935,7 @@
   "country" : "Estonia",
   "political_group" : "Renew",
   "national_political_group" : "Eesti Reformierakond",
-  "final_grade" : 3.833896231017255,
+  "final_grade" : 3.8344295887421955,
   "long_id" : 129073,
   "code" : "ee"
 }, {
@@ -5944,7 +5944,7 @@
   "country" : "Italy",
   "political_group" : "ID",
   "national_political_group" : "Lega",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 197799,
   "code" : "it"
 }, {
@@ -5953,7 +5953,7 @@
   "country" : "Croatia",
   "political_group" : "Renew",
   "national_political_group" : "Istarski demokratski sabor - Dieta democratica istriana",
-  "final_grade" : 6.163202239327382,
+  "final_grade" : 6.162931845195562,
   "long_id" : 197419,
   "code" : "hr"
 }, {
@@ -5962,7 +5962,7 @@
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Renaissance",
-  "final_grade" : 10.774771139586974,
+  "final_grade" : 10.774369795373207,
   "long_id" : 135511,
   "code" : "fr"
 }, {
@@ -5971,7 +5971,7 @@
   "country" : "Romania",
   "political_group" : "EPP",
   "national_political_group" : "Partidul Naţional Liberal",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 197637,
   "code" : "ro"
 }, {
@@ -5980,7 +5980,7 @@
   "country" : "Netherlands",
   "political_group" : "S&D",
   "national_political_group" : "Partij van de Arbeid",
-  "final_grade" : 16.021832994622752,
+  "final_grade" : 16.021336783131936,
   "long_id" : 197756,
   "code" : "nl"
 }, {
@@ -5989,7 +5989,7 @@
   "country" : "Czechia",
   "political_group" : "ECR",
   "national_political_group" : "Občanská demokratická strana",
-  "final_grade" : 3.0019706564849797,
+  "final_grade" : 3.00187971320109,
   "long_id" : 197552,
   "code" : "cz"
 }, {
@@ -5998,7 +5998,7 @@
   "country" : "Romania",
   "political_group" : "S&D",
   "national_political_group" : "Partidul Social Democrat",
-  "final_grade" : 11.650760565225719,
+  "final_grade" : 11.65041871438386,
   "long_id" : 88882,
   "code" : "ro"
 }, {
@@ -6007,7 +6007,7 @@
   "country" : "Lithuania",
   "political_group" : "NI",
   "national_political_group" : "Darbo partija",
-  "final_grade" : 9.365518408022064,
+  "final_grade" : 9.365415501400042,
   "long_id" : 96698,
   "code" : "lt"
 }, {
@@ -6016,7 +6016,7 @@
   "country" : "Lithuania",
   "political_group" : "S&D",
   "national_political_group" : "Lietuvos socialdemokratų partija",
-  "final_grade" : 12.184181109727461,
+  "final_grade" : 12.18331658503632,
   "long_id" : 96681,
   "code" : "lt"
 }, {
@@ -6025,7 +6025,7 @@
   "country" : "Finland",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Vihreä liitto",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 197802,
   "code" : "fi"
 }, {
@@ -6034,7 +6034,7 @@
   "country" : "Italy",
   "political_group" : "ECR",
   "national_political_group" : "Fratelli d'Italia",
-  "final_grade" : 3.0019706564849797,
+  "final_grade" : 3.00187971320109,
   "long_id" : 204334,
   "code" : "it"
 }, {
@@ -6043,7 +6043,7 @@
   "country" : "Germany",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Bündnis 90/Die Grünen",
-  "final_grade" : 19.948949752499164,
+  "final_grade" : 19.948910492568878,
   "long_id" : 197451,
   "code" : "de"
 }, {
@@ -6052,7 +6052,7 @@
   "country" : "France",
   "political_group" : "ID",
   "national_political_group" : "Rassemblement national",
-  "final_grade" : 2.563975943665607,
+  "final_grade" : 2.5638552536957633,
   "long_id" : 197627,
   "code" : "fr"
 }, {
@@ -6061,7 +6061,7 @@
   "country" : "Romania",
   "political_group" : "Renew",
   "national_political_group" : "Uniunea Salvați România",
-  "final_grade" : 11.357433058106311,
+  "final_grade" : 11.356684076270428,
   "long_id" : 209140,
   "code" : "ro"
 }, {
@@ -6070,7 +6070,7 @@
   "country" : "Romania",
   "political_group" : "Renew",
   "national_political_group" : "Uniunea Salvați România",
-  "final_grade" : 10.774771139586974,
+  "final_grade" : 10.774369795373207,
   "long_id" : 197668,
   "code" : "ro"
 }, {
@@ -6079,7 +6079,7 @@
   "country" : "Slovakia",
   "political_group" : "EPP",
   "national_political_group" : "Slovakia – Demokrati",
-  "final_grade" : 15.563986263919277,
+  "final_grade" : 15.562960791927269,
   "long_id" : 197771,
   "code" : "sk"
 }, {
@@ -6088,7 +6088,7 @@
   "country" : "France",
   "political_group" : "Renew",
   "national_political_group" : "Liste Renaissance",
-  "final_grade" : 9.610539460981975,
+  "final_grade" : 9.60989681480872,
   "long_id" : 197593,
   "code" : "fr"
 }, {
@@ -6097,7 +6097,7 @@
   "country" : "Lithuania",
   "political_group" : "ECR",
   "national_political_group" : "Lietuvos lenkų rinkimų akcija – Krikščioniškų šeimų sąjunga",
-  "final_grade" : 1.592717924920069,
+  "final_grade" : 1.5929254192279263,
   "long_id" : 96697,
   "code" : "lt"
 }, {
@@ -6106,7 +6106,7 @@
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
-  "final_grade" : 1.154723212100696,
+  "final_grade" : 1.1549009597225994,
   "long_id" : 197566,
   "code" : "pl"
 }, {
@@ -6115,7 +6115,7 @@
   "country" : "Poland",
   "political_group" : "S&D",
   "national_political_group" : "Sojusz Lewicy Demokratycznej - Unia Pracy",
-  "final_grade" : 13.06001329679063,
+  "final_grade" : 13.059373008357026,
   "long_id" : 197507,
   "code" : "pl"
 }, {
@@ -6124,7 +6124,7 @@
   "country" : "Estonia",
   "political_group" : "Renew",
   "national_political_group" : "Eesti Keskerakond",
-  "final_grade" : 3.0019706564849797,
+  "final_grade" : 3.00187971320109,
   "long_id" : 124700,
   "code" : "ee"
 }, {
@@ -6133,7 +6133,7 @@
   "country" : "France",
   "political_group" : "Greens/EFA",
   "national_political_group" : "Europe Écologie",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 96740,
   "code" : "fr"
 }, {
@@ -6142,7 +6142,7 @@
   "country" : "France",
   "political_group" : "GUE/NGL",
   "national_political_group" : "La France Insoumise",
-  "final_grade" : 19.961379390261115,
+  "final_grade" : 19.9613481668631,
   "long_id" : 30482,
   "code" : "fr"
 }, {
@@ -6151,7 +6151,7 @@
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
-  "final_grade" : 1.3004502573469168,
+  "final_grade" : 1.3006743034395956,
   "long_id" : 28389,
   "code" : "pl"
 }, {
@@ -6160,7 +6160,7 @@
   "country" : "Poland",
   "political_group" : "ECR",
   "national_political_group" : "Prawo i Sprawiedliwość",
-  "final_grade" : 1.3004502573469168,
+  "final_grade" : 1.3006743034395956,
   "long_id" : 124891,
   "code" : "pl"
 }, {
@@ -6169,7 +6169,7 @@
   "country" : "Hungary",
   "political_group" : "NI",
   "national_political_group" : "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
-  "final_grade" : 5.810355963466758,
+  "final_grade" : 5.809837953369793,
   "long_id" : 96829,
   "code" : "hu"
 }, {
@@ -6178,7 +6178,7 @@
   "country" : "Portugal",
   "political_group" : "EPP",
   "national_political_group" : "Partido Social Democrata",
-  "final_grade" : 7.0368978122364885,
+  "final_grade" : 7.036477044581121,
   "long_id" : 197746,
   "code" : "pt"
 }, {
@@ -6187,7 +6187,7 @@
   "country" : "Germany",
   "political_group" : "GUE/NGL",
   "national_political_group" : "DIE LINKE.",
-  "final_grade" : 18.354641934367887,
+  "final_grade" : 18.354848917034772,
   "long_id" : 197468,
   "code" : "de"
 }, {
@@ -6196,7 +6196,7 @@
   "country" : "Poland",
   "political_group" : "S&D",
   "national_political_group" : "Nowa Lewica",
-  "final_grade" : 17.96449383067124,
+  "final_grade" : 17.964502606544176,
   "long_id" : 197523,
   "code" : "pl"
 }, {
@@ -6205,7 +6205,7 @@
   "country" : "Croatia",
   "political_group" : "EPP",
   "national_political_group" : "Hrvatska demokratska zajednica",
-  "final_grade" : 6.2483506762861305,
+  "final_grade" : 6.2478624128751195,
   "long_id" : 185341,
   "code" : "hr"
 } ]
