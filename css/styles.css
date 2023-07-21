@@ -186,6 +186,20 @@ main {
     }
 }
 
+#search {
+    padding: 1rem;
+    margin: 1rem 0;
+}
+
+#search :focus {
+    border-color: black;
+}
+
+.border-light-gray{
+    border: 1px solid var(--light-gray);
+    border-radius: 5px;
+}
+
 .card {
     display: flex;
     justify-content: center;
@@ -194,11 +208,7 @@ main {
     flex-direction: column;
     padding: 2rem;
     flex: 1 0 30%;
-    border-style: solid;
-    border-width: 1px;
-    border-radius: 3%;
     background-color: white;
-    border-color: var(--light-gray);
 }
 
 .mep-info {
